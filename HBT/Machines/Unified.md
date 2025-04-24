@@ -18,6 +18,7 @@ Q3: What is the version of the software that is running?
 
 A: 
 
+There wasn't 
 Q4: What is the CVE for the identified vulnerability?
 
 A: 
