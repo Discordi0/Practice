@@ -31,7 +31,8 @@ Q5: What protocol does JNDI leverage in the injection?
 
 A: LDAP
 
-Looking at that vulneravility
+Looking at that cve we get it.
+![](../../Img/Pasted%20image%2020250424153434.png)
 
 Q6: What tool do we use to intercept the traffic, indicating the attack was successful?
 
