@@ -36,7 +36,11 @@ Looking at that cve we get it.
 
 Q6: What tool do we use to intercept the traffic, indicating the attack was successful?
 
-A: 
+A: tcpdump
+
+It looks like ldap traffic goes to port 389
+![](../../Img/Pasted%20image%2020250424155244.png)
+
 
 Q7: What port do we need to inspect intercepted traffic for?
 
