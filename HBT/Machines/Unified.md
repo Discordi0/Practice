@@ -9,7 +9,10 @@ Scan with nmap with -sV flag.
 
 Q2: What is the title of the software that is running running on port 8443?
 
-A: 
+A: UniFi Network
+
+I had to run the scan again with the -sC flag
+![](../../Img/Pasted%20image%2020250424151327.png)
 
 Q3: What is the version of the software that is running?
 
