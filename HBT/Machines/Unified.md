@@ -91,6 +91,8 @@ Q12: What is the password for the root user?
 
 A: 
 
+I Chose the Shadow Admin method from the article. I created a pswd (qweqwe12345), sha-512 it, replace the one the admin had with (db.admin.update())
+and just log in
 
 
 Q13: Submit user flag
