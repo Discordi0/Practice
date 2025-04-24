@@ -83,9 +83,9 @@ This doesn't seem to me like a just find user command, db.getUsers() seems like 
 
 Q11: What is the function we use to update users within the database in MongoDB?
 
-A: 
+A: db.admin.update()
 
-
+Following the trend here, i got no problem with this one .
 
 Q12: What is the password for the root user?
 
