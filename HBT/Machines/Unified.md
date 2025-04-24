@@ -99,11 +99,20 @@ Now, in the Steal SSH Creds it says how to get the answer
 
 Q13: Submit user flag
 
-A: 
+A: 6ced1a6a89e666c0620cdb10262ba127
+
+shh into it 
+![](../../Img/Pasted%20image%2020250424170310.png)
+go find it
+
+![](../../Img/Pasted%20image%2020250424170542.png)
 
 Q14: Submit root flag
 
-A: 
+A: e50bc93c75b634e4b272d2f771c33681
+
+Look for it 
+![](../../Img/Pasted%20image%2020250424170430.png)
 
 
 
