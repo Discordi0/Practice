@@ -38,17 +38,21 @@ Q6: What tool do we use to intercept the traffic, indicating the attack was succ
 
 A: tcpdump
 
+It's just the tool for that.
+
+Q7: What port do we need to inspect intercepted traffic for?
+
+A: 389
+
 It looks like ldap traffic goes to port 389
 ![](../../Img/Pasted%20image%2020250424155244.png)
 
 
-Q7: What port do we need to inspect intercepted traffic for?
-
-A: 
-
 Q8: What port is the MongoDB service running on?
 
 A: 
+
+So, according to this article (https://www.sprocketsecurity.com/blog/another-log4j-on-the-fire-unifi)
 
 Q9: What is the default database name for UniFi applications?
 
