@@ -25,7 +25,7 @@ Q4: What is the CVE for the identified vulnerability?
 
 A: CVE-2021-44228
 
-Googleing aroudn i found this github repo (https://github.com/puzzlepeaches/Log4jUnifi) that had the answer.
+Googling aroudn i found this github repo (https://github.com/puzzlepeaches/Log4jUnifi) that had the answer.
 
 Q5: What protocol does JNDI leverage in the injection?
 
@@ -71,7 +71,7 @@ Q9: What is the default database name for UniFi applications?
 
 A:  ace
 
-Before i had the genius ground breaking idea of just Googleing it i connected to the mongo instance and listed the db
+Before i had the genius ground breaking idea of just Googling it i connected to the mongo instance and listed the db
 ![](../../Img/Pasted%20image%2020250424164412.png)
 ![](../../Img/Pasted%20image%2020250424164226.png)
 
