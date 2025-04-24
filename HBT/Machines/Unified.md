@@ -7,6 +7,9 @@ A:
 ![](Pasted%20image%2020250424143525.png)
 
 ![](Pasted%20image%2020250424150240.png)
+
+![](../../Img/Pasted%20image%2020250424150410.png)
+
 Q2: What is the title of the software that is running running on port 8443?
 A: 
 
