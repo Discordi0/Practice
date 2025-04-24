@@ -16,9 +16,11 @@ I had to run the scan again with the -sC flag
 
 Q3: What is the version of the software that is running?
 
-A: 
+A: 6.4.54
 
-There wasn't 
+There wasn't version number in the scan, so digging around i went to the web page of this service (on port 8443) and got this.
+![](../../Img/Pasted%20image%2020250424151922.png)
+
 Q4: What is the CVE for the identified vulnerability?
 
 A: 
