@@ -25,6 +25,7 @@ Q4: What is the CVE for the identified vulnerability?
 
 A: 
 
+Googleing aroudn i found this github repo (https://github.com/puzzlepeaches/Log4jUnifi), that took me to an article (https://www.sprocketsecurity.com/blog/another-log4j-on-the-fire-unifi)
 Q5: What protocol does JNDI leverage in the injection?
 
 A: 
