@@ -71,13 +71,15 @@ Q9: What is the default database name for UniFi applications?
 
 A:  ace
 
-Before i had the genius ground breaking idea of just G
+Before i had the genius ground breaking idea of just Googleing it i connected to the mongo instance and listed the db
 ![](../../Img/Pasted%20image%2020250424164412.png)
 ![](../../Img/Pasted%20image%2020250424164226.png)
 
 Q10: What is the function we use to enumerate users within the database in MongoDB?
 
 A: 
+
+
 
 Q11: What is the function we use to update users within the database in MongoDB?
 
