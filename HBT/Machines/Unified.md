@@ -89,11 +89,13 @@ Following the trend here, i got no problem with this one .
 
 Q12: What is the password for the root user?
 
-A: 
+A: NotACrackablePassword4U2022
 
 I Chose the Shadow Admin method from the article. I created a pswd (qweqwe12345), sha-512 it, replace the one the admin had with (db.admin.update())
 and just log in
-
+![](../../Img/Pasted%20image%2020250424170005.png)
+Now, in the Steal SSH Creds it says how to get the answer
+![](../../Img/Pasted%20image%2020250424170142.png)
 
 Q13: Submit user flag
 
