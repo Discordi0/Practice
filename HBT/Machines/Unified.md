@@ -1,10 +1,12 @@
 
 Q1: Which are the first four open ports?
+
 A: 
 
 ![[Pasted image 20250424143513.png]]
 ![](Pasted%20image%2020250424143525.png)
 
+![](Pasted%20image%2020250424150240.png)
 Q2: What is the title of the software that is running running on port 8443?
 A: 
 
