@@ -77,13 +77,15 @@ Before i had the genius ground breaking idea of just Googleing it i connected to
 
 Q10: What is the function we use to enumerate users within the database in MongoDB?
 
-A: 
+A: db.admin.find()
 
-
+This doesn't seem to me like a just find user command, db.getUsers() seems like the answer (https://www.prisma.io/dataguide/mongodb/configuring-mongodb-user-accounts-and-authentication)
 
 Q11: What is the function we use to update users within the database in MongoDB?
 
 A: 
+
+
 
 Q12: What is the password for the root user?
 
