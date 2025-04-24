@@ -91,6 +91,8 @@ Q12: What is the password for the root user?
 
 A: 
 
+
+
 Q13: Submit user flag
 
 A: 
@@ -98,3 +100,6 @@ A:
 Q14: Submit root flag
 
 A: 
+
+
+
