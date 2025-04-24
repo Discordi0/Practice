@@ -1,7 +1,9 @@
 
 Q1: Which are the first four open ports?
 
-A: 
+A: 22, 6789, 8080, 8443
+
+Scan with nmap with -sV flag.
 
 ![](../../Img/Pasted%20image%2020250424150410.png)
 
