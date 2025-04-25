@@ -41,7 +41,10 @@ Q5: The attacker added a new user as part of their persistence strategy on the s
 
 A: cyberjunkie
 
-In the same file, a little bit below we can see that a new user is created 
+In the same file, a little bit below we can see that a new user is created, and the modifications done to this user too.
+
+![](../../Img/Pasted%20image%2020250425144753.png)
+
 Q6: What is the MITRE ATT&CK sub-technique ID used for persistence by creating a new account?
 
 A: T1136.001
