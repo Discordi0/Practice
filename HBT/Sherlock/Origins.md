@@ -15,11 +15,18 @@ Skimming through the packets, the first thing noticeable is that and ip is just 
 
 Q2: It's critical to get more knowledge about the attackers, even if it's low fidelity. Using the geolocation data of the IP address used by the attackers, what city do they belong to?
 
-A: 
+A: Mumbai
+
+Just google a page, i got this as first result (https://www.iplocation.net/ip-lookup)
+
+![](../../Img/Pasted%20image%2020250425183243.png)
 
 Q3: Which FTP application was used by the backup server? Enter the full name and version. (Format: Name Version)
 
 A: 
+
+Same ftp filter on wireshark, just look for it
+![](../../Img/Pasted%20image%2020250425183428.png)
 
 Q4: The attacker has started a brute force attack on the server. When did this attack start?
 
