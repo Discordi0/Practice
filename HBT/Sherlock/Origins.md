@@ -47,7 +47,11 @@ Find the first successful login, then follow tcp stream.
 
 Q6: The attacker has exfiltrated files from the server. What is the FTP command used to download the remote files?
 
-A: 
+A: RETR
+
+Keep looking after the successful login, after the RETR command there is a response 226 transfer complete son this must be.
+
+![](../../Img/Pasted%20image%2020250425183941.png)
 
 Q7: Attackers were able to compromise the credentials of a backup SSH server. What is the password for this SSH server?
 
