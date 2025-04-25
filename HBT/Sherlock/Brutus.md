@@ -25,13 +25,15 @@ Q3: Identify the timestamp when the attacker logged in manually to the server to
 
 A: 2024-03-06 06:32:45
 
+In the wtmp file (after utmpdump bc u cant open the file just like that). We search for the root acc and the ip of the attacker and find the answer
+
 ![](../../Img/Pasted%20image%2020250425144054.png)
 
-In the wtmp file (after )
 Q4: SSH login sessions are tracked and assigned a session number upon login. What is the session number assigned to the attacker's session for the user account from Question 2?
 
 A: 37
 
+This one is in the auth.log file
 Q5: The attacker added a new user as part of their persistence strategy on the server and gave this new user account higher privileges. What is the name of this account?
 
 A: cyberjunkie
