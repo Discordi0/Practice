@@ -6,9 +6,12 @@ A major incident has recently occurred at Forela. Approximately 20 GB of data we
 
 Q1: What is the attacker's IP address?
 
-A: 
+A: 15.206.185.207
 
-Knowing that the entry vector is ftp (pe)
+Knowing that the entry vector is ftp (per the sherlock desc), we filter for ftp traffic and look.
+Skimming through the packets, the first thing noticeable is that and ip is just spraying pswds
+
+![](../../Img/Pasted%20image%2020250425183043.png)
 
 Q2: It's critical to get more knowledge about the attackers, even if it's low fidelity. Using the geolocation data of the IP address used by the attackers, what city do they belong to?
 
