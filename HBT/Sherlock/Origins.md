@@ -57,6 +57,10 @@ Q7: Attackers were able to compromise the credentials of a backup SSH server. Wh
 
 A: 
 
+After the retrieval (i think that it what RETR means, looking it after completion) there is nothing interesting, so inside one of the 2 files exfiltrated from the victim must be the answer.
+
+
+
 Q8: What is the s3 bucket URL for the data archive from 2023?
 
 A: 
