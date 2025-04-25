@@ -49,7 +49,7 @@ Q6: What is the MITRE ATT&CK sub-technique ID used for persistence by creating a
 
 A: T1136.001
 
-In the matrix (), we search first the persistence column, then for acc creation, and for the sub technique we select the appropiate (this been an acc created on the system itself it's a local acc)
+In the matrix (https://mitre-attack.github.io/attack-navigator/), we search first the persistence column, then for acc creation, and for the sub technique we select the appropiate (this been an acc created on the system itself it's a local acc)
 
 ![](../../Img/Pasted%20image%2020250425145401.png)
 
