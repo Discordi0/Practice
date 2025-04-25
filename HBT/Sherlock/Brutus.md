@@ -33,11 +33,15 @@ Q4: SSH login sessions are tracked and assigned a session number upon login. Wha
 
 A: 37
 
-This one is in the auth.log file
+This one is in the auth.log file, following the path of this questions, we can assume that it is asking for the manual login. (as oppose to the automated one, that being the first successful login of root with the attacker ip)
+
+![](../../Img/Pasted%20image%2020250425144551.png)
+
 Q5: The attacker added a new user as part of their persistence strategy on the server and gave this new user account higher privileges. What is the name of this account?
 
 A: cyberjunkie
 
+In the same file, a little bit below we can see that a new user is created 
 Q6: What is the MITRE ATT&CK sub-technique ID used for persistence by creating a new account?
 
 A: T1136.001
