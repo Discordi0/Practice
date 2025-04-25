@@ -23,18 +23,27 @@ Just google a page, i got this as first result (https://www.iplocation.net/ip-lo
 
 Q3: Which FTP application was used by the backup server? Enter the full name and version. (Format: Name Version)
 
-A: 
+A: vsFTPd 3.0.5
 
-Same ftp filter on wireshark, just look for it
+Same ftp filter on wireshark, just look for it.
+
 ![](../../Img/Pasted%20image%2020250425183428.png)
 
 Q4: The attacker has started a brute force attack on the server. When did this attack start?
 
-A: 
+A: 2024-05-03 04:12:54
+
+First request to the server from the attacker ip
+
+![](../../Img/Pasted%20image%2020250425183650.png)
 
 Q5: What are the correct credentials that gave the attacker access? (Format username:password)
 
-A: 
+A: forela-ftp:ftprocks69$
+
+Find the first successful login, then follow tcp stream.
+
+![](../../Img/Pasted%20image%2020250425183816.png)
 
 Q6: The attacker has exfiltrated files from the server. What is the FTP command used to download the remote files?
 
