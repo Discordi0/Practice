@@ -25,6 +25,9 @@ Q3: Identify the timestamp when the attacker logged in manually to the server to
 
 A: 2024-03-06 06:32:45
 
+![](../../Img/Pasted%20image%2020250425144054.png)
+
+In the wtmp file (after )
 Q4: SSH login sessions are tracked and assigned a session number upon login. What is the session number assigned to the attacker's session for the user account from Question 2?
 
 A: 37
