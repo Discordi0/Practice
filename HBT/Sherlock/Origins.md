@@ -58,8 +58,9 @@ Q7: Attackers were able to compromise the credentials of a backup SSH server. Wh
 A: 
 
 After the retrieval (i think that it what RETR means, looking it after completion) there is nothing interesting, so inside one of the 2 files exfiltrated from the victim must be the answer.
+Exporting those files (aka object ftp-data) and opening the .pdf file we find it.
 
-
+![](../../Img/Pasted%20image%2020250425184728.png)
 
 Q8: What is the s3 bucket URL for the data archive from 2023?
 
