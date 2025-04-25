@@ -9,7 +9,10 @@ Q1: Analyze the auth.log. What is the IP address used by the attacker to carry o
 
 A: 65.2.161.68
 
-Opening the auth.log file we
+Opening the auth.log file we see a lot of entries about Invalid user from the same ip, i would assume that this ip is the attacker's.
+
+![](../../Img/Pasted%20image%2020250425142803.png)
+
 Q2: The bruteforce attempts were successful and attacker gained access to an account on the server. What is the username of the account?
 
 A: root
