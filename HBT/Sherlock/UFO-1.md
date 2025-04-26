@@ -91,11 +91,19 @@ Q11: What was the Microsoft security bulletin ID for the vulnerability that the 
 
 A: MS17-010
 
+Looking through the techniques used, this one stood up for me.
 
+![](../../Img/Pasted%20image%2020250426143221.png)
+
+Searchig for that vulnerability online i found what i was looking for.
+
+![](../../Img/Pasted%20image%2020250426143346.png)
 
 Q12: What is the name of the malware/tool used by the group to target modems?
 
 A: AcidRain
+
+
 
 Q13: Threat Actors also use non-standard ports across their infrastructure for Operational-Security purposes. On which port did the Sandworm team reportedly establish their SSH server for listening?
 
