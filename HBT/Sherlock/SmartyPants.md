@@ -24,7 +24,7 @@ In the entries of the log, we find that msedge was... checked? executed?
 
 ![](../../Img/Pasted%20image%2020250426153033.png)
 
-And after that this was... done the same thing.
+And after that, this was... done the same thing.
 
 ![](../../Img/Pasted%20image%2020250426153133.png)
 
