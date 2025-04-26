@@ -72,7 +72,7 @@ Q9: What technique did the malware use to avoid detection in a sandbox?
 
 A: Time Based Evasion
 
-Defense evasion column
+Defense evasion column.
 
 ![](../../Img/Pasted%20image%2020250426134427.png)
 
@@ -80,13 +80,23 @@ Q10: To answer the remaining questions, utilize VirusTotal and refer to the IOCs
 
 A: IEXPLORE.exe
 
+First thing in the VirusTotal search result (https://www.virustotal.com/gui/file/7bb93be636b332d0a142ff11aedb5bf0ff56deabba3aa02520c85bd99258406f)
+
+![](../../Img/Pasted%20image%2020250426134554.png)
+
 Q11: When was the file associated with the second hash in the IOC first created?
 
 A: 2020-05-12 19:26:17
 
+It's in the details section, under History (https://www.virustotal.com/gui/file/adce894e3ce69c9822da57196707c7a15acee11319ccc963b84d83c23c3ea802/details)
+
+![](../../Img/Pasted%20image%2020250426134753.png)
+
 Q12: What is the name of the parent execution file associated with the second hash in the IOC?
 
 A: BAE_HPC_SE.iso
+
+
 
 Q13: Examine the third hash provided. What is the file name likely used in the campaign that aligns with the adversary's known tactics?
 
