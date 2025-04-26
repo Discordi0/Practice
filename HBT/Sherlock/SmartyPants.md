@@ -72,9 +72,16 @@ Q8: When was this utility executed?
 
 A: 2025-01-24 10:22:19
 
+I thought that this was like Q4, but this entry indicate that the program was installed (hence Setup64.exe on the file name).
+So, searching for a mega no setup execution i found this.
+
+![](../../Img/Pasted%20image%2020250426153758.png)
+
 Q9: The Attacker also proceeded to destroy the data on the host so it is unrecoverable. What utility was used to achieve this?
 
 A: File Shredder
+
+
 
 Q10: The attacker cleared 2 important logs, thinking they covered all their tracks. When was the security log cleared?
 
