@@ -32,7 +32,7 @@ Q4: The APT conducted a major campaign in 2022. The server application was abuse
 
 A: T1505.003
 
-
+In the matrix view of the attack, under persistence. The only one that would allow remote access per se is this one.
 
 ![](../../Img/Pasted%20image%2020250426141718.png)
 
@@ -40,13 +40,23 @@ Q5: What is the name of the malware / tool used in question 4?
 
 A: Neo-REGEORG
 
+Search the web shell in the techniques of the attack
+
+![](../../Img/Pasted%20image%2020250426141955.png)
+
 Q6: Which SCADA application binary was abused by the group to achieve code execution on SCADA Systems in the same campaign in 2022?
 
 A: scilc.exe
 
+Two techniques below the web shell.
+
+![](../../Img/Pasted%20image%2020250426142130.png)
+
 Q7: Identify the full command line associated with the execution of the tool from question 6 to perform actions against substations in the SCADA environment.
 
 A: C:\sc\prog\exec\scilc.exe -do pack\scil\s1.txt
+
+
 
 Q8: What malware/tool was used to carry out data destruction in a compromised environment during the same campaign?
 
