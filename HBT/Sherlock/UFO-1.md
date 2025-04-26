@@ -79,8 +79,11 @@ Q10: The Sandworm Team is known to use different tools in their campaigns. They 
 
 A: NotPetya
 
+This one took more time, but the description kinda gave it away.
 
+![](../../Img/Pasted%20image%2020250426142558.png)
 
+Searching for that software 
 Q11: What was the Microsoft security bulletin ID for the vulnerability that the malware from question 10 used to spread around the world?
 
 A: MS17-010
