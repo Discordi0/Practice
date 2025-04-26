@@ -8,7 +8,9 @@ Q1: According to the sources cited by Mitre, in what year did the Sandworm Team 
 
 A: 2009
 
+Main mitre page for Sandworm Team (https://attack.mitre.org/groups/G0034/).
 
+![](../../Img/Pasted%20image%2020250426140552.png)
 
 Q2: Mitre notes two credential access techniques used by the BlackEnergy group to access several hosts in the compromised network during a 2016 campaign against the Ukrainian electric power grid. One is LSASS Memory access (T1003.001). What is the Attack ID for the other?
 
