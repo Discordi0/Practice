@@ -113,9 +113,16 @@ Q13: Threat Actors also use non-standard ports across their infrastructure for O
 
 A: 6789
 
+In the techniques section. The one called that.
 
+![](../../Img/Pasted%20image%2020250426143817.png)
 
 Q14: The Sandworm Team has been assisted by another APT group on various operations. Which specific group is known to have collaborated with them?
 
 A: APT28
+
+It's in the main description of the group.
+
+![](../../Img/Pasted%20image%2020250426143851.png)
+
 
