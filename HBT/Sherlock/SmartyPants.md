@@ -20,7 +20,7 @@ A: WinRAR
 I tried googling about it, didn't found anything that helped.
 Event Id 1033 / 11707 had entries in te Aplication log, but not 1 referenced the answer (https://superuser.com/questions/321385/windows-event-log-installs)
 Looking at the hint i found the answer.
-
+In the event 
 
 Q3: They then proceeded to download and then execute the portable version of a tool that could be used to search for files on the machine quickly and efficiently. What was the full path of the executable?
 
