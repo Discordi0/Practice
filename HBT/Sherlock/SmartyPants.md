@@ -20,11 +20,19 @@ A: WinRAR
 I tried googling about it, didn't found anything that helped.
 Event Id 1033 / 11707 had entries in te Aplication log, but not 1 referenced the answer (https://superuser.com/questions/321385/windows-event-log-installs)
 Looking at the hint i found the answer.
-In the event 
+In the entries of the log, we find that msedge was... checked? executed?
+
+![](../../Img/Pasted%20image%2020250426153033.png)
+
+And after that this was... done the same thing.
+
+![](../../Img/Pasted%20image%2020250426153133.png)
 
 Q3: They then proceeded to download and then execute the portable version of a tool that could be used to search for files on the machine quickly and efficiently. What was the full path of the executable?
 
 A: C:\Users\Dutch\Downloads\Everything.exe
+
+If you keep looking at whatever 
 
 Q4: What is the execution time of the tool from task 3?
 
