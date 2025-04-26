@@ -103,11 +103,17 @@ Q12: What is the name of the malware/tool used by the group to target modems?
 
 A: AcidRain
 
+I had to start looking at each one of the software in the list, lucky for me that the 2nd one was the answer.
 
+![](../../Img/Pasted%20image%2020250426143546.png)
+
+![](../../Img/Pasted%20image%2020250426143644.png)
 
 Q13: Threat Actors also use non-standard ports across their infrastructure for Operational-Security purposes. On which port did the Sandworm team reportedly establish their SSH server for listening?
 
 A: 6789
+
+
 
 Q14: The Sandworm Team has been assisted by another APT group on various operations. Which specific group is known to have collaborated with them?
 
