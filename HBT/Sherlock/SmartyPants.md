@@ -13,10 +13,11 @@ Looking into that log file, filtering for that event id, got only one entry.
 
 ![](../../Img/Pasted%20image%2020250426145522.png)
 
-
 Q2: The attacker downloaded a few utilities that aided them for their sabotage and extortion operation. What was the first tool they downloaded and installed?
 
 A: WinRAR
+
+
 
 Q3: They then proceeded to download and then execute the portable version of a tool that could be used to search for files on the machine quickly and efficiently. What was the full path of the executable?
 
