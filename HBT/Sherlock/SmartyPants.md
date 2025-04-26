@@ -95,4 +95,9 @@ Google AI thingy says that 1102 it's the one i'm looking for.
 
 According to the source of the AI i have to look in the Security log (https://www.manageengine.com/products/active-directory-audit/kb/event-log-events/event-id-1102.html#:~:text=Whenever%20Windows%20Security%20audit%20log,event%20ID%201102%20is%20logged.)
 
-There is on
+There is only one.
+
+![](../../Img/Pasted%20image%2020250426154437.png)
+
+![](../../Img/Pasted%20image%2020250426154453.png)
+
