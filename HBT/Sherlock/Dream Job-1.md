@@ -40,19 +40,31 @@ Q5: What lateral movement technique did the adversary use?
 
 A: Internal Spearphishing
 
+In the technique section there isn't one named lateral movement, so i opened the matrix view and found it.
 
+![](../../Img/Pasted%20image%2020250426133955.png)
 
 Q6: What is the technique ID for the previous answer?
 
 A: T1534
 
+Mouse over it.
+
+![](../../Img/Pasted%20image%2020250426134017.png)
+
 Q7: What Remote Access Trojan did the Lazarus Group use in Operation Dream Job?
 
 A: DRATzarus
 
+In the Software section of the mitre page.
+
+![](../../Img/Pasted%20image%2020250426134130.png)
+
 Q8: What technique did the malware use for execution?
 
 A: Native API
+
+
 
 Q9: What technique did the malware use to avoid detection in a sandbox?
 
