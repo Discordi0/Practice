@@ -96,7 +96,9 @@ Q12: What is the name of the parent execution file associated with the second ha
 
 A: BAE_HPC_SE.iso
 
+In the Relations section
 
+![](../../Img/Pasted%20image%2020250426135100.png)
 
 Q13: Examine the third hash provided. What is the file name likely used in the campaign that aligns with the adversary's known tactics?
 
