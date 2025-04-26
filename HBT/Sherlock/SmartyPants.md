@@ -8,6 +8,10 @@ Q1: The attacker logged in to the machine where Dutch saves critical files, via 
 
 A: 2025-01-24 10:15:14
 
+Googling i found this article (https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/).
+Looking into that log file, filtering for that event id, got only one entry.
+
+![](../../Img/Pasted%20image%2020250426145522.png)
 
 
 Q2: The attacker downloaded a few utilities that aided them for their sabotage and extortion operation. What was the first tool they downloaded and installed?
