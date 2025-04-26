@@ -24,11 +24,15 @@ Q3: During the 2016 campaign, the adversary was observed using a VBS script duri
 
 A: ufn.vbs
 
+There is more than one VBS metion in the techniques section, but the only one that has a especifique name is this one.
 
+![](../../Img/Pasted%20image%2020250426141112.png)
 
 Q4: The APT conducted a major campaign in 2022. The server application was abused to maintain persistence. What is the Mitre Att&ck ID for the persistence technique was used by the group to allow them remote access?
 
 A: T1505.003
+
+
 
 Q5: What is the name of the malware / tool used in question 4?
 
