@@ -104,7 +104,15 @@ Q13: Examine the third hash provided. What is the file name likely used in the c
 
 A: Salary_Lockheed_Martin_job_opportunities_confidential.doc
 
+In details, under Names (https://www.virustotal.com/gui/file/0160375e19e606d06f672be6e43f70fa70093d2a30031affd2929a5c446d07c1/details)
+
+![](../../Img/Pasted%20image%2020250426135242.png)
+
 Q14: Which URL was contacted on 2022-08-03 by the file associated with the third hash in the IOC file?
 
 A: https://markettrendingcenter.com/lk_job_oppor.docx
+
+In Relations.
+
+![](../../Img/Pasted%20image%2020250426135350.png)
 
