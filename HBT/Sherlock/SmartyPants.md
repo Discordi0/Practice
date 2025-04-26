@@ -48,7 +48,7 @@ Q5: The utility was used to search for critical and confidential documents store
 
 A: C:\Users\Dutch\Documents\2025- Board of directors Documents\Ministry Of Defense Audit.pdf
 
-I don't really know what this log file log, but everything seems to be here.
+I don't really know what this log file logs, but everything seems to be here.
 
 ![](../../Img/Pasted%20image%2020250426153339.png)
 
