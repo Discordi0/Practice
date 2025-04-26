@@ -34,6 +34,8 @@ A: T1505.003
 
 
 
+![](../../Img/Pasted%20image%2020250426141718.png)
+
 Q5: What is the name of the malware / tool used in question 4?
 
 A: Neo-REGEORG
