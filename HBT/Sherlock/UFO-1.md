@@ -83,10 +83,15 @@ This one took more time, but the description kinda gave it away.
 
 ![](../../Img/Pasted%20image%2020250426142558.png)
 
-Searching for that software 
+Searching for that software i found the answer.
+
+![](../../Img/Pasted%20image%2020250426142810.png)
+
 Q11: What was the Microsoft security bulletin ID for the vulnerability that the malware from question 10 used to spread around the world?
 
 A: MS17-010
+
+
 
 Q12: What is the name of the malware/tool used by the group to target modems?
 
