@@ -1,31 +1,36 @@
 
+##### Sherlock Scenario
+
+You are a junior threat intelligence analyst at a Cybersecurity firm. You have been tasked with investigating a Cyber espionage campaign known as Operation Dream Job. The goal is to gather crucial information about this operation.
+
+
 Q1: Who conducted Operation Dream Job?
 
-A: 
+A: Lazarus Group
 
 Q2: When was this operation first observed?
 
-A: 
+A: September 2019
 
 Q3: There are 2 campaigns associated with Operation Dream Job. One is `Operation North Star`, what is the other?
 
-A: 
+A: Operation Interception
 
 Q4: During Operation Dream Job, there were the two system binaries used for proxy execution. One was `Regsvr32`, what was the other?
 
-A: 
+A: Rundll32
 
 Q5: What lateral movement technique did the adversary use?
 
-A: 
+A: Internal Spearphishing
 
 Q6: What is the technique ID for the previous answer?
 
-A: 
+A: T1534
 
 Q7: What Remote Access Trojan did the Lazarus Group use in Operation Dream Job?
 
-A: 
+A: DRATzarus
 
 Q8: What technique did the malware use for execution?
 
