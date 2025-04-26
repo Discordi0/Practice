@@ -16,9 +16,15 @@ Q2: Mitre notes two credential access techniques used by the BlackEnergy group t
 
 A: T1110
 
+Search for the 2016 campaign in the same page, in techniques open the matrix view (https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.mitre.org%2Fcampaigns%2FC0025%2FC0025-enterprise-layer.json)
+
+![](../../Img/Pasted%20image%2020250426140745.png)
+
 Q3: During the 2016 campaign, the adversary was observed using a VBS script during their operations. What is the name of the VBS file?
 
 A: ufn.vbs
+
+
 
 Q4: The APT conducted a major campaign in 2022. The server application was abused to maintain persistence. What is the Mitre Att&ck ID for the persistence technique was used by the group to allow them remote access?
 
