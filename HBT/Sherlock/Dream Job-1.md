@@ -64,11 +64,17 @@ Q8: What technique did the malware use for execution?
 
 A: Native API
 
+In the matrix view of the RAT software.
 
+![](../../Img/Pasted%20image%2020250426134246.png)
 
 Q9: What technique did the malware use to avoid detection in a sandbox?
 
 A: Time Based Evasion
+
+Defense evasion column
+
+![](../../Img/Pasted%20image%2020250426134427.png)
 
 Q10: To answer the remaining questions, utilize VirusTotal and refer to the IOCs.txt file. What is the name associated with the first hash provided in the IOC file?
 
