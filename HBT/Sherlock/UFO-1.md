@@ -8,6 +8,8 @@ Q1: According to the sources cited by Mitre, in what year did the Sandworm Team 
 
 A: 2009
 
+
+
 Q2: Mitre notes two credential access techniques used by the BlackEnergy group to access several hosts in the compromised network during a 2016 campaign against the Ukrainian electric power grid. One is LSASS Memory access (T1003.001). What is the Attack ID for the other?
 
 A: T1110
@@ -54,9 +56,9 @@ A: AcidRain
 
 Q13: Threat Actors also use non-standard ports across their infrastructure for Operational-Security purposes. On which port did the Sandworm team reportedly establish their SSH server for listening?
 
-A: 
+A: 6789
 
 Q14: The Sandworm Team has been assisted by another APT group on various operations. Which specific group is known to have collaborated with them?
 
-A: 
+A: APT28
 
