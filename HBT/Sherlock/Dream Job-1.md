@@ -24,15 +24,23 @@ Q3: There are 2 campaigns associated with Operation Dream Job. One is `Operation
 
 A: Operation Interception
 
+Same page.
 
+![](../../Img/Pasted%20image%2020250426133554.png)
 
 Q4: During Operation Dream Job, there were the two system binaries used for proxy execution. One was `Regsvr32`, what was the other?
 
 A: Rundll32
 
+In the technique section, i found this.
+
+![](../../Img/Pasted%20image%2020250426133734.png)
+
 Q5: What lateral movement technique did the adversary use?
 
 A: Internal Spearphishing
+
+
 
 Q6: What is the technique ID for the previous answer?
 
