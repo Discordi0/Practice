@@ -56,19 +56,30 @@ Q7: Identify the full command line associated with the execution of the tool fro
 
 A: C:\sc\prog\exec\scilc.exe -do pack\scil\s1.txt
 
-
+Two below form the one before.
+![](../../Img/Pasted%20image%2020250426142255.png)
 
 Q8: What malware/tool was used to carry out data destruction in a compromised environment during the same campaign?
 
 A: CaddyWiper
 
+Softwre section.
+
+![](../../Img/Pasted%20image%2020250426142316.png)
+
 Q9: The malware/tool identified in question 8 also had additional capabilities. What is the Mitre Att&ck ID of the specific technique it could perform in Execution tactic?
 
 A: T1106
 
-Q10: The Sandworm Team is known to use different tools in their campaigns. They are associated with an auto-spreading malware that acted as a ransomware while having worm-like features .What is the name of this malware?
+Under Execution in the matrxi view of the software.
+
+![](../../Img/Pasted%20image%2020250426142354.png)
+
+Q10: The Sandworm Team is known to use different tools in their campaigns. They are associated with an auto-spreading malware that acted as a ransomware while having worm-like features. What is the name of this malware?
 
 A: NotPetya
+
+
 
 Q11: What was the Microsoft security bulletin ID for the vulnerability that the malware from question 10 used to spread around the world?
 
