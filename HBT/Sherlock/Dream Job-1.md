@@ -8,13 +8,23 @@ Q1: Who conducted Operation Dream Job?
 
 A: Lazarus Group
 
+Google it (https://attack.mitre.org/campaigns/C0022/).
+
+![](../../Img/Pasted%20image%2020250426133453.png)
+
 Q2: When was this operation first observed?
 
 A: September 2019
 
+Same page.
+
+![](../../Img/Pasted%20image%2020250426133533.png)
+
 Q3: There are 2 campaigns associated with Operation Dream Job. One is `Operation North Star`, what is the other?
 
 A: Operation Interception
+
+
 
 Q4: During Operation Dream Job, there were the two system binaries used for proxy execution. One was `Regsvr32`, what was the other?
 
