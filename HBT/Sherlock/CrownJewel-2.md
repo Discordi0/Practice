@@ -8,6 +8,7 @@ Q1: When utilizing ntdsutil.exe to dump NTDS on disk, it simultaneously employs 
 
 A: 2024-05-15 05:39:55
 
+According with this forum post i need to be looking for event id 7036 in the system log file (https://learn.microsoft.com/en-us/answers/questions/262317/whats-the-audit-event-id-for-windows-service-start)
 
 
 Q2: Identify the full path of the dumped NTDS file.
