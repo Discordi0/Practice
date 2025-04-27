@@ -8,12 +8,17 @@ Q1: What is the IP Address for Forela-Wkstn001?
 
 A: 172.17.79.129
 
-Just opening the pncap file we see that nbns has the name of the 
+Just opening the pncap file we see that nbns has the name we are looking for.
+
 ![](../../Img/Pasted%20image%2020250427163717.png)
 
 Q2: What is the IP Address for Forela-Wkstn002?
 
-A: 
+A: 172.17.79.136
+
+We filter for the protocol nbns and look for the other workstation
+
+![](../../Img/Pasted%20image%2020250427164013.png)
 
 Q3: What is the username of the account whose hash was stolen by attacker?
 
