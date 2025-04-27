@@ -46,6 +46,8 @@ Q5: Event logs use event sources to track events coming from different sources. 
 
 A: ESENT
 
+????, idk maybe it is bc it's just the db type? i imagine that othe db's have a different source.
+
 Q6: When ntdsutil.exe is used to dump the database, it enumerates certain user groups to validate the privileges of the account being used. Which two groups are enumerated by the ntdsutil.exe process? Give the groups in alphabetical order joined by comma space.
 
 A: Administrators, Backup Operators
