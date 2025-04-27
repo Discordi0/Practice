@@ -19,15 +19,21 @@ This one was interesting, first i found this article (https://www.hackthebox.com
 So digging around a little bit more i found this (https://www.researchgate.net/figure/Targeted-Events_fig3_351088021).
 With event id 325 i found it.
 
-
+![](../../Img/Pasted%20image%2020250427141300.png)
 
 Q3: When was the database dump created on the disk?
 
 A: 2024-05-15 05:39:56
 
+Same entry, Details tab
+
+![](../../Img/Pasted%20image%2020250427141328.png)
+
 Q4: When was the newly dumped database considered complete and ready for use?
 
 A: 2024-05-15 05:39:58
+
+
 
 Q5: Event logs use event sources to track events coming from different sources. Which event source provides database status data like creation and detachment?
 
