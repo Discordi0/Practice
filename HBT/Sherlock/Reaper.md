@@ -75,12 +75,28 @@ Same entry but in Details tab.
 
 Q8: The detection was based on the mismatch of hostname and the assigned IP Address. What is the workstation name and the source IP Address from which the malicious logon occur?
 
-A: 
+A: FORELA-WKSTN002, 172.17.79.135
+
+Again
+
+![](../../Img/Pasted%20image%2020250427170109.png)
 
 Q9: At what UTC time did the the malicious logon happen?
 
-A: 
+A: 2024-07-31 04:55:16
+
+Details tab.
+
+![](../../Img/Pasted%20image%2020250427170132.png)
 
 Q10: What is the share Name accessed as part of the authentication process by the malicious tool used by the attacker?
 
-A: 
+A: "\\*\IPC$"
+
+![](../../Img/Pasted%20image%2020250427170301.png)
+
+Search for it.
+The only one.
+
+![](../../Img/Pasted%20image%2020250427170337.png)
+
