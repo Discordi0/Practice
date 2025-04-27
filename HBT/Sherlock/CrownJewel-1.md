@@ -33,7 +33,7 @@ Make 0x1190 decimal
 
 Q4: Find the assigned Volume ID/GUID value to the Shadow copy snapshot when it was mounted.
 
-A: 
+A: {06c4a997-cca8-11ed-a90f-000c295644f9}
 
 This AI say it's event id 4
 
@@ -43,11 +43,18 @@ Looks like i don't have this.
 
 ![](../../Img/Pasted%20image%2020250427151927.png)
 
+But looking for shadow copy i found it
 
+![](../../Img/Pasted%20image%2020250427152032.png)
+
+![](../../Img/Pasted%20image%2020250427152041.png)
 
 Q5: Identify the full path of the dumped NTDS database on disk.
 
-A: 
+A: C:\Users\Administrator\Documents\backup_sync_Dc\Ntds.dit
+
+I don't think that this is going to be in one of the logs file provided, luckily there is an MFT file.
+Parsing that and opening with Timeline Explorar
 
 Q6: When was newly dumped ntds.dit created on disk?
 
