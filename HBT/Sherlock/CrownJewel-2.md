@@ -57,9 +57,14 @@ Overlord's AI said this.
 ![](../../Img/Pasted%20image%2020250427143836.png)
 
 The 2nd event id worked (4799).
+Searching for ntds related entries we can find them.
 
+![](../../Img/Pasted%20image%2020250427144121.png)
 
+![](../../Img/Pasted%20image%2020250427144138.png)
 
 Q7: Now you are tasked to find the Login Time for the malicious Session. Using the Logon ID, find the Time when the user logon session started.
 
 A: 2024-05-15 05:36:31
+
+
