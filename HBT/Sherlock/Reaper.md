@@ -34,7 +34,7 @@ Filtering that event we have 11 entries. Search for the sus one.
 
 Q4: What is the IP Address of Unknown Device used by the attacker to intercept credentials?
 
-A: 
+A: 172.17.79.135
 
 Same entry.
 
@@ -42,7 +42,13 @@ Same entry.
 
 Q5: What was the fileshare navigated by the victim user account?
 
-A: 
+A: \\DC01\Trip
+
+This hints to 2 protocols to look for.
+
+![](../../Img/Pasted%20image%2020250427164708.png)
+
+Filteri
 
 Q6: What is the source port used to logon to target workstation using the compromised account?
 
