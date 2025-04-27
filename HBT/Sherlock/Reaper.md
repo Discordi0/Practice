@@ -22,11 +22,23 @@ We filter for the protocol nbns and look for the other workstation
 
 Q3: What is the username of the account whose hash was stolen by attacker?
 
-A: 
+A: arthur.kyle
+
+Logon event id is 4624.
+
+![](../../Img/Pasted%20image%2020250427164313.png)
+
+Filtering that event we have 11 entries. Search for the sus one.
+
+![](../../Img/Pasted%20image%2020250427164427.png)
 
 Q4: What is the IP Address of Unknown Device used by the attacker to intercept credentials?
 
 A: 
+
+Same entry.
+
+![](../../Img/Pasted%20image%2020250427164522.png)
 
 Q5: What was the fileshare navigated by the victim user account?
 
