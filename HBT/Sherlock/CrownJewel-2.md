@@ -68,4 +68,9 @@ Q7: Now you are tasked to find the Login Time for the malicious Session. Using t
 A: 2024-05-15 05:36:31
 
 Maybe if i knew more this would have been obvious, but i had to look at the hint to know that this is a domain env.
-So looking at the kerberos event id 4768
+So looking at the kerberos event id 4768 (wich it's only 3), we search for anything abnormal. The only user acc that logs in it's the one that we look for.
+
+![](../../Img/Pasted%20image%2020250427144720.png)
+
+![](../../Img/Pasted%20image%2020250427144735.png)
+
