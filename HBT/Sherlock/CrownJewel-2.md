@@ -67,4 +67,5 @@ Q7: Now you are tasked to find the Login Time for the malicious Session. Using t
 
 A: 2024-05-15 05:36:31
 
-
+Maybe if i knew more this would have been obvious, but i had to look at the hint to know that this is a domain env.
+So looking at the kerberos event id 4768
