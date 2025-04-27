@@ -15,13 +15,19 @@ Event id 7036 it's the one we have to look for. Search through the result until 
 
 Q2: When a volume shadow snapshot is created, the Volume shadow copy service validates the privileges using the Machine account and enumerates User groups. Find the two user groups the volume shadow copy process queries and the machine account that did it.
 
-A: 
+A: Administrators, Backup Operators, DC01$
 
-Event id 4799 it's the user group enumeration one.
+Event id 4799 it's the user group enumeration one. Using the time frame of the previous question and checking the process name we find the answer.
+
+![](../../Img/Pasted%20image%2020250427150656.png)
+
+![](../../Img/Pasted%20image%2020250427150644.png)
 
 Q3: Identify the Process ID (in Decimal) of the volume shadow copy service process.
 
 A: 
+
+Make 0x1190 decimal
 
 Q4: Find the assigned Volume ID/GUID value to the Shadow copy snapshot when it was mounted.
 
