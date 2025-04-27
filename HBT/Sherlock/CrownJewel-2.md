@@ -15,6 +15,8 @@ Q2: Identify the full path of the dumped NTDS file.
 
 A: C:\Windows\Temp\dump_tmp\Active Directory\ntds.dit
 
+This one was interesting,
+
 Q3: When was the database dump created on the disk?
 
 A: 2024-05-15 05:39:56
