@@ -38,7 +38,9 @@ Looking at the documentation that i could find about ESENT db i came across the 
 First it's created or copied, it can be attached, then can be read or manipulated and then detached.
 As i said, i don't know why when it's detached it's consider ready. i got it only by inference
 
-Event id 
+ESENT event id 327.
+
+![](../../Img/Pasted%20image%2020250427143110.png)
 
 Q5: Event logs use event sources to track events coming from different sources. Which event source provides database status data like creation and detachment?
 
