@@ -51,17 +51,29 @@ This hints to 2 protocols to look for.
 Filtering for smb protocol (smb2 in this case).
 Seems like after connecting his ip went to 136 (workstation 2)
 
-Right after that, the attacker tried to access 
+![](../../Img/Pasted%20image%2020250427165813.png)
+
+Right after that, the attacker tried to access the share.
+
+![](../../Img/Pasted%20image%2020250427165757.png)
 
 Q6: What is the source port used to logon to target workstation using the compromised account?
 
-A: 
+A: 40252
+
+Same as Q4.
+
+![](../../Img/Pasted%20image%2020250427165908.png)
 
 Q7: What is the Logon ID for the malicious session?
 
-A: 
+A: 0x64A799
 
-Q8: The detection was based on the mismatch of hostname and the assigned IP Address.What is the workstation name and the source IP Address from which the malicious logon occur?
+Same entry but in Details tab.
+
+![](../../Img/Pasted%20image%2020250427170012.png)
+
+Q8: The detection was based on the mismatch of hostname and the assigned IP Address. What is the workstation name and the source IP Address from which the malicious logon occur?
 
 A: 
 
