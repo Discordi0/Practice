@@ -55,7 +55,7 @@ A: C:\Users\Administrator\Documents\backup_sync_Dc\Ntds.dit
 
 I don't think that this is going to be in one of the logs file provided, luckily there is an MFT file.
 Parsing that and opening with Timeline Explorer. We search for ntds and find it.
-The \Users path seams like the one created by a pearson.
+The \Users path seams like the one created by a user.
 
 ![](../../Img/Pasted%20image%2020250427152430.png)
 
