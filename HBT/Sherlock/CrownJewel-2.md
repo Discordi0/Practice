@@ -33,7 +33,8 @@ Q4: When was the newly dumped database considered complete and ready for use?
 
 A: 2024-05-15 05:39:58
 
-
+This one was difficult, i never actually knew why when is dettached, it's ready.
+Looking at the documentation that i could find about ESENT db i came across the functions that it utilizes. It seams that detachment
 
 Q5: Event logs use event sources to track events coming from different sources. Which event source provides database status data like creation and detachment?
 
