@@ -6,7 +6,10 @@ Our SIEM alerted us to a suspicious logon event which needs to be looked at imme
 
 Q1: What is the IP Address for Forela-Wkstn001?
 
-A: 
+A: 172.17.79.129
+
+Just opening the pncap file we see that nbns has the name of the 
+![](../../Img/Pasted%20image%2020250427163717.png)
 
 Q2: What is the IP Address for Forela-Wkstn002?
 
