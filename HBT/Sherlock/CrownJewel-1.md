@@ -25,13 +25,17 @@ Event id 4799 it's the user group enumeration one. Using the time frame of the p
 
 Q3: Identify the Process ID (in Decimal) of the volume shadow copy service process.
 
-A: 
+A: 4496
 
 Make 0x1190 decimal
+
+![](../../Img/Pasted%20image%2020250427150855.png)
 
 Q4: Find the assigned Volume ID/GUID value to the Shadow copy snapshot when it was mounted.
 
 A: 
+
+
 
 Q5: Identify the full path of the dumped NTDS database on disk.
 
