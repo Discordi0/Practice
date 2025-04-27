@@ -35,6 +35,14 @@ Q4: Find the assigned Volume ID/GUID value to the Shadow copy snapshot when it w
 
 A: 
 
+This AI say it's event id 4
+
+![](../../Img/Pasted%20image%2020250427151758.png)
+
+Looks like i don't have this.
+
+![](../../Img/Pasted%20image%2020250427151927.png)
+
 
 
 Q5: Identify the full path of the dumped NTDS database on disk.
