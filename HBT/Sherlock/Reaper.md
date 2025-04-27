@@ -48,7 +48,7 @@ This hints to 2 protocols to look for.
 
 ![](../../Img/Pasted%20image%2020250427164708.png)
 
-Filteri
+Filtering for smb protocol (smb2 in this case),
 
 Q6: What is the source port used to logon to target workstation using the compromised account?
 
