@@ -15,7 +15,11 @@ Q2: Identify the full path of the dumped NTDS file.
 
 A: C:\Windows\Temp\dump_tmp\Active Directory\ntds.dit
 
-This one was interesting,
+This one was interesting, first i found this article (https://www.hackthebox.com/blog/ntds-dumping-attack-detection), but since it's from HTB i feel like it's cheating. Then i found this one (https://rootguard.gitbook.io/cyberops/detection-engineering/ad-attack-detections-and-mitigations/dumping-ntds.dit), But non of those event id are in the logs.
+So digging around a little bit more i found this (https://www.researchgate.net/figure/Targeted-Events_fig3_351088021).
+With event id 325 i found it.
+
+
 
 Q3: When was the database dump created on the disk?
 
