@@ -63,11 +63,19 @@ Q6: When was newly dumped ntds.dit created on disk?
 
 A: 2024-05-14 03:44:22
 
-Same entry, but in the Created column
+Same entry, but in the Created column.
 
 ![](../../Img/Pasted%20image%2020250427152542.png)
 
 
 Q7: A registry hive was also dumped alongside the NTDS database. Which registry hive was dumped and what is its file size in bytes?
 
-A: 
+A: SYSTEM, 17563648
+
+We search for the path on the Parent Path column (bc it's the user created one), and find only 1 other file.
+
+![](../../Img/Pasted%20image%2020250427152801.png)
+
+And it's size.
+
+![](../../Img/Pasted%20image%2020250427152816.png)
