@@ -48,7 +48,10 @@ This hints to 2 protocols to look for.
 
 ![](../../Img/Pasted%20image%2020250427164708.png)
 
-Filtering for smb protocol (smb2 in this case),
+Filtering for smb protocol (smb2 in this case).
+Seems like after connecting his ip went to 136 (workstation 2)
+
+Right after that, the attacker tried to access 
 
 Q6: What is the source port used to logon to target workstation using the compromised account?
 
