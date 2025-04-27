@@ -54,11 +54,19 @@ Q5: Identify the full path of the dumped NTDS database on disk.
 A: C:\Users\Administrator\Documents\backup_sync_Dc\Ntds.dit
 
 I don't think that this is going to be in one of the logs file provided, luckily there is an MFT file.
-Parsing that and opening with Timeline Explorar
+Parsing that and opening with Timeline Explorer. We search for ntds and find it.
+The \Users path seams like the one created by a pearson.
+
+![](../../Img/Pasted%20image%2020250427152430.png)
 
 Q6: When was newly dumped ntds.dit created on disk?
 
-A: 
+A: 2024-05-14 03:44:22
+
+Same entry, but in the Created column
+
+![](../../Img/Pasted%20image%2020250427152542.png)
+
 
 Q7: A registry hive was also dumped alongside the NTDS database. Which registry hive was dumped and what is its file size in bytes?
 
