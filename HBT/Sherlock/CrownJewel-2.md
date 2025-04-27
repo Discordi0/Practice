@@ -52,6 +52,14 @@ Q6: When ntdsutil.exe is used to dump the database, it enumerates certain user g
 
 A: Administrators, Backup Operators
 
+Overlord's AI said this.
+
+![](../../Img/Pasted%20image%2020250427143836.png)
+
+The 2nd event id worked (4799).
+
+
+
 Q7: Now you are tasked to find the Login Time for the malicious Session. Using the Logon ID, find the Time when the user logon session started.
 
 A: 2024-05-15 05:36:31
