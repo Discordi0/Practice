@@ -7,12 +7,17 @@ Forela's domain controller is under attack. The Domain Administrator account is 
 
 Q1: Attackers can abuse the vssadmin utility to create volume shadow snapshots and then extract sensitive files like NTDS.dit to bypass security mechanisms. Identify the time when the Volume Shadow Copy service entered a running state.
 
-A: 
+A: 2024-05-14 03:42:16
 
-Event id 7036 it's the one we have to look for. 
+Event id 7036 it's the one we have to look for. Search through the result until you find the Shadow Copy service.
+
+![](../../Img/Pasted%20image%2020250427145931.png)
+
 Q2: When a volume shadow snapshot is created, the Volume shadow copy service validates the privileges using the Machine account and enumerates User groups. Find the two user groups the volume shadow copy process queries and the machine account that did it.
 
 A: 
+
+
 
 Q3: Identify the Process ID (in Decimal) of the volume shadow copy service process.
 
