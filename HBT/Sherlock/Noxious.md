@@ -53,11 +53,15 @@ A: 601019d191f054f1
 Back to NTLM traffic filter. We see one that might be interesting. 
 ![](../../Img/Pasted%20image%2020250428141812.png)
 
+Inside the SMB2 section look for it.
 
+![](../../Img/Pasted%20image%2020250428141907.png)
 
 Q7: Now doing something similar find the NTProofStr value.
 
 A: 
+
+
 
 Q8: To test the password complexity, try recovering the password from the information found from packet capture. This is a crucial step as this way we can find whether the attacker was able to crack this and how quickly.
 
