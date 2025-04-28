@@ -34,11 +34,17 @@ Q4: In NTLM traffic we can see that the victim credentials were relayed multiple
 
 A: 2024-06-24 11:18:30
 
-We filter for NTLM traffic (ntlmssp) and or
+We filter for NTLM traffic (ntlmssp) and check the first one.
+
+![](../../Img/Pasted%20image%2020250428141303.png)
 
 Q5: What was the typo made by the victim when navigating to the file share that caused his credentials to be leaked?
 
-A: 
+A: DCC01
+
+We go back to filter by the attacker ip.
+
+![](../../Img/Pasted%20image%2020250428141516.png)
 
 Q6: To get the actual credentials of the victim user we need to stitch together multiple values from the ntlm negotiation packets. What is the NTLM server challenge value?
 
