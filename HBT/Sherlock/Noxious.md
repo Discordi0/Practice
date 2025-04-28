@@ -84,4 +84,8 @@ Then hashcat it is. hashcat -a 0 -m 5600 hash.txt /usr/share/wordlists/rockyou.t
 
 Q9: Just to get more context surrounding the incident, what is the actual file share that the victim was trying to navigate to?
 
-A: 
+A: \\DC01\DC-Confidential
+
+I recall that in smb2 traffic there was something useful, use the filter and found it.
+
+![](../../Img/Pasted%20image%2020250428143722.png)
