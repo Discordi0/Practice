@@ -61,7 +61,12 @@ Q7: Now doing something similar find the NTProofStr value.
 
 A: 
 
+According to this article (https://posts.specterops.io/the-renaissance-of-ntlm-relay-attacks-everything-you-need-to-know-abfc3677c34e). NTProofStr is a part of the authentication process.
+Searching the next packet que find the answer.
 
+![](../../Img/Pasted%20image%2020250428142654.png)
+
+![](../../Img/Pasted%20image%2020250428142722.png)
 
 Q8: To test the password complexity, try recovering the password from the information found from packet capture. This is a crucial step as this way we can find whether the attacker was able to crack this and how quickly.
 
