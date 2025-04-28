@@ -6,12 +6,19 @@ Alonzo Spotted Weird files on his computer and informed the newly assembled SOC 
 
 Q1: Analyzing Domain Controller Security Logs, can you confirm the date & time when the kerberoasting activity occurred?
 
-A: 
+A: 2024-05-21 03:18:09
 
-Looking at the 
+Looking for the event id 4769 inside the log file, we see that there is only one entry that stands out.
+
+![](../../Img/Pasted%20image%2020250428191948.png)
+
+![](../../Img/Pasted%20image%2020250428192002.png)
+
 Q2: What is the Service Name that was targeted?
 
 A: 
+
+
 
 Q3: It is really important to identify the Workstation from which this activity occurred. What is the IP Address of the workstation?
 
