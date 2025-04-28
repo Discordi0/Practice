@@ -18,15 +18,23 @@ Q2: What is the hostname of the rogue machine?
 
 A: kali
 
+I use the ip as a filter and look at all the traffic, skimming it i notice that there is dhcp traffic.
 
+![](../../Img/Pasted%20image%2020250428141036.png)
 
 Q3: Now we need to confirm whether the attacker captured the user's hash and it is crackable!! What is the username whose hash was captured?
 
-A: 
+A: john.deacon
+
+With the same filter i just keep scrolling down until i notice rdp traffic.
+
+![](../../Img/Pasted%20image%2020250428141135.png)
 
 Q4: In NTLM traffic we can see that the victim credentials were relayed multiple times to the attacker's machine. When were the hashes captured the First time?
 
-A: 
+A: 2024-06-24 11:18:30
+
+We filter for NTLM traffic (ntlmssp) and or
 
 Q5: What was the typo made by the victim when navigating to the file share that caused his credentials to be leaked?
 
