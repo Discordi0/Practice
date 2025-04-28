@@ -8,18 +8,20 @@ Q1: When did the ASREP Roasting attack occur, and when did the attacker request 
 
 A: 2024-05-29 06:36:40
 
+
+
 Q2: Please confirm the User Account that was targeted by the attacker.
 
-A: 
+A: arthur.kyle
 
 Q3: What was the SID of the account?
 
-A: 
+A: S-1-5-21-3239415629-1862073780-2394361899-1601
 
 Q4: It is crucial to identify the compromised user account and the workstation responsible for this attack. Please list the internal IP address of the compromised asset to assist our threat-hunting team.
 
-A: 
+A: 172.17.79.129
 
 Q5: We do not have any artifacts from the source machine yet. Using the same DC Security logs, can you confirm the user account used to perform the ASREP Roasting attack so we can contain the compromised account/s?
 
-A: 
+A: happy.grunwald
