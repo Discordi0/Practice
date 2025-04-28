@@ -54,7 +54,8 @@ Q6: What is the full path of the tool used to perform the actual kerberoasting a
 
 A: 
 
-
+The log file doesn't say anything about the tool, Google says that Rubeus it's used for kerberos.
+Par
 
 Q7: When was the tool executed to dump credentials?
 
