@@ -10,11 +10,15 @@ A: 172.17.79.135
 
 ![](../../Img/Pasted%20image%2020250428140241.png)
 
+I don't really get how this protocol works, but seeing that 135 it's telling 136 that he is a workstation is sus.
 
+![](../../Img/Pasted%20image%2020250428140523.png)
 
 Q2: What is the hostname of the rogue machine?
 
-A: 
+A: kali
+
+
 
 Q3: Now we need to confirm whether the attacker captured the user's hash and it is crackable!! What is the username whose hash was captured?
 
