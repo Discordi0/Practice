@@ -23,11 +23,18 @@ This .exe.exe file definitely is.
 
 Q3: Which Cloud drive was used to distribute the malware?
 
-A: 
+A: dropbox
+
+Having the time of the event and with no idea what I'm looking for. I delete the filter ans search for events in that time frame.
+Seem like dropbox it's the one.
+
+![](../../Img/Pasted%20image%2020250428194930.png)
 
 Q4: For many of the files it wrote to disk, the initial malicious file used a defense evasion technique called Time Stomping, where the file creation date is changed to make it appear older and blend in with other files. What was the timestamp changed to for the PDF file?
 
 A: 
+
+
 
 Q5: The malicious file dropped a few files on disk. Where was "once.cmd" created on disk? Please answer with the full path along with the filename.
 
