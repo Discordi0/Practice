@@ -16,17 +16,25 @@ Looking for the event id 4769 inside the log file, we see that there is only one
 
 Q2: What is the Service Name that was targeted?
 
-A: 
+A: MSSQLService
 
-
+It's in the screenshot.
 
 Q3: It is really important to identify the Workstation from which this activity occurred. What is the IP Address of the workstation?
 
-A: 
+A: 172.17.79.129
+
+Same screenshot.
 
 Q4: Now that we have identified the workstation, a triage including PowerShell logs and Prefetch files are provided to you for some deeper insights so we can understand how this activity occurred on the endpoint. What is the name of the file used to Enumerate Active directory objects and possibly find Kerberoastable accounts in the network?
 
 A: 
+
+Looking at the powershell log, we can see that the attacker tried to run a script.
+
+![](../../Img/Pasted%20image%2020250428192318.png)
+
+
 
 Q5: When was this script executed?
 
