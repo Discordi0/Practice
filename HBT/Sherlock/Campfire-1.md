@@ -28,21 +28,33 @@ Same screenshot.
 
 Q4: Now that we have identified the workstation, a triage including PowerShell logs and Prefetch files are provided to you for some deeper insights so we can understand how this activity occurred on the endpoint. What is the name of the file used to Enumerate Active directory objects and possibly find Kerberoastable accounts in the network?
 
-A: 
+A: powerview.ps1
 
 Looking at the powershell log, we can see that the attacker tried to run a script.
 
 ![](../../Img/Pasted%20image%2020250428192318.png)
 
+Tried a bypass
 
+![](../../Img/Pasted%20image%2020250428192414.png)
+
+Then what it seems to be a big script executed.
+
+![](../../Img/Pasted%20image%2020250428192451.png)
 
 Q5: When was this script executed?
 
-A: 
+A: 2024-05-21 03:16:32
+
+Same entry, Details tab.
+
+![](../../Img/Pasted%20image%2020250428192522.png)
 
 Q6: What is the full path of the tool used to perform the actual kerberoasting attack?
 
 A: 
+
+
 
 Q7: When was the tool executed to dump credentials?
 
