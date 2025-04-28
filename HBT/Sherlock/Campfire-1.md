@@ -55,7 +55,10 @@ Q6: What is the full path of the tool used to perform the actual kerberoasting a
 A: 
 
 The log file doesn't say anything about the tool, Google says that Rubeus it's used for kerberos.
-Par
+Parsing the .pf files, and then opening the csv file in Timeline Explorer. We can search for the tool.
+I assume that the tool it's in the dowloads folder (bc that's where the script was too).
+
+![](../../Img/Pasted%20image%2020250428193225.png)
 
 Q7: When was the tool executed to dump credentials?
 
