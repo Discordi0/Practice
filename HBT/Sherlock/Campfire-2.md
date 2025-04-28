@@ -8,11 +8,18 @@ Q1: When did the ASREP Roasting attack occur, and when did the attacker request 
 
 A: 2024-05-29 06:36:40
 
+Event id 4768 y 4769 are the ones to look for, it also seems like i need to search for RC4 encryption (https://attack.mitre.org/techniques/T1558/004/)
+The first and only one with that description.
 
+![](../../Img/Pasted%20image%2020250428190703.png)
+
+![](../../Img/Pasted%20image%2020250428190719.png)
 
 Q2: Please confirm the User Account that was targeted by the attacker.
 
 A: arthur.kyle
+
+It's in the Q1 screenshot, it also seems like
 
 Q3: What was the SID of the account?
 
