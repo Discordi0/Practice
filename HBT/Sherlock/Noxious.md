@@ -6,7 +6,11 @@ The IDS device alerted us to a possible rogue device in the internal Active Dire
 
 Q1: Its suspected by the security team that there was a rogue device in Forela's internal network running responder tool to perform an LLMNR Poisoning attack. Please find the malicious IP Address of the machine.
 
-A: 
+A: 172.17.79.135
+
+![](../../Img/Pasted%20image%2020250428140241.png)
+
+
 
 Q2: What is the hostname of the rogue machine?
 
