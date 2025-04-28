@@ -32,17 +32,27 @@ Seem like dropbox it's the one.
 
 Q4: For many of the files it wrote to disk, the initial malicious file used a defense evasion technique called Time Stomping, where the file creation date is changed to make it appear older and blend in with other files. What was the timestamp changed to for the PDF file?
 
-A: 
+A: 2024-01-14 08:10:06
 
+I have to look for event id 2 (https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=90002)
+With the filter in place, just search for a pdf file.
+
+![](../../Img/Pasted%20image%2020250428195250.png)
 
 
 Q5: The malicious file dropped a few files on disk. Where was "once.cmd" created on disk? Please answer with the full path along with the filename.
 
-A: 
+A: C:\Users\CyberJunkie\AppData\Roaming\Photo and Fax Vn\Photo and vn 1.1.2\install\F97891C\WindowsVolume\Games\once.cmd
+
+Lucky i saw once.cmd when i was searching for the Q4 answer.
+
+![](../../Img/Pasted%20image%2020250428195352.png)
 
 Q6: The malicious file attempted to reach a dummy domain, most likely to check the internet connection status. What domain name did it try to connect to?
 
 A: 
+
+
 
 Q7: Which IP address did the malicious process try to reach out to?
 
