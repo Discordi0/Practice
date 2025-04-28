@@ -19,16 +19,32 @@ Q2: Please confirm the User Account that was targeted by the attacker.
 
 A: arthur.kyle
 
-It's in the Q1 screenshot, it also seems like
+It's in the Q1 screenshot, it also seems like this user acc was the only one "user created", and the domain name was sus too.
+
+![](../../Img/Pasted%20image%2020250428190855.png)
+
+![](../../Img/Pasted%20image%2020250428190909.png)
+
+![](../../Img/Pasted%20image%2020250428190923.png)
 
 Q3: What was the SID of the account?
 
 A: S-1-5-21-3239415629-1862073780-2394361899-1601
 
+It's under EventData in Details tab
+
+![](../../Img/Pasted%20image%2020250428190937.png)
+
 Q4: It is crucial to identify the compromised user account and the workstation responsible for this attack. Please list the internal IP address of the compromised asset to assist our threat-hunting team.
 
 A: 172.17.79.129
 
+Same
+
+![](../../Img/Pasted%20image%2020250428191017.png)
+
 Q5: We do not have any artifacts from the source machine yet. Using the same DC Security logs, can you confirm the user account used to perform the ASREP Roasting attack so we can contain the compromised account/s?
 
 A: happy.grunwald
+
+
