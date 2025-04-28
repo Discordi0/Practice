@@ -59,7 +59,7 @@ Inside the SMB2 section look for it.
 
 Q7: Now doing something similar find the NTProofStr value.
 
-A: 
+A: c0cc803a6d9fb5a9082253a04dbd4cd4
 
 According to this article (https://posts.specterops.io/the-renaissance-of-ntlm-relay-attacks-everything-you-need-to-know-abfc3677c34e). NTProofStr is a part of the authentication process.
 Searching the next packet que find the answer.
@@ -70,7 +70,7 @@ Searching the next packet que find the answer.
 
 Q8: To test the password complexity, try recovering the password from the information found from packet capture. This is a crucial step as this way we can find whether the attacker was able to crack this and how quickly.
 
-A: 
+A: NotMyPassword0K?
 
 I had to use the hint for this. This is what i need to do User::Domain:ServerChallenge:NTProofStr:NTLMv2Response(without first 16 bytes).
 
@@ -78,9 +78,9 @@ I put all of that in a file
 
 ![](../../Img/Pasted%20image%2020250428143245.png)
 
-Then hashcat it is.
+Then hashcat it is. hashcat -a 0 -m 5600 hash.txt /usr/share/wordlists/rockyou.txt
 
-
+![](../../Img/Pasted%20image%2020250428143516.png)
 
 Q9: Just to get more context surrounding the incident, what is the actual file share that the victim was trying to navigate to?
 
