@@ -16,6 +16,11 @@ Q2: Whenever a process is created in memory, an event with Event ID 1 is recorde
 
 A: 
 
+Filter by the event id.
+This .exe.exe file definitely is.
+
+![](../../Img/Pasted%20image%2020250428194337.png)
+
 Q3: Which Cloud drive was used to distribute the malware?
 
 A: 
