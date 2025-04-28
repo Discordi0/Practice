@@ -50,13 +50,17 @@ Lucky i saw once.cmd when i was searching for the Q4 answer.
 
 Q6: The malicious file attempted to reach a dummy domain, most likely to check the internet connection status. What domain name did it try to connect to?
 
-A: 
+A: www.example.com
 
+With filter in event id 22 (DNS query).
 
+![](../../Img/Pasted%20image%2020250428195635.png)
 
 Q7: Which IP address did the malicious process try to reach out to?
 
 A: 
+
+
 
 Q8: The malicious process terminated itself after infecting the PC with a backdoored variant of UltraVNC. When did the process terminate itself?
 
