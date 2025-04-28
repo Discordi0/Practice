@@ -48,7 +48,12 @@ We go back to filter by the attacker ip.
 
 Q6: To get the actual credentials of the victim user we need to stitch together multiple values from the ntlm negotiation packets. What is the NTLM server challenge value?
 
-A: 
+A: 601019d191f054f1
+
+Back to NTLM traffic filter. We see one that might be interesting. 
+![](../../Img/Pasted%20image%2020250428141812.png)
+
+
 
 Q7: Now doing something similar find the NTProofStr value.
 
