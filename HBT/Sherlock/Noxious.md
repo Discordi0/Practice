@@ -72,6 +72,16 @@ Q8: To test the password complexity, try recovering the password from the inform
 
 A: 
 
+I had to use the hint for this. This is what i need to do User::Domain:ServerChallenge:NTProofStr:NTLMv2Response(without first 16 bytes).
+
+I put all of that in a file
+
+![](../../Img/Pasted%20image%2020250428143245.png)
+
+Then hashcat it is.
+
+
+
 Q9: Just to get more context surrounding the incident, what is the actual file share that the victim was trying to navigate to?
 
 A: 
