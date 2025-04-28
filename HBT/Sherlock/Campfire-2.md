@@ -47,4 +47,6 @@ Q5: We do not have any artifacts from the source machine yet. Using the same DC 
 
 A: happy.grunwald
 
+Deleting the event id filter and looking at the time of the entries, we see that after the kerberos auth, there is a kerberos ticket.
 
+![](../../Img/Pasted%20image%2020250428191246.png)
