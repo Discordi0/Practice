@@ -72,21 +72,31 @@ Search for the first 200 response from that endpoint.
 
 Q8: Given the previous failed requests, what will most likely be the final value for the vulnerable header used to exploit the vulnerability and bypass the middleware?
 
-A: 
+A: x-middleware-subrequest: middleware:middleware:middleware:middleware:middleware
 
 This article says it is. (https://projectdiscovery.io/blog/nextjs-middleware-authorization-bypass)
 
-We can also see where the attack started in the interface.log file. It went from 1 to 4 middleware. But those were the ones that got
+We can also see where the attack started in the interface.log file. It went from 1 to 4 middleware. But those were the ones that didn't work.
 
 ![](../../Img/Pasted%20image%2020250429154442.png)
 
+After those 4 ones it worked, so we can assume that there were 5 middleware
+
+![](../../Img/Pasted%20image%2020250429154736.png)
+
 Q9: The attacker chained the vulnerability with an SSRF attack, which allowed them to perform an internal port scan and discover an internal API. On which port is the API accessible?
 
-A: 
+A: 4000
+
+Just opening the data-api.log file we see this.
+
+![](../../Img/Pasted%20image%2020250429154941.png)
 
 Q10: After the port scan, the attacker starts a brute-force attack to find some vulnerable endpoints in the previously identified API. Which vulnerable endpoint was found?
 
 A: 
+
+
 
 Q11: When the vulnerable endpoint found was used maliciously for the first time?
 
