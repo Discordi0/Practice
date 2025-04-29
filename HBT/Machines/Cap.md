@@ -64,6 +64,10 @@ Q8: What is the full path to the binary on this machine has special capabilities
 
 A: 
 
+Since linpeas is already here, use it.
+
+
+
 Q9: Submit the flag located in root's home directory.
 
 A: 
