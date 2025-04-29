@@ -8,6 +8,8 @@ Q1: Simon Stark was targeted by attackers on February 13. He downloaded a ZIP fi
 
 A: 
 
+Parse the file and open it with Timeline Explorer
+
 Q2: Examine the Zone Identifier contents for the initially downloaded ZIP file. This field reveals the HostUrl from where the file was downloaded, serving as a valuable Indicator of Compromise (IOC) in our investigation/analysis. What is the full Host URL from where this ZIP file was downloaded?
 
 A: 
