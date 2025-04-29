@@ -70,11 +70,14 @@ Filter the log. There is only one
 
 Q8: The malicious process terminated itself after infecting the PC with a backdoored variant of UltraVNC. When did the process terminate itself?
 
-A: 
+A: 2024-02-14 03:41:58
 
 Again, search for it.
 
 ![](../../Img/Pasted%20image%2020250428195913.png)
 
+Filter and again there is only 1.
+
+![](../../Img/Pasted%20image%2020250428200115.png)
 
 
