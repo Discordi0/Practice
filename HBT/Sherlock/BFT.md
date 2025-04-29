@@ -63,5 +63,3 @@ Q6: Each MFT record is 1024 bytes in size. If a file on disk has smaller size th
 
 A: 
 
-
-
