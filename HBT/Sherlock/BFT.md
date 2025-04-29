@@ -61,7 +61,9 @@ Then convert that to Hex.
 
 Q6: Each MFT record is 1024 bytes in size. If a file on disk has smaller size than 1024 bytes, they can be stored directly on MFT File itself. These are called MFT Resident files. During Windows File system Investigation, its crucial to look for any malicious/suspicious files that may be resident in MFT. This way we can find contents of malicious files/scripts. Find the contents of The malicious stager identified in Question3 and answer with the C2 IP and port.
 
-A: 
+A: 43.204.110.203:6666
 
 Googling around a little, it seems like you can open the MFT file with various tools, but to look for the Entry, you would normally use a hex editor.
-I used HxD. Open th MFT file, go to the Entry
+I used HxD. Open th MFT file, go to the Entry.
+
+![](../../Img/Pasted%20image%2020250429142503.png)
