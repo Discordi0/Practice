@@ -33,15 +33,24 @@ I changed de id in the url. in id = 4 i found something.
 
 Q4: What is the ID of the PCAP file that contains sensative data?
 
-A: 
+A: 0
 
-I was going to do a burp intruder scan to see how many previous pcap files were in the server because i do
+I was going to do a burp intruder scan to see how many previous pcap files were in the server because i downloaded and opened 4 pcap files and didn't found anything.
+But pooking around a little bit more i did id = 0 and found it.
 
-Q5: 
-A: 
+![](../../Img/Pasted%20image%2020250429165241.png)
 
-Q6: 
-A: 
+Q5: Which application layer protocol in the pcap file can the sensetive data be found in?
+
+A: FTP
+
+It's in the above screenshot.
+
+Q6: We've managed to collect nathan's FTP password. On what other service does this password work?
+
+A: SSH
+
+In Q1 we saw that there is only 1 other service running in the machine.
 
 Q7: Submit the flag located in the nathan user's home directory.
 
