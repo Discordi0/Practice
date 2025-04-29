@@ -75,4 +75,8 @@ And It worked.
 
 Q9: Submit the flag located in root's home directory.
 
-A: 
+A: 6103aab3e4a5f43e8446c4b26fd8685d
+
+Search for it.
+
+![](../../Img/Pasted%20image%2020250429171327.png)
