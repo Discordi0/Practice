@@ -63,6 +63,7 @@ Q6: Each MFT record is 1024 bytes in size. If a file on disk has smaller size th
 
 A: 43.204.110.203:6666
 
+
 Googling around a little, it seems like you can open the MFT file with various tools, but to look for the Entry, you would normally use a hex editor.
 I used HxD. Open th MFT file, go to the Entry.
 
