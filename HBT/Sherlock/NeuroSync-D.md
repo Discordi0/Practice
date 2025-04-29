@@ -22,7 +22,13 @@ Q1 screenshot.
 
 Q3: A critical Next.js vulnerability was released in March 2025, and this version appears to be affected. What is the CVE identifier for this vulnerability?
 
-A: 
+A: CVE-2025-29927
+
+Googling it.
+
+![](../../Img/Pasted%20image%2020250429153028.png)
+
+https://projectdiscovery.io/blog/nextjs-middleware-authorization-bypass
 
 Q4: The attacker tried to enumerate some static files that are typically available in the Next.js framework, most likely to retrieve its version. What is the first file he could get?
 
