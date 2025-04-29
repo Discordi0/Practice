@@ -6,7 +6,7 @@ In this Sherlock, you will become acquainted with MFT (Master File Table) forens
 
 Q1: Simon Stark was targeted by attackers on February 13. He downloaded a ZIP file from a link received in an email. What was the name of the ZIP file he downloaded from the link?
 
-A: 
+A: Stage-20240213T093324Z-001.zip
 
 Parse the file and open it with Timeline Explorer.
 Knowing it's a zip file, we filter for zip in the extension column.
@@ -24,6 +24,8 @@ It seems like invioces.zip came from the Stage file.
 Q2: Examine the Zone Identifier contents for the initially downloaded ZIP file. This field reveals the HostUrl from where the file was downloaded, serving as a valuable Indicator of Compromise (IOC) in our investigation/analysis. What is the full Host URL from where this ZIP file was downloaded?
 
 A: 
+
+With the zip filter in extension i couldn
 
 Q3: What is the full path and name of the malicious file that executed malicious code and connected to a C2 server?
 
