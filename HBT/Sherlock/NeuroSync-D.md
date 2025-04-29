@@ -94,17 +94,23 @@ Just opening the data-api.log file we see this.
 
 Q10: After the port scan, the attacker starts a brute-force attack to find some vulnerable endpoints in the previously identified API. Which vulnerable endpoint was found?
 
-A: 
+A: /logs
 
-In the same log file, following the brute force attack we cans see that one worked (bc it found t)
+In the same log file, following the brute force attack we cans see that one worked (bc it found a internal file).
+
+![](../../Img/Pasted%20image%2020250429155315.png)
 
 Q11: When the vulnerable endpoint found was used maliciously for the first time?
 
-A: 
+A: 2025-04-01 11:39:01
+
+That would be when it accessed a file for the first time.
 
 Q12: What is the attack name the endpoint is vulnerable to?
 
 A: 
+
+That would be an LFI because it's passing the path of the file that the attacker wants to read in the logFile parameter that the /logs endpoint 
 
 Q13: What is the name of the file that was targeted the last time the vulnerable endpoint was exploited?
 
