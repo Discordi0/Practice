@@ -62,13 +62,16 @@ A: a827ad48936eee2c46298636d0d4cb1e
 
 Q8: What is the full path to the binary on this machine has special capabilities that can be abused to obtain root privileges?
 
-A: 
+A: /usr/bin/python3.8
 
 Since linpeas is already here, use it.
 This is what it found.
 
 ![](../../Img/Pasted%20image%2020250429170719.png)
+Googling that python vulnerability i found this (https://tbhaxor.com/exploiting-linux-capabilities-part-1/)
+And It worked.
 
+![](../../Img/Pasted%20image%2020250429171210.png)
 
 Q9: Submit the flag located in root's home directory.
 
