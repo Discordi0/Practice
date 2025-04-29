@@ -31,17 +31,26 @@ With the zip filter in extension i couldn't find the identifier, filtering only 
 
 Q3: What is the full path and name of the malicious file that executed malicious code and connected to a C2 server?
 
-A: 
+A: C:\Users\simon.stark\Downloads\Stage-20240213T093324Z-001\Stage\invoice\invoices\invoice.bat
 
-In Q1 we found that the Stage file, created a directory of the same name.
+In Q1 we found that the Stage file, created a directory of the same name. Filter that in the Parent path column.
+There is a .bat file.
+
+![](../../Img/Pasted%20image%2020250429140836.png)
 
 Q4: Analyze the $Created0x30 timestamp for the previously identified file. When was this file created on disk?
 
-A: 
+A: 2024-02-13 16:38:39
+
+Go to that column.
+
+![](../../Img/Pasted%20image%2020250429140948.png)
 
 Q5: Finding the hex offset of an MFT record is beneficial in many investigative scenarios. Find the hex offset of the stager file from Question 3.
 
 A: 
+
+
 
 Q6: Each MFT record is 1024 bytes in size. If a file on disk has smaller size than 1024 bytes, they can be stored directly on MFT File itself. These are called MFT Resident files. During Windows File system Investigation, its crucial to look for any malicious/suspicious files that may be resident in MFT. This way we can find contents of malicious files/scripts. Find the contents of The malicious stager identified in Question3 and answer with the C2 IP and port.
 
