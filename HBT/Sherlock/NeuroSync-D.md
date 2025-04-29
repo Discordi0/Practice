@@ -74,7 +74,11 @@ Q8: Given the previous failed requests, what will most likely be the final value
 
 A: 
 
+This article says it is. (https://projectdiscovery.io/blog/nextjs-middleware-authorization-bypass)
 
+We can also see where the attack started in the interface.log file. It went from 1 to 4 middleware. But those were the ones that got
+
+![](../../Img/Pasted%20image%2020250429154442.png)
 
 Q9: The attacker chained the vulnerability with an SSRF attack, which allowed them to perform an internal port scan and discover an internal API. On which port is the API accessible?
 
