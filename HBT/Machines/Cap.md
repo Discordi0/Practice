@@ -14,9 +14,17 @@ I did nmap -sV {ip}
 
 Q2: After running a "Security Snapshot", the browser is redirected to a path of the format `/[something]/[id]`, where `[id]` represents the id number of the scan. What is the `[something]`?
 
-A: 
+A: data
 
-Q3: 
+Go to the page of the machine.
+in the dashboard it's the option.
+
+![](../../Img/Pasted%20image%2020250429163825.png)
+
+![](../../Img/Pasted%20image%2020250429163851.png)
+
+Q3: Are you able to get to other users' scans?
+
 A: 
 
 Q4: 
