@@ -56,17 +56,25 @@ After the first .js files the attacker searched for. There is only this endpoint
 
 Q6: How many requests to this endpoint have resulted in an "Unauthorized" response?
 
-A: 
+A: 5
 
+Unauthorized code is 401 (https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/401)
 
+![](../../Img/Pasted%20image%2020250429154143.png)
 
 Q7: When is a successful response received from the vulnerable endpoint, meaning that the middleware has been bypassed?
 
-A: 
+A: 2025-04-01 11:38:05
+
+Search for the first 200 response from that endpoint.
+
+![](../../Img/Pasted%20image%2020250429154309.png)
 
 Q8: Given the previous failed requests, what will most likely be the final value for the vulnerable header used to exploit the vulnerability and bypass the middleware?
 
 A: 
+
+
 
 Q9: The attacker chained the vulnerability with an SSRF attack, which allowed them to perform an internal port scan and discover an internal API. On which port is the API accessible?
 
