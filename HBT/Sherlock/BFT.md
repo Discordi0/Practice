@@ -48,13 +48,20 @@ Go to that column.
 
 Q5: Finding the hex offset of an MFT record is beneficial in many investigative scenarios. Find the hex offset of the stager file from Question 3.
 
-A: 
+A: 16E3000
 
 Had to look at the hint for this one.
+With the entry number of the file. multiply for 1024.
 
+![](../../Img/Pasted%20image%2020250429141419.png)
 
+Then convert that to Hex.
+
+![](../../Img/Pasted%20image%2020250429141525.png)
 
 Q6: Each MFT record is 1024 bytes in size. If a file on disk has smaller size than 1024 bytes, they can be stored directly on MFT File itself. These are called MFT Resident files. During Windows File system Investigation, its crucial to look for any malicious/suspicious files that may be resident in MFT. This way we can find contents of malicious files/scripts. Find the contents of The malicious stager identified in Question3 and answer with the C2 IP and port.
 
 A: 
+
+
 
