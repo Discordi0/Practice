@@ -6,34 +6,50 @@ NeuroSync™ is a leading suite of products focusing on developing cutting edge 
 
 
 
-Q1: 
+Q1: What version of Next.js is the application using?
+
+A: 15.1.0
+
+In the interface.log.
+
+![](../../Img/Pasted%20image%2020250429152722.png)
+
+Q2: What local port is the Next.js-based application running on?
+
+A: 3000
+
+Q1 screenshot.
+
+Q3: A critical Next.js vulnerability was released in March 2025, and this version appears to be affected. What is the CVE identifier for this vulnerability?
+
 A: 
 
-Q2: 
+Q4: The attacker tried to enumerate some static files that are typically available in the Next.js framework, most likely to retrieve its version. What is the first file he could get?
+
 A: 
 
-Q3: 
+Q5: Then the attacker appears to have found an endpoint that is potentially affected by the previously identified vulnerability. What is that endpoint?
+
 A: 
 
-Q4: 
+Q6: How many requests to this endpoint have resulted in an "Unauthorized" response?
+
 A: 
 
-Q5: 
+Q7: When is a successful response received from the vulnerable endpoint, meaning that the middleware has been bypassed?
+
 A: 
 
-Q6: 
+Q8: Given the previous failed requests, what will most likely be the final value for the vulnerable header used to exploit the vulnerability and bypass the middleware?
+
 A: 
 
-Q7: 
+Q9: The attacker chained the vulnerability with an SSRF attack, which allowed them to perform an internal port scan and discover an internal API. On which port is the API accessible?
+
 A: 
 
-Q8: 
-A: 
+Q10: After the port scan, the attacker starts a brute-force attack to find some vulnerable endpoints in the previously identified API. Which vulnerable endpoint was found?
 
-Q9: 
-A: 
-
-Q10: 
 A: 
 
 Q11: When the vulnerable endpoint found was used maliciously for the first time?
