@@ -50,6 +50,8 @@ Q5: Finding the hex offset of an MFT record is beneficial in many investigative 
 
 A: 
 
+Had to look at the hint for this one.
+
 
 
 Q6: Each MFT record is 1024 bytes in size. If a file on disk has smaller size than 1024 bytes, they can be stored directly on MFT File itself. These are called MFT Resident files. During Windows File system Investigation, its crucial to look for any malicious/suspicious files that may be resident in MFT. This way we can find contents of malicious files/scripts. Find the contents of The malicious stager identified in Question3 and answer with the C2 IP and port.
