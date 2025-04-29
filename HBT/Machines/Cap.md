@@ -52,11 +52,16 @@ A: SSH
 
 In Q1 we saw that there is only 1 other service running in the machine.
 
+![](../../Img/Pasted%20image%2020250429165543.png)
+
 Q7: Submit the flag located in the nathan user's home directory.
 
-A: 
+A: a827ad48936eee2c46298636d0d4cb1e
 
-Q8: 
+![](../../Img/Pasted%20image%2020250429165624.png)
+
+Q8: What is the full path to the binary on this machine has special capabilities that can be abused to obtain root privileges?
+
 A: 
 
 Q9: Submit the flag located in root's home directory.
