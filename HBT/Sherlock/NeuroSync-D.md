@@ -34,6 +34,16 @@ Q4: The attacker tried to enumerate some static files that are typically availab
 
 A: 
 
+Inside the access.log, the first thing that we can notice it's the files that tried to access.
+
+![](../../Img/Pasted%20image%2020250429153550.png)
+
+The 2 files that we are interested in are main-app.js and page.js
+
+![](../../Img/Pasted%20image%2020250429153738.png)
+
+![](../../Img/Pasted%20image%2020250429153724.png)
+
 Q5: Then the attacker appears to have found an endpoint that is potentially affected by the previously identified vulnerability. What is that endpoint?
 
 A: 
