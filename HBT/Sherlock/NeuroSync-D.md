@@ -32,25 +32,33 @@ https://projectdiscovery.io/blog/nextjs-middleware-authorization-bypass
 
 Q4: The attacker tried to enumerate some static files that are typically available in the Next.js framework, most likely to retrieve its version. What is the first file he could get?
 
-A: 
+A: main-app.js
 
 Inside the access.log, the first thing that we can notice it's the files that tried to access.
 
 ![](../../Img/Pasted%20image%2020250429153550.png)
 
-The 2 files that we are interested in are main-app.js and page.js
+The 2 files that we are interested in are main-app.js and page.js (the ones with code 200)
 
 ![](../../Img/Pasted%20image%2020250429153738.png)
 
 ![](../../Img/Pasted%20image%2020250429153724.png)
 
+main-app.js seems like the answer.
+
 Q5: Then the attacker appears to have found an endpoint that is potentially affected by the previously identified vulnerability. What is that endpoint?
 
-A: 
+A: /api/bci/analytics
+
+After the first .js files the attacker searched for. There is only this endpoint.
+
+![](../../Img/Pasted%20image%2020250429153924.png)
 
 Q6: How many requests to this endpoint have resulted in an "Unauthorized" response?
 
 A: 
+
+
 
 Q7: When is a successful response received from the vulnerable endpoint, meaning that the middleware has been bypassed?
 
