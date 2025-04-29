@@ -58,11 +58,23 @@ With filter in event id 22 (DNS query).
 
 Q7: Which IP address did the malicious process try to reach out to?
 
-A: 
+A: 93.184.216.34
 
+Seeing that this are sysmon logs, Google for it.
 
+![](../../Img/Pasted%20image%2020250428195754.png)
+
+Filter the log. There is only one
+
+![](../../Img/Pasted%20image%2020250428195835.png)
 
 Q8: The malicious process terminated itself after infecting the PC with a backdoored variant of UltraVNC. When did the process terminate itself?
 
 A: 
+
+Again, search for it.
+
+![](../../Img/Pasted%20image%2020250428195913.png)
+
+
 
