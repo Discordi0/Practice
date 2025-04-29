@@ -33,8 +33,9 @@ I changed de id in the url. in id = 4 i found something.
 
 Q4: What is the ID of the PCAP file that contains sensative data?
 
-
 A: 
+
+I was going to do a burp intruder scan to see how many previous pcap files were in the server because i do
 
 Q5: 
 A: 
