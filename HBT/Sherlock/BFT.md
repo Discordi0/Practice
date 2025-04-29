@@ -23,13 +23,17 @@ It seems like invioces.zip came from the Stage file.
 
 Q2: Examine the Zone Identifier contents for the initially downloaded ZIP file. This field reveals the HostUrl from where the file was downloaded, serving as a valuable Indicator of Compromise (IOC) in our investigation/analysis. What is the full Host URL from where this ZIP file was downloaded?
 
-A: 
+A: https://storage.googleapis.com/drive-bulk-export-anonymous/20240213T093324.039Z/4133399871716478688/a40aecd0-1cf3-4f88-b55a-e188d5c1c04f/1/c277a8b4-afa9-4d34-b8ca-e1eb5e5f983c?authuser
 
-With the zip filter in extension i couldn
+With the zip filter in extension i couldn't find the identifier, filtering only for the name of the file gets the answer.
+
+![](../../Img/Pasted%20image%2020250429140538.png)
 
 Q3: What is the full path and name of the malicious file that executed malicious code and connected to a C2 server?
 
 A: 
+
+In Q1 we found that the Stage file, created a directory of the same name.
 
 Q4: Analyze the $Created0x30 timestamp for the previously identified file. When was this file created on disk?
 
