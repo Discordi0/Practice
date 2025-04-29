@@ -25,9 +25,15 @@ in the dashboard it's the option.
 
 Q3: Are you able to get to other users' scans?
 
-A: 
+A: yes
 
-Q4: 
+I changed de id in the url. in id = 4 i found something.
+
+![](../../Img/Pasted%20image%2020250429164005.png)
+
+Q4: What is the ID of the PCAP file that contains sensative data?
+
+
 A: 
 
 Q5: 
