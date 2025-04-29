@@ -96,7 +96,7 @@ Q10: After the port scan, the attacker starts a brute-force attack to find some 
 
 A: 
 
-
+In the same log file, following the brute force attack we cans see that one worked (bc it found t)
 
 Q11: When the vulnerable endpoint found was used maliciously for the first time?
 
