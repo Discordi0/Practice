@@ -11,7 +11,15 @@ A:
 Parse the file and open it with Timeline Explorer.
 Knowing it's a zip file, we filter for zip in the extension column.
 
+![](../../Img/Pasted%20image%2020250429135848.png)
 
+With the date filter we get this.
+
+![](../../Img/Pasted%20image%2020250429140040.png)
+
+It seems like invioces.zip came from the Stage file.
+
+![](../../Img/Pasted%20image%2020250429140151.png)
 
 Q2: Examine the Zone Identifier contents for the initially downloaded ZIP file. This field reveals the HostUrl from where the file was downloaded, serving as a valuable Indicator of Compromise (IOC) in our investigation/analysis. What is the full Host URL from where this ZIP file was downloaded?
 
