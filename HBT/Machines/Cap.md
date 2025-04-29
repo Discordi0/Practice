@@ -65,7 +65,9 @@ Q8: What is the full path to the binary on this machine has special capabilities
 A: 
 
 Since linpeas is already here, use it.
+This is what it found.
 
+![](../../Img/Pasted%20image%2020250429170719.png)
 
 
 Q9: Submit the flag located in root's home directory.
