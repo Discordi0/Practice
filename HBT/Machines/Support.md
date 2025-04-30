@@ -125,8 +125,14 @@ Q11: What is the name of the environment variable on our local system that we'll
 A: KRB5CCNAME
 
 I tried in the documentation (https://ccache.dev/documentation.html), but nothing turned up.
+This page helped me (https://www.tarlogic.com/blog/how-to-attack-kerberos/).
+
+![](../../Img/Pasted%20image%2020250430163654.png)
 
 
+Q12: Submit the flag located on the administrator's desktop.
+
+A: 
 
 So, i uploaded to the machine Powermad and rubeus.
 With Powermad i created the new machine New-MachineAccount -MachineAccount compu -Password $(ConvertTo-SecureString 'contra123' -AsPlainText -Force)
@@ -141,5 +147,3 @@ I use Rubeus to hash the password for the new machine (\Rubeus.exe hash /passwor
 
 
 
-Q12: 
-A: 
