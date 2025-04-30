@@ -67,11 +67,13 @@ A: info
 
 Having decoded the password, i connected to LDAP with Apache Directory. Navigating to the support related entries i found this.
 
-
+![](../../Img/Pasted%20image%2020250430152540.png)
 
 Q6: What open port on Support allows a user in the Remote Management Users group to run PowerShell commands and get an interactive shell?
 
-A: 
+A: 5985
+
+I had to run the nmap
 
 Q7: 
 A: 
