@@ -132,7 +132,7 @@ This page helped me (https://www.tarlogic.com/blog/how-to-attack-kerberos/).
 
 Q12: Submit the flag located on the administrator's desktop.
 
-A: 
+A: f72a60bd6c0e42da0badd8912b664933
 
 So, i uploaded to the machine Powermad and rubeus.
 With Powermad i created the new machine New-MachineAccount -MachineAccount compu -Password $(ConvertTo-SecureString 'contra123' -AsPlainText -Force)
@@ -153,6 +153,6 @@ And for the shell i use psexec.py. After a lot of trying because i have to use "
 
 ![](../../Img/Pasted%20image%2020250430171255.png)
 
-
+![](../../Img/Pasted%20image%2020250430171550.png)
 
 
