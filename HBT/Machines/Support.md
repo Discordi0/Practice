@@ -87,7 +87,7 @@ Googling what that port is for, and then using evil-winrm i logged in and in /De
 
 Q8: Bloodhound data will show that the support user has what privilege on the DC.SUPPORT.HTB object?
 
-A: 
+A: GenericAll
 
 I had to install Blodhound, the db (neo4j), get the Sharphound.exe to upload to the machine with the evil-winrm connection.
 I ran the .exe and after that downloaded the .zip with the results.
@@ -99,9 +99,12 @@ And that i uploaded into Blood hound.
 
 ![](../../Img/Pasted%20image%2020250430155500.png)
 
+Finally.
 
+![](../../Img/Pasted%20image%2020250430155748.png)
 
-Q9: 
+Q9: A common attack with generic all on a computer object is to add a fake computer to the domain. What attribute on the domain sets how many computer accounts a user is allowed to create in the domain?
+
 A: 
 
 Q10: 
