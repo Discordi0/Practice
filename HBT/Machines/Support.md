@@ -73,10 +73,15 @@ Q6: What open port on Support allows a user in the Remote Management Users group
 
 A: 5985
 
-I had to run the nmap
+I had to run the nmap scan again, to check all ports (-p-)
 
-Q7: 
-A: 
+
+
+Q7: Submit the flag located on the support user's desktop.
+
+A: 4064b30c7a2919feb2e06a32f0810c28
+
+Googling what that port is for, and then using evil-winrm i logged in and in /Desktop i found the 
 
 Q8: 
 A: 
