@@ -75,7 +75,7 @@ A: 5985
 
 I had to run the nmap scan again, to check all ports (-p-)
 
-
+![](../../Img/Pasted%20image%2020250430154940.png)
 
 Q7: Submit the flag located on the support user's desktop.
 
@@ -89,7 +89,7 @@ Q8: Bloodhound data will show that the support user has what privilege on the DC
 
 A: 
 
-
+I had to install Blodhound, the db (neo4j)
 
 Q9: 
 A: 
