@@ -54,9 +54,12 @@ It connects there.
 
 ![](../../Img/Pasted%20image%2020250430150602.png)
 
-Looking a little bit more i found the password.
+Looking a little bit more i found this.
 
-![](../../Img/Pasted%20image%2020250430150629.png)
+![](../../Img/Pasted%20image%2020250430150800.png)
+
+I thought that this was the password, but i have to decrypt it.
+
 
 Q5: 
 A: 
