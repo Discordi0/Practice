@@ -7,7 +7,7 @@ Support is an Easy difficulty Windows machine that features an SMB share that al
 
 Q1: How many shares is Support showing on SMB?
 
-A: 
+A: 6
 
 With nmap -sV -sC -Pn {ip}, i got this.
 
@@ -17,9 +17,20 @@ We see that port 445 (smb) it's there. So we tried to connect to it. smbclient -
 
 ![](../../Img/Pasted%20image%2020250430142451.png)
 
+
+Q2: Which share is not a default share for a Windows domain controller?
+
+A: support-tools
+
+
 The support share doesn't seem like standar with smb.
 
 ![](../../Img/Pasted%20image%2020250430142412.png)
+
+
+Q3: Almost all of the files in this share are publicly available tools, but one is not. What is the name of that file?
+
+A: UserInfo.exe.zip
 
 All of the tools look familiar, except for UserInfo so we get that one.
 This is what was inside the .zip
@@ -35,12 +46,6 @@ The linux version took me here (https://github.com/icsharpcode/AvaloniaILSpy)
 
 
 
-
-Q2: 
-A: 
-
-Q3: 
-A: 
 
 Q4: 
 A: 
