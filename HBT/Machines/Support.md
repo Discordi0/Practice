@@ -22,6 +22,10 @@ The support share doesn't seem like standar with smb.
 ![](../../Img/Pasted%20image%2020250430142412.png)
 
 All of the tools look familiar, except for UserInfo so we get that one.
+This is what was inside the .zip
+
+![](../../Img/Pasted%20image%2020250430142830.png)
+
 
 
 
