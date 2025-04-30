@@ -81,9 +81,12 @@ Q7: Submit the flag located on the support user's desktop.
 
 A: 4064b30c7a2919feb2e06a32f0810c28
 
-Googling what that port is for, and then using evil-winrm i logged in and in /Desktop i found the 
+Googling what that port is for, and then using evil-winrm i logged in and in /Desktop i found the flag.
 
-Q8: 
+![](../../Img/Pasted%20image%2020250430153159.png)
+
+Q8: Bloodhound data will show that the support user has what privilege on the DC.SUPPORT.HTB object?
+
 A: 
 
 Q9: 
