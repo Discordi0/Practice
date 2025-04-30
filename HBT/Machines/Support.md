@@ -5,8 +5,13 @@ Support is an Easy difficulty Windows machine that features an SMB share that al
 
 
 
-Q1: 
+Q1: How many shares is Support showing on SMB?
+
 A: 
+
+With nmap -sV -sC -Pn {ip}, i got this.
+
+
 
 Q2: 
 A: 
