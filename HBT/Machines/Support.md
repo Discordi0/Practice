@@ -95,6 +95,10 @@ And that i uploaded into Blood hound.
 
 ![](../../Img/Pasted%20image%2020250430155226.png)
 
+![](../../Img/Pasted%20image%2020250430155344.png)
+
+![](../../Img/Pasted%20image%2020250430155500.png)
+
 
 
 Q9: 
