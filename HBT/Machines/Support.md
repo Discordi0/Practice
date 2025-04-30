@@ -11,6 +11,10 @@ A:
 
 With nmap -sV -sC -Pn {ip}, i got this.
 
+![](../../Img/Pasted%20image%2020250430141803.png)
+
+We see that port 445 (smb) it's there. So we tried to connect to it. smbclient -L \\\\10.10.11.174\\
+
 
 
 Q2: 
