@@ -89,7 +89,13 @@ Q8: Bloodhound data will show that the support user has what privilege on the DC
 
 A: 
 
-I had to install Blodhound, the db (neo4j)
+I had to install Blodhound, the db (neo4j), get the Sharphound.exe to upload to the machine with the evil-winrm connection.
+I ran the .exe and after that downloaded the .zip with the results.
+And that i uploaded into Blood hound.
+
+![](../../Img/Pasted%20image%2020250430155226.png)
+
+
 
 Q9: 
 A: 
