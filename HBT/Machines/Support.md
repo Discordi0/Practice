@@ -31,7 +31,7 @@ Got this out of first result google.
 
 ![](../../Img/Pasted%20image%2020250430143533.png)
 
-The lunix version took me here (https://github.com/icsharpcode/AvaloniaILSpy)
+The linux version took me here (https://github.com/icsharpcode/AvaloniaILSpy)
 
 
 
