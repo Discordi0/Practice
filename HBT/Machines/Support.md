@@ -32,7 +32,12 @@ Q3: Almost all of the files in this share are publicly available tools, but one 
 
 A: UserInfo.exe.zip
 
-All of the tools look familiar, except for UserInfo so we get that one.
+All of the tools look familiar, except for UserInfo.
+
+Q4: What is the hardcoded password used for LDAP in the UserInfo.exe binary?
+
+A: 
+
 This is what was inside the .zip
 
 ![](../../Img/Pasted%20image%2020250430142830.png)
@@ -43,12 +48,15 @@ Got this out of first result google.
 ![](../../Img/Pasted%20image%2020250430143533.png)
 
 The linux version took me here (https://github.com/icsharpcode/AvaloniaILSpy)
+After intalling it and opening the file i searched around until i found something interesting.
 
+It connects there.
 
+![](../../Img/Pasted%20image%2020250430150602.png)
 
+Looking a little bit more i found the password.
 
-Q4: 
-A: 
+![](../../Img/Pasted%20image%2020250430150629.png)
 
 Q5: 
 A: 
