@@ -15,6 +15,14 @@ With nmap -sV -sC -Pn {ip}, i got this.
 
 We see that port 445 (smb) it's there. So we tried to connect to it. smbclient -L \\\\10.10.11.174\\
 
+![](../../Img/Pasted%20image%2020250430142451.png)
+
+The support share doesn't seem like standar with smb.
+
+![](../../Img/Pasted%20image%2020250430142412.png)
+
+All of the tools look familiar, except for UserInfo so we get that one.
+
 
 
 Q2: 
