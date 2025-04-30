@@ -89,6 +89,8 @@ Q8: Bloodhound data will show that the support user has what privilege on the DC
 
 A: 
 
+
+
 Q9: 
 A: 
 
