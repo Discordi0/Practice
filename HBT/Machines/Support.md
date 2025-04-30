@@ -63,9 +63,14 @@ I had to google a lot, and look at the hint, but i finally got it.
 
 Q5: Which field in the LDAP data for the user named support stands out as potentially holding a password?
 
-A: 
+A: info
 
-Q6: 
+Having decoded the password, i connected to LDAP with Apache Directory. Navigating to the support related entries i found this.
+
+
+
+Q6: What open port on Support allows a user in the Remote Management Users group to run PowerShell commands and get an interactive shell?
+
 A: 
 
 Q7: 
