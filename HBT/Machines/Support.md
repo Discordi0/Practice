@@ -36,7 +36,7 @@ All of the tools look familiar, except for UserInfo.
 
 Q4: What is the hardcoded password used for LDAP in the UserInfo.exe binary?
 
-A: 
+A: nvEfEK16^1aM4$e7AclUf8x$tRWxPWO1%lmz
 
 This is what was inside the .zip
 
@@ -59,9 +59,10 @@ Looking a little bit more i found this.
 ![](../../Img/Pasted%20image%2020250430150800.png)
 
 I thought that this was the password, but i have to decrypt it.
+I had to google a lot, and look at the hint, but i finally got it.
 
+Q5: Which field in the LDAP data for the user named support stands out as potentially holding a password?
 
-Q5: 
 A: 
 
 Q6: 
