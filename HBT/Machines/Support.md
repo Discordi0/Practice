@@ -105,9 +105,14 @@ Finally.
 
 Q9: A common attack with generic all on a computer object is to add a fake computer to the domain. What attribute on the domain sets how many computer accounts a user is allowed to create in the domain?
 
-A: 
+A: ms-ds-machineaccountquota
 
-Q10: 
+Google it.
+
+![](../../Img/Pasted%20image%2020250430160121.png)
+
+Q10: Following the steps for the Computer Takeover attack, eventually I get a ticket for the administrator, which Rubeus says should give administrator access in that session, but it doesn't work. What is the name of the script from Impacket that can convert that ticket to ccache format?
+
 A: 
 
 Q11: 
