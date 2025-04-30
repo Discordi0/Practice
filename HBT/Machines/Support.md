@@ -26,6 +26,13 @@ This is what was inside the .zip
 
 ![](../../Img/Pasted%20image%2020250430142830.png)
 
+UserInfo is again here. But it can't be opened because it is a .exe. S we have to decompile it.
+Got this out of first result google.
+
+![](../../Img/Pasted%20image%2020250430143533.png)
+
+The lunix version took me here (https://github.com/icsharpcode/AvaloniaILSpy)
+
 
 
 
