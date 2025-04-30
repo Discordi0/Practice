@@ -124,6 +124,8 @@ Q11: What is the name of the environment variable on our local system that we'll
 
 A: KRB5CCNAME
 
+I tried in the documentation (https://ccache.dev/documentation.html), but nothing turned up.
+
 
 
 So, i uploaded to the machine Powermad and rubeus.
