@@ -122,7 +122,9 @@ Google again.
 
 Q11: What is the name of the environment variable on our local system that we'll set to that ccache file to allow use of files like psexec.py with the -k and -no-pass options?
 
-A: 
+A: KRB5CCNAME
+
+
 
 So, i uploaded to the machine Powermad and rubeus.
 With Powermad i created the new machine New-MachineAccount -MachineAccount compu -Password $(ConvertTo-SecureString 'contra123' -AsPlainText -Force)
