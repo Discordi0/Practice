@@ -120,6 +120,7 @@ With Powermad i created the new machine New-MachineAccount -MachineAccount compu
 
 ![](../../Img/Pasted%20image%2020250430162245.png)
 
+As for the attack we use (Set-ADComputer -Identity DC -PrincipalsAllowedToDelegateToAccount compu). to set the attribute.
 
 
 Q11: 
