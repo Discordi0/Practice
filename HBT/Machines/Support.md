@@ -116,6 +116,10 @@ Q10: Following the steps for the Computer Takeover attack, eventually I get a ti
 A: 
 
 So, i uploaded to the machine Powermad and rubeus.
+With Powermad i created the new machine New-MachineAccount -MachineAccount compu -Password $(ConvertTo-SecureString 'contra123' -AsPlainText -Force)
+
+![](../../Img/Pasted%20image%2020250430162245.png)
+
 
 
 Q11: 
