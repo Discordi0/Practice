@@ -113,6 +113,15 @@ Google it.
 
 Q10: Following the steps for the Computer Takeover attack, eventually I get a ticket for the administrator, which Rubeus says should give administrator access in that session, but it doesn't work. What is the name of the script from Impacket that can convert that ticket to ccache format?
 
+A: ticketConverter.py
+
+Google again.
+
+![](../../Img/Pasted%20image%2020250430162918.png)
+
+
+Q11: What is the name of the environment variable on our local system that we'll set to that ccache file to allow use of files like psexec.py with the -k and -no-pass options?
+
 A: 
 
 So, i uploaded to the machine Powermad and rubeus.
@@ -121,10 +130,12 @@ With Powermad i created the new machine New-MachineAccount -MachineAccount compu
 ![](../../Img/Pasted%20image%2020250430162245.png)
 
 As for the attack we use (Set-ADComputer -Identity DC -PrincipalsAllowedToDelegateToAccount compu). to set the attribute.
+I use Rubeus to hash the password for the new machine (\Rubeus.exe hash /password:contra123 /user:compu$ /domain:support.htb).
+
+![](../../Img/Pasted%20image%2020250430162721.png)
 
 
-Q11: 
-A: 
+
 
 Q12: 
 A: 
