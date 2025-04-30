@@ -115,6 +115,9 @@ Q10: Following the steps for the Computer Takeover attack, eventually I get a ti
 
 A: 
 
+So, i uploaded to the machine Powermad and rubeus.
+
+
 Q11: 
 A: 
 
