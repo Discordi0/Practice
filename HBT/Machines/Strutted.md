@@ -63,7 +63,24 @@ A:
 For this CVE i used this (https://securityvulnerability.io/vulnerability/CVE-2024-53677) and the poc in it.
 To get this to work i had an error that after a long time i resolved.
 
-Whe i was trying to change the upload directory with ../../shell.jps, it didn't work, it just keep uploading it 
+Whe i was trying to change the upload directory with ../../shell.jps, it didn't work, it just keep uploading it to where it always does.
+
+![](../../Img/Pasted%20image%2020250501172041.png)
+
+To resolve this i had to change the referer attribute.
+from this
+
+![](../../Img/Pasted%20image%2020250501172145.png)
+
+To this.
+
+![](../../Img/Pasted%20image%2020250501172029.png)
+
+And it worked.
+
+![](../../Img/Pasted%20image%2020250501172231.png)
+
+With that out of the way, procede with the attack.
 
 
 Q8: 
