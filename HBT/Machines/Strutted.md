@@ -52,11 +52,12 @@ Q6: What is the 2024 CVE ID assigned to a vulnerability in the file upload logic
 
 A: CVE-2024-53677 
 
-Google struts vulnerability, it the only one
+Google struts vulnerability, it the only one in 2024.
 
 ![](../../Img/Pasted%20image%2020250501161530.png)
 
-Q7: 
+Q7: What system user is the web application running as on Strutted?
+
 A: 
 
 Q8: 
