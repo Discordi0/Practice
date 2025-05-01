@@ -116,3 +116,7 @@ A: tcpdump
 Q11: Submit the flag located in the root user's home directory.
 
 A: 
+
+I used this (https://gtfobins.github.io/gtfobins/tcpdump/)
+
+
