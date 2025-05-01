@@ -5,8 +5,11 @@ About Strutted
 
 
 
-Q1: 
+Q1: How many open TCP ports are listening on Strutted?
+
 A: 
+
+
 
 Q2: 
 A: 
