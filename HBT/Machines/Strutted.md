@@ -86,7 +86,7 @@ With that out of the way, procede with the attack.
 
 Q8: What is the james user's password on Strutted?
 
-A: 
+A: IT14d6SSP81k
 
 The file that i'm looking for (https://tomcat.apache.org/tomcat-8.5-doc/realm-howto.html)
 Wasn't here.
@@ -99,10 +99,16 @@ There you are.
 
 
 
-Q9: 
-A: 
+Q9: Submit the flag located in the james user's home directory.
 
-Q10: 
+A: 03aa05b1f790414c19045e34f52084a9
+
+SSH with his user.
+
+![](../../Img/Pasted%20image%2020250501173607.png)
+
+Q10: What commands can the james user run with elevated privileges using sudo?
+
 A: 
 
 Q11: 
