@@ -15,7 +15,7 @@ The nmap scan was: nmap -sV -Pn 10.10.11.59  (with the -p- flag took 40 min. and
 
 Q2: Clicking Download triggers a zip file download containing the Docker environment for the application, what is the name of the application server running on the target?
 
-A: 
+A: tomcat
 
 Downloading to the .zip file and extracting it i found this.
 
@@ -26,10 +26,14 @@ In other file i found this.
 ![](../../Img/Pasted%20image%2020250501160026.png)
 
 
-Q3: 
-A: 
+Q3: In a Java project, what is the name of this file that contains the dependencies for the application?
 
-Q4: 
+A: pom.xml
+
+![](../../Img/Pasted%20image%2020250501160116.png)
+
+Q4: What is the name of the MVC framework used by the application?
+
 A: 
 
 Q5: 
