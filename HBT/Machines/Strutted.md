@@ -109,7 +109,9 @@ SSH with his user.
 
 Q10: What commands can the james user run with elevated privileges using sudo?
 
-A: 
+A: tcpdump
+
+
 
 Q11: 
 A: 
