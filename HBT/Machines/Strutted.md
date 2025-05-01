@@ -58,12 +58,12 @@ Google struts vulnerability, it the only one in 2024.
 
 Q7: What system user is the web application running as on Strutted?
 
-A: 
+A: tomcat
 
 For this CVE i used this (https://securityvulnerability.io/vulnerability/CVE-2024-53677) and the poc in it.
 To get this to work i had an error that after a long time i resolved.
 
-Whe i was trying to change the upload directory with ../../shell.jps, it didn't work, it just keep uploading it to where it always does.
+When i was trying to change the upload directory with ../../shell.jps, it didn't work, it just keep uploading it to where it always does.
 
 ![](../../Img/Pasted%20image%2020250501172041.png)
 
@@ -82,8 +82,10 @@ And it worked.
 
 With that out of the way, procede with the attack.
 
+![](../../Img/Pasted%20image%2020250501172414.png)
 
-Q8: 
+Q8: What is the james user's password on Strutted?
+
 A: 
 
 Q9: 
