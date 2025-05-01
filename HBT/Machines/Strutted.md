@@ -60,6 +60,8 @@ Q7: What system user is the web application running as on Strutted?
 
 A: 
 
+For this CVE i used this (https://securityvulnerability.io/vulnerability/CVE-2024-53677) and the poc in it.
+
 
 
 Q8: 
