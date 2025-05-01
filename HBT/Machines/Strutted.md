@@ -36,9 +36,12 @@ Q4: What is the name of the MVC framework used by the application?
 
 A: Apache Struts
 
-Opening that file
+Opening that file and looking at the dependencies (i had to google them because i didn't know what they were), i found it.
 
-Q5: 
+![](../../Img/Pasted%20image%2020250501160932.png)
+
+Q5: What version of the framework does the application use?
+
 A: 
 
 Q6: 
