@@ -61,7 +61,9 @@ Q7: What system user is the web application running as on Strutted?
 A: 
 
 For this CVE i used this (https://securityvulnerability.io/vulnerability/CVE-2024-53677) and the poc in it.
+To get this to work i had an error that after a long time i resolved.
 
+Whe i was trying to change the upload directory with ../../shell.jps, it didn't work, it just keep uploading it 
 
 
 Q8: 
