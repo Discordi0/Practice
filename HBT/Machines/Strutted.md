@@ -89,6 +89,13 @@ Q8: What is the james user's password on Strutted?
 A: 
 
 The file that i'm looking for (https://tomcat.apache.org/tomcat-8.5-doc/realm-howto.html)
+Wasn't here.
+
+![](../../Img/Pasted%20image%2020250501173329.png)
+
+There you are.
+
+![](../../Img/Pasted%20image%2020250501173408.png)
 
 
 
