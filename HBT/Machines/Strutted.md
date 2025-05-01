@@ -50,7 +50,11 @@ It was near the start of the file.
 
 Q6: What is the 2024 CVE ID assigned to a vulnerability in the file upload logic vulnerability in Apache Struts?
 
-A: 
+A: CVE-2024-53677 
+
+Google struts vulnerability, it the only one
+
+![](../../Img/Pasted%20image%2020250501161530.png)
 
 Q7: 
 A: 
