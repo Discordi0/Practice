@@ -115,8 +115,8 @@ A: tcpdump
 
 Q11: Submit the flag located in the root user's home directory.
 
-A: 
+A: 360a253ae2af3b757f4728123e7c2644
 
 I used this (https://gtfobins.github.io/gtfobins/tcpdump/)
 
-
+![](../../Img/Pasted%20image%2020250501175314.png)
