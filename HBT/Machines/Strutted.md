@@ -7,11 +7,14 @@ About Strutted
 
 Q1: How many open TCP ports are listening on Strutted?
 
-A: 
+A: 2
 
+The nmap scan was: nmap -sV -Pn 10.10.11.59  (with the -p- flag took 40 min. and it didn't even finished).
 
+![](../../Img/Pasted%20image%2020250501154801.png)
 
-Q2: 
+Q2: Clicking Download triggers a zip file download containing the Docker environment for the application, what is the name of the application server running on the target?
+
 A: 
 
 Q3: 
