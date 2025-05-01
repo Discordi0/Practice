@@ -111,7 +111,8 @@ Q10: What commands can the james user run with elevated privileges using sudo?
 
 A: tcpdump
 
+![](../../Img/Pasted%20image%2020250501174430.png)
 
+Q11: Submit the flag located in the root user's home directory.
 
-Q11: 
 A: 
