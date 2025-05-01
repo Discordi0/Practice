@@ -21,6 +21,9 @@ Downloading to the .zip file and extracting it i found this.
 
 ![](../../Img/Pasted%20image%2020250501155522.png)
 
+In other file i found this.
+
+![](../../Img/Pasted%20image%2020250501160026.png)
 
 
 Q3: 
