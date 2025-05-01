@@ -42,9 +42,14 @@ Opening that file and looking at the dependencies (i had to google them because 
 
 Q5: What version of the framework does the application use?
 
-A: 
+A: 6.3.0.1
 
-Q6: 
+It was near the start of the file.
+
+![](../../Img/Pasted%20image%2020250501161142.png)
+
+Q6: What is the 2024 CVE ID assigned to a vulnerability in the file upload logic vulnerability in Apache Struts?
+
 A: 
 
 Q7: 
