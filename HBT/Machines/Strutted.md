@@ -34,7 +34,9 @@ A: pom.xml
 
 Q4: What is the name of the MVC framework used by the application?
 
-A: 
+A: Apache Struts
+
+Opening that file
 
 Q5: 
 A: 
