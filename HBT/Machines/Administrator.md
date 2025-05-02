@@ -108,9 +108,14 @@ And crack it with hashcat.
 
 Q10: What permission does the Ethan user have over the domain (according to Bloodhound) that will allow for a full domain takeover?
 
-A: 
+A: DCSync
 
-Q11: 
+It's in OUTBOUND OBJECT CONTROL
+
+![](../../Img/Pasted%20image%2020250502165524.png)
+
+Q11: What is the Administrator user's NTLM hash?
+
 A: 
 
 Q12: 
