@@ -98,6 +98,14 @@ Q9: What is the Ethan user's password on Administrator?
 
 A: 
 
+I use the targetedkerberoasting.py attack.
+
+![](../../Img/Pasted%20image%2020250502164924.png)
+
+And crack it with hashcat.
+
+![](../../Img/Pasted%20image%2020250502165119.png)
+
 Q10: 
 A: 
 
