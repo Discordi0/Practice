@@ -70,15 +70,16 @@ We get it, and crack it with hashcat.
 
 Q6: What is the Emily user's password on Administrator?
 
-A: 
+A: UXLCI5iETUsIBoFVTj8yQFKoHjXmb
 
 The file was a Password safe file, so we install that.
 
 ![](../../Img/Pasted%20image%2020250502155733.png)
 
+![](../../Img/Pasted%20image%2020250502160036.png)
 
+Q7: Submit the flag located in the Emily user's home directory.
 
-Q7: 
 A: 
 
 Q8: 
