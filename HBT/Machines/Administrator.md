@@ -116,11 +116,14 @@ It's in OUTBOUND OBJECT CONTROL
 
 Q11: What is the Administrator user's NTLM hash?
 
-A: 
+A: 3dc553ce4b9fd20bd016e098d2d2fd2e
 
 Secrets from impaket.
 
 ![](../../Img/Pasted%20image%2020250502165856.png)
 
-Q12: 
+Q12: Submit the flag located on the Administrator user's Desktop.
+
 A: 
+
+We use evil-rinrm
