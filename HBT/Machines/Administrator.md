@@ -20,11 +20,16 @@ I did nmap scan: nmap -sV -sC -Pn 10.10.11.42
 
 Q2: What permission does the Olivia user have over the Michael user (as shown by BloodHound)?
 
-A: 
+A: GenericAll
 
-As per the hint, we download and run bloodhound.py  with the credentials given to us. We start the db and run 
+As per the hint, we download and run bloodhound.py  with the credentials given to us. We start the db and run Bloodhund to check the results.
 
-Q3: 
+We search for olivia (the only user we have), and check the attributes that the user has.
+
+![](../../Img/Pasted%20image%2020250502150237.png)
+
+Q3: What permission does the Michael user have on the Benjamin user?
+
 A: 
 
 Q4: 
