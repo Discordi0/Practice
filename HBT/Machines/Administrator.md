@@ -96,7 +96,7 @@ Check in Bloodhound
 
 Q9: What is the Ethan user's password on Administrator?
 
-A: 
+A: limpbizkit
 
 I use the targetedkerberoasting.py attack.
 
@@ -106,7 +106,8 @@ And crack it with hashcat.
 
 ![](../../Img/Pasted%20image%2020250502165119.png)
 
-Q10: 
+Q10: What permission does the Ethan user have over the domain (according to Bloodhound) that will allow for a full domain takeover?
+
 A: 
 
 Q11: 
