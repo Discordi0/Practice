@@ -48,6 +48,19 @@ Q5: What is the Master Password for `Backup.psafe3`?
 
 A: 
 
+First we need to log in as olivia.
+
+![](../../Img/Pasted%20image%2020250502155230.png)
+
+Then we need to change michael's password.
+
+![](../../Img/Pasted%20image%2020250502155313.png)
+
+We then login as michael
+
+
+![](../../Img/Pasted%20image%2020250502155124.png)
+
 Q6: 
 A: 
 
