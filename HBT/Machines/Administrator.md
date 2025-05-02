@@ -46,7 +46,7 @@ Check Banjamin.
 
 Q5: What is the Master Password for `Backup.psafe3`?
 
-A: 
+A: tekieromucho
 
 First we need to log in as olivia.
 
@@ -56,12 +56,20 @@ Then we need to change michael's password.
 
 ![](../../Img/Pasted%20image%2020250502155313.png)
 
-We then login as michael
+We then login as michael and change the password of benjamin, to then log is as benjamin in ftp.
 
+![](../../Img/Pasted%20image%2020250502155432.png)
+
+We see that this user has the file.
+
+![](../../Img/Pasted%20image%2020250502155504.png)
+
+We get it, and crack it with hashcat.
 
 ![](../../Img/Pasted%20image%2020250502155124.png)
 
-Q6: 
+Q6: What is the Emily user's password on Administrator?
+
 A: 
 
 Q7: 
