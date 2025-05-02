@@ -5,26 +5,44 @@ About Administrator
 
 
 
-Q1: 
+Q1: What is the lowest TCP port listening on Administrator?
 
-Q2: 
+A: 21
+
+I did nmap scan: nmap -sV -sC -Pn 10.10.11.42
+
+![](../../Img/Pasted%20image%2020250502141356.png)
+
+Q2: What permission does the Olivia user have over the Michael user (as shown by BloodHound)?
+
+A: 
 
 Q3: 
+A: 
 
 Q4: 
+A: 
 
 Q5: 
+A: 
 
 Q6: 
+A: 
 
 Q7: 
+A: 
 
 Q8: 
+A: 
 
 Q9: 
+A: 
 
-Q1: 
+Q10: 
+A: 
 
-Q1: 
+Q11: 
+A: 
 
-Q1: 
+Q12: 
+A: 
