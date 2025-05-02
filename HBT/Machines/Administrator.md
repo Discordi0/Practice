@@ -30,12 +30,22 @@ We search for olivia (the only user we have), and check the attributes that the 
 
 Q3: What permission does the Michael user have on the Benjamin user?
 
-A: 
+A: ForceChangePassword
 
-Q4: 
-A: 
+We select michael node and check.
 
-Q5: 
+![](../../Img/Pasted%20image%2020250502151431.png)
+
+Q4: What is the name of a non-default group that Benjamin is a part of?
+
+A: Share Moderators
+
+Check Banjamin.
+
+![](../../Img/Pasted%20image%2020250502151559.png)
+
+Q5: What is the Master Password for `Backup.psafe3`?
+
 A: 
 
 Q6: 
