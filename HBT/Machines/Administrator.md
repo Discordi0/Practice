@@ -80,12 +80,22 @@ The file was a Password safe file, so we install that.
 
 Q7: Submit the flag located in the Emily user's home directory.
 
-A: 
+A: d16aa4e6d9b8334d51b1dd4c98b7f6cf
 
-Q8: 
-A: 
+It's in the Desktop of the user.
 
-Q9: 
+![](../../Img/Pasted%20image%2020250502160400.png)
+
+Q8: What permission does the Emily user have over the Ethan user?
+
+A: GenericWrite
+
+Check in Bloodhound
+
+![](../../Img/Pasted%20image%2020250502160504.png)
+
+Q9: What is the Ethan user's password on Administrator?
+
 A: 
 
 Q10: 
