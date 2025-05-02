@@ -118,5 +118,9 @@ Q11: What is the Administrator user's NTLM hash?
 
 A: 
 
+Secrets from impaket.
+
+![](../../Img/Pasted%20image%2020250502165856.png)
+
 Q12: 
 A: 
