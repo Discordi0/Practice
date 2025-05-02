@@ -124,6 +124,9 @@ Secrets from impaket.
 
 Q12: Submit the flag located on the Administrator user's Desktop.
 
-A: 
+A: 19b5e0deb5ba108939a1e9795a4bb961
 
-We use evil-rinrm
+We use evil-winrm to connect.
+Then just search it.
+
+![](../../Img/Pasted%20image%2020250502170510.png)
