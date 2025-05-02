@@ -72,6 +72,12 @@ Q6: What is the Emily user's password on Administrator?
 
 A: 
 
+The file was a Password safe file, so we install that.
+
+![](../../Img/Pasted%20image%2020250502155733.png)
+
+
+
 Q7: 
 A: 
 
