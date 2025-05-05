@@ -122,14 +122,16 @@ We send the created .eps file to the dear doc, and get a connection back.
 
 Q11: What user has an active session on Hospital?
 
+A: drbrown
+
+![](../../Img/Pasted%20image%2020250505185512.png)
+
+Q12: [Path 1] What is the administrator's password?
+
 A: 
 
+Q13: [Path 2] On Hospital, what is the full path of the web root directory for the RoundCube instance?
 
-
-Q12: 
-A: 
-
-Q13: 
 A: 
 
 Q14: 
