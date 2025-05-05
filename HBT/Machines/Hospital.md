@@ -134,9 +134,14 @@ It needed a few tries because the connection just dies (every 10 min or so.) but
 
 Q13: [Path 2] On Hospital, what is the full path of the web root directory for the RoundCube instance?
 
-A: 
+A: C:\xampp\htdocs
 
-Q14: 
+I'm already admin, so i just search for it.
+
+![](../../Img/Pasted%20image%2020250505193032.png)
+
+Q14: What user is the XAMPP webserver running as?
+
 A: 
 
 Q15: Submit the flag located on the administrator user's desktop.
