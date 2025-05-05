@@ -9,6 +9,10 @@ Q1: What is the domain name that Hospital is a domain controller for?
 
 A: hospital.htb
 
+With the nmap scan we can find it. (nmap -sC -sV -Pn 10.10.11.241)
+
+![](../../Img/Pasted%20image%2020250505152955.png)
+
 Q2: What webmail application is running on TCP 443?
 
 A: 
