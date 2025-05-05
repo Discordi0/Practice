@@ -84,6 +84,13 @@ Q7: What user besides root has a password hash in the `shadow` file?
 
 A: 
 
+So, i tried to to this one, but it just got stuck, and the shell just died a lot. (https://github.com/synacktiv/CVE-2023-35001)
+
+![](../../Img/Pasted%20image%2020250505174948.png)
+
+
+
+So i tried another one that i found.
 Q8: 
 A: 
 
