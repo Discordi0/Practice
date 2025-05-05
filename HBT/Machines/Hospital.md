@@ -113,11 +113,15 @@ Q10: Submit the flag located on the drbrown user's desktop.
 
 A: 1a9e73567161eb68c6dad1bc4404581e
 
+I use the POC in the link of the above question.
+We send the created .eps file to the dear doc, and get a connection back.
+
 ![](../../Img/Pasted%20image%2020250505184059.png)
 
 ![](../../Img/Pasted%20image%2020250505184212.png)
 
-Q11: 
+Q11: What user has an active session on Hospital?
+
 A: 
 
 Q12: 
