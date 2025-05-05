@@ -111,7 +111,11 @@ https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection
 
 Q10: Submit the flag located on the drbrown user's desktop.
 
-A: 
+A: 1a9e73567161eb68c6dad1bc4404581e
+
+![](../../Img/Pasted%20image%2020250505184059.png)
+
+![](../../Img/Pasted%20image%2020250505184212.png)
 
 Q11: 
 A: 
