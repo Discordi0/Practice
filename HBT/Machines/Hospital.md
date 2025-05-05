@@ -74,11 +74,14 @@ weevely http://10.10.11.241:8080/uploads/shellHospital.phar 'hospital123'
 
 Q6: What is the kernel name (version) of the webserver?
 
-A: 
+A: 5.19.0-35-generic
 
+Use uname -a to check.
 
+![](../../Img/Pasted%20image%2020250505171158.png)
 
-Q7: 
+Q7: What user besides root has a password hash in the `shadow` file?
+
 A: 
 
 Q8: 
