@@ -90,11 +90,20 @@ So, i tried to to this one. (https://github.com/synacktiv/CVE-2023-35001).
 
 ![](../../Img/Pasted%20image%2020250505181809.png)
 
+With hascat we got it.
+
+![](../../Img/Pasted%20image%2020250505182729.png)
+
 Q8: Who has emailed Doctor Williams?
 
-A: 
+A: drbrown@hospital.htb
 
-Q9: 
+With dr Williams credentials we log in and find this.
+
+![](../../Img/Pasted%20image%2020250505182939.png)
+
+Q9: What is the 2023 CVE ID for a command injection vulnerability in Ghostscript when it opens `.eps` files?
+
 A: 
 
 Q10: 
