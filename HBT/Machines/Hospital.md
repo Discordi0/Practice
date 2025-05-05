@@ -59,8 +59,13 @@ But this didn't.
 
 ![](../../Img/Pasted%20image%2020250505164646.png)
 
-Q5: 
+Q5: What user is the webserver running as?
+
 A: 
+
+Since we know where the file goes, and what extension does the file have to be, let's get a shell.
+
+
 
 Q6: 
 A: 
