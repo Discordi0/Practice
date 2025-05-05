@@ -32,7 +32,11 @@ Q3: Looking at the web application on TCP 8080, what is the relative path of the
 
 A: 
 
+I use Burp to see if the upload directory is found inside the request.
 
+![](../../Img/Pasted%20image%2020250505155307.png)
+
+Seeing that there is nothing here, i use ffuf to try to 
 
 Q4: 
 A: 
