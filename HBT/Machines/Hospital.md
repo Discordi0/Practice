@@ -88,9 +88,11 @@ So, i tried to to this one, but it just got stuck, and the shell just died a lot
 
 ![](../../Img/Pasted%20image%2020250505174948.png)
 
+![](../../Img/Pasted%20image%2020250505175039.png)
+
+So i tried another one that i found. (https://github.com/Notselwyn/CVE-2024-1086)
 
 
-So i tried another one that i found.
 Q8: 
 A: 
 
