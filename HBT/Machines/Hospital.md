@@ -15,16 +15,24 @@ With the nmap scan we can find it. (nmap -sC -sV -Pn 10.10.11.241)
 
 Q2: What webmail application is running on TCP 443?
 
-A: 
+A: RoundCube
 
 In the nmap scan there wasn't anything about the name of the mail application running, se we visit the page.
 
 ![](../../Img/Pasted%20image%2020250505153433.png)
 
-The web page didn't gave an answer either (maybe if someone knew the logo, but i don't so)
+The web page didn't gave an answer either (maybe if someone knew the logo, but i don't so... ).
+Looking at the source code i found this.
 
-Q3: 
+![](../../Img/Pasted%20image%2020250505153618.png)
+
+![](../../Img/Pasted%20image%2020250505153712.png)
+
+Q3: Looking at the web application on TCP 8080, what is the relative path of the directory where uploads are saved?
+
 A: 
+
+
 
 Q4: 
 A: 
