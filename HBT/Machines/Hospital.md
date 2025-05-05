@@ -30,7 +30,7 @@ Looking at the source code i found this.
 
 Q3: Looking at the web application on TCP 8080, what is the relative path of the directory where uploads are saved?
 
-A: 
+A: /uploads
 
 I use Burp to see if the upload directory is found inside the request.
 
@@ -39,10 +39,15 @@ I use Burp to see if the upload directory is found inside the request.
 Seeing that there is nothing here, i use ffuf to try to find the directory. (ffuf -w /home/discordio/SecLists-master/Discovery/Web-Content/directory-list-2.3-medium.txt:FUZZ -u http://10.10.11.241:8080/FUZZ).
 This is what it found.
 
-![](../../Img/Pasted%20image%2020250505160556.png)
+![](../../Img/Pasted%20image%2020250505160616.png)
 
-Q4: 
+Q4: What file extension is allowed to be uploaded and will be executed as PHP?
+
 A: 
+
+For this i use burp intruder.
+
+
 
 Q5: 
 A: 
