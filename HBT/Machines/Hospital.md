@@ -142,7 +142,10 @@ I'm already admin, so i just search for it.
 
 Q14: What user is the XAMPP webserver running as?
 
-A: 
+A: ???
+
+I did get the shell and with whoami i got
+nt authority\system. But this doesn't work so.. idk
 
 Q15: Submit the flag located on the administrator user's desktop.
 
