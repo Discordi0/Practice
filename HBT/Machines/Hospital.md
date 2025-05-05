@@ -17,6 +17,12 @@ Q2: What webmail application is running on TCP 443?
 
 A: 
 
+In the nmap scan there wasn't anything about the name of the mail application running, se we visit the page.
+
+![](../../Img/Pasted%20image%2020250505153433.png)
+
+The web page didn't gave an answer either (maybe if someone knew the logo, but i don't so)
+
 Q3: 
 A: 
 
