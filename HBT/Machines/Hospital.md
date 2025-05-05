@@ -128,7 +128,7 @@ A: drbrown
 
 Q12: [Path 1] What is the administrator's password?
 
-A: 
+A: Th3B3stH0sp1t4l9786!
 
 Q13: [Path 2] On Hospital, what is the full path of the web root directory for the RoundCube instance?
 
