@@ -47,7 +47,11 @@ A:
 
 For this i use burp intruder.
 
+It seems like this machine it's only blocking .php files.
 
+![](../../Img/Pasted%20image%2020250505164702.png)
+
+![](../../Img/Pasted%20image%2020250505164646.png)
 
 Q5: 
 A: 
