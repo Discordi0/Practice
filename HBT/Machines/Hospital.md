@@ -104,9 +104,13 @@ With dr Williams credentials we log in and find this.
 
 Q9: What is the 2023 CVE ID for a command injection vulnerability in Ghostscript when it opens `.eps` files?
 
-A: 
+A: CVE-2023-36664
 
-Q10: 
+Googling around i found this.
+https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection
+
+Q10: Submit the flag located on the drbrown user's desktop.
+
 A: 
 
 Q11: 
