@@ -130,6 +130,8 @@ Q12: [Path 1] What is the administrator's password?
 
 A: Th3B3stH0sp1t4l9786!
 
+It needed a few tries because the connection just dies (every 10 min or so.) but i got it with the keyscan of meterpreter.
+
 Q13: [Path 2] On Hospital, what is the full path of the web root directory for the RoundCube instance?
 
 A: 
@@ -137,6 +139,11 @@ A:
 Q14: 
 A: 
 
-Q15: 
-A: 
+Q15: Submit the flag located on the administrator user's desktop.
+
+A: 8a8a3d62de1e4205c1c3b7e781bdf4bf
+
+With the credentials, use evil-winrm and find it.
+
+![](../../Img/Pasted%20image%2020250505192439.png)
 
