@@ -37,8 +37,9 @@ I use Burp to see if the upload directory is found inside the request.
 ![](../../Img/Pasted%20image%2020250505155307.png)
 
 Seeing that there is nothing here, i use ffuf to try to find the directory. (ffuf -w /home/discordio/SecLists-master/Discovery/Web-Content/directory-list-2.3-medium.txt:FUZZ -u http://10.10.11.241:8080/FUZZ).
+This is what it found.
 
-
+![](../../Img/Pasted%20image%2020250505160556.png)
 
 Q4: 
 A: 
