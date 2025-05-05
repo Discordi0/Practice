@@ -43,11 +43,17 @@ This is what it found.
 
 Q4: What file extension is allowed to be uploaded and will be executed as PHP?
 
-A: 
+A: phar
 
 For this i use burp intruder.
 
-It seems like this machine it's only blocking .php files.
+It seems like this machine it's only blocking ".php" files. As this pass
+
+![](../../Img/Pasted%20image%2020250505165027.png)
+
+![](../../Img/Pasted%20image%2020250505165038.png)
+
+But this didn't.
 
 ![](../../Img/Pasted%20image%2020250505164702.png)
 
