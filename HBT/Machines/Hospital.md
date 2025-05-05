@@ -82,18 +82,16 @@ Use uname -a to check.
 
 Q7: What user besides root has a password hash in the `shadow` file?
 
-A: 
+A: drwilliams
 
-So, i tried to to this one, but it just got stuck, and the shell just died a lot. (https://github.com/synacktiv/CVE-2023-35001)
+So, i tried to to this one. (https://github.com/synacktiv/CVE-2023-35001).
 
-![](../../Img/Pasted%20image%2020250505174948.png)
-
-![](../../Img/Pasted%20image%2020250505175039.png)
-
-So i tried another one that i found. (https://github.com/Notselwyn/CVE-2024-1086)
+![](../../Img/Pasted%20image%2020250505181711.png)
 
 
-Q8: 
+
+Q8: Who has emailed Doctor Williams?
+
 A: 
 
 Q9: 
