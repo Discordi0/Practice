@@ -88,7 +88,7 @@ So, i tried to to this one. (https://github.com/synacktiv/CVE-2023-35001).
 
 ![](../../Img/Pasted%20image%2020250505181711.png)
 
-
+![](../../Img/Pasted%20image%2020250505181809.png)
 
 Q8: Who has emailed Doctor Williams?
 
