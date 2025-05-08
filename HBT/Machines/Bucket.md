@@ -133,7 +133,7 @@ A liitle bit below the Q11 screenshot.
 
 Q13: Submit the flag located in the root user's home directory.
 
-A: 
+A: cdbe9608f51bec8fabce97cea5176fab
 
 We all can see where this is going, but i have no idea how to create tables in Dynamodb, so i had to use this. (https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/getting-started-step-1.html) Under AWS Cli. (The --billing-mode seems like an attribute of the example, not included).
 
@@ -153,7 +153,10 @@ Got it.
 
 ![](../../Img/Pasted%20image%2020250508163117.png)
 
+Change permission and connect.
+Found it.
 
+![](../../Img/Pasted%20image%2020250508163302.png)
 
 
 
