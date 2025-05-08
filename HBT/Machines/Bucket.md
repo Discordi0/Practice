@@ -136,11 +136,9 @@ A:
 
 We all can see where this is going, but i have no idea how to create tables in Dynamodb, so i had to use this. (https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/getting-started-step-1.html) Under AWS Cli. (The --billing-mode seems like an attribute of the example).
 
-aws --endpoint-url=http://localhost:4566 dynamodb create-table --table-name
-alerts --attribute-definitions AttributeName=title,AttributeType=S
-AttributeName=data,AttributeType=S --key-schema
-AttributeName=title,KeyType=HASH AttributeName=data,KeyType=RANGE --
-provisioned-throughput ReadCapacityUnits=5,WriteCapacityUnits=5
+![](../../Img/Pasted%20image%2020250508161203.png)
+
+
 
 
 
