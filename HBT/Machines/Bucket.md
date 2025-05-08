@@ -80,19 +80,24 @@ After changing region of aws o could enumerate the tables of the db. (aws --endp
 
 Q7: What is the roy user's password on Bucket?
 
-A: 
+A: n2vM-<_K_Q:.Aa2
 
 I enumerate the contents of the table users. (dynamodb scan --table-name users)
-Out of those 3 passwords, the 3rd worked 
 
 ![](../../Img/Pasted%20image%2020250508153544.png)
 
 
+Q8: Submit the flag located in the roy user's home directory.
 
-Q8: 
-A: 
+A: 06f74a552d7695d40a591cbfb4abba0b
 
-Q9: 
+Out of those 3 passwords, the 3rd worked.
+Ssh into it with roy and look for the flag.
+
+![](../../Img/Pasted%20image%2020250508153727.png)
+
+Q9: What user is the web site on port 8000 running as?
+
 A: 
 
 Q10: 
