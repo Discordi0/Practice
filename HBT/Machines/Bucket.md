@@ -139,9 +139,13 @@ We all can see where this is going, but i have no idea how to create tables in D
 
 ![](../../Img/Pasted%20image%2020250508161203.png)
 
-I tried and tried again, there seems that 
+I tried and tried again, it seems that the "process" that deleted my files in Q5, also deletes the table alerts inside Dynamodb. -.-"
+
+I finally have confirmation that the commands work.
 
 ![](../../Img/Pasted%20image%2020250508162524.png)
+
+Now since i know that i can connect with ssh, i will search for the id_rsa.
 
 
 
