@@ -38,6 +38,13 @@ Q4: What user is the webserver running as on Bucket?
 
 A: 
 
+I downloaded the files inside the adserver bucket, it turn out to be the same web page.
+Looking the source code of the page didn't tell me anything.
+
+![](../../Img/Pasted%20image%2020250508143800.png)
+
+
+
 Q5: 
 A: 
 
