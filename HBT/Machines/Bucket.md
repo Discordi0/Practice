@@ -145,7 +145,15 @@ I finally have confirmation that the commands work.
 
 ![](../../Img/Pasted%20image%2020250508162524.png)
 
-Now since i know that i can connect with ssh, i will search for the id_rsa.
+Now since i know that i can connect with ssh, i will search for the id_rsa. (Note: try to have the commands ready on notepad).
+
+![](../../Img/Pasted%20image%2020250508163056.png)
+
+Got it.
+
+![](../../Img/Pasted%20image%2020250508163117.png)
+
+
 
 
 
