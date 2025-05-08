@@ -98,18 +98,24 @@ Ssh into it with roy and look for the flag.
 
 Q9: What user is the web site on port 8000 running as?
 
+A: root
+
+I had to use the hint for this one.
+
+![](../../Img/Pasted%20image%2020250508155502.png)
+
+Q10: 
 A: 
 
 After looking around a little bit, i found a folder that i couldn't enter
 
 ![](../../Img/Pasted%20image%2020250508155213.png)
 
-So i changed
+So i changed to roy, and looked around a bit.
+I the index.html file i found this. (It looks similar to the one i found in Q5).
 
 ![](../../Img/Pasted%20image%2020250508155156.png)
 
-Q10: 
-A: 
 
 Q11: 
 A: 
