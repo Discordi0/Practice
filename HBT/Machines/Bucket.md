@@ -78,8 +78,16 @@ After changing region of aws o could enumerate the tables of the db. (aws --endp
 
 ![](../../Img/Pasted%20image%2020250508153349.png)
 
-Q7: 
+Q7: What is the roy user's password on Bucket?
+
 A: 
+
+I enumerate the contents of the table users. (dynamodb scan --table-name users)
+Out of those 3 passwords, the 3rd worked 
+
+![](../../Img/Pasted%20image%2020250508153544.png)
+
+
 
 Q8: 
 A: 
