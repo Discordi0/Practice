@@ -15,7 +15,9 @@ With a nmap scan we can see the ports. map -sV -sC -Pn 10.10.10.212
 
 Q2: What domain is hosting the images used on the website?
 
-A: 
+A: s3.bucket.htb
+
+Upon opening the page, we can see tha
 
 Q3: 
 A: 
