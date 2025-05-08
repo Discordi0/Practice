@@ -62,11 +62,15 @@ I did the same but with a shell, i got this.
 
 Q5: What database is the roy user using in their `project`?
 
-A: 
+A: DynamoDb
 
+There is a process that deletes the files i upload to the s3 bucket, so i had to try a lot of times.
+After i got the shell, i searched for the user roy. I found this.
 
+![](../../Img/Pasted%20image%2020250508152656.png)
 
-Q6: 
+Q6: What is the name of the table in the DynamoDB instance hosted on Bucket?
+
 A: 
 
 Q7: 
