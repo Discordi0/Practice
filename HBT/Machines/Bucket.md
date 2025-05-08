@@ -23,7 +23,16 @@ Upon opening the page, we can see that there is no image present, so i inspect w
 
 Q3: What is the bucket name in use on s3.bucket.htb?
 
-A: 
+A: adserver
+
+Adding the new domain to the /etc/hosts file, we can see what is it.
+This is all we can see with just browsing it.
+
+![](../../Img/Pasted%20image%2020250508142126.png)
+
+Connecting to it with awscli and enumerating we get this.
+
+![](../../Img/Pasted%20image%2020250508142253.png)
 
 Q4: 
 A: 
