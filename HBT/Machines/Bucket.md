@@ -11,7 +11,7 @@ A: 2
 
 With a nmap scan we can see the ports. map -sV -sC -Pn 10.10.10.212
 
-
+![](../../Img/Pasted%20image%2020250508140220.png)
 
 Q2: What domain is hosting the images used on the website?
 
