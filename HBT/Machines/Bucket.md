@@ -131,14 +131,17 @@ A liitle bit below the Q11 screenshot.
 
 ![](../../Img/Pasted%20image%2020250508160054.png)
 
-Q13: 
+Q13: Submit the flag located in the root user's home directory.
+
 A: 
 
-We all can see where this is going, but i have no idea how to create tables in Dynamodb, so i had to use this. (https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/getting-started-step-1.html) Under AWS Cli. (The --billing-mode seems like an attribute of the example).
+We all can see where this is going, but i have no idea how to create tables in Dynamodb, so i had to use this. (https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/getting-started-step-1.html) Under AWS Cli. (The --billing-mode seems like an attribute of the example, not included).
 
 ![](../../Img/Pasted%20image%2020250508161203.png)
 
+I tried and tried again, there seems that 
 
+![](../../Img/Pasted%20image%2020250508162524.png)
 
 
 
