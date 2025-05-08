@@ -17,9 +17,12 @@ Q2: What domain is hosting the images used on the website?
 
 A: s3.bucket.htb
 
-Upon opening the page, we can see tha
+Upon opening the page, we can see that there is no image present, so i inspect where the an image should go and find the domain.
 
-Q3: 
+![](../../Img/Pasted%20image%2020250508141159.png)
+
+Q3: What is the bucket name in use on s3.bucket.htb?
+
 A: 
 
 Q4: 
