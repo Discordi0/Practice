@@ -25,7 +25,7 @@ Q3: What is the bucket name in use on s3.bucket.htb?
 
 A: adserver
 
-Adding the new domain to the /etc/hosts file, we can see what is it.
+Adding the new domain to the /etc/hosts file, we can't see what is it.
 This is all we can see with just browsing it.
 
 ![](../../Img/Pasted%20image%2020250508142126.png)
