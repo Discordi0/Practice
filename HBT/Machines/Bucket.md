@@ -112,7 +112,7 @@ It's in the above screenshot.
 
 Q11: What string must be in the title of an entry in the `alerts` table for it to get processed and saved?
 
-A: 
+A: Ransomware
 
 Going to the folder i found above, i found a folder that i couldn't enter
 
@@ -123,9 +123,13 @@ I the index.html file i found this. (It looks similar to the one i found in Q5).
 
 ![](../../Img/Pasted%20image%2020250508155156.png)
 
+Q12: What is the name of the Java Jar file used to create PDFs by the site on port 8000?
 
-Q12:
-A: 
+A: pd4ml_demo.jar
+
+A liitle bit below the Q11 screenshot.
+
+![](../../Img/Pasted%20image%2020250508160054.png)
 
 Q13: 
 A: 
