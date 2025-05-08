@@ -36,7 +36,7 @@ Connecting to it with awscli and enumerating we get this.
 
 Q4: What user is the webserver running as on Bucket?
 
-A: apache
+A: www-data
 
 I downloaded the files inside the adserver bucket, it turn out to be the same web page.
 Looking the source code of the page didn't tell me anything.
@@ -56,7 +56,12 @@ I uploaded a phpinfo file to see what it returns and got this.
 
 ![](../../Img/Pasted%20image%2020250508150552.png)
 
-Q5: 
+I did the same but with a shell, i got this.
+
+![](../../Img/Pasted%20image%2020250508150942.png)
+
+Q5: What database is the roy user using in their `project`?
+
 A: 
 
 Q6: 
