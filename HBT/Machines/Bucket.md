@@ -47,9 +47,11 @@ I uploaded a .txt file to the bucket.
 
 ![](../../Img/Pasted%20image%2020250508144256.png)
 
-Full path works, but not on the bucket.htb domain.
+I tried with html and php files as well, both showed the same response.
 
-![](../../Img/Pasted%20image%2020250508144330.png)
+![](../../Img/Pasted%20image%2020250508145324.png)
+
+It appears that they can be accessed, but as the files only say "hello", they do not render.
 
 
 
