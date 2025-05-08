@@ -104,10 +104,17 @@ I had to use the hint for this one.
 
 ![](../../Img/Pasted%20image%2020250508155502.png)
 
-Q10: 
+Q10: What is the full path to the directory containing the source for the site listening on 8000?
+
+A: /var/www/bucket-app
+
+It's in the above screenshot.
+
+Q11: What string must be in the title of an entry in the `alerts` table for it to get processed and saved?
+
 A: 
 
-After looking around a little bit, i found a folder that i couldn't enter
+Going to the folder i found above, i found a folder that i couldn't enter
 
 ![](../../Img/Pasted%20image%2020250508155213.png)
 
@@ -116,9 +123,6 @@ I the index.html file i found this. (It looks similar to the one i found in Q5).
 
 ![](../../Img/Pasted%20image%2020250508155156.png)
 
-
-Q11: 
-A: 
 
 Q12:
 A: 
