@@ -43,6 +43,14 @@ Looking the source code of the page didn't tell me anything.
 
 ![](../../Img/Pasted%20image%2020250508143800.png)
 
+I uploaded a .txt file to the bucket.
+
+![](../../Img/Pasted%20image%2020250508144256.png)
+
+Full path works, but not on the bucket.htb domain.
+
+![](../../Img/Pasted%20image%2020250508144330.png)
+
 
 
 Q5: 
