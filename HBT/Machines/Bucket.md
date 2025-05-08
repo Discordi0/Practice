@@ -36,7 +36,7 @@ Connecting to it with awscli and enumerating we get this.
 
 Q4: What user is the webserver running as on Bucket?
 
-A: 
+A: apache
 
 I downloaded the files inside the adserver bucket, it turn out to be the same web page.
 Looking the source code of the page didn't tell me anything.
@@ -52,7 +52,7 @@ It appears that they can be accessed, but as the files only say "hello", they do
 
 ![](../../Img/Pasted%20image%2020250508145324.png)
 
-I uploaded a phpinfo file to see what it return
+I uploaded a phpinfo file to see what it returns and got this.
 
 ![](../../Img/Pasted%20image%2020250508150552.png)
 
