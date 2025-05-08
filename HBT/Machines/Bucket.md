@@ -7,9 +7,14 @@ Bucket is a medium difficulty Linux machine that features [LocalStack](https://g
 
 Q1: How many open TCP ports are listening on Bucket?
 
-A: 
+A: 2
 
-Q2: 
+With a nmap scan we can see the ports. map -sV -sC -Pn 10.10.10.212
+
+
+
+Q2: What domain is hosting the images used on the website?
+
 A: 
 
 Q3: 
