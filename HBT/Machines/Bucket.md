@@ -48,12 +48,13 @@ I uploaded a .txt file to the bucket.
 ![](../../Img/Pasted%20image%2020250508144256.png)
 
 I tried with html and php files as well, both showed the same response.
+It appears that they can be accessed, but as the files only say "hello", they do not render.
 
 ![](../../Img/Pasted%20image%2020250508145324.png)
 
-It appears that they can be accessed, but as the files only say "hello", they do not render.
+I uploaded a phpinfo file to see what it return
 
-
+![](../../Img/Pasted%20image%2020250508150552.png)
 
 Q5: 
 A: 
