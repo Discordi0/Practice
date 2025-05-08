@@ -100,6 +100,14 @@ Q9: What user is the web site on port 8000 running as?
 
 A: 
 
+After looking around a little bit, i found a folder that i couldn't enter
+
+![](../../Img/Pasted%20image%2020250508155213.png)
+
+So i changed
+
+![](../../Img/Pasted%20image%2020250508155156.png)
+
 Q10: 
 A: 
 
