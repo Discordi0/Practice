@@ -71,7 +71,12 @@ After i got the shell, i searched for the user roy. I found this.
 
 Q6: What is the name of the table in the DynamoDB instance hosted on Bucket?
 
-A: 
+A: users
+
+I had to change home dir because the aws configure command wasn't working.
+After changing region of aws o could enumerate the tables of the db. (aws --endpoint-url http://localhost:4566 dynamodb list-tables)
+
+![](../../Img/Pasted%20image%2020250508153349.png)
 
 Q7: 
 A: 
