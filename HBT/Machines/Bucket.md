@@ -34,7 +34,8 @@ Connecting to it with awscli and enumerating we get this.
 
 ![](../../Img/Pasted%20image%2020250508142253.png)
 
-Q4: 
+Q4: What user is the webserver running as on Bucket?
+
 A: 
 
 Q5: 
