@@ -30,7 +30,7 @@ Check what it needs, and set it.
 
 ![](../../Img/Pasted%20image%2020250508225010.png)
 
-Seems to kinda work?, i would say if no shell then no worki.
+Seems to kinda work?, i would say if no shell, then no worki.
 
 ![](../../Img/Pasted%20image%2020250508225042.png)
 
