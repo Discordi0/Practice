@@ -7,7 +7,7 @@ An external contractor has accessed the internal forum here at Forela via the Gu
 
 Q1: What was the username of the external contractor?
 
-A: 
+A: apoole1
 
 To open the sqlite3 file i had to download something to open it, i got this (https://sqlitebrowser.org/).
 Opening it we can see a lot of tables.
@@ -48,6 +48,10 @@ The only ones with IP and that doesn't seem to be bots. (there is user 2 but tha
 Seems like only 50 and 52 posted something.
 
 ![](../../Img/Pasted%20image%2020250509163818.png)
+
+Looking a little bit closer i got it.
+
+![](../../Img/Pasted%20image%2020250509164716.png)
 
 Q2: What IP address did the contractor use to create their account?
 
