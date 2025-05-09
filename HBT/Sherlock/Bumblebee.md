@@ -126,13 +126,19 @@ Same as Q5. Find in the log table and convert.
 
 Q9: What time did the contractor download the database backup? (UTC)
 
-A: 
+A: 26/04/2023 11:01:38
 
 In the log table, it only says that there was a backup, the question is the download, so to the access.log it is.
 
+In the end of the file, we can see that the attacker's IP did a GET request to a backup. So it is that time -1 hour.
 
+![](../../Img/Pasted%20image%2020250509173141.png)
 
 Q10: What was the size in bytes of the database backup as stated by access.log?
 
 A: 
+
+In the same entry, we get the URI, then there is the 
+
+![](../../Img/Pasted%20image%2020250509173335.png)
 
