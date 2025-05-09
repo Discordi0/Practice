@@ -86,8 +86,7 @@ Found you.
 ![](../../Img/Pasted%20image%2020250509171215.png)
 
 This calls a sethidden function.
-
-
+The function looks for phpbb_token to dissable the hidden status of zbzbz1234. When it's called 
 
 Q5: When did the contractor log into the forum as the administrator? (UTC)
 
