@@ -14,7 +14,22 @@ Opening it we can see a lot of tables.
 
 ![](../../Img/Pasted%20image%2020250509162952.png)
 
-Searching for interesting o
+Searching for interesting ones.
+
+In attachments, nothing.
+
+![](../../Img/Pasted%20image%2020250509163102.png)
+
+Forum access, nothing.
+
+![](../../Img/Pasted%20image%2020250509163130.png)
+
+Ban list, nothing? what kind of forum doesn't ban anyone?
+A dead one it seems.
+
+![](../../Img/Pasted%20image%2020250509163237.png)
+
+I see, it's 
 
 Q2: What IP address did the contractor use to create their account?
 
