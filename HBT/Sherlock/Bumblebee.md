@@ -59,6 +59,10 @@ A: 10.10.0.78
 
 I just used the one that was 2 column before his name. 
 
+Opening the access.log file we can see that his IP it's the first one to access the site, so... that's that.
+
+![](../../Img/Pasted%20image%2020250509170311.png)
+
 Q3: What is the post_id of the malicious post that the contractor made?
 
 A: 
