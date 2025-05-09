@@ -73,7 +73,7 @@ In the posts table we can see that there is only 1 post from that IP.
 
 Q4: What is the full URI that the credential stealer sends its data to?
 
-A: 
+A: http://10.10.0.78/update.php
 
 In the same entry of the above question there is this.
 
@@ -90,7 +90,12 @@ The function looks for phpbb_token to dissable the hidden status of zbzbz1234. W
 
 Q5: When did the contractor log into the forum as the administrator? (UTC)
 
-A: 
+A: 26/04/2023 10:53:12
+
+In the log table we can see that the .78 IP login as admin.
+Convert that to 
+
+![](../../Img/Pasted%20image%2020250509172005.png)
 
 Q6: In the forum there are plaintext credentials for the LDAP connection, what is the password?
 
