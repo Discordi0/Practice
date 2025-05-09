@@ -93,17 +93,23 @@ Q5: When did the contractor log into the forum as the administrator? (UTC)
 A: 26/04/2023 10:53:12
 
 In the log table we can see that the .78 IP login as admin.
-Convert that to 
+Convert that to human time and that's the answer (UTC)
 
 ![](../../Img/Pasted%20image%2020250509172005.png)
 
 Q6: In the forum there are plaintext credentials for the LDAP connection, what is the password?
 
-A: 
+A: Passw0rd1
+
+In the config table.
+
+![](../../Img/Pasted%20image%2020250509172340.png)
 
 Q7: What is the user agent of the Administrator user?
 
 A: 
+
+
 
 Q8: What time did the contractor add themselves to the Administrator group? (UTC)
 
