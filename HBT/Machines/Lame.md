@@ -74,10 +74,15 @@ Same.
 
 Q9: We'll explore a bit beyond just getting a root shell on the box. While the official writeup doesn't cover this, you can look at [0xdf's write-up](https://0xdf.gitlab.io/2020/04/07/htb-lame.html#beyond-root---vsftpd) for more details. With a root shell, we can look at why the VSFTPd exploit failed. Our initial `nmap` scan showed four open TCP ports. Running `netstat -tnlp` shows many more ports listening, including ones on 0.0.0.0 and the boxes external IP, so they should be accessible. What must be blocking connection to these ports?
 
+A: firewall
+
+It just seem logical.
+
+Q10: When the VSFTPd backdoor is trigger, what port starts listening?
+
 A: 
 
-Q10: 
-A: 
+
 
 Q11: 
 A: 
