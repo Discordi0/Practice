@@ -50,24 +50,30 @@ Google the cves for samba and read. (https://cve-mitre-org.translate.goog/cgi-bi
 
 Q6: Exploiting CVE-2007-2447 returns a shell as which user?
 
-A: 
+A: root
 
 Since i already was using metasploit, i decided to use it.
 
 ![](../../Img/Pasted%20image%2020250508232046.png)
 
-
-
-
 Q7: Submit the flag located in the makis user's home directory.
 
-A: 
+A: 0b5492d275eed722d4026f6f379a40c1
+
+Search for it.
+
+![](../../Img/Pasted%20image%2020250508232156.png)
 
 Q8: Submit the flag located in root's home directory.
 
-A: 
+A: 4d40f74e9a845f79202b7025f740f86e
 
-Q9: 
+Same.
+
+![](../../Img/Pasted%20image%2020250508232257.png)
+
+Q9: We'll explore a bit beyond just getting a root shell on the box. While the official writeup doesn't cover this, you can look at [0xdf's write-up](https://0xdf.gitlab.io/2020/04/07/htb-lame.html#beyond-root---vsftpd) for more details. With a root shell, we can look at why the VSFTPd exploit failed. Our initial `nmap` scan showed four open TCP ports. Running `netstat -tnlp` shows many more ports listening, including ones on 0.0.0.0 and the boxes external IP, so they should be accessible. What must be blocking connection to these ports?
+
 A: 
 
 Q10: 
