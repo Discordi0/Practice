@@ -65,7 +65,13 @@ Opening the access.log file we can see that his IP it's the first one to access 
 
 Q3: What is the post_id of the malicious post that the contractor made?
 
-A: 
+A: 9
+
+In the posts table we can see that there is only 1 post from that IP.
+
+![](../../Img/Pasted%20image%2020250509170450.png)
+
+
 
 Q4: What is the full URI that the credential stealer sends its data to?
 
