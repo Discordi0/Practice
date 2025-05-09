@@ -80,10 +80,18 @@ It just seem logical.
 
 Q10: When the VSFTPd backdoor is trigger, what port starts listening?
 
+A: 6200
+
+Aftert a while i got it.
+I had to install exploitDb to search for the exploit that used telnet for some reason -.-
+
+![](../../Img/Pasted%20image%2020250509000145.png)
+
+Q11: When the VSFTPd backdoor is triggered, does port 6200 start listening on Lame?
+
 A: 
 
+Let's see.
 
 
-Q11: 
-A: 
 
