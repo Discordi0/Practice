@@ -71,11 +71,23 @@ In the posts table we can see that there is only 1 post from that IP.
 
 ![](../../Img/Pasted%20image%2020250509170450.png)
 
-
-
 Q4: What is the full URI that the credential stealer sends its data to?
 
 A: 
+
+In the same entry of the above question there is this.
+
+![](../../Img/Pasted%20image%2020250509171051.png)
+
+This is a full web page, i unminified because how reads all code in one line? (https://intteractivo.com/herramientas/desminificar-html/)
+
+Found you.
+
+![](../../Img/Pasted%20image%2020250509171215.png)
+
+This calls a sethidden function.
+
+
 
 Q5: When did the contractor log into the forum as the administrator? (UTC)
 
