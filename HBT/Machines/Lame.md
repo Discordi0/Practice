@@ -42,10 +42,17 @@ It's in the same nmap scan as Q1.
 
 Q5: What 2007 CVE allows for remote code execution in this version of Samba via shell metacharacters involving the `SamrChangePassword` function when the "username map script" option is enabled in `smb.conf`?
 
+A: CVE-2007-2447
+
+Google the cves for samba and read. (https://cve-mitre-org.translate.goog/cgi-bin/cvekey.cgi?keyword=samba&_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
+
+![](../../Img/Pasted%20image%2020250508225450.png)
+
+Q6: Exploiting CVE-2007-2447 returns a shell as which user?
+
 A: 
 
-Q6: 
-A: 
+
 
 Q7: Submit the flag located in the makis user's home directory.
 
