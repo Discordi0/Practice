@@ -91,7 +91,7 @@ Q11: When the VSFTPd backdoor is triggered, does port 6200 start listening on La
 
 A: yes
 
-Let's see. (after looking at this in github, this img doesn't render)
+Let's see. (after looking at this in github, this img doesn't render,  interesting lol)
 
 ![](../../Img/Pasted%20image%2020250509000951.png)
 
