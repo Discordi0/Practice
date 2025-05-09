@@ -10,7 +10,11 @@ Q1: What was the username of the external contractor?
 A: 
 
 To open the sqlite3 file i had to download something to open it, i got this (https://sqlitebrowser.org/).
+Opening it we can see a lot of tables.
 
+![](../../Img/Pasted%20image%2020250509162952.png)
+
+Searching for interesting o
 
 Q2: What IP address did the contractor use to create their account?
 
