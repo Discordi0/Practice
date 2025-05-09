@@ -20,7 +20,13 @@ In the same scan as Q1 we get the answer.
 
 Q3: There is a famous backdoor in VSFTPd version 2.3.4, and a Metasploit module to exploit it. Does that exploit work here?
 
-A: 
+A: no
+
+I started metasploit and search for the exploit.
+
+![](../../Img/Pasted%20image%2020250508224936.png)
+
+Check what it needs, and
 
 Q4: 
 A: 
