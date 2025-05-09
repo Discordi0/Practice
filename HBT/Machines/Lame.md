@@ -6,14 +6,20 @@ Lame is an easy Linux machine, requiring only one exploit to obtain root access.
 
 Q1: How many of the `nmap` top 1000 TCP ports are open on the remote host?
 
-A: 
+A: 4
 
-I start with a nmap scan with de s
+I start with a nmap scan with de sV sC and Pn flags.
 
-Q2: 
-A: 
+![](../../Img/Pasted%20image%2020250508224213.png)
 
-Q3: 
+Q2: What version of VSFTPd is running on Lame?
+
+A: 2.3.4
+
+In the same scan as Q1 we get the answer.
+
+Q3: There is a famous backdoor in VSFTPd version 2.3.4, and a Metasploit module to exploit it. Does that exploit work here?
+
 A: 
 
 Q4: 
@@ -25,10 +31,12 @@ A:
 Q6: 
 A: 
 
-Q7: 
+Q7: Submit the flag located in the makis user's home directory.
+
 A: 
 
-Q8: 
+Q8: Submit the flag located in root's home directory.
+
 A: 
 
 Q9: 
