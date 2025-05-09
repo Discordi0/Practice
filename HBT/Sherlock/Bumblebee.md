@@ -5,25 +5,35 @@ An external contractor has accessed the internal forum here at Forela via the Gu
 
 
 
-Q1: 
+Q1: What was the username of the external contractor?
+
 A: 
 
-Q2: 
+To open the sqlite3 file i had to download something to open it, i got this (https://sqlitebrowser.org/).
+
+
+Q2: What IP address did the contractor use to create their account?
+
 A: 
 
-Q3: 
+Q3: What is the post_id of the malicious post that the contractor made?
+
 A: 
 
-Q4: 
+Q4: What is the full URI that the credential stealer sends its data to?
+
 A: 
 
-Q5: 
+Q5: When did the contractor log into the forum as the administrator? (UTC)
+
 A: 
 
-Q6: 
+Q6: In the forum there are plaintext credentials for the LDAP connection, what is the password?
+
 A: 
 
-Q7: 
+Q7: What is the user agent of the Administrator user?
+
 A: 
 
 Q8: What time did the contractor add themselves to the Administrator group? (UTC)
