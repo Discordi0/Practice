@@ -53,9 +53,9 @@ Q6: Exploiting CVE-2007-2447 returns a shell as which user?
 A: 
 
 Since i already was using metasploit, i decided to use it.
-It didn't work.
 
-![](../../Img/Pasted%20image%2020250508230032.png)
+![](../../Img/Pasted%20image%2020250508232046.png)
+
 
 
 
