@@ -107,13 +107,22 @@ In the config table.
 
 Q7: What is the user agent of the Administrator user?
 
-A: 
+A: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 
+We can search for his IP in the access.log file.
+
+![](../../Img/Pasted%20image%2020250509172623.png)
+
+![](../../Img/Pasted%20image%2020250509172553.png)
 
 
 Q8: What time did the contractor add themselves to the Administrator group? (UTC)
 
-A: 
+A: 26/04/2023 10:53:51
+
+Same as Q5. Find in the log table and convert.
+
+![](../../Img/Pasted%20image%2020250509172711.png)
 
 Q9: What time did the contractor download the database backup? (UTC)
 
