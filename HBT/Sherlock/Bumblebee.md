@@ -128,6 +128,10 @@ Q9: What time did the contractor download the database backup? (UTC)
 
 A: 
 
+In the log table, it only says that there was a backup, the question is the download, so to the access.log it is.
+
+
+
 Q10: What was the size in bytes of the database backup as stated by access.log?
 
 A: 
