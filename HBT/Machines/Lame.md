@@ -26,12 +26,22 @@ I started metasploit and search for the exploit.
 
 ![](../../Img/Pasted%20image%2020250508224936.png)
 
-Check what it needs, and
+Check what it needs, and set it.
 
-Q4: 
-A: 
+![](../../Img/Pasted%20image%2020250508225010.png)
 
-Q5: 
+Seems to kinda work?, i would say if no shell then no worki.
+
+![](../../Img/Pasted%20image%2020250508225042.png)
+
+Q4: What version of Samba is running on Lame? Give the numbers up to but not including "-Debian".
+
+A: 3.0.20
+
+It's in the same nmap scan as Q1.
+
+Q5: What 2007 CVE allows for remote code execution in this version of Samba via shell metacharacters involving the `SamrChangePassword` function when the "username map script" option is enabled in `smb.conf`?
+
 A: 
 
 Q6: 
