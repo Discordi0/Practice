@@ -57,7 +57,7 @@ Q2: What IP address did the contractor use to create their account?
 
 A: 10.10.0.78
 
-I just used the one 
+I just used the one that was 2 column before his name. 
 
 Q3: What is the post_id of the malicious post that the contractor made?
 
