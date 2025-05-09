@@ -136,9 +136,9 @@ In the end of the file, we can see that the attacker's IP did a GET request to a
 
 Q10: What was the size in bytes of the database backup as stated by access.log?
 
-A: 
+A: 34707
 
-In the same entry, we get the URI, then there is the 
+In the same entry, we get the URI, then we have the protocol, the response code, and then there is the size.
 
 ![](../../Img/Pasted%20image%2020250509173335.png)
 
