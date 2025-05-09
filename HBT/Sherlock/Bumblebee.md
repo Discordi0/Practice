@@ -29,7 +29,21 @@ A dead one it seems.
 
 ![](../../Img/Pasted%20image%2020250509163237.png)
 
-I see, it's 
+I see, it's full of bots.
+
+![](../../Img/Pasted%20image%2020250509163309.png)
+
+In logs we have something.
+
+![](../../Img/Pasted%20image%2020250509163400.png)
+
+User 48 is admin.
+
+![](../../Img/Pasted%20image%2020250509163426.png)
+
+The only ones with IP and that doesn't seem to be bots. (there is user 2 but that's admin).
+
+![](../../Img/Pasted%20image%2020250509163539.png)
 
 Q2: What IP address did the contractor use to create their account?
 
