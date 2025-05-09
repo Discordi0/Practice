@@ -45,6 +45,10 @@ The only ones with IP and that doesn't seem to be bots. (there is user 2 but tha
 
 ![](../../Img/Pasted%20image%2020250509163539.png)
 
+Seems like only 50 and 52 posted something.
+
+![](../../Img/Pasted%20image%2020250509163818.png)
+
 Q2: What IP address did the contractor use to create their account?
 
 A: 
