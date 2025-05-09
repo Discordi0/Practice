@@ -93,7 +93,7 @@ A: yes
 
 Let's see.
 
-![](../../Img/Pasted%20image%2020250509000556.png)
+![](../../Img/Pasted%20image%2020250509000951.png)
 
 It actually did.
 
