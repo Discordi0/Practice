@@ -37,5 +37,7 @@ Poking around i found this.
 
 ![](../../Img/Pasted%20image%2020250512162349.png)
 
+After more poking around i found that 
+
 Q2: Root flag.
 A: 
