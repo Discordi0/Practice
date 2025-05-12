@@ -37,7 +37,17 @@ Poking around i found this.
 
 ![](../../Img/Pasted%20image%2020250512162349.png)
 
-After more poking around i found that 
+After more poking around i found the ssh key.
+
+![](../../Img/Pasted%20image%2020250512164604.png)
+
+And i uploaded my own (twice because the first time didn't work).
+
+![](../../Img/Pasted%20image%2020250512164735.png)
+
+![](../../Img/Pasted%20image%2020250512164745.png)
+
+
 
 Q2: Root flag.
 A: 
