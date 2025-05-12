@@ -29,7 +29,9 @@ It is a debug console?
 
 ![](../../Img/Pasted%20image%2020250512160551.png)
 
+Whe can see that the console does work.
 
+![](../../Img/Pasted%20image%2020250512161716.pn
 
 Q2: Root flag.
 A: 
