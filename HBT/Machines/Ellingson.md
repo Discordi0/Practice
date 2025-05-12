@@ -16,6 +16,11 @@ We can see that it has port 80 open, upon visiting the web page we see that the 
 
 ![](../../Img/Pasted%20image%2020250512155543.png)
 
+Trying to see if there is other articles we get this.
+
+![](../../Img/Pasted%20image%2020250512155716.png)
+
+We can see that it uses python3 and flask.
 
 
 Q2: Root flag.
