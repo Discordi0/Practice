@@ -12,6 +12,10 @@ With a Nmap scan -sV -sC -Pn i got this.
 
 ![](../../Img/Pasted%20image%2020250512155255.png)
 
+We can see that it has port 80 open, upon visiting the web page we see that the only thing clickable are articles.
+
+![](../../Img/Pasted%20image%2020250512155543.png)
+
 
 
 Q2: Root flag.
