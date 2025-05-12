@@ -25,7 +25,10 @@ When i was looking at the error page i saw that if i hover the darker textbox th
 
 ![](../../Img/Pasted%20image%2020250512160521.png)
 
+It is a debug console?
+
 ![](../../Img/Pasted%20image%2020250512160551.png)
+
 
 
 Q2: Root flag.
