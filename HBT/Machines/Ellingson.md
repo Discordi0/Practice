@@ -33,7 +33,9 @@ Whe can see that the console does work.
 
 ![](../../Img/Pasted%20image%2020250512161716.png)
 
+Poking around i found this.
 
+![](../../Img/Pasted%20image%2020250512162349.png)
 
 Q2: Root flag.
 A: 
