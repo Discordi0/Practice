@@ -21,6 +21,11 @@ Trying to see if there is other articles we get this.
 ![](../../Img/Pasted%20image%2020250512155716.png)
 
 We can see that it uses python3 and flask.
+When i was looking at the error page i saw that if i hover the darker textbox there is an icon that appears.
+
+![](../../Img/Pasted%20image%2020250512160521.png)
+
+![](../../Img/Pasted%20image%2020250512160551.png)
 
 
 Q2: Root flag.
