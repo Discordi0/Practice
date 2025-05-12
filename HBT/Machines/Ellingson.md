@@ -47,6 +47,8 @@ And i uploaded my own (twice because the first time didn't work).
 
 ![](../../Img/Pasted%20image%2020250512164745.png)
 
+I copied LinEnum on the box and run it.
+
 
 
 Q2: Root flag.
