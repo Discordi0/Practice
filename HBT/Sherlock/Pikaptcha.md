@@ -57,6 +57,12 @@ Q5: For how many seconds was the reverse shell connection established between C2
 
 A: 
 
+With the port, we add it to the filter in wireshark and calculate.
+
+![](../../Img/Pasted%20image%2020250513155836.png)
+
+
+
 Q6: Attacker hosted a malicious Captcha to lure in users. What is the name of the function which contains the malicious payload to be pasted in victim's clipboard?
 
 A: 
