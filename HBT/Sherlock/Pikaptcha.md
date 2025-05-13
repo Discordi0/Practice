@@ -65,10 +65,16 @@ With the port, we add it to the filter in wireshark and calculate.
 
 Q6: Attacker hosted a malicious Captcha to lure in users. What is the name of the function which contains the malicious payload to be pasted in victim's clipboard?
 
-A: 
+A: stageClipboard
 
 I remember that in Q3 i saw clear http traffic, so i went to see it.
 
 ![](../../Img/Pasted%20image%2020250513160502.png)
 
 It seems to be the web page.
+
+![](../../Img/Pasted%20image%2020250513160526.png)
+
+Reading through it i found it. (If the pcapng was massive, the http filter would have helped)
+
+![](../../Img/Pasted%20image%2020250513160553.png)
