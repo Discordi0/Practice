@@ -55,13 +55,13 @@ Decode it. (I use magic) (https://cyberchef.org/#recipe=From_Base64('A-Za-z0-9%2
 
 Q5: For how many seconds was the reverse shell connection established between C2 and the victim's workstation?
 
-A: 
+A: 403
 
 With the port, we add it to the filter in wireshark and calculate.
 
 ![](../../Img/Pasted%20image%2020250513155836.png)
 
-
+![](../../Img/Pasted%20image%2020250513160049.png)
 
 Q6: Attacker hosted a malicious Captcha to lure in users. What is the name of the function which contains the malicious payload to be pasted in victim's clipboard?
 
