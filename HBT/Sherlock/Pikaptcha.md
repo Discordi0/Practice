@@ -25,7 +25,7 @@ In the Q1 screenshot.
 
 Q3: The payload which was executed initially downloaded a PowerShell script and executed it in memory. What is sha256 hash of the script?
 
-A: 
+A: 579284442094e1a44bea9cfb7d8d794c8977714f827c97bcb2822a97742914de
 
 To get the hash i need the file, to get the file we use wireshark to open the pcapng file and search.
 One of the only 2 things that i have is the ip, so we use as filter.
@@ -36,6 +36,10 @@ Looking through the packets we spot the 2nd thing that we know, the file name.
 After checking that the download name it's the same as the execution name, we search for it in Export HTTP.
 
 ![](../../Img/Pasted%20image%2020250513154311.png)
+
+Get the hash.
+
+![](../../Img/Pasted%20image%2020250513154506.png)
 
 Q4: To which port did the reverse shell connect?
 
