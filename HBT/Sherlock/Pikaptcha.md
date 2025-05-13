@@ -33,7 +33,9 @@ Looking through the packets we spot the 2nd thing that we know, the file name.
 
 ![](../../Img/Pasted%20image%2020250513153952.png)
 
+After checking that the download name it's the same as the execution name, we search for it in Export HTTP.
 
+![](../../Img/Pasted%20image%2020250513154311.png)
 
 Q4: To which port did the reverse shell connect?
 
