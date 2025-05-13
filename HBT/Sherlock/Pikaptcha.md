@@ -13,12 +13,15 @@ We go to the hive of the indicated user.
 ![](../../Img/Pasted%20image%2020250513152918.png)
 
 Load it and go to bookmark.
+Under RunMRU we find it.
 
-
+![](../../Img/Pasted%20image%2020250513153145.png)
 
 Q2: At what time in UTC did the malicious payload execute?
 
-A: 
+A: 2024-09-23 05:07:45
+
+In the Q1 screenshot.
 
 Q3: The payload which was executed initially downloaded a PowerShell script and executed it in memory. What is sha256 hash of the script?
 
