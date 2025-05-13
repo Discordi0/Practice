@@ -43,7 +43,15 @@ Get the hash.
 
 Q4: To which port did the reverse shell connect?
 
-A: 
+A: 6969
+
+We see what the file has.
+
+![](../../Img/Pasted%20image%2020250513155127.png)
+
+Decode it. (I use magic) (https://cyberchef.org/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,false)Decode_text('UTF-16LE%20(1200)'))
+
+![](../../Img/Pasted%20image%2020250513155219.png)
 
 Q5: For how many seconds was the reverse shell connection established between C2 and the victim's workstation?
 
