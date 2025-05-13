@@ -28,7 +28,11 @@ Q3: The payload which was executed initially downloaded a PowerShell script and 
 A: 
 
 To get the hash i need the file, to get the file we use wireshark to open the pcapng file and search.
-One of the only 2 things that i have is the ip, so we use as 
+One of the only 2 things that i have is the ip, so we use as filter.
+Looking through the packets we spot the 2nd thing that we know, the file name.
+
+![](../../Img/Pasted%20image%2020250513153952.png)
+
 
 
 Q4: To which port did the reverse shell connect?
