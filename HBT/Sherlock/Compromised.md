@@ -61,7 +61,13 @@ I need to filter for handshake type 11.
 
 ![](../../Img/Pasted%20image%2020250515170914.png)
 
-Checking the traffic i can see that there is a lot of ports, but checking if the cert is self si
+Checking the traffic i can see that there is a lot of ports, but checking if the cert is self signed (if issuer and subject are the same) i can gather the answer.
+
+![](../../Img/Pasted%20image%2020250515171401.png)
+
+![](../../Img/Pasted%20image%2020250515171417.png)
+
+
 
 Q6: What is the id-at-localityName of the self-signed certificate associated with the first malicious IP?
 
