@@ -26,13 +26,15 @@ Applying that ip as a filter, we can see that the first thing that our victim do
 
 Q2: What is the SHA256 hash of the malware?
 
-A: 
+A: 9b8ffdc8ba2b2caa485cca56a82b2dcbd251f65fb30bc88f0ac3da6704e4d3c6
 
 Having the file name, we can see what it was downloading it.
 
 ![](../../Img/Pasted%20image%2020250515160934.png)
 
+We just need to get the hash now.
 
+![](../../Img/Pasted%20image%2020250515161132.png)
 
 Q3: What is the Family label of the malware?
 
