@@ -8,7 +8,9 @@ Q1: What is the IP address used for initial access?
 
 A: 
 
-There is only a single .pcap file, so open that 
+There is only a single .pcap file, so open that.
+With a quick glance i couldn't find anything interesting, so i went to the conversations menu.
+In the first 3 tabs
 
 Q2: What is the SHA256 hash of the malware?
 
