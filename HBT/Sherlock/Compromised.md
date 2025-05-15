@@ -79,9 +79,15 @@ Checking the details.
 
 Q7: What is the notBefore time(UTC) for this self-signed certificate?
 
-A: 
+A: 2023-05-14 08:36:52
+
+Just under Q6.
+
+![](../../Img/Pasted%20image%2020250515172357.png)
 
 Q8: What was the domain used for tunneling?
 
 A: 
+
+Changing the filter to dns, we se
 
