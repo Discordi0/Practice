@@ -38,7 +38,11 @@ We just need to get the hash now.
 
 Q3: What is the Family label of the malware?
 
-A: 
+A: Pikabot
+
+Enter the 256 hash in virustotal.
+
+![](../../Img/Pasted%20image%2020250515164641.png)
 
 Q4: When was the malware first seen in the wild (UTC)?
 
