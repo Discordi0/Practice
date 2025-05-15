@@ -46,7 +46,11 @@ Enter the 256 hash in virustotal.
 
 Q4: When was the malware first seen in the wild (UTC)?
 
-A: 
+A: 2023-05-19 14:01:21
+
+In VirusTotal, on Details under History.
+
+![](../../Img/Pasted%20image%2020250515164749.png)
 
 Q5: The malware used HTTPS traffic with a self-signed certificate. What are the ports, from smallest to largest?
 
