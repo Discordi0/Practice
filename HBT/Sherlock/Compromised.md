@@ -87,7 +87,9 @@ Just under Q6.
 
 Q8: What was the domain used for tunneling?
 
-A: 
+A: steasteel.net
 
-Changing the filter to dns, we se
+Changing the filter to dns, we see traffic for only 2 ips.
+
+![](../../Img/Pasted%20image%2020250515172703.png)
 
