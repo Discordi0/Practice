@@ -10,7 +10,16 @@ A:
 
 There is only a single .pcap file, so open that.
 With a quick glance i couldn't find anything interesting, so i went to the conversations menu.
-In the first 3 tabs
+In the first 3 tabs there wasn't much, but in the TCP tab i found this.
+
+![](../../Img/Pasted%20image%2020250515160158.png)
+
+Why is this machine sending to a http/web page port so much data (compared to the rest).
+I found that there is only 1 other ip that the machine connected in port 80.
+
+![](../../Img/Pasted%20image%2020250515160342.png)
+
+But the traffic is almost nothing.
 
 Q2: What is the SHA256 hash of the malware?
 
