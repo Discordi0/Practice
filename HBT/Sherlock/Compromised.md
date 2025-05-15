@@ -8,6 +8,8 @@ Q1: What is the IP address used for initial access?
 
 A: 
 
+There is only a single .pcap file, so open that 
+
 Q2: What is the SHA256 hash of the malware?
 
 A: 
