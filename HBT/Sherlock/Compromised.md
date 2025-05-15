@@ -59,7 +59,9 @@ A:
 According to this (https://superuser.com/questions/1756591/how-can-i-view-the-tls-1-2-and-1-3-certificates-in-wireshark) and this (https://community.fortinet.com/t5/FortiGate/Technical-Tip-Extracting-certificates-from-SSL-TLS-handshake/ta-p/221235)
 I need to filter for handshake type 11.
 
+![](../../Img/Pasted%20image%2020250515170914.png)
 
+Checking the traffic i can see that there is a lot of ports, but checking if the cert is self si
 
 Q6: What is the id-at-localityName of the self-signed certificate associated with the first malicious IP?
 
