@@ -20,6 +20,9 @@ I found that there is only 1 other ip that the machine connected in port 80.
 ![](../../Img/Pasted%20image%2020250515160342.png)
 
 But the traffic is almost nothing.
+Applying that ip as a filter, we can see that the first thing that our victim does it's access a weird (possible malicious).
+
+![](../../Img/Pasted%20image%2020250515160656.png)
 
 Q2: What is the SHA256 hash of the malware?
 
