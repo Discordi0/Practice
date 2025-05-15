@@ -71,7 +71,11 @@ Checking the traffic i can see that there is a lot of ports, but checking if the
 
 Q6: What is the id-at-localityName of the self-signed certificate associated with the first malicious IP?
 
-A: 
+A: Pyopneumopericardium
+
+Checking the details.
+
+![](../../Img/Pasted%20image%2020250515172240.png)
 
 Q7: What is the notBefore time(UTC) for this self-signed certificate?
 
