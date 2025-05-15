@@ -6,7 +6,7 @@ Our SOC team detected suspicious activity in Network Traffic, the machine has be
 
 Q1: What is the IP address used for initial access?
 
-A: 
+A: 162.252.172.54
 
 There is only a single .pcap file, so open that.
 With a quick glance i couldn't find anything interesting, so i went to the conversations menu.
@@ -20,13 +20,19 @@ I found that there is only 1 other ip that the machine connected in port 80.
 ![](../../Img/Pasted%20image%2020250515160342.png)
 
 But the traffic is almost nothing.
-Applying that ip as a filter, we can see that the first thing that our victim does it's access a weird (possible malicious).
+Applying that ip as a filter, we can see that the first thing that our victim does it's access a weird (possible malicious) link.
 
 ![](../../Img/Pasted%20image%2020250515160656.png)
 
 Q2: What is the SHA256 hash of the malware?
 
 A: 
+
+Having the file name, we can see what it was downloading it.
+
+![](../../Img/Pasted%20image%2020250515160934.png)
+
+
 
 Q3: What is the Family label of the malware?
 
