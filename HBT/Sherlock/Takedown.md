@@ -83,11 +83,16 @@ Check the Community tab.
 
 Q10: What is the user-agent string of the infected machine?
 
-A: 
+A: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
 
+Filtering for http we can see all the traffic.
 
+![](../../Img/Pasted%20image%2020250516031229.png)
 
 Q11: To what IP does the RAT from the previous question connect?
 
 A: 
+
+
+
 
