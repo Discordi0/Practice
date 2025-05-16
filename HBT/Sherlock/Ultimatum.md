@@ -17,7 +17,7 @@ Looking through the file i got the answer.
 
 Q2: Which CVE was exploited by the attacker?
 
-A: 
+A: CVE-2023-3460
 
 Since it's likely that the attack was because a vulnerable plugin, i searched for the plugins.
 
@@ -26,15 +26,23 @@ Since it's likely that the attack was because a vulnerable plugin, i searched fo
 We can see that the tool found a plugin named ultimate member, then proceded to attack it.
 We can also see that the version of the plugin it's 2.6.4
 
-Googling the plugin name and 
+Googling the plugin name and version for a CVE i found this.
+https://wpscan.com/blog/hacking-campaign-actively-exploiting-ultimate-member-plugin/
+
 
 Q3: What was the IP Address utilized by the attacker to exploit the CVE?
 
-A: 
+A: 23.106.60.163
+
+We can see it in the logs where at the beginning it was the attacker ip, then it changed once the system was compromised.
+
+![](../../Img/Pasted%20image%2020250516175707.png)
 
 Q4: What is the name of the backdoor user added to the blog as part of the exploitation process?
 
 A: 
+
+
 
 Q5: After the exploit, the SOC team observed that the attacker's IP address changed and from the logs, it seems that the attacker manually explored the website after logging in. The SOC team believes that the previous IP seen during exploitation was a public cloud IP. What is the IP Address the attacker used after logging in to the site?
 
