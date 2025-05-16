@@ -8,6 +8,8 @@ Q1: Which security scanning tool was utilized by the attacker to fingerprint the
 
 A: 
 
+
+
 Q2: Which CVE was exploited by the attacker?
 
 A: 
