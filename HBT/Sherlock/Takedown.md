@@ -4,16 +4,20 @@
 
 We've identified an unusual pattern in our network activity, indicating a possible security breach. Our team suspects an unauthorized intrusion into our systems, potentially compromising sensitive data. Your task is to investigate this incident.
 
-Q1: 
+Q1: From what domain is the VBS script downloaded?
+
 A: 
 
-Q2: 
+Q2: What was the IP address associated with the domain in question #1 used for this attack?
+
 A: 
 
-Q3: 
+Q3: What is the filename of the VBS script used for initial access?
+
 A: 
 
-Q4: 
+Q4: What was the URL used to get a PowerShell script?
+
 A: 
 
 Q5: What likely legit binary was downloaded to the victim machine?
