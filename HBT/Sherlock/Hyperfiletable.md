@@ -83,7 +83,9 @@ This is what it had.
 
 Q10: How many files remain under the C:\Users\ directory? (Recursively)
 
-A: 
+A: 3471
+
+
 
 
 
