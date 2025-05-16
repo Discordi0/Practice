@@ -77,13 +77,18 @@ It's in the above screenshot.
 
 Q8: What is the size of the webshell in bytes?
 
-A: 
+A: 2592
 
+In the same folder as the Q6 .txt file, there is a .csv file.
+I opened that file with Timeline Explorer, filtered for the file name, and got it.
 
+![](../../Img/Pasted%20image%2020250516182823.png)
 
 Q9: The SOC team believes that the attacker utilized the webshell to get RCE on the server. Can you confirm the C2 IP and Port?
 
-A: 
+A: 43.204.24.76:6969
+
+It's in Q
 
 Q10: What is the process ID of the process which enabled the Threat Actor (TA) to gain hands-on access to the server?
 
