@@ -26,7 +26,15 @@ In screenshot of Q1.
 
 Q4: What was the URL used to get a PowerShell script?
 
-A: 
+A: badbutperfect.com
+
+Checking the HTTP exports we can see what file where downloaded.
+
+![](../../Img/Pasted%20image%2020250516023952.png)
+
+Checking each of the files, we find this.
+
+![](../../Img/Pasted%20image%2020250516024112.png)
 
 Q5: What likely legit binary was downloaded to the victim machine?
 
