@@ -20,7 +20,9 @@ In packet N° 2 there is the ip of the domain.
 
 Q3: What is the filename of the VBS script used for initial access?
 
-A: 
+A: AZURE_DOC_OPEN.vbs
+
+In screenshot of Q1.
 
 Q4: What was the URL used to get a PowerShell script?
 
