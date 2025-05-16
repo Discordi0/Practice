@@ -56,6 +56,10 @@ Q6: The SOC team has suspicions that the attacker added a web shell for persiste
 
 A: 
 
+Near the end of the access.log file
+
+![](../../Img/Pasted%20image%2020250516180712.png)
+
 Q7: What was the value of the $shell variable in the web shell?
 
 A: 
