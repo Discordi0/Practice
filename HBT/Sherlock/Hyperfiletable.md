@@ -85,9 +85,12 @@ Q10: How many files remain under the C:\Users\ directory? (Recursively)
 
 A: 3471
 
-I had to check a hint for this, i used the edit filter function to narrow my search but i never got to the answer, i don't know what Is Ads and In Use filters are.
+I had to check a hint for this, i used the edit filter function to narrow my search but i never got to the answer, i don't know what Is Ads  filter is or why In Use is used.
+
+![](../../Img/Pasted%20image%2020250516194500.png)
 
 I searched in google and downloaded the manual from leanpub.com for the EZ Tools, but no mention of these filters.
+
 
 
 
