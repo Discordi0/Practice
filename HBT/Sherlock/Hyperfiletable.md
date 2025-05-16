@@ -72,7 +72,14 @@ Q9: The user has made notes of their work credentials, what is their password?
 
 A: 
 
+I found this file looking at the user directory.
 
+![](../../Img/Pasted%20image%2020250516192316.png)
+
+Since MFTExplorer finally opened i can search for it.
+This is what it had.
+
+![](../../Img/Pasted%20image%2020250516192353.png)
 
 Q10: How many files remain under the C:\Users\ directory? (Recursively)
 
