@@ -91,8 +91,6 @@ Filtering for http we can see all the traffic.
 
 Q11: To what IP does the RAT from the previous question connect?
 
-A: 
+A: 103.124.105.78
 
-
-
-
+Just check the Destination ip in wireshark.
