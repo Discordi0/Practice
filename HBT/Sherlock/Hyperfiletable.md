@@ -24,15 +24,27 @@ Q3: What is the name of the malicious HTA that was downloaded by that user?
 
 A: Onboarding.hta
 
-I filtered with Randy Savage in the parenth
+I filtered with Randy Savage in the parent path column and with .hta in the file name column and got it.
+
+![](../../Img/Pasted%20image%2020250516190918.png)
 
 Q4: What is the ZoneId of the download for the malicious HTA file?
 
-A: 
+A: 3
+
+Under the Q3 entry there this file.
+
+![](../../Img/Pasted%20image%2020250516191042.png)
+
+And under Zone Id Contents.
+
+![](../../Img/Pasted%20image%2020250516191104.png)
 
 Q5: What is the download URL for the malicious HTA?
 
-A: 
+A: https://doc-10-8k-docs.googleusercontent.com/docs/securesc/9p3kedtu9rd1pnhecjfevm1clqmh1kc1/9mob6oj9jdbq89eegoedo0c9f3fpmrnj/1680708975000/04991425918988780232/11676194732725945250Z/1hsQhtmZJW9xZGgniME93H3mXZIV4OKgX?e=download&uuid=56e1ab75-ea1e-41b7-bf92-9432cfa8b645&nonce=u98832u1r35me&user=11676194732725945250Z&hash=j5meb42cqr57pa0ef411ja1k70jkgphq
+
+Q4 screencshot.
 
 Q6: What is the allocated size for the HTA file? (bytes)
 
