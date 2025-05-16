@@ -56,9 +56,14 @@ Q6: The SOC team has suspicions that the attacker added a web shell for persiste
 
 A: 
 
-Near the end of the access.log file
+Near the end of the access.log file we can see a lot of POST request together.
+They seem to follow a theme (lol).
 
 ![](../../Img/Pasted%20image%2020250516180712.png)
+
+They reference a hidden-comments theme N° 2023.
+
+![](../../Img/Pasted%20image%2020250516180856.png)
 
 Q7: What was the value of the $shell variable in the web shell?
 
