@@ -71,11 +71,15 @@ I found it in the ip-172-31-11-131-20230808-0937-pot-webshell-first-1000.txt fil
 ![](../../Img/Pasted%20image%2020250516182013.png)
 Q7: What was the value of the $shell variable in the web shell?
 
-A: 
+A: 'uname -a; w; id; /bin/bash -i';
+
+It's in the above screenshot.
 
 Q8: What is the size of the webshell in bytes?
 
 A: 
+
+
 
 Q9: The SOC team believes that the attacker utilized the webshell to get RCE on the server. Can you confirm the C2 IP and Port?
 
