@@ -44,15 +44,19 @@ Q5: What likely legit binary was downloaded to the victim machine?
 
 A: AutoHotkey.exe
 
-
+Reading the script we can find the name of the file.
 
 Q6: From what URL was the malware used with the binary from question #5 downloaded?
 
-A: 
+A: http://badbutperfect.com/jvtobaqj
+
+Reading the script again.
 
 Q7: What filename was the malware from question #6 given on disk?
 
-A: 
+A: script.ahk
+
+It's righ next to Q6 answer.
 
 Q8: What is the TLSH of the malware?
 
