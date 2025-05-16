@@ -54,7 +54,7 @@ As i said in Q3 we can see that the attacker changed ip.
 
 Q6: The SOC team has suspicions that the attacker added a web shell for persistent access. Confirm the full path of the web shell on the server.
 
-A: 
+A: /var/www/html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php
 
 Near the end of the access.log file we can see a lot of POST request together.
 They seem to follow a theme (lol).
@@ -68,7 +68,7 @@ They reference a hidden-comments theme N° 2023.
 So i just started searching every log for that name as it seem to be the only thing that the attacker left.
 I found it in the ip-172-31-11-131-20230808-0937-pot-webshell-first-1000.txt file.
 
-
+![](../../Img/Pasted%20image%2020250516182013.png)
 Q7: What was the value of the $shell variable in the web shell?
 
 A: 
