@@ -54,19 +54,25 @@ In size it's 1144.
 
 ![](../../Img/Pasted%20image%2020250516191215.png)
 
-But the "allocated" size would be 4096 since that it's the size that each registry can ocupie per entry. So 1144 bein less that 4096. 4096 it's the allocated size.
+But the "allocated" size would be 4096 since that it's the size that each registry can occupy per entry. So 1144 bein less that 4096. 4096 it's the allocated size.
 
 Q7: What is the real size of the HTA file? (bytes)
 
-A: 
+A: 1144
+
+Q6 screenshot.
 
 Q8: When was the powerpoint presentation downloaded by the user?
 
-A: 
+A: 05/04/2023 13:11:49
+
+Change the File Name filter for .ppt and look at the Created0x10 column.
 
 Q9: The user has made notes of their work credentials, what is their password?
 
 A: 
+
+
 
 Q10: How many files remain under the C:\Users\ directory? (Recursively)
 
