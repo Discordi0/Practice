@@ -67,15 +67,25 @@ I tried checking it myself.
 ![](../../Img/Pasted%20image%2020250516030309.png)
 
 But it wasn't it.
-I had to sha256sum it, check that in virustotal
+I had to sha256sum it, check that in virustotal, and from there get the answer.
+
+![](../../Img/Pasted%20image%2020250516030416.png)
+
+![](../../Img/Pasted%20image%2020250516030431.png)
 
 Q9: What is the name given to this malware? Use the name used by McAfee, Ikarus, and alejandro.sanchez.
 
-A: 
+A: DarkGate
+
+Check the Community tab.
+
+![](../../Img/Pasted%20image%2020250516030615.png)
 
 Q10: What is the user-agent string of the infected machine?
 
 A: 
+
+
 
 Q11: To what IP does the RAT from the previous question connect?
 
