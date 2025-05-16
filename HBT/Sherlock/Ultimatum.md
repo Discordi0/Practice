@@ -8,7 +8,7 @@ Q1: Which security scanning tool was utilized by the attacker to fingerprint the
 
 A: 
 
-
+Seeing that this is a WP 
 
 Q2: Which CVE was exploited by the attacker?
 
