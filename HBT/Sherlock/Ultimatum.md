@@ -6,13 +6,20 @@ One of the Forela WordPress servers was a target of notorious Threat Actors (TA)
 
 Q1: Which security scanning tool was utilized by the attacker to fingerprint the blog website?
 
-A: 
+A: wpscan/3.8.24
 
-Seeing that this is a WP 
+Seeing that this is a WP server, i searched for the WP logs.
+I found them here (C:\Users\*******\Documents\Practice\Ultimatum\Logs\ip-172-31-11-131-20230808-0937-var-log.tar\ip-172-31-11-131-20230808-0937-var-log\var\log\apache2).
+
+Looking through the file i got the answer.
+
+![](../../Img/Pasted%20image%2020250516174444.png)
 
 Q2: Which CVE was exploited by the attacker?
 
 A: 
+
+
 
 Q3: What was the IP Address utilized by the attacker to exploit the CVE?
 
