@@ -65,6 +65,10 @@ They reference a hidden-comments theme N° 2023.
 
 ![](../../Img/Pasted%20image%2020250516180856.png)
 
+So i just started searching every log for that name as it seem to be the only thing that the attacker left.
+I found it in the ip-172-31-11-131-20230808-0937-pot-webshell-first-1000.txt file.
+
+
 Q7: What was the value of the $shell variable in the web shell?
 
 A: 
