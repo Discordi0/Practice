@@ -60,7 +60,14 @@ It's righ next to Q6 answer.
 
 Q8: What is the TLSH of the malware?
 
-A: 
+A: T15E430A36DBC5202AD8E3074270096562FE7DC0215B4B32659C9EF16835CF6FF9B6A1B8
+
+I tried checking it myself.
+
+![](../../Img/Pasted%20image%2020250516030309.png)
+
+But it wasn't it.
+I had to sha256sum it, check that in virustotal
 
 Q9: What is the name given to this malware? Use the name used by McAfee, Ikarus, and alejandro.sanchez.
 
