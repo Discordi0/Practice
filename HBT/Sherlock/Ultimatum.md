@@ -19,6 +19,8 @@ Q2: Which CVE was exploited by the attacker?
 
 A: 
 
+Since it's likely that the attack was because a vulnerable plugin, i searched for the plugins.
+
 
 
 Q3: What was the IP Address utilized by the attacker to exploit the CVE?
