@@ -40,13 +40,17 @@ We can see it in the logs where at the beginning it was the attacker ip, then it
 
 Q4: What is the name of the backdoor user added to the blog as part of the exploitation process?
 
-A: 
+A: Secragon
 
+We can see it when the attacker tried to register.
 
+![](../../Img/Pasted%20image%2020250516175945.png)
 
 Q5: After the exploit, the SOC team observed that the attacker's IP address changed and from the logs, it seems that the attacker manually explored the website after logging in. The SOC team believes that the previous IP seen during exploitation was a public cloud IP. What is the IP Address the attacker used after logging in to the site?
 
-A: 
+A: 198.16.74.45
+
+As i said in Q3 we can see that the attacker changed ip.
 
 Q6: The SOC team has suspicions that the attacker added a web shell for persistent access. Confirm the full path of the web shell on the server.
 
