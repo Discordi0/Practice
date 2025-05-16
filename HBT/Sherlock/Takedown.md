@@ -26,19 +26,25 @@ In screenshot of Q1.
 
 Q4: What was the URL used to get a PowerShell script?
 
-A: badbutperfect.com
+A: badbutperfect.com/nrwncpwo
 
 Checking the HTTP exports we can see what file where downloaded.
 
 ![](../../Img/Pasted%20image%2020250516023952.png)
 
-Checking each of the files, we find this.
+Checking each of the files, we find this. (interesting but no what we are looking for).
 
 ![](../../Img/Pasted%20image%2020250516024112.png)
+
+Found you.
+
+![](../../Img/Pasted%20image%2020250516024434.png)
 
 Q5: What likely legit binary was downloaded to the victim machine?
 
 A: 
+
+
 
 Q6: From what URL was the malware used with the binary from question #5 downloaded?
 
