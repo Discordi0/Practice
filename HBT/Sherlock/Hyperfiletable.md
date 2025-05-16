@@ -6,7 +6,9 @@ There has been a new joiner in Forela, they have downloaded their onboarding doc
 
 Q1: What is the MD5 hash of the MFT?
 
-A: 
+A: 3730c2fedcdc3ecd9b83cbea08373226
+
+Extract the mft.raw for the zip files
 
 Q2: What is the name of the only user on the system?
 
