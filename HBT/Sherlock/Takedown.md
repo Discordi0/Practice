@@ -42,7 +42,7 @@ Found you.
 
 Q5: What likely legit binary was downloaded to the victim machine?
 
-A: 
+A: AutoHotkey.exe
 
 
 
