@@ -94,11 +94,20 @@ Same place as Q6.
 
 Q10: What is the process ID of the process which enabled the Threat Actor (TA) to gain hands-on access to the server?
 
-A: 
+A: 234521
 
-Since i was looking for a process ID, i went to the Process folder
+Since i was looking for a process ID, i went to the Process folder.
+There, i searched the files until i found a file that had the PID column.
+Then i looked for something familiar and got this.
+
+![](../../Img/Pasted%20image%2020250516183252.png)
 
 Q11: What is the name of the script/tool utilized as part of internal enumeration and finding privilege escalation paths on the server?
 
 A: 
 
+Under the Q10 answer i found this.
+
+![](../../Img/Pasted%20image%2020250516183450.png)
+
+I don't know how this is not 
