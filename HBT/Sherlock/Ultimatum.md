@@ -88,11 +88,15 @@ Q9: The SOC team believes that the attacker utilized the webshell to get RCE on 
 
 A: 43.204.24.76:6969
 
-It's in Q
+Same place as Q6.
+
+![](../../Img/Pasted%20image%2020250516182923.png)
 
 Q10: What is the process ID of the process which enabled the Threat Actor (TA) to gain hands-on access to the server?
 
 A: 
+
+Since i was looking for a process ID, i went to the Process folder
 
 Q11: What is the name of the script/tool utilized as part of internal enumeration and finding privilege escalation paths on the server?
 
