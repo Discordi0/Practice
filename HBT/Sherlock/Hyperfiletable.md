@@ -70,7 +70,7 @@ Change the File Name filter for .ppt and look at the Created0x10 column.
 
 Q9: The user has made notes of their work credentials, what is their password?
 
-A: 
+A: ReallyC00lDucks2023!
 
 I found this file looking at the user directory.
 
@@ -84,4 +84,6 @@ This is what it had.
 Q10: How many files remain under the C:\Users\ directory? (Recursively)
 
 A: 
+
+
 
