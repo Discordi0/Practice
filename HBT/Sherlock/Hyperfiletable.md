@@ -8,7 +8,9 @@ Q1: What is the MD5 hash of the MFT?
 
 A: 3730c2fedcdc3ecd9b83cbea08373226
 
-Extract the mft.raw for the zip files
+Extract the mft.raw from the zip files. Then calculate the hash.
+
+![](../../Img/Pasted%20image%2020250516190344.png)
 
 Q2: What is the name of the only user on the system?
 
