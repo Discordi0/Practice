@@ -6,13 +6,17 @@ We've identified an unusual pattern in our network activity, indicating a possib
 
 Q1: From what domain is the VBS script downloaded?
 
-A: 
+A: escuelademarina.com
 
-Upon opening the only file (.pcap) we can see that there is a DNS request to a domain, and after that
+Upon opening the only file (.pcap) we can see that there is a DNS request to a domain, and after that there is a smb request for a .vbs file.
+
+![](../../Img/Pasted%20image%2020250516023042.png)
 
 Q2: What was the IP address associated with the domain in question #1 used for this attack?
 
-A: 
+A: 165.22.16.55
+
+In packet N° 2 there is the ip of the domain.
 
 Q3: What is the filename of the VBS script used for initial access?
 
