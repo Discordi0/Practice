@@ -104,10 +104,16 @@ Then i looked for something familiar and got this.
 
 Q11: What is the name of the script/tool utilized as part of internal enumeration and finding privilege escalation paths on the server?
 
-A: 
+A: LinEnum.sh
 
 Under the Q10 answer i found this.
 
 ![](../../Img/Pasted%20image%2020250516183450.png)
 
-I don't know how this is not 
+![](../../Img/Pasted%20image%2020250516183510.png)
+
+Almost.
+
+I started again searching the files to get something, until i went back to the Misc folder, first file.
+
+![](../../Img/Pasted%20image%2020250516183711.png)
