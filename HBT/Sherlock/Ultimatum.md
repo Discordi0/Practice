@@ -24,8 +24,9 @@ Since it's likely that the attack was because a vulnerable plugin, i searched fo
 ![](../../Img/Pasted%20image%2020250516174901.png)
 
 We can see that the tool found a plugin named ultimate member, then proceded to attack it.
+We can also see that the version of the plugin it's 2.6.4
 
-
+Googling the plugin name and 
 
 Q3: What was the IP Address utilized by the attacker to exploit the CVE?
 
