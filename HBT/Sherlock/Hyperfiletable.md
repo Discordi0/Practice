@@ -48,7 +48,13 @@ Q4 screencshot.
 
 Q6: What is the allocated size for the HTA file? (bytes)
 
-A: 
+A: 4096
+
+In size it's 1144.
+
+![](../../Img/Pasted%20image%2020250516191215.png)
+
+But the "allocated" size would be 4096 since that it's the size that each registry can ocupie per entry. So 1144 bein less that 4096. 4096 it's the allocated size.
 
 Q7: What is the real size of the HTA file? (bytes)
 
