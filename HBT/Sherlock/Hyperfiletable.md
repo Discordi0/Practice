@@ -14,11 +14,17 @@ Extract the mft.raw from the zip files. Then calculate the hash.
 
 Q2: What is the name of the only user on the system?
 
-A: 
+A: Randy Savage
+
+MFTExplorer was taking too much time opening the mft file. With Timeline Explorer i got this.
+
+![](../../Img/Pasted%20image%2020250516190733.png)
 
 Q3: What is the name of the malicious HTA that was downloaded by that user?
 
-A: 
+A: Onboarding.hta
+
+I filtered with Randy Savage in the parenth
 
 Q4: What is the ZoneId of the download for the malicious HTA file?
 
