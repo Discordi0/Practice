@@ -8,6 +8,8 @@ Q1: From what domain is the VBS script downloaded?
 
 A: 
 
+Upon opening the only file (.pcap) we can see that there is a DNS request to a domain, and after that
+
 Q2: What was the IP address associated with the domain in question #1 used for this attack?
 
 A: 
