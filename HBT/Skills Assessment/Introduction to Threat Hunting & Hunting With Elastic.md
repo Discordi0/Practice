@@ -54,6 +54,11 @@ With this i filtered for that ID and got 308 hits.
 
 ![](../../Img/Pasted%20image%2020250522193406.png)
 
-Knowing that i have to look for some registry keys 
+Knowing that i have to look for some registry keys. (https://attack.mitre.org/techniques/T1547/001/)
+I did this filter and got it down to 93 hits.
+
+![](../../Img/Pasted%20image%2020250522193925.png)
+
+
 
 Enter your answer for Hunt 3.
