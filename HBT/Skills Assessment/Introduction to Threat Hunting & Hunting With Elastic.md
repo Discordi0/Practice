@@ -39,8 +39,11 @@ Then i tried to just search for all file in that directory with file.path.
 
 ![](../../Img/Pasted%20image%2020250522192231.png)
 
-Having no luck with that either, i searched for
+Having no luck with that either, i searched for the text variant and i got it. (file.path.text:"C:\Users\Public*")
 
-Enter your answer for Hunt 2.
+![](../../Img/Pasted%20image%2020250522192355.png)
+
+Q2: Enter your answer for Hunt 2.
+A: 
 
 Enter your answer for Hunt 3.
