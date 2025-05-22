@@ -31,7 +31,10 @@ The cybersecurity strategy implemented is predicated on the utilization of the E
 ## Questions
 
 
-Enter your answer for Hunt 1.
+Q1: Enter your answer for Hunt 1.
+A: svc-sql1
+
+My process here was to try to find
 
 Enter your answer for Hunt 2.
 
