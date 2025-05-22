@@ -54,6 +54,6 @@ With this i filtered for that ID and got 308 hits.
 
 ![](../../Img/Pasted%20image%2020250522193406.png)
 
-
+Knowing that i have to look for some registry keys 
 
 Enter your answer for Hunt 3.
