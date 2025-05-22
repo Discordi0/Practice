@@ -46,4 +46,14 @@ Having no luck with that either, i searched for the text variant and i got it. (
 Q2: Enter your answer for Hunt 2.
 A: 
 
+For this one i remembered that we have access to sysmon logs. so i google for the sysmos event id for registry. (https://learn.microsoft.com/es-mx/sysinternals/downloads/sysmon)
+
+![](../../Img/Pasted%20image%2020250522193418.png)
+
+With this i filtered for that ID and got 308 hits.
+
+![](../../Img/Pasted%20image%2020250522193406.png)
+
+
+
 Enter your answer for Hunt 3.
