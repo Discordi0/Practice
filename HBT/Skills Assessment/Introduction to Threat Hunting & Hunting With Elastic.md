@@ -34,7 +34,12 @@ The cybersecurity strategy implemented is predicated on the utilization of the E
 Q1: Enter your answer for Hunt 1.
 A: svc-sql1
 
-My process here was to try to find
+My process here was to try to find some "target" field that had `C:\Users\Public` in it as it was said in Hunt 1 that the tool was moved there. But i had no luck with that aproach.
+Then i tried to just search for all file in that directory with file.path.
+
+![](../../Img/Pasted%20image%2020250522192231.png)
+
+Having no luck with that either, i searched for
 
 Enter your answer for Hunt 2.
 
