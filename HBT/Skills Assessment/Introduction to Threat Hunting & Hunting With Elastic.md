@@ -44,7 +44,7 @@ Having no luck with that either, i searched for the text variant and i got it. (
 ![](../../Img/Pasted%20image%2020250522192355.png)
 
 Q2: Enter your answer for Hunt 2.
-A: 
+A: LgvHsviAUVTsIN
 
 For this one i remembered that we have access to sysmon logs. so i google for the sysmos event id for registry. (https://learn.microsoft.com/es-mx/sysinternals/downloads/sysmon)
 
@@ -59,6 +59,10 @@ I did this filter and got it down to 93 hits.
 
 ![](../../Img/Pasted%20image%2020250522193925.png)
 
+Trying to get the number of hits lower i tried to add \Run* to the query but i just got errors.
+So i did this and got the answer.
 
+![](../../Img/Pasted%20image%2020250522195033.png)
 
-Enter your answer for Hunt 3.
+Q3: Enter your answer for Hunt 3.
+A:
