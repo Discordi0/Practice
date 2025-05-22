@@ -65,4 +65,6 @@ So i did this and got the answer.
 ![](../../Img/Pasted%20image%2020250522195033.png)
 
 Q3: Enter your answer for Hunt 3.
-A:
+
+A: 
+
