@@ -32,6 +32,7 @@ The cybersecurity strategy implemented is predicated on the utilization of the E
 
 
 Q1: Enter your answer for Hunt 1.
+
 A: svc-sql1
 
 My process here was to try to find some "target" field that had `C:\Users\Public` in it as it was said in Hunt 1 that the tool was moved there. But i had no luck with that aproach.
@@ -66,7 +67,7 @@ So i did this and got the answer.
 
 Q3: Enter your answer for Hunt 3.
 
-A: 
+A: svc-sql1
 
 I didn't found a sysmon event id that could help me, so i started with the other part that i knew about this question, the powershell comand that had DC1 in it.
 After a lot of tries to get a query that got me something i got this one.
