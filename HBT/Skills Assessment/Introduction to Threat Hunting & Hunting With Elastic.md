@@ -76,3 +76,4 @@ After a lot of tries to get a query that got me something i got this one.
 Since a i have to look for `winlog.user.name` i added it.
 
 ![](../../Img/Pasted%20image%2020250522200258.png)
+
