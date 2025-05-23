@@ -77,3 +77,5 @@ Since a i have to look for `winlog.user.name` i added it.
 
 ![](../../Img/Pasted%20image%2020250522200258.png)
 
+There is only 2 and because Q1 we know it's not bob.
+For further clarification i decoded (From base64) some of the "message" and got the confirmation.
