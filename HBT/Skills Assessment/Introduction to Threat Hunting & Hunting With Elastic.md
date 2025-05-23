@@ -68,4 +68,11 @@ Q3: Enter your answer for Hunt 3.
 
 A: 
 
-I didn't found a sysmon event id that could he
+I didn't found a sysmon event id that could help me, so i started with the other part that i knew about this question, the powershell comand that had DC1 in it.
+After a lot of tries to get a query that got me something i got this one.
+
+![](../../Img/Pasted%20image%2020250522200105.png)
+
+Since a i have to look for `winlog.user.name` i added it.
+
+![](../../Img/Pasted%20image%2020250522200258.png)
