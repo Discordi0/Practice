@@ -88,3 +88,4 @@ We could say that msedge.exe was THE process that started the infection as it wa
 
 ![](../../Img/Pasted%20image%2020250525172225.png)
 
+But the answer is rundll32.exe.
