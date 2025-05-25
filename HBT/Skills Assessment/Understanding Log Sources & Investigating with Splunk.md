@@ -59,4 +59,14 @@ Since i was looking how this file got here i sorted the events by time
 
 ![](../../Img/Pasted%20image%2020250525164245.png)
 
-Looking at the first event i 
+Looking at the first event i find this.
+
+![](../../Img/Pasted%20image%2020250525164331.png)
+
+Looks like the user somehow downloaded this sus .dll file
+???
+![](../../Img/Pasted%20image%2020250525164546.png)
+
+![](../../Img/Pasted%20image%2020250525164619.png)
+
+I thi
