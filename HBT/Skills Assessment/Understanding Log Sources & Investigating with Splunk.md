@@ -47,3 +47,7 @@ With the next filter we can see that all traffic generated from that file goes t
 
 ![](../../Img/Pasted%20image%2020250525163628.png)
 
+Looking at the events i can see that all have the same User.
+
+![](../../Img/Pasted%20image%2020250525163914.png)
+
