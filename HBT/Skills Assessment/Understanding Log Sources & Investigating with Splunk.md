@@ -32,4 +32,9 @@ So i looked for all events that the .exe has associated.
 
 ![](../../Img/Pasted%20image%2020250525161937.png)
 
+That search didn't took me anywhere since all 34 event where Sysmon Event Id 8.
+So i did a broader search and got this.
+
+![](../../Img/Pasted%20image%2020250525162406.png)
+
 
