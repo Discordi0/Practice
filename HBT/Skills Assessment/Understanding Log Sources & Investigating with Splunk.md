@@ -80,3 +80,4 @@ I thought that that was it, that was the first .exe that i saw.
 But i was wrong.
 
 We can see that at 1:38:30 PM of 10/05/22 Run.dll was downloaded to the machine with the Drive-by Compromise technique.
+After that we can see that at 1:38:40 PM of 10/05/22
