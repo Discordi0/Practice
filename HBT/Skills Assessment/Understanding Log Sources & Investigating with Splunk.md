@@ -37,4 +37,9 @@ So i did a broader search and got this.
 
 ![](../../Img/Pasted%20image%2020250525162406.png)
 
+The event Id that caught my attention was Id 3 since i wanted to see how that file got to the machine.
+
+![](../../Img/Pasted%20image%2020250525163320.png)
+
+![](../../Img/Pasted%20image%2020250525163353.png)
 
