@@ -43,3 +43,7 @@ The event Id that caught my attention was Id 3 since i wanted to see how that fi
 
 ![](../../Img/Pasted%20image%2020250525163353.png)
 
+With the next filter we can see that all traffic generated from that file goes to the same Ip.
+
+![](../../Img/Pasted%20image%2020250525163628.png)
+
