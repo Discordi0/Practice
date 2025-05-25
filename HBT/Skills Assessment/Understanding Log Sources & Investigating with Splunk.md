@@ -28,4 +28,8 @@ We can see that the threads were created by randomfile.exe.
 
 ![](../../Img/Pasted%20image%2020250525161846.png)
 
-So i looked 
+So i looked for all events that the .exe has associated.
+
+![](../../Img/Pasted%20image%2020250525161937.png)
+
+
