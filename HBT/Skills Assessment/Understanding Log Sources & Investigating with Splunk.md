@@ -77,4 +77,6 @@ After that demon.exe got to the system.
 ![](../../Img/Pasted%20image%2020250525165028.png)
 
 I thought that that was it, that was the first .exe that i saw.
-But i was wrong
+But i was wrong.
+
+We can see that at 1:38:30 PM of 10/05/22 Run.dll was downloaded to the machine with the Drive-by Compromise technique.
