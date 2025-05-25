@@ -70,3 +70,9 @@ Looks like the user somehow downloaded this sus .dll file
 ![](../../Img/Pasted%20image%2020250525164619.png)
 
 So the user was browsing around the internet and got to a compromised site and got infected.
+After that demon.exe got to the system.
+
+![](../../Img/Pasted%20image%2020250525165011.png)
+
+![](../../Img/Pasted%20image%2020250525165028.png)
+
