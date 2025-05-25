@@ -69,4 +69,4 @@ Looks like the user somehow downloaded this sus .dll file
 
 ![](../../Img/Pasted%20image%2020250525164619.png)
 
-I thi
+So the user was browsing around the internet and got to a compromised site and got infected.
