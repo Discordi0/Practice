@@ -21,7 +21,7 @@ I added the new filter just to see who created the threads.
 
 Q2: Navigate to http://[Target IP]:8000, open the "Search & Reporting" application, and find through SPL searches against all data the process that started the infection. Answer format: _.exe
 
-A: 
+A: rundll32.exe
 
 With the result of the previous question i started digging.
 We can see that the threads were created by randomfile.exe.
@@ -75,4 +75,6 @@ After that demon.exe got to the system.
 ![](../../Img/Pasted%20image%2020250525165011.png)
 
 ![](../../Img/Pasted%20image%2020250525165028.png)
+
+I thought that that was it, that was the first .exe that i saw.
 
