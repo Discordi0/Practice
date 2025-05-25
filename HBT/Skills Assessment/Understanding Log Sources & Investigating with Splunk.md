@@ -82,3 +82,9 @@ But i was wrong.
 We can see that at 1:38:30 PM of 10/05/22 Run.dll was downloaded to the machine with the Drive-by Compromise technique.
 After that we can see that at 1:38:40 PM of 10/05/22 rundll32.exe was used to run run.dll.
 
+![](../../Img/Pasted%20image%2020250525172029.png)
+
+We could say that msedge.exe was THE process that started the infection as it was the first .exe (as Q2 says) that was used with Run.dll (the malicious dll that was first downloaded).
+
+![](../../Img/Pasted%20image%2020250525172225.png)
+
