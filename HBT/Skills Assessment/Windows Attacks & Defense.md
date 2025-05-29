@@ -249,5 +249,9 @@ Finally, when we used `Mimikatz` to perform DCSync, we will see the event ID `46
 ---
 Q1: Replicate the attack described in this section and view the related 4886 and 4887 logs. Enter the name shown in the Requester field as your answer. (Format: EAGLE\....)
 
-A: 
+A: Since i only have to do the attack until the events 4886 and 4887 are recorded, i do the ntlmrelayx part. (Note: the machine is extremely slow, thank god i'm paying for this, that way i can feel ripped off instead of feeling bored bc the big waiting times to exc a command).
+
+![](../../Img/Pasted%20image%2020250529180723.png)
+
+
 
