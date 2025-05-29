@@ -260,3 +260,4 @@ Since i only have to do the attack until the events 4886 and 4887 are recorded, 
 For some reason the screenshot didn't copy before i shut down the machine, and for obvious reasons i'm not opening that again.
 Just rdp from the kali machine to the windows one, go to event viewer, open the security logs and filter for the event id.
 
+
