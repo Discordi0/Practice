@@ -247,5 +247,7 @@ Finally, when we used `Mimikatz` to perform DCSync, we will see the event ID `46
 ![Event 4624: Successful login for user from IP 172.16.18.25.](https://academy.hackthebox.com/storage/modules/176/A14/d3.png)
 
 ---
+Q1: Replicate the attack described in this section and view the related 4886 and 4887 logs. Enter the name shown in the Requester field as your answer. (Format: EAGLE\....)
 
+A: 
 
