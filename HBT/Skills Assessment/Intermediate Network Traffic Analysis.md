@@ -7,7 +7,7 @@ Inspect the `funky_dns.pcap` and `funky_icmp.pcap` files, part of this module's 
 
 Q1: Inspect the funky_dns.pcap file, part of this module's resources, and enter the related attack as your answer. Answer format: "DNS Flooding", "DNS Amplification", "DNS Tunneling"
 
-A:
+A: DNS Tunneling
 
 Opening the pcap file we can find 438 packets.
 
@@ -38,4 +38,12 @@ I sadly can't seem to find how to decode this. But it's easily DNS Tunneling.
 Q2: Inspect the funky_icmp.pcap file, part of this module's resources, and enter the related attack as your answer. Answer format: "ICMP Flooding", "ICMP Tunneling", "ICMP SMURF Attack"
 
 A: 
+
+In this pcap file we have less traffic than the one before.
+
+![](../../Img/Pasted%20image%2020250611160006.png)
+
+If we filter for only the icmp protocol we reduce the 
+
+
 
