@@ -13,8 +13,11 @@ Opening the pcap file we can find 438 packets.
 
 ![](../../Img/Pasted%20image%2020250611153310.png)
 
-Filtering 
+Filtering for only DNS traffic reduces that to 434.
 
+![](../../Img/Pasted%20image%2020250611153352.png)
+
+Looking at the statistics we can see that all the traffic is a conversation between
 
 Q2: Inspect the funky_icmp.pcap file, part of this module's resources, and enter the related attack as your answer. Answer format: "ICMP Flooding", "ICMP Tunneling", "ICMP SMURF Attack"
 
