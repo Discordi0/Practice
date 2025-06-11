@@ -56,6 +56,9 @@ And the TTL it's normal, so there is nothing weird there.
 
 ![](../../Img/Pasted%20image%2020250611160309.png)
 
+Where we start to se a problem is in the lenght of the packets. Specially considering that they are just pings.
+
+![](../../Img/Pasted%20image%2020250611160437.png)
 
 
 
