@@ -37,7 +37,7 @@ I sadly can't seem to find how to decode this. But it's easily DNS Tunneling.
 
 Q2: Inspect the funky_icmp.pcap file, part of this module's resources, and enter the related attack as your answer. Answer format: "ICMP Flooding", "ICMP Tunneling", "ICMP SMURF Attack"
 
-A: 
+A: ICMP Tunneling
 
 In this pcap file we have less traffic than the one before.
 
@@ -60,5 +60,8 @@ Where we start to se a problem is in the lenght of the packets. Specially consid
 
 ![](../../Img/Pasted%20image%2020250611160437.png)
 
-It seems to be 
+It seems to be from some sort of file transfer?
 
+![](../../Img/Pasted%20image%2020250611161033.png)
+
+Anyway, it's ICMP Tunneling.
