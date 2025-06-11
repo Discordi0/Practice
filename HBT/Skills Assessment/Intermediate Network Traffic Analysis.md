@@ -43,7 +43,19 @@ In this pcap file we have less traffic than the one before.
 
 ![](../../Img/Pasted%20image%2020250611160006.png)
 
-If we filter for only the icmp protocol we reduce the 
+If we filter for only the icmp protocol we reduce the number of packets even more.
+
+![](../../Img/Pasted%20image%2020250611160115.png)
+
+Checking the conversation again, we can see that it's only between two hosts.
+
+![](../../Img/Pasted%20image%2020250611160214.png)
+
+Looking at the traffic itself we can see that it just pings.
+And the TTL it's normal, so there is nothing weird there.
+
+![](../../Img/Pasted%20image%2020250611160309.png)
+
 
 
 
