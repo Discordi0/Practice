@@ -25,7 +25,13 @@ We can see that at the beginning of the traffic there is extra data in the packe
 
 ![](../../Img/Pasted%20image%2020250611154149.png)
 
-That continues for a little bit, and then there is only 
+That continues for a little bit, and then there is only queries to different sub-domains.
+
+![](../../Img/Pasted%20image%2020250611154320.png)
+
+If we follow a UDP stream and change the display format to YAML, we can see clearly data being exfiltrated.
+
+![](../../Img/Pasted%20image%2020250611154445.png)
 
 Q2: Inspect the funky_icmp.pcap file, part of this module's resources, and enter the related attack as your answer. Answer format: "ICMP Flooding", "ICMP Tunneling", "ICMP SMURF Attack"
 
