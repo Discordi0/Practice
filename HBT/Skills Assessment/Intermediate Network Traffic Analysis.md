@@ -21,7 +21,11 @@ Looking at the statistics we can see that all the traffic is a conversation betw
 
 ![](../../Img/Pasted%20image%2020250611153636.png)
 
+We can see that at the beginning of the traffic there is extra data in the packets.
 
+![](../../Img/Pasted%20image%2020250611154149.png)
+
+That continues for a little bit, and then there is only 
 
 Q2: Inspect the funky_icmp.pcap file, part of this module's resources, and enter the related attack as your answer. Answer format: "ICMP Flooding", "ICMP Tunneling", "ICMP SMURF Attack"
 
