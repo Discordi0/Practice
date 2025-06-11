@@ -33,6 +33,8 @@ If we follow a UDP stream and change the display format to YAML, we can see clea
 
 ![](../../Img/Pasted%20image%2020250611154445.png)
 
+I sadly can't seem to find how to decode this. But it's easily DNS Tunneling.
+
 Q2: Inspect the funky_icmp.pcap file, part of this module's resources, and enter the related attack as your answer. Answer format: "ICMP Flooding", "ICMP Tunneling", "ICMP SMURF Attack"
 
 A: 
