@@ -28,4 +28,10 @@ I first opened the file to see what keyword is already in the rule.
 
 Now that we know what keyword is already in use, i read the article provided to see if i can find something. I also downloaded the .pcap file to my machine to check it.
 
-Something that i saw
+Something that i saw after reading the article and looking at the traffic, it's the process creation part.
+
+![](../../Img/Pasted%20image%2020250615144014.png)
+
+![](../../Img/Pasted%20image%2020250615143822.png)
+
+
