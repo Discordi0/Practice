@@ -19,5 +19,12 @@ Q: There is a file named wannamine.pcap in the /home/htb-student/pcaps directory
 
 A: 
 
-This question doesn't seem to need the same amou
+First we need to find the rule since we don't have the sid of it.
+Connect to the machine with SSH and read the local.rules file.
+
+Since we know that the attack technique is a Kerberos encryption downgrade, we search for it in the rules.
+
+![](../../Img/Pasted%20image%2020250615150711.png)
+
+We can see that in the last line there is a XX
 
