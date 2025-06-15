@@ -19,3 +19,8 @@ Review the previously referenced resource that discusses the network traces resu
 Q: There is a file named pipekatposhc2.pcap in the /home/htb-student/pcaps directory, which contains network traffic related to WMI execution. Add yet another content keyword right after the msg part of the rule with sid 2024233 within the local.rules file so that an alert is triggered and enter the specified payload as your answer. Answer format: C____e
 
 A: 
+
+First we have to connect to the machine, use SSH for that.
+
+I first opened the file to see what keyword is already in the rule.
+
