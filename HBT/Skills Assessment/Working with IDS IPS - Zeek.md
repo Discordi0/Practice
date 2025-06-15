@@ -20,4 +20,9 @@ Q: There is a file named neutrinogootkit.pcap in the /home/htb-student/pcaps dir
 
 A: 
 
-In this question, we don't need to modify a rule, we just need to 
+In this question, we don't need to modify a rule, we just need to search for a field.
+So, connect with SSH to the machine and use zeek in the pcap file.
+
+![](../../Img/Pasted%20image%2020250615153022.png)
+
+Even though it doesn't have any real format, we can see that the "MyCompany Ltd." it's in the 5t
