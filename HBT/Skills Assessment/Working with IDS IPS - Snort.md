@@ -17,7 +17,7 @@ Review the previously referenced resource that discusses the network traces resu
 
 Q: There is a file named wannamine.pcap in the /home/htb-student/pcaps directory, which contains network traffic related to the Overpass-the-hash technique which involves Kerberos encryption type downgrading. Replace XX with the appropriate value in the last content keyword of the rule with sid XXXXXXX within the local.rules file so that an alert is triggered as your answer.
 
-A: 
+A: 17
 
 First we need to find the rule since we don't have the sid of it.
 Connect to the machine with SSH and read the local.rules file.
@@ -31,6 +31,8 @@ We can see that in the last line there is a XX. We need to replace this with 17 
 ![](../../Img/Pasted%20image%2020250615151808.png)
 
 Trying the modified rule.
+
+![](../../Img/Pasted%20image%2020250615152048.png)
 
 
 
