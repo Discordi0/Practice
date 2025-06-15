@@ -26,4 +26,5 @@ I first opened the file to see what keyword is already in the rule.
 
 ![](../../Img/Pasted%20image%2020250615141919.png)
 
-Now that we know what keyword is already in use, i read the article provided to see if i can find something. I also downloaded the .pcap file to my machine to check it
+Now that we know what keyword is already in use, i read the article provided to see if i can find something. I also downloaded the .pcap file to my machine to check it.
+
