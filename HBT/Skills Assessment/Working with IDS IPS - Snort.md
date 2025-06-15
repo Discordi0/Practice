@@ -19,5 +19,5 @@ Q: There is a file named wannamine.pcap in the /home/htb-student/pcaps directory
 
 A: 
 
-
+This question doesn't seem to need the same amou
 
