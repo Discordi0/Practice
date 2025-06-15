@@ -36,3 +36,5 @@ Something that i saw after reading the article and looking at the traffic, it's 
 
 I added to the keyword Create to see if it work to detect the attack. (as process creation it's a fundamental part of the attack)
 
+![](../../Img/Pasted%20image%2020250615144408.png)
+
