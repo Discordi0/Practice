@@ -18,11 +18,11 @@ Review the previously referenced resource that discusses the network traces resu
 
 Q: There is a file named neutrinogootkit.pcap in the /home/htb-student/pcaps directory, which contains network traffic related to the Neutrino exploit kit sending Gootkit malware. Enter the x509.log field name that includes the "MyCompany Ltd." trace as your answer.
 
-A: 
+A: certificate.subject
 
 In this question, we don't need to modify a rule, we just need to search for a field.
 So, connect with SSH to the machine and use zeek in the pcap file.
 
 ![](../../Img/Pasted%20image%2020250615153022.png)
 
-Even though it doesn't have any real format, we can see that the "MyCompany Ltd." it's in the 5t
+Even though it doesn't have any real format, we can see that the "MyCompany Ltd." it's in the 5th (column?) as it's separated by spaces, and after the #fields (that doesn't count bc of the #) the 5th is certificate subject. (in other cases there could be necessary to format the output of the command to be able to read the answer).
