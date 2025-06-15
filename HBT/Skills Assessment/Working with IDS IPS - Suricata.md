@@ -34,4 +34,5 @@ Something that i saw after reading the article and looking at the traffic, it's 
 
 ![](../../Img/Pasted%20image%2020250615143822.png)
 
+I added to the keyword Create to see if it work to detect the attack. (as process creation it's a fundamental part of the attack)
 
