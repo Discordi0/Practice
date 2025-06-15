@@ -15,3 +15,8 @@ Cybercriminals frequently employ self-signed or non-trusted CA issued certificat
 
 Review the previously referenced resource that discusses the network traces resulting from `Gootkit` communications, and then proceed to address the following question.
 
+
+Q: There is a file named neutrinogootkit.pcap in the /home/htb-student/pcaps directory, which contains network traffic related to the Neutrino exploit kit sending Gootkit malware. Enter the x509.log field name that includes the "MyCompany Ltd." trace as your answer.
+
+A: 
+
