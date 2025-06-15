@@ -22,9 +22,9 @@ A:
 First we need to find the rule since we don't have the sid of it.
 Connect to the machine with SSH and read the local.rules file.
 
-Since we know that the attack technique is a Kerberos encryption downgrade, we search for it in the rules.
+Since we know that the attack technique is a Kerberos encryption downgrade, we search for it in the rules. (checking the msg attribute)
 
 ![](../../Img/Pasted%20image%2020250615150711.png)
 
-We can see that in the last line there is a XX
+We can see that in the last line there is a XX.
 
