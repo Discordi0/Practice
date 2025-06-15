@@ -26,5 +26,7 @@ Since we know that the attack technique is a Kerberos encryption downgrade, we s
 
 ![](../../Img/Pasted%20image%2020250615150711.png)
 
-We can see that in the last line there is a XX.
+We can see that in the last line there is a XX. We need to replace this with 17 because the hexadecimal representation of the RC4 encryption is 0x17. (as i see it, in the rules the 0x part doesn't go).
+
+
 
