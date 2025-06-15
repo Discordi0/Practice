@@ -20,3 +20,4 @@ Q: There is a file named neutrinogootkit.pcap in the /home/htb-student/pcaps dir
 
 A: 
 
+In this question, we don't need to modify a rule, we just need to 
