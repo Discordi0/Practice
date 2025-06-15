@@ -24,3 +24,6 @@ First we have to connect to the machine, use SSH for that.
 
 I first opened the file to see what keyword is already in the rule.
 
+![](../../Img/Pasted%20image%2020250615141919.png)
+
+Now that we know what keyword is already in use,
