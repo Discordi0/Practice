@@ -19,7 +19,11 @@ i opened the sample in dnSpy, looking through it for a little while i found this
 
 ![](../../Img/Pasted%20image%2020250731161026.png)
 
+This is what i found in google.
 
+![](../../Img/Pasted%20image%2020250731161522.png)
+
+It seems to be that this is what am looking for.
 
 Q2: Use Chainsaw with the "C:\Tools\chainsaw\sigma\rules\windows\powershell\powershell_script\posh_ps_susp_win32_shadowcopy.yml" Sigma rule to hunt for shadow volume deletion inside "C:\Events\YARASigma\lab_events_6.evtx". Enter the identified ScriptBlock ID as your answer.
 
