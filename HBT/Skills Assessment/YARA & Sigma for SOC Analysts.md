@@ -15,6 +15,10 @@ RDP'ing into the machine, we search for the rule in question.
 
 $class2 is empty so there's nothing to go from there.
 In it's git page i didn't found anything at a quick glance (https://github.com/GhostPack/Seatbelt)
+i opened the sample in dnSpy, looking through it for a little while i found this.
+
+![](../../Img/Pasted%20image%2020250731161026.png)
+
 
 
 Q2: Use Chainsaw with the "C:\Tools\chainsaw\sigma\rules\windows\powershell\powershell_script\posh_ps_susp_win32_shadowcopy.yml" Sigma rule to hunt for shadow volume deletion inside "C:\Events\YARASigma\lab_events_6.evtx". Enter the identified ScriptBlock ID as your answer.
