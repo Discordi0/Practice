@@ -19,7 +19,7 @@ i opened the sample in dnSpy, looking through it for a little while i found this
 
 ![](../../Img/Pasted%20image%2020250731161026.png)
 
-This is what i found in google.
+This is what i found in google. (https://learn.microsoft.com/en-us/windows-server/security/credentials-protection-and-management/configuring-additional-lsa-protection)
 
 ![](../../Img/Pasted%20image%2020250731161522.png)
 
