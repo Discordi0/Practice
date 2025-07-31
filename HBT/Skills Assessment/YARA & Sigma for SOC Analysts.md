@@ -29,7 +29,7 @@ It seems to be that this is what am looking for.
 
 Q2: Use Chainsaw with the "C:\Tools\chainsaw\sigma\rules\windows\powershell\powershell_script\posh_ps_susp_win32_shadowcopy.yml" Sigma rule to hunt for shadow volume deletion inside "C:\Events\YARASigma\lab_events_6.evtx". Enter the identified ScriptBlock ID as your answer.
 
-A: 
+A: faaeba08-01f0-4a32-ba48-bd65b24afd28
 
 With the path of the required files and the tools from the previous modules, we craft the query.
 
