@@ -7,7 +7,7 @@ In the subsequent question, you'll be using a Sigma rule to identify instances o
 
 Q1: The "C:\Rules\yara\seatbelt.yar" YARA rule aims to detect instances of the "Seatbelt.exe" .NET assembly on disk. Analyze both "C:\Rules\yara\seatbelt.yar" and "C:\Samples\YARASigma\Seatbelt.exe" and specify the appropriate string inside the "$class2" variable so that the rule successfully identifies "C:\Samples\YARASigma\Seatbelt.exe". Answer format: L________r
 
-A: 
+A: LsaWrapper
 
 RDP'ing into the machine, we search for the rule in question.
 
@@ -24,6 +24,8 @@ This is what i found in google.
 ![](../../Img/Pasted%20image%2020250731161522.png)
 
 It seems to be that this is what am looking for.
+
+
 
 Q2: Use Chainsaw with the "C:\Tools\chainsaw\sigma\rules\windows\powershell\powershell_script\posh_ps_susp_win32_shadowcopy.yml" Sigma rule to hunt for shadow volume deletion inside "C:\Events\YARASigma\lab_events_6.evtx". Enter the identified ScriptBlock ID as your answer.
 
