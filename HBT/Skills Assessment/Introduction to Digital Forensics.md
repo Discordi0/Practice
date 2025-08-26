@@ -9,6 +9,10 @@ Q1: Using VAD analysis, pinpoint the suspicious process and enter its name as yo
 
 A:
 
+Reading this i got more familiar with VAD and Velociraptor (https://docs.velociraptor.app/artifact_references/pages/windows.system.vad/)
+
+
+
 Q2: Determine the IP address of the C2 (Command and Control) server and enter it as your answer.
 
 A:
