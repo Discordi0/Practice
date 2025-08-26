@@ -11,8 +11,6 @@ A:
 
 Reading this i got more familiar with VAD and Velociraptor (https://docs.velociraptor.app/artifact_references/pages/windows.system.vad/).
 
-In the provided system i couldn't find the volatility tool, but i did find Velociraptor (C:\Users\Administrator\Velociraptor).
-
 
 
 
