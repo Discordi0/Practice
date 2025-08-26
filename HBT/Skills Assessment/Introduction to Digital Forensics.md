@@ -11,7 +11,7 @@ A:
 
 Reading this i got more familiar with VAD and Velociraptor (https://docs.velociraptor.app/artifact_references/pages/windows.system.vad/).
 
-
+After i connected to the machine, i logged in to velociraptor GUI, then i ran the collection for Windows.System.VAD with .* and 
 
 
 
