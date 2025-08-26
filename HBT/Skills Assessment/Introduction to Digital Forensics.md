@@ -32,7 +32,9 @@ From other modules i know that this is a common registry address for persistence
 
 Q4: Determine the folder that contains all Mimikatz-related files and enter the full path as your answer.
 
-A:
+A: 
+
+I did a collection 
 
 Q5: Determine the Microsoft Word document that j0seph recently accessed and enter its name as your answer. Answer format: _.DOCX
 
