@@ -26,7 +26,9 @@ I got it by resetting the machine and doing the collection of Windows.Network.Ne
 
 Q3: Determine the registry key used for persistence and enter it as your answer.
 
-A: 
+A: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run
+
+From other modules i know that this is a common registry address for persistence. I just tried it and it worked lmao
 
 Q4: Determine the folder that contains all Mimikatz-related files and enter the full path as your answer.
 
