@@ -20,11 +20,13 @@ Reading through the .json result i found this weird process.
 
 Q2: Determine the IP address of the C2 (Command and Control) server and enter it as your answer.
 
-A: 
+A: 3.19.219.4
+
+I got it by resetting the machine and doing the collection of Windows.Network.Netstat 3 times each. I was tired so no screenshot for this one
 
 Q3: Determine the registry key used for persistence and enter it as your answer.
 
-A:
+A: 
 
 Q4: Determine the folder that contains all Mimikatz-related files and enter the full path as your answer.
 
