@@ -32,7 +32,7 @@ From other modules i know that this is a common registry address for persistence
 
 Q4: Determine the folder that contains all Mimikatz-related files and enter the full path as your answer.
 
-A: 
+A: C:\Users\j0seph\AppData\Local\mimik
 
 I did a collection with Windows.Search.FileFinder, in the user J0seph searching for all .exe, this is bc in the desktop there's 2 rar file from that user and bc mimikatz uses a .exe.
 
@@ -42,6 +42,16 @@ We can see the reverse.exe file, as well the mimik directory.
 
 ![](../../Img/Pasted%20image%2020250826200219.png)
 
+(Added new screenshot for clarity)
+
+![](../../Img/Pasted%20image%2020250826200632.png)
+
 Q5: Determine the Microsoft Word document that j0seph recently accessed and enter its name as your answer. Answer format: _.DOCX
 
-A:
+A: 
+
+For this one i used the Windows.Forensics.Prefetch as per the lessons in this module.
+
+
+
+
