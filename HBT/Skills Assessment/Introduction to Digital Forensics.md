@@ -34,11 +34,13 @@ Q4: Determine the folder that contains all Mimikatz-related files and enter the 
 
 A: 
 
-I did a collection with Windows.Search.FileFinder, in the user J0seph, this is bc in the desktop there's 2 rar file from that user.
+I did a collection with Windows.Search.FileFinder, in the user J0seph searching for all .exe, this is bc in the desktop there's 2 rar file from that user and bc mimikatz uses a .exe.
 
 ![](../../Img/Pasted%20image%2020250826195156.png)
 
+We can see the reverse.exe file, as well the mimik directory.
 
+![](../../Img/Pasted%20image%2020250826200219.png)
 
 Q5: Determine the Microsoft Word document that j0seph recently accessed and enter its name as your answer. Answer format: _.DOCX
 
