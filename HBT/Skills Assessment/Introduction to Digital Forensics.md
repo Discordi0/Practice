@@ -48,9 +48,11 @@ We can see the reverse.exe file, as well the mimik directory.
 
 Q5: Determine the Microsoft Word document that j0seph recently accessed and enter its name as your answer. Answer format: _.DOCX
 
-A: 
+A: insurance.docx
 
-For this one i used the Windows.Forensics.Prefetch as per the lessons in this module.
+For this one i used the Windows.Forensics.Prefetch as per the lessons in this module. (search for .doc)
+
+![](../../Img/Pasted%20image%2020250826200908.png)
 
 
 
