@@ -34,7 +34,7 @@ Q4: Determine the folder that contains all Mimikatz-related files and enter the 
 
 A: 
 
-I did a collection with Windows.Search.FileFinder in the user J0seph, this is bc in the desktop there's 2 rar file from that user.
+I did a collection with Windows.Search.FileFinder, in the user J0seph, this is bc in the desktop there's 2 rar file from that user.
 
 ![](../../Img/Pasted%20image%2020250826195156.png)
 
