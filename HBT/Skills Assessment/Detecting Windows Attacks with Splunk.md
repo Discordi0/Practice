@@ -7,7 +7,7 @@ In many instances, the solution can be discovered by simply viewing the events i
 
 Q1: Use the "empire" index and the "bro:http:json" sourcetype. Identify beaconing activity by modifying the Splunk search of the "Detecting Beaconing Malware" section and enter the value of the "TimeInterval" field as your answer.
 
-A: 
+A: 4.680851063829787
 
 The Splunk query given in the "Detecting Beaconing Malware" section of this course is this: 
 
@@ -26,7 +26,7 @@ index="cobaltstrike_beacon" sourcetype="bro:http:json"
 | where prcnt > 90 AND total > 10
 ```
 
-Changing the index and deleting the last 2 lines we can see the answer.
+Changing the index and deleting the last 2 lines we can see the answer. 
 
 ```shell-session
 index="empire" sourcetype="bro:http:json" 
@@ -41,11 +41,17 @@ index="empire" sourcetype="bro:http:json"
 ```
 
 
-
+![](../../Img/Pasted%20image%2020250903143536.png)
 
 Q2: Use the "printnightmare" index and the "bro:dce_rpc:json" sourcetype to create a Splunk search that will detect possible exploitation of the PrintNightmare vulnerability. Enter the IP included in the "id.orig_h" field as your answer.
 
 A: 
+
+Using the index and sourcetype given we get just 5 events.
+
+![](../../Img/Pasted%20image%2020250903143700.png)
+
+
 
 Q3: Use the "bloodhound_all_no_kerberos_sign" index and the "bro:dce_rpc:json" sourcetype to create a Splunk search that will detect possible BloodHound activity (https://www.lares.com/blog/active-directory-ad-attacks-enumeration-at-the-network-layer/). Enter the IP included in the "id.orig_h" field as your answer.
 
