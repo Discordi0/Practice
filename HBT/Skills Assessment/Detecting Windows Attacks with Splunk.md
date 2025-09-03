@@ -45,14 +45,28 @@ index="empire" sourcetype="bro:http:json"
 
 Q2: Use the "printnightmare" index and the "bro:dce_rpc:json" sourcetype to create a Splunk search that will detect possible exploitation of the PrintNightmare vulnerability. Enter the IP included in the "id.orig_h" field as your answer.
 
-A: 
+A: 192.168.1.149
 
 Using the index and sourcetype given we get just 5 events.
 
 ![](../../Img/Pasted%20image%2020250903143700.png)
 
+Adding the filter to get the ip's.
+
+![](../../Img/Pasted%20image%2020250903143846.png)
+
 
 
 Q3: Use the "bloodhound_all_no_kerberos_sign" index and the "bro:dce_rpc:json" sourcetype to create a Splunk search that will detect possible BloodHound activity (https://www.lares.com/blog/active-directory-ad-attacks-enumeration-at-the-network-layer/). Enter the IP included in the "id.orig_h" field as your answer.
 
-A: 
+A: 192.168.109.105
+
+Again with just the provided info.
+
+![](../../Img/Pasted%20image%2020250903144050.png)
+
+With just the filter to see the ip's.
+
+![](../../Img/Pasted%20image%2020250903144216.png)
+
+
