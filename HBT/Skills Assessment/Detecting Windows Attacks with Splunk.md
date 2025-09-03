@@ -68,5 +68,3 @@ Again with just the provided info.
 With just the filter to see the ip's.
 
 ![](../../Img/Pasted%20image%2020250903144216.png)
-
-
