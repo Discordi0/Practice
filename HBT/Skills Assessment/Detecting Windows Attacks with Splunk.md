@@ -26,6 +26,20 @@ index="cobaltstrike_beacon" sourcetype="bro:http:json"
 | where prcnt > 90 AND total > 10
 ```
 
+Changing the index and deleting the last 2 lines we can see the answer.
+
+```shell-session
+index="empire" sourcetype="bro:http:json" 
+| sort 0 _time
+| streamstats current=f last(_time) as prevtime by src, dest, dest_port
+| eval timedelta = _time - prevtime
+| eventstats avg(timedelta) as avg, count as total by src, dest, dest_port
+| eval upper=avg*1.1
+| eval lower=avg*0.9
+| where timedelta > lower AND timedelta < upper
+| stats count, values(avg) as TimeInterval by src, dest, dest_port, total
+```
+
 
 
 
