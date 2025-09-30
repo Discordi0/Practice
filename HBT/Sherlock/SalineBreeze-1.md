@@ -66,7 +66,7 @@ Q9: On December 20th, 2024, Picus Security released a blog on Salt Typhoon detai
 
 A: CVE-2022-3236
 
-Searching for "Salt Typhoon Picus Security" i fond this (https://www.picussecurity.com/resource/blog/salt-typhoon-telecommunications-threat).
+Searching for "Salt Typhoon Picus Security" i found this (https://www.picussecurity.com/resource/blog/salt-typhoon-telecommunications-threat).
 In the "Origins and Affiliations of the Chinese Threat Actor Salt Typhoon" section we can find the CVEs exploited by the group.
 
 ![](../../Img/Pasted%20image%2020250930170517.png)
