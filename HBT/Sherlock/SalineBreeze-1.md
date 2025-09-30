@@ -64,7 +64,12 @@ In the middle of the technique section.
 
 Q9: On December 20th, 2024, Picus Security released a blog on Salt Typhoon detailing some of the CVEs associated with the threat actor. What was the CVE for the vulnerability related to the Sophos Firewall?
 
-A: 
+A: CVE-2022-3236
+
+Searching for "Salt Typhoon Picus Security" i fond this (https://www.picussecurity.com/resource/blog/salt-typhoon-telecommunications-threat).
+In the "Origins and Affiliations of the Chinese Threat Actor Salt Typhoon" section we can find the CVEs exploited by the group.
+
+![](../../Img/Pasted%20image%2020250930170517.png)
 
 Q10: The blog demonstrates how the group modifies the registry to obtain persistence with a backdoor known as Crowdoor. Which registry key do they target?
 
