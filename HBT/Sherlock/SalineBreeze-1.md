@@ -112,7 +112,10 @@ This is just above the technique of the above question, in the image below "Camp
 
 Q15: What is the filename for the first GET request to the C&C server used by the malware?
 
-A: 
+A: index.php
+
+This one was a little more difficult for me to find, i didn't consider the literal webpage as a the file i was searching for (mb).
+The answer is in the "Communication protocol" of the ghostspider technique.
 
 Q16: On September 30th, 2021, a blog post was released on Securelist by Kaspersky. What was the threat actor's name at that time?
 
