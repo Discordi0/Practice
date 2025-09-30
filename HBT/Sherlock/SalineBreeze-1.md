@@ -6,15 +6,25 @@ Your manager has just informed you that, due to recent budget cuts, you'll need 
 
 ## Questions:
 
-Q1: 
-A: 
+Q1: Starting with the MITRE ATT&CK page, which country is thought be behind Salt Typhoon?
 
-Q2: 
-A: 
+A: China
+
+Opening the link of MITRE's pago on Salt Typhoon. (https://attack.mitre.org/groups/G1045/). We get the answer. 
+
+![](../../Img/Pasted%20image%2020250930165517.png)
+
+Q2: According to that page, Salt Typhoon has been active since at least when? (Year)
+
+A: 2019
+
+Answer in the above question.
 
 Q3: What kind of infrastructure does Salt Typhoon target?
 
-A: 
+A: Network
+
+In Q1
 
 Q4: Salt Typhoon has been associated with multiple custom built malware, what is the name of the malware associated with the ID S1206?
 
