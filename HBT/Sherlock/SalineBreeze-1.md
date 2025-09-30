@@ -161,6 +161,8 @@ Inside the kaspersky document we can find the explanation to the question.
 
 Q20: The malware uses Input/Output Control codes to perform various tasks related to hiding malicious artifacts. What is the IOCTL code used by the malware to hide its service from the list within the services.exe process address space?
 
-A: 
+A: 0x220300
+
+In the ma
 
 
