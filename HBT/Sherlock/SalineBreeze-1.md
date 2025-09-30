@@ -47,13 +47,20 @@ Q6: What programming language is the malware written in?
 A: GO
 
 Answer in above quesion.
+
 Q7: On which vendor's devices does the malware act as a network sniffer?
 
-A: 
+A: Cisco
+
+Answer in Q5.
 
 Q8: The malware can perform 'Indicator Removal' by erasing logs. What is the MITRE ATT&CK ID for this?
 
-A: 
+A: T1070.002
+
+In the middle of the technique section.
+
+![](../../Img/Pasted%20image%2020250930170120.png)
 
 Q9: On December 20th, 2024, Picus Security released a blog on Salt Typhoon detailing some of the CVEs associated with the threat actor. What was the CVE for the vulnerability related to the Sophos Firewall?
 
