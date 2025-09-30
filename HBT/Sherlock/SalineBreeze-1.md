@@ -24,20 +24,29 @@ Q3: What kind of infrastructure does Salt Typhoon target?
 
 A: Network
 
-In Q1
+In Q1.
 
 Q4: Salt Typhoon has been associated with multiple custom built malware, what is the name of the malware associated with the ID S1206?
 
-A: 
+A: JumbledPath
+
+At the end of the page, we can find the Software section.
+
+![](../../Img/Pasted%20image%2020250930165720.png)
 
 Q5: What operating system does this malware target?
 
-A: 
+A: Linux
+
+In the malware page (https://attack.mitre.org/software/S1206/). Main section.
+
+![](../../Img/Pasted%20image%2020250930165843.png)
 
 Q6: What programming language is the malware written in?
 
-A: 
+A: GO
 
+Answer in above quesion.
 Q7: On which vendor's devices does the malware act as a network sniffer?
 
 A: 
