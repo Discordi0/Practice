@@ -117,9 +117,16 @@ A: index.php
 This one was a little more difficult for me to find, i didn't consider the literal webpage as a the file i was searching for (mb).
 The answer is in the "Communication protocol" of the ghostspider technique.
 
+![](../../Img/Pasted%20image%2020250930174538.png)
+
 Q16: On September 30th, 2021, a blog post was released on Securelist by Kaspersky. What was the threat actor's name at that time?
 
-A: 
+A: GhostEmperor
+
+Searching for "Salt Typhoon Securelist" i found blog post (https://securelist.com/ghostemperor-from-proxylogon-to-kernel-mode/104407/).
+The name it's in the title.
+
+![](../../Img/Pasted%20image%2020250930174733.png)
 
 Q17: What is the name of the malware that this article focuses on?
 
