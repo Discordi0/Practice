@@ -144,7 +144,16 @@ It's in the above screenshot.
 
 Q19: The first stage consists of a malicious PowerShell dropper. What type of encryption is used to obfuscate the code?
 
-A: 
+A: AES
+
+The answer to this question it's higher up in the blog post inside 
+![](../../Img/Pasted%20image%2020250930175902.png)
+
+
+![](../../Img/Pasted%20image%2020250930175913.png)
+
+![](../../Img/Pasted%20image%2020250930175930.png)
+
 
 Q20: The malware uses Input/Output Control codes to perform various tasks related to hiding malicious artifacts. What is the IOCTL code used by the malware to hide its service from the list within the services.exe process address space?
 
