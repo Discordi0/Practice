@@ -140,7 +140,7 @@ Q18: What type of malware is the above malware?
 
 A: Rootkit
 
-
+It's in the above screenshot.
 
 Q19: The first stage consists of a malicious PowerShell dropper. What type of encryption is used to obfuscate the code?
 
