@@ -104,7 +104,11 @@ In the middle of the article, inside the "Campaign Beta" sub-section, it's the f
 
 Q14: Most of the domains the malware communicates with have a .com top-level domain. One uses a .dev TLD. What is the full domain name for the .dev TLD?
 
-A: 
+A: telcom.grishamarkovgf8936.workers.dev
+
+This is just above the technique of the above question, in the image below "Campaign Beta"
+
+![](../../Img/EarthEstries-Fig08.png)
 
 Q15: What is the filename for the first GET request to the C&C server used by the malware?
 
