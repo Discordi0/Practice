@@ -96,7 +96,11 @@ The answer is right below the title of the article.
 
 Q13: The blog post identifies additional malware attributed to the threat actor. Which malware do they describe as a 'multi-modular backdoor...using a custom protocol protected by Transport Layer Security'
 
-A: 
+A: GhostSpider
+
+In the middle of the article, inside the "Campaign Beta" sub-section, it's the first technique described.
+
+![](../../Img/Pasted%20image%2020250930171646.png)
 
 Q14: Most of the domains the malware communicates with have a .com top-level domain. One uses a .dev TLD. What is the full domain name for the .dev TLD?
 
