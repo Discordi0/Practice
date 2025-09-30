@@ -130,7 +130,9 @@ The name it's in the title.
 
 Q17: What is the name of the malware that this article focuses on?
 
-A: 
+A: Demodex
+
+Reading through the blog, we can start to get the answer, but 
 
 Q18: What type of malware is the above malware?
 
