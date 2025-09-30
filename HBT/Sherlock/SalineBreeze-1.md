@@ -146,11 +146,15 @@ Q19: The first stage consists of a malicious PowerShell dropper. What type of en
 
 A: AES
 
-The answer to this question it's higher up in the blog post inside 
+The answer to this question it's higher up in the blog post inside the "Infection chain overview" section. In the first image in that section we can find the answer.
+
 ![](../../Img/Pasted%20image%2020250930175902.png)
 
+I wasn't that sure of this so i downloaded the document attached to the section.
 
 ![](../../Img/Pasted%20image%2020250930175913.png)
+
+Inside the kaspersky document we can find the explanation to the question.
 
 ![](../../Img/Pasted%20image%2020250930175930.png)
 
