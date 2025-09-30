@@ -73,7 +73,11 @@ In the "Origins and Affiliations of the Chinese Threat Actor Salt Typhoon" secti
 
 Q10: The blog demonstrates how the group modifies the registry to obtain persistence with a backdoor known as Crowdoor. Which registry key do they target?
 
-A: 
+A: HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+
+Arriving at the middle of the blog post, in the "Persistence: ATT&CK TA0003" section, inside the " Modify Registry - MITRE T1112 " sub-section we find an example of a command used by the group.
+
+
 
 Q11: What is the MITRE ATT&CK ID of the previous technique?
 
