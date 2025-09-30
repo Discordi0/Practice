@@ -77,15 +77,22 @@ A: HKCU\Software\Microsoft\Windows\CurrentVersion\Run
 
 Arriving at the middle of the blog post, in the "Persistence: ATT&CK TA0003" section, inside the " Modify Registry - MITRE T1112 " sub-section we find an example of a command used by the group.
 
-
+![](../../Img/Pasted%20image%2020250930170846.png)
 
 Q11: What is the MITRE ATT&CK ID of the previous technique?
 
-A: 
+A: T1112
+
+It's in the name of the sub-section in Q10.
 
 Q12: On November 25th, 2024, TrendMicro published a blog post detailing the threat actor. What name does this blog primarily use to refer to the group?
 
-A: 
+A: Earth Estries
+
+Searching for "Salt Typhoon Picus Security" i found the article (https://www.trendmicro.com/en_us/research/24/k/earth-estries.html). 
+The answer is right below the title of the article.
+
+![](../../Img/Pasted%20image%2020250930171145.png)
 
 Q13: The blog post identifies additional malware attributed to the threat actor. Which malware do they describe as a 'multi-modular backdoor...using a custom protocol protected by Transport Layer Security'
 
