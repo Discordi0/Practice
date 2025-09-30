@@ -10,7 +10,7 @@ Q1: Starting with the MITRE ATT&CK page, which country is thought be behind Salt
 
 A: China
 
-Opening the link of MITRE's pago on Salt Typhoon. (https://attack.mitre.org/groups/G1045/). We get the answer. 
+Opening the link of MITRE's page on Salt Typhoon. (https://attack.mitre.org/groups/G1045/). We get the answer. 
 
 ![](../../Img/Pasted%20image%2020250930165517.png)
 
