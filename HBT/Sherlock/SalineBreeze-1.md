@@ -132,11 +132,15 @@ Q17: What is the name of the malware that this article focuses on?
 
 A: Demodex
 
-Reading through the blog, we can start to get the answer, but 
+Reading through the blog, we can start to get the answer, but until the middle of the blog, in specific to the "Demodex rootkit functionality" sub-section we get the answer.
+
+![](../../Img/Pasted%20image%2020250930175407.png)
 
 Q18: What type of malware is the above malware?
 
-A: 
+A: Rootkit
+
+
 
 Q19: The first stage consists of a malicious PowerShell dropper. What type of encryption is used to obfuscate the code?
 
