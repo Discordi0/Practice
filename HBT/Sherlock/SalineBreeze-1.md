@@ -163,6 +163,11 @@ Q20: The malware uses Input/Output Control codes to perform various tasks relate
 
 A: 0x220300
 
-In the ma
+In the main article (https://securelist.com/ghostemperor-from-proxylogon-to-kernel-mode/104407/). Inside the "Demodex rootkit functionality" we can find the IOCTL codes of this rootkit. 
+Reading through them we can find the answer. 
+
+![](../../Img/Pasted%20image%2020250930181527.png)
+
+
 
 
