@@ -9,7 +9,9 @@ Recently, a user triggered multiple alerts after downloading several potentially
 
 Q1: What is the victim's IP address?
 
-A: 
+A: 192.168.1.152
+
+
 
 Q2: What is the IP address of the attacker from whom the files were downloaded?
 
