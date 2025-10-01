@@ -19,15 +19,23 @@ Q2: Which mail server relayed this email before reaching the victim?
 
 A: 203.0.113.25
 
+If we keep reading the email, we reach the section where the trace(?) is.
 
+![](../../Img/Pasted%20image%2020250930230842.png)
 
 Q3: What is the sender's email address?
 
-A: 
+A: finance@business-finance.com
+
+It's in the above screenshot. (first relay)
 
 Q4: What is the 'Reply-To' email address specified in the email?
 
-A: 
+A: support@business-finance.com
+
+Top of the email.
+
+![](../../Img/Pasted%20image%2020250930231051.png)
 
 Q5: What is the SPF (Sender Policy Framework) result for this email?
 
