@@ -55,11 +55,19 @@ In the content of the email, it's the only link.
 
 Q7: What is the fake company name used in the email?
 
-A: 
+A: Business Finance Ltd.
+
+In the next lines.
+
+![](../../Img/Pasted%20image%2020250930231425.png)
 
 Q8: What is the name of the attachment included in the email?
 
-A: 
+A: Invoice_2025_Payment.zip
+
+At the bottom of the email, where the included file is.
+
+![](../../Img/Pasted%20image%2020250930231525.png)
 
 Q9: What is the SHA-256 hash of the attachment?
 
