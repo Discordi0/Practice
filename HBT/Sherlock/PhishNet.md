@@ -71,7 +71,11 @@ At the bottom of the email, where the included file is.
 
 Q9: What is the SHA-256 hash of the attachment?
 
-A: 
+A: 8379c41239e9af845b2ab6c27a7509ae8804d7d73e455c800a551b22ba25bb4a
+
+I opened the email with Thunderbird, save the .zip file and sha256sum it.
+
+![](../../Img/Pasted%20image%2020250930232910.png)
 
 Q10: What is the filename of the malicious file contained within the ZIP attachment?
 
