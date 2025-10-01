@@ -7,11 +7,19 @@ An accounting team receives an urgent payment request from a known vendor. The e
 ## Questions: 
 
 Q1: What is the originating IP address of the sender?
-A: 
+
+A: 45.67.89.10
+
+The scenario comes with a .eml file.
+We open that file and search for the ip.
+
+![](../../Img/Pasted%20image%2020250930230613.png)
 
 Q2: Which mail server relayed this email before reaching the victim?
 
-A: 
+A: 203.0.113.25
+
+
 
 Q3: What is the sender's email address?
 
