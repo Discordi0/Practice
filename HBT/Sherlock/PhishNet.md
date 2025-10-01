@@ -79,7 +79,15 @@ I opened the email with Thunderbird, save the .zip file and sha256sum it.
 
 Q10: What is the filename of the malicious file contained within the ZIP attachment?
 
-A: 
+A: invoice_document.pdf.bat
+
+You can just open the .zip file to see, but if you don't think it's wise, just copy the string from inside the email (opened with a txt editor).
+
+![](../../Img/Pasted%20image%2020250930233146.png)
+
+And decode it.
+
+![](../../Img/Pasted%20image%2020250930233205.png)
 
 Q11: Which MITRE ATT&CK techniques are associated with this attack?
 
