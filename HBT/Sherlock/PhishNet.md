@@ -39,11 +39,19 @@ Top of the email.
 
 Q5: What is the SPF (Sender Policy Framework) result for this email?
 
-A: 
+A: pass
+
+A little bit below.
+
+![](../../Img/Pasted%20image%2020250930231137.png)
 
 Q6: What is the domain used in the phishing URL inside the email?
 
-A: 
+A: secure.business-finance.com
+
+In the content of the email, it's the only link.
+
+![](../../Img/Pasted%20image%2020250930231332.png)
 
 Q7: What is the fake company name used in the email?
 
