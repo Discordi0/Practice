@@ -91,4 +91,8 @@ And decode it.
 
 Q11: Which MITRE ATT&CK techniques are associated with this attack?
 
-A: 
+A: T1566.001
+
+Search for the phishing technique in mitre (https://attack.mitre.org/techniques/T1566/), then look for the right sub-technique.
+
+![](../../Img/Pasted%20image%2020250930233329.png)
