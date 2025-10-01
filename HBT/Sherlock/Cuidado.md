@@ -11,7 +11,7 @@ Q1: What is the victim's IP address?
 
 A: 192.168.1.152
 
-
+The scenario comes with a .zip file, inside that there is a .pcap file, opening that with
 
 Q2: What is the IP address of the attacker from whom the files were downloaded?
 
