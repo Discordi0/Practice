@@ -48,6 +48,10 @@ Q5: When was the archive file opened?
 
 A: 
 
+For this onw we need to check the Last Record Change0x10
+
+![](../../Img/Pasted%20image%2020251005204753.png)
+
 Q6: What is the name of the decoy document extracted from the archive file, meant to appear legitimate and distract the user?
 
 A: 
