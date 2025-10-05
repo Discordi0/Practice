@@ -28,7 +28,11 @@ Q3: What is the name of the archive file under Susan's documents folder that exp
 A: 
 
 First we need to get the $MFT file. The provided .zip contains a .vhdx file, i just double click it (on Windows), and searched for the $MFT.
-I used MFTECmd.exe to get a .csv file, and with that i used TimeLinexpl
+I used MFTECmd.exe to get a .csv file, and with that i used Timeline Explorer.
+
+We are searching for a file in documents under Susan's user, so we start there.
+
+
 
 Q4: When was the archive file created on the disk?
 
