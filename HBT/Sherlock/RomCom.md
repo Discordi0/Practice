@@ -32,6 +32,8 @@ I used MFTECmd.exe to get a .csv file, and with that i used Timeline Explorer.
 
 We are searching for a file in documents under Susan's user, so we start there.
 
+![](../../Img/Pasted%20image%2020251005202759.png)
+
 
 
 Q4: When was the archive file created on the disk?
