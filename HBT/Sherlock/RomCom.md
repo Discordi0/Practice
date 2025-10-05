@@ -25,7 +25,7 @@ Searching that CVE i got it. (https://nvd.nist.gov/vuln/detail/CVE-2025-8088)
 
 Q3: What is the name of the archive file under Susan's documents folder that exploits the vulnerability upon opening the archive file?
 
-A: 
+A: Pathology-Department-Research-Records.rar
 
 First we need to get the $MFT file. The provided .zip contains a .vhdx file, i just double click it (on Windows), and searched for the $MFT.
 I used MFTECmd.exe to get a .csv file, and with that i used Timeline Explorer.
@@ -34,11 +34,15 @@ We are searching for a file in documents under Susan's user, so we start there.
 
 ![](../../Img/Pasted%20image%2020251005202759.png)
 
+We have 2 suspicious files, the pdf was created after the rar so i assume that the .rar is the culprit.
 
+![](../../Img/Pasted%20image%2020251005203257.png)
 
 Q4: When was the archive file created on the disk?
 
-A: 
+A: 2025-09-02 08:13:50
+
+Q3 2nd screenshot.
 
 Q5: When was the archive file opened?
 
