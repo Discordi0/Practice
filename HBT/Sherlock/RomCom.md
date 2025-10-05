@@ -9,11 +9,17 @@ Susan works at the Research Lab in Forela International Hospital. A Microsoft De
 
 Q1: What is the CVE assigned to the WinRAR vulnerability exploited by the RomCom threat group in 2025?
 
-A: 
+A: CVE-2025-8088
+
+With a internet search (WinRAR Romcom 2025) i got this. (https://socprime.com/es/blog/detect-cve-2025-8088-exploitation-for-romcom-delivery/)
+
+![](../../Img/Pasted%20image%2020251005201425.png)
 
 Q2: What is the nature of this vulnerability?
 
-A: 
+A: Path Traversal
+
+Searching that CVE i got it. ()
 
 Q3: What is the name of the archive file under Susan's documents folder that exploits the vulnerability upon opening the archive file?
 
