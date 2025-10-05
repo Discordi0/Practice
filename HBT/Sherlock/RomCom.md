@@ -19,7 +19,9 @@ Q2: What is the nature of this vulnerability?
 
 A: Path Traversal
 
-Searching that CVE i got it. ()
+Searching that CVE i got it. (https://nvd.nist.gov/vuln/detail/CVE-2025-8088)
+
+![](../../Img/Pasted%20image%2020251005201544.png)
 
 Q3: What is the name of the archive file under Susan's documents folder that exploits the vulnerability upon opening the archive file?
 
