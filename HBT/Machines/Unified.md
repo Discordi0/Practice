@@ -160,4 +160,4 @@ Look for it
 
 ![](../../Img/Pasted%20image%2020250424170430.png)
 
-Tags: [JNDI](../../Index/JNDI.md) [Nmap](../../Index/Nmap.md)
+Tags: [JNDI](../../Index/JNDI.md) [MongoDB](../../Index/MongoDB.md) [Nmap](../../Index/Nmap.md)
