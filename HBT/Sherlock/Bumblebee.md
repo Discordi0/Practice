@@ -66,23 +66,25 @@ Opening the access.log file we can see that his IP it's the first one to access 
 
 ___
 
-Q3: What is the post_id of the malicious post that the contractor made?
+### Q3: What is the post_id of the malicious post that the contractor made?
 
-A: 9
+#### A: 9
 
 In the posts table we can see that there is only 1 post from that IP.
 
 ![](../../Img/Pasted%20image%2020250509170450.png)
 
-Q4: What is the full URI that the credential stealer sends its data to?
+___
 
-A: http://10.10.0.78/update.php
+### Q4: What is the full URI that the credential stealer sends its data to?
 
-In the same entry of the above question there is this.
+#### A: http://10.10.0.78/update.php
+
+In the same entry of the above question there's this.
 
 ![](../../Img/Pasted%20image%2020250509171051.png)
 
-This is a full web page, i unminified because how reads all code in one line? (https://intteractivo.com/herramientas/desminificar-html/)
+This is a full web page, i unminified because who reads code all in one line? (https://intteractivo.com/herramientas/desminificar-html/)
 
 Found you.
 
@@ -91,26 +93,32 @@ Found you.
 This calls a sethidden function.
 The function looks for phpbb_token to dissable the hidden status of zbzbz1234. When it's called it creates a cookie and hidden goes to true again.
 
-Q5: When did the contractor log into the forum as the administrator? (UTC)
+___
 
-A: 26/04/2023 10:53:12
+### Q5: When did the contractor log into the forum as the administrator? (UTC)
+
+#### A: 26/04/2023 10:53:12
 
 In the log table we can see that the .78 IP login as admin.
 Convert that to human time and that's the answer (UTC)
 
 ![](../../Img/Pasted%20image%2020250509172005.png)
 
-Q6: In the forum there are plaintext credentials for the LDAP connection, what is the password?
+___
 
-A: Passw0rd1
+### Q6: In the forum there are plaintext credentials for the LDAP connection, what is the password?
+
+#### A: Passw0rd1
 
 In the config table.
 
 ![](../../Img/Pasted%20image%2020250509172340.png)
 
-Q7: What is the user agent of the Administrator user?
+___
 
-A: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+### Q7: What is the user agent of the Administrator user?
+
+#### A: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 
 We can search for his IP in the access.log file.
 
@@ -118,18 +126,21 @@ We can search for his IP in the access.log file.
 
 ![](../../Img/Pasted%20image%2020250509172553.png)
 
+___
 
-Q8: What time did the contractor add themselves to the Administrator group? (UTC)
+### Q8: What time did the contractor add themselves to the Administrator group? (UTC)
 
-A: 26/04/2023 10:53:51
+#### A: 26/04/2023 10:53:51
 
 Same as Q5. Find in the log table and convert.
 
 ![](../../Img/Pasted%20image%2020250509172711.png)
 
-Q9: What time did the contractor download the database backup? (UTC)
+___
 
-A: 26/04/2023 11:01:38
+### Q9: What time did the contractor download the database backup? (UTC)
+
+#### A: 26/04/2023 11:01:38
 
 In the log table, it only says that there was a backup, the question is the download, so to the access.log it is.
 
@@ -137,12 +148,14 @@ In the end of the file, we can see that the attacker's IP did a GET request to a
 
 ![](../../Img/Pasted%20image%2020250509173141.png)
 
-Q10: What was the size in bytes of the database backup as stated by access.log?
+___
 
-A: 34707
+### Q10: What was the size in bytes of the database backup as stated by access.log?
+
+#### A: 34707
 
 In the same entry, we get the URI, then we have the protocol, the response code, and then there is the size.
 
 ![](../../Img/Pasted%20image%2020250509173335.png)
 
-Tags: [DB Analysis](../../Index/DB%20Analysis.md) [Log Analysis](../../Index/Log%20Analysis.md) 
+Tags: [DB Analysis](../../Index/DB%20Analysis.md) [Log Analysis](../../Index/Log%20Analysis.md) [Source Code Analysis](../../Index/Source%20Code%20Analysis.md) 
