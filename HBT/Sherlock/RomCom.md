@@ -84,7 +84,8 @@ We just need to search for the path.
 
 Q9: What is the associated MITRE Technique ID discussed in the previous question?
 
-A: 
+A: T1547.009
+
 For the path of the .lnk file and the previous question we can see that it's some kind of persistence in the form of startup file.
 
 So in the mitre matrix (https://attack.mitre.org/) we search for persistence.
@@ -95,10 +96,13 @@ We can search for the answer by reading the sub-techniques.
 
 ![](../../Img/Pasted%20image%2020251005214044.png)
 
-Until we got the correct one.
+Until we got the correct one. (https://attack.mitre.org/techniques/T1547/009/)
 
 ![](../../Img/Pasted%20image%2020251005214107.png)
 
 Q10: When was the decoy document opened by the end user, thinking it to be a legitimate document?
 
-A: 
+A: 2025-09-02 08:15:05
+
+For this one as i already have the USN journal open i searched there.
+With the name of the file (Genotyping_Results_B57_Positive.pdf) i checked the Update Reasons for the 
