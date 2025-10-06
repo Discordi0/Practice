@@ -37,25 +37,29 @@ With the same filter i just keep scrolling down until i notice rdp traffic.
 
 ___
 
-Q4: In NTLM traffic we can see that the victim credentials were relayed multiple times to the attacker's machine. When were the hashes captured the First time?
+### Q4: In NTLM traffic we can see that the victim credentials were relayed multiple times to the attacker's machine. When were the hashes captured the First time?
 
-A: 2024-06-24 11:18:30
+#### A: 2024-06-24 11:18:30
 
 We filter for NTLM traffic (ntlmssp) and check the first one.
 
 ![](../../Img/Pasted%20image%2020250428141303.png)
 
-Q5: What was the typo made by the victim when navigating to the file share that caused his credentials to be leaked?
+___
 
-A: DCC01
+### Q5: What was the typo made by the victim when navigating to the file share that caused his credentials to be leaked?
+
+#### A: DCC01
 
 We go back to filter by the attacker ip.
 
 ![](../../Img/Pasted%20image%2020250428141516.png)
 
-Q6: To get the actual credentials of the victim user we need to stitch together multiple values from the ntlm negotiation packets. What is the NTLM server challenge value?
+___
 
-A: 601019d191f054f1
+### Q6: To get the actual credentials of the victim user we need to stitch together multiple values from the ntlm negotiation packets. What is the NTLM server challenge value?
+
+#### A: 601019d191f054f1
 
 Back to NTLM traffic filter. We see one that might be interesting. 
 ![](../../Img/Pasted%20image%2020250428141812.png)
@@ -64,9 +68,11 @@ Inside the SMB2 section look for it.
 
 ![](../../Img/Pasted%20image%2020250428141907.png)
 
-Q7: Now doing something similar find the NTProofStr value.
+___
 
-A: c0cc803a6d9fb5a9082253a04dbd4cd4
+### Q7: Now doing something similar find the NTProofStr value.
+
+#### A: c0cc803a6d9fb5a9082253a04dbd4cd4
 
 According to this article (https://posts.specterops.io/the-renaissance-of-ntlm-relay-attacks-everything-you-need-to-know-abfc3677c34e). NTProofStr is a part of the authentication process.
 Searching the next packet que find the answer.
@@ -75,9 +81,11 @@ Searching the next packet que find the answer.
 
 ![](../../Img/Pasted%20image%2020250428142722.png)
 
-Q8: To test the password complexity, try recovering the password from the information found from packet capture. This is a crucial step as this way we can find whether the attacker was able to crack this and how quickly.
+___
 
-A: NotMyPassword0K?
+### Q8: To test the password complexity, try recovering the password from the information found from packet capture. This is a crucial step as this way we can find whether the attacker was able to crack this and how quickly.
+
+#### A: NotMyPassword0K?
 
 I had to use the hint for this. This is what i need to do User::Domain:ServerChallenge:NTProofStr:NTLMv2Response(without first 16 bytes).
 
@@ -89,13 +97,15 @@ Then hashcat it is. hashcat -a 0 -m 5600 hash.txt /usr/share/wordlists/rockyou.t
 
 ![](../../Img/Pasted%20image%2020250428143516.png)
 
-Q9: Just to get more context surrounding the incident, what is the actual file share that the victim was trying to navigate to?
+___
 
-A: \\DC01\DC-Confidential
+### Q9: Just to get more context surrounding the incident, what is the actual file share that the victim was trying to navigate to?
+
+#### A: \\DC01\DC-Confidential
 
 I recall that in smb2 traffic there was something useful, use the filter and found it.
 
 ![](../../Img/Pasted%20image%2020250428143722.png)
 
 
-Tags: [LLMNR Poisoning](../../Index/LLMNR%20Poisoning.md) [Network Traffic Analysis](../../Index/Network%20Traffic%20Analysis.md) 
+Tags: [Hashcat](../../Index/Hashcat.md) [LLMNR Poisoning](../../Index/LLMNR%20Poisoning.md) [Network Traffic Analysis](../../Index/Network%20Traffic%20Analysis.md) [Wireshark](../../Index/Wireshark.md)
