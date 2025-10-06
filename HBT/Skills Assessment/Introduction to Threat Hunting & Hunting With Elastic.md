@@ -1,5 +1,4 @@
 
-
 ## Hunting For Stuxbot (Round 2)
 
 Recently uncovered details shed light on the operational strategy of Stuxbot's newest iteration.
@@ -27,15 +26,13 @@ The cybersecurity strategy implemented is predicated on the utilization of the E
 
 `Hunt 3`: Create a KQL query to hunt for ["PowerShell Remoting for Lateral Movement"](https://www.ired.team/offensive-security/lateral-movement/t1028-winrm-for-lateral-movement). Enter the content of the `winlog.user.name` field in the document that is related to PowerShell remoting-based lateral movement towards DC1.
 
-
 ## Questions
 
+### Q1: Enter your answer for Hunt 1.
 
-Q1: Enter your answer for Hunt 1.
+#### A: svc-sql1
 
-A: svc-sql1
-
-My process here was to try to find some "target" field that had `C:\Users\Public` in it as it was said in Hunt 1 that the tool was moved there. But i had no luck with that aproach.
+My process here was to try to find some "target" field that had `C:\Users\Public` in it, as it was said in Hunt 1 that the tool was moved there. But i had no luck with that aproach.
 Then i tried to just search for all file in that directory with file.path.
 
 ![](../../Img/Pasted%20image%2020250522192231.png)
@@ -44,10 +41,13 @@ Having no luck with that either, i searched for the text variant and i got it. (
 
 ![](../../Img/Pasted%20image%2020250522192355.png)
 
-Q2: Enter your answer for Hunt 2.
-A: LgvHsviAUVTsIN
+___
 
-For this one i remembered that we have access to sysmon logs. so i google for the sysmos event id for registry. (https://learn.microsoft.com/es-mx/sysinternals/downloads/sysmon)
+### Q2: Enter your answer for Hunt 2.
+
+#### A: LgvHsviAUVTsIN
+
+For this one i remembered that we have access to sysmon logs. so i google for the sysmon event id for registry. (https://learn.microsoft.com/es-mx/sysinternals/downloads/sysmon)
 
 ![](../../Img/Pasted%20image%2020250522193418.png)
 
@@ -65,9 +65,11 @@ So i did this and got the answer.
 
 ![](../../Img/Pasted%20image%2020250522195033.png)
 
-Q3: Enter your answer for Hunt 3.
+___
 
-A: svc-sql1
+### Q3: Enter your answer for Hunt 3.
+
+#### A: svc-sql1
 
 I didn't found a sysmon event id that could help me, so i started with the other part that i knew about this question, the powershell comand that had DC1 in it.
 After a lot of tries to get a query that got me something i got this one.
@@ -80,3 +82,6 @@ Since a i have to look for `winlog.user.name` i added it.
 
 There is only 2 and because Q1 we know it's not bob.
 For further clarification i decoded (From base64) some of the "message" and got the confirmation.
+
+
+Tags: [Elastic](../../Index/Elastic.md) 
