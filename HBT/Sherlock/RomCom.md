@@ -60,10 +60,14 @@ This one would have to be the .pdf file we found in Q3.
 
 Q7: What is the name and path of the actual backdoor executable dropped by the archive file?
 
-A: 
+A: C:\Users\Susan\Appdata\Local\ApbxHelper.exe
 
 I couldn't find this one in the $MFT file, so i had to check the $J (USN Journal).
-With that file i checked for files created at the same time as the .pdf
+With that file i checked for files created at the same time as the .pdf  ([Update Timestamp] >= #2025-09-02 08:14:00# And [Update Timestamp] < #2025-09-02 08:15:00# And Contains([Update Reasons], 'FileCreate')).
+
+![](../../Img/Pasted%20image%2020251005212613.png)
+
+We can see a suspicious .exe file.
 
 Q8: The exploit also drops a file to facilitate the persistence and execution of the backdoor. What is the path and name of this file?
 
