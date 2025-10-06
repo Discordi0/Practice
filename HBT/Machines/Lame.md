@@ -106,9 +106,11 @@ I had to install exploitDb to search for the exploit that used telnet for some r
 
 ![](../../Img/Pasted%20image%2020250509000145.png)
 
-Q11: When the VSFTPd backdoor is triggered, does port 6200 start listening on Lame?
+___
 
-A: yes
+### Q11: When the VSFTPd backdoor is triggered, does port 6200 start listening on Lame?
+
+#### A: yes
 
 Let's see.
 
