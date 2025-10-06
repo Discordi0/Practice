@@ -93,31 +93,39 @@ Now finally for the question let's check if mongo is running (ps aux | grep mong
 
 ![](../../Img/Pasted%20image%2020250424163929.png)
 
-Q9: What is the default database name for UniFi applications?
+___
 
-A:  ace
+### Q9: What is the default database name for UniFi applications?
 
-Before i had the genius ground breaking idea of just Googling it i connected to the mongo instance and listed the db
+#### A:  ace
+
+Before i had the genius ground breaking idea of just googling it, i connected to the mongo instance and listed the db
 
 ![](../../Img/Pasted%20image%2020250424164412.png)
 
 ![](../../Img/Pasted%20image%2020250424164226.png)
 
-Q10: What is the function we use to enumerate users within the database in MongoDB?
+___
 
-A: db.admin.find()
+### Q10: What is the function we use to enumerate users within the database in MongoDB?
+
+#### A: db.admin.find()
 
 This doesn't seem to me like a just find user command, db.getUsers() seems like the answer (https://www.prisma.io/dataguide/mongodb/configuring-mongodb-user-accounts-and-authentication)
 
-Q11: What is the function we use to update users within the database in MongoDB?
+___
 
-A: db.admin.update()
+### Q11: What is the function we use to update users within the database in MongoDB?
+
+#### A: db.admin.update()
 
 Following the trend here, i got no problem with this one .
 
-Q12: What is the password for the root user?
+___
 
-A: NotACrackablePassword4U2022
+### Q12: What is the password for the root user?
+
+#### A: NotACrackablePassword4U2022
 
 I Chose the Shadow Admin method from the article. I created a pswd (qweqwe12345), sha-512 it, replace the one the admin had with (db.admin.update())
 and just log in
@@ -128,9 +136,11 @@ Now, in the Steal SSH Creds it says how to get the answer
 
 ![](../../Img/Pasted%20image%2020250424170142.png)
 
-Q13: Submit user flag
+___
 
-A: 6ced1a6a89e666c0620cdb10262ba127
+### Q13: Submit user flag
+
+#### A: 6ced1a6a89e666c0620cdb10262ba127
 
 shh into it 
 
@@ -140,12 +150,14 @@ go find it
 
 ![](../../Img/Pasted%20image%2020250424170542.png)
 
-Q14: Submit root flag
+___
 
-A: e50bc93c75b634e4b272d2f771c33681
+### Q14: Submit root flag
+
+#### A: e50bc93c75b634e4b272d2f771c33681
 
 Look for it 
 
 ![](../../Img/Pasted%20image%2020250424170430.png)
 
-Tags: [Nmap](../../Index/Nmap.md)
+Tags: [JNDI](../../Index/JNDI.md) [Nmap](../../Index/Nmap.md)
