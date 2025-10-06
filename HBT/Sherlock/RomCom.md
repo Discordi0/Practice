@@ -88,16 +88,18 @@ ___
 
 ### Q8: The exploit also drops a file to facilitate the persistence and execution of the backdoor. What is the path and name of this file?
 
-A: C:\Users\susan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Display Settings.lnk
+#### A: C:\Users\susan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Display Settings.lnk
 
 This one would have to be the other file that we got on Q7 (.lnk)
 We just need to search for the path.
 
 ![](../../Img/Pasted%20image%2020251005213212.png)
 
-Q9: What is the associated MITRE Technique ID discussed in the previous question?
+___
 
-A: T1547.009
+### Q9: What is the associated MITRE Technique ID discussed in the previous question?
+
+#### A: T1547.009
 
 For the path of the .lnk file and the previous question we can see that it's some kind of persistence in the form of startup file.
 
@@ -113,9 +115,11 @@ Until we got the correct one. (https://attack.mitre.org/techniques/T1547/009/)
 
 ![](../../Img/Pasted%20image%2020251005214107.png)
 
-Q10: When was the decoy document opened by the end user, thinking it to be a legitimate document?
+___
 
-A: 2025-09-02 08:15:05
+### Q10: When was the decoy document opened by the end user, thinking it to be a legitimate document?
+
+#### A: 2025-09-02 08:15:05
 
 For this one as i already have the USN journal open i searched there.
 With the name of the file (Genotyping_Results_B57_Positive.pdf) i checked the Update Reasons for the ObjectIdChange.
@@ -125,4 +129,4 @@ With the name of the file (Genotyping_Results_B57_Positive.pdf) i checked the Up
 ![](../../Img/Pasted%20image%2020251005214520.png)
 
 
-Tags: [MFT Forensics](../../Index/MFT%20Forensics.md) [Threat Analysis](../../Index/Threat%20Analysis.md) [Timeline Explorer](../../Index/Timeline%20Explorer.md) 
+Tags: [MFT Forensics](../../Index/MFT%20Forensics.md) [Mitre](../../Index/Mitre.md) [Threat Analysis](../../Index/Threat%20Analysis.md) [Timeline Explorer](../../Index/Timeline%20Explorer.md) [USN Journal Forensics](../../Index/USN%20Journal%20Forensics.md) 
