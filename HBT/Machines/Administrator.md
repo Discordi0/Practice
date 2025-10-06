@@ -10,17 +10,17 @@ As is common in real life Windows pentests, you will start the Administrator box
 
 
 
-Q1: What is the lowest TCP port listening on Administrator?
+### Q1: What is the lowest TCP port listening on Administrator?
 
-A: 21
+#### A: 21
 
 I did nmap scan: nmap -sV -sC -Pn 10.10.11.42
 
 ![](../../Img/Pasted%20image%2020250502141356.png)
 
-Q2: What permission does the Olivia user have over the Michael user (as shown by BloodHound)?
+### Q2: What permission does the Olivia user have over the Michael user (as shown by BloodHound)?
 
-A: GenericAll
+#### A: GenericAll
 
 As per the hint, we download and run bloodhound.py  with the credentials given to us. We start the db and run Bloodhund to check the results.
 
@@ -28,25 +28,25 @@ We search for olivia (the only user we have), and check the attributes that the 
 
 ![](../../Img/Pasted%20image%2020250502150237.png)
 
-Q3: What permission does the Michael user have on the Benjamin user?
+### Q3: What permission does the Michael user have on the Benjamin user?
 
-A: ForceChangePassword
+#### A: ForceChangePassword
 
 We select michael node and check.
 
 ![](../../Img/Pasted%20image%2020250502151431.png)
 
-Q4: What is the name of a non-default group that Benjamin is a part of?
+### Q4: What is the name of a non-default group that Benjamin is a part of?
 
-A: Share Moderators
+#### A: Share Moderators
 
 Check Banjamin.
 
 ![](../../Img/Pasted%20image%2020250502151559.png)
 
-Q5: What is the Master Password for `Backup.psafe3`?
+### Q5: What is the Master Password for `Backup.psafe3`?
 
-A: tekieromucho
+#### A: tekieromucho
 
 First we need to log in as olivia.
 
@@ -68,9 +68,9 @@ We get it, and crack it with hashcat.
 
 ![](../../Img/Pasted%20image%2020250502155124.png)
 
-Q6: What is the Emily user's password on Administrator?
+### Q6: What is the Emily user's password on Administrator?
 
-A: UXLCI5iETUsIBoFVTj8yQFKoHjXmb
+#### A: UXLCI5iETUsIBoFVTj8yQFKoHjXmb
 
 The file was a Password safe file, so we install that.
 
@@ -130,3 +130,6 @@ We use evil-winrm to connect.
 Then just search it.
 
 ![](../../Img/Pasted%20image%2020250502170510.png)
+
+
+Tags: [BloodHound](../../Index/BloodHound.md) [Nmap](../../Index/Nmap.md) 
