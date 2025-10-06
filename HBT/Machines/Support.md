@@ -1,13 +1,13 @@
 
-About Support
+# About Support
 
 Support is an Easy difficulty Windows machine that features an SMB share that allows anonymous authentication. After connecting to the share, an executable file is discovered that is used to query the machine&amp;amp;amp;amp;#039;s LDAP server for available users. Through reverse engineering, network analysis or emulation, the password that the binary uses to bind the LDAP server is identified and can be used to make further LDAP queries. A user called `support` is identified in the users list, and the `info` field is found to contain his password, thus allowing for a WinRM connection to the machine. Once on the machine, domain information can be gathered through `SharpHound`, and `BloodHound` reveals that the `Shared Support Accounts` group that the `support` user is a member of, has `GenericAll` privileges on the Domain Controller. A Resource Based Constrained Delegation attack is performed, and a shell as `NT Authority\System` is received.
 
+___
 
+### Q1: How many shares is Support showing on SMB?
 
-Q1: How many shares is Support showing on SMB?
-
-A: 6
+#### A: 6
 
 With nmap -sV -sC -Pn {ip}, i got this.
 
@@ -17,26 +17,29 @@ We see that port 445 (smb) it's there. So we tried to connect to it. smbclient -
 
 ![](../../Img/Pasted%20image%2020250430142451.png)
 
+___
 
-Q2: Which share is not a default share for a Windows domain controller?
+### Q2: Which share is not a default share for a Windows domain controller?
 
-A: support-tools
-
+#### A: support-tools
 
 The support share doesn't seem like standar with smb.
 
 ![](../../Img/Pasted%20image%2020250430142412.png)
 
+___
 
-Q3: Almost all of the files in this share are publicly available tools, but one is not. What is the name of that file?
+### Q3: Almost all of the files in this share are publicly available tools, but one is not. What is the name of that file?
 
-A: UserInfo.exe.zip
+#### A: UserInfo.exe.zip
 
 All of the tools look familiar, except for UserInfo.
 
-Q4: What is the hardcoded password used for LDAP in the UserInfo.exe binary?
+___
 
-A: nvEfEK16^1aM4$e7AclUf8x$tRWxPWO1%lmz
+### Q4: What is the hardcoded password used for LDAP in the UserInfo.exe binary?
+
+#### A: nvEfEK16^1aM4$e7AclUf8x$tRWxPWO1%lmz
 
 This is what was inside the .zip
 
@@ -155,5 +158,4 @@ And for the shell i use psexec.py. After a lot of trying because i have to use "
 
 ![](../../Img/Pasted%20image%2020250430171550.png)
 
-
-
+Tags: [Nmap](../../Index/Nmap.md) [SMB](../../Index/SMB.md)

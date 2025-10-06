@@ -139,4 +139,4 @@ I used this (https://gtfobins.github.io/gtfobins/tcpdump/)
 ![](../../Img/Pasted%20image%2020250501175314.png)
 
 
-Tags: [File Uploads](../../Index/File%20Uploads.md) [Nmap](../../Index/Nmap.md) 
+Tags: [Burp Suite](../../Index/Burp%20Suite.md) [File Uploads](../../Index/File%20Uploads.md) [Nmap](../../Index/Nmap.md) 
