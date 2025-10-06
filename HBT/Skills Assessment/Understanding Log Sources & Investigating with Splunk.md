@@ -23,9 +23,9 @@ I added the new filter just to see who created the threads.
 
 ___
 
-Q2: Navigate to http://[Target IP]:8000, open the "Search & Reporting" application, and find through SPL searches against all data the process that started the infection. Answer format: _.exe
+### Q2: Navigate to http://[Target IP]:8000, open the "Search & Reporting" application, and find through SPL searches against all data the process that started the infection. Answer format: _.exe
 
-A: rundll32.exe
+#### A: rundll32.exe
 
 With the result of the previous question i started digging.
 We can see that the threads were created by randomfile.exe.
@@ -88,9 +88,11 @@ After that we can see that at 1:38:40 PM of 10/05/22 rundll32.exe was used to ru
 
 ![](../../Img/Pasted%20image%2020250525172029.png)
 
-We could say that msedge.exe was THE process that started the infection as it was the first .exe (as Q2 says) that was used with Run.dll (the malicious dll that was first downloaded).
+We could say that msedge.exe was THE process that started the infection as it was the first .exe (as Q2 title says) that was used with Run.dll (the malicious dll that was first downloaded).
 
 ![](../../Img/Pasted%20image%2020250525172225.png)
 
 But the answer is rundll32.exe as it was the .exe that was used to run the malicious dll.
 
+
+Tags: [Splunk](../../Index/Splunk.md) 
