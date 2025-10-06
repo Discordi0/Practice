@@ -54,15 +54,15 @@ For this onw we need to check the Last Record Change0x10
 
 Q6: What is the name of the decoy document extracted from the archive file, meant to appear legitimate and distract the user?
 
-A: 
+A: Genotyping_Results_B57_Positive.pdf
 
 This one would have to be the .pdf file we found in Q3.
-
-
 
 Q7: What is the name and path of the actual backdoor executable dropped by the archive file?
 
 A: 
+
+I couldn't
 
 Q8: The exploit also drops a file to facilitate the persistence and execution of the backdoor. What is the path and name of this file?
 
