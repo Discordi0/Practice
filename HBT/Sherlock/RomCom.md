@@ -69,10 +69,18 @@ With that file i checked for files created at the same time as the .pdf  ([Updat
 
 We can see a suspicious .exe file.
 
+With that we can search for the path of the file in the $MFT.
+
+![](../../Img/Pasted%20image%2020251005213017.png)
+
 Q8: The exploit also drops a file to facilitate the persistence and execution of the backdoor. What is the path and name of this file?
 
 A: 
 
+This one would have to be the other file that we got on Q7 (.lnk)
+We just need to s
+
+![](../../Img/Pasted%20image%2020251005213212.png)
 Q9: What is the associated MITRE Technique ID discussed in the previous question?
 
 A: 
