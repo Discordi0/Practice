@@ -31,4 +31,17 @@ This is where i store the notes of the machines/challenges that i complete.
 
 ### Red Team
 
-+ 
++ [BloodHound](Index/BloodHound.md)
++ [Burp Suite](Index/Burp%20Suite.md)
++ [Evil-Winrm](Index/Evil-Winrm.md)
++ [ffuf](Index/ffuf.md)
++ [File Uploads](Index/File%20Uploads.md)
++ [FTP](Index/FTP.md)
++ [IDOR](Index/IDOR.md)
++ [Kerberoasting](Index/Kerberoasting.md)
++ [LLMNR Poisoning](Index/LLMNR%20Poisoning.md)
++ [Metasploit](Index/Metasploit.md)
++ [Nmap](Index/Nmap.md)
++ [Rubeus](Index/Rubeus.md)
++ [SharpHound](Index/SharpHound.md)
++ [Wireshark](Index/Wireshark.md)
