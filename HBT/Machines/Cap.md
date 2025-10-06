@@ -17,7 +17,7 @@ ___
 
 ### Q2: After running a "Security Snapshot", the browser is redirected to a path of the format `/[something]/[id]`, where `[id]` represents the id number of the scan. What is the `[something]`?
 
-A: data
+#### A: data
 
 Go to the page of the machine.
 in the dashboard it's the option.
@@ -26,26 +26,32 @@ in the dashboard it's the option.
 
 ![](../../Img/Pasted%20image%2020250429163851.png)
 
-Q3: Are you able to get to other users' scans?
+___
 
-A: yes
+### Q3: Are you able to get to other users' scans?
 
-I changed de id in the url. in id = 4 i found something.
+#### A: yes
+
+I changed the id in the url, in id = 4 i found something.
 
 ![](../../Img/Pasted%20image%2020250429164005.png)
 
-Q4: What is the ID of the PCAP file that contains sensative data?
+___
 
-A: 0
+### Q4: What is the ID of the PCAP file that contains sensative data?
+
+#### A: 0
 
 I was going to do a burp intruder scan to see how many previous pcap files were in the server because i downloaded and opened 4 pcap files and didn't found anything.
 But pooking around a little bit more i did id = 0 and found it.
 
 ![](../../Img/Pasted%20image%2020250429165241.png)
 
-Q5: Which application layer protocol in the pcap file can the sensetive data be found in?
+___
 
-A: FTP
+### Q5: Which application layer protocol in the pcap file can the sensetive data be found in?
+
+#### A: FTP
 
 It's in the above screenshot.
 
