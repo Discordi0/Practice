@@ -74,11 +74,10 @@ ___
 
 #### A: 43.204.110.203:6666
 
-
 Googling around a little, it seems like you can open the MFT file with various tools, but to look for the Entry, you would normally use a hex editor.
 I used HxD. Open th MFT file, go to the Entry.
 
 ![](../../Img/Pasted%20image%2020250429142503.png)
 
 
-Tags: [MFT Forensics](../../Index/MFT%20Forensics.md) [Timeline Explorer](../../Index/Timeline%20Explorer.md) 
+Tags: [HEX Analysis](../../Index/HEX%20Analysis.md) [MFT Forensics](../../Index/MFT%20Forensics.md) [Timeline Explorer](../../Index/Timeline%20Explorer.md) 

