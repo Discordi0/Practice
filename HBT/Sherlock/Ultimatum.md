@@ -3,10 +3,11 @@
 
 One of the Forela WordPress servers was a target of notorious Threat Actors (TA). The website was running a blog dedicated to the Forela Social Club, where Forela employees can chat and discuss random topics. Unfortunately, it became a target of a threat group. The SOC team believe this was due to the blog running a vulnerable plugin. The IT admin already followed the acquisition playbook and triaged the server for the security team. Ultimately (no pun intended) it is your responsibility to investigate the incident. Step in and confirm the culprits behind the attack and restore this important service within the Forela environment.
 
+___
 
-Q1: Which security scanning tool was utilized by the attacker to fingerprint the blog website?
+### Q1: Which security scanning tool was utilized by the attacker to fingerprint the blog website?
 
-A: wpscan/3.8.24
+#### A: wpscan/3.8.24
 
 Seeing that this is a WP server, i searched for the WP logs.
 I found them here (C:\Users\*******\Documents\Practice\Ultimatum\Logs\ip-172-31-11-131-20230808-0937-var-log.tar\ip-172-31-11-131-20230808-0937-var-log\var\log\apache2).
@@ -15,7 +16,9 @@ Looking through the file i got the answer.
 
 ![](../../Img/Pasted%20image%2020250516174444.png)
 
-Q2: Which CVE was exploited by the attacker?
+___
+
+### Q2: Which CVE was exploited by the attacker?
 
 A: CVE-2023-3460
 
@@ -117,3 +120,5 @@ Almost.
 I started again searching the files to get something, until i went back to the Misc folder, first file.
 
 ![](../../Img/Pasted%20image%2020250516183711.png)
+
+Tags: [Log Analysis](../../Index/Log%20Analysis.md) 
