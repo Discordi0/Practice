@@ -38,9 +38,11 @@ Connecting to it with awscli and enumerating we get this.
 
 ![](../../Img/Pasted%20image%2020250508142253.png)
 
-Q4: What user is the webserver running as on Bucket?
+___
 
-A: www-data
+### Q4: What user is the webserver running as on Bucket?
+
+#### A: www-data
 
 I downloaded the files inside the adserver bucket, it turn out to be the same web page.
 Looking the source code of the page didn't tell me anything.
@@ -64,27 +66,33 @@ I did the same but with a shell, i got this.
 
 ![](../../Img/Pasted%20image%2020250508150942.png)
 
-Q5: What database is the roy user using in their `project`?
+___
 
-A: DynamoDb
+### Q5: What database is the roy user using in their `project`?
+
+#### A: DynamoDb
 
 There is a process that deletes the files i upload to the s3 bucket, so i had to try a lot of times.
 After i got the shell, i searched for the user roy. I found this.
 
 ![](../../Img/Pasted%20image%2020250508152656.png)
 
-Q6: What is the name of the table in the DynamoDB instance hosted on Bucket?
+___
 
-A: users
+### Q6: What is the name of the table in the DynamoDB instance hosted on Bucket?
+
+#### A: users
 
 I had to change home dir because the aws configure command wasn't working.
-After changing region of aws o could enumerate the tables of the db. (aws --endpoint-url http://localhost:4566 dynamodb list-tables)
+After changing region of aws i could enumerate the tables of the db. (aws --endpoint-url http://localhost:4566 dynamodb list-tables)
 
 ![](../../Img/Pasted%20image%2020250508153349.png)
 
-Q7: What is the roy user's password on Bucket?
+___
 
-A: n2vM-<_K_Q:.Aa2
+### Q7: What is the roy user's password on Bucket?
+
+#### A: n2vM-<_K_Q:.Aa2
 
 I enumerate the contents of the table users. (dynamodb scan --table-name users)
 
@@ -163,4 +171,4 @@ Found it.
 ![](../../Img/Pasted%20image%2020250508163302.png)
 
 
-Tags: [HTML Inspection](../../Index/HTML%20Inspection.md) [Nmap](../../Index/Nmap.md) 
+Tags: [AWS](../../Index/AWS.md) [HTML Inspection](../../Index/HTML%20Inspection.md) [Nmap](../../Index/Nmap.md) 
