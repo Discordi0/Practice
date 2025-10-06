@@ -15,9 +15,9 @@ With the nmap scan we can find it. (nmap -sC -sV -Pn 10.10.11.241)
 
 ___
 
-Q2: What webmail application is running on TCP 443?
+### Q2: What webmail application is running on TCP 443?
 
-A: RoundCube
+#### A: RoundCube
 
 In the nmap scan there wasn't anything about the name of the mail application running, se we visit the page.
 
@@ -30,9 +30,11 @@ Looking at the source code i found this.
 
 ![](../../Img/Pasted%20image%2020250505153712.png)
 
-Q3: Looking at the web application on TCP 8080, what is the relative path of the directory where uploads are saved?
+___
 
-A: /uploads
+### Q3: Looking at the web application on TCP 8080, what is the relative path of the directory where uploads are saved?
+
+#### A: /uploads
 
 I use Burp to see if the upload directory is found inside the request.
 
@@ -43,9 +45,11 @@ This is what it found.
 
 ![](../../Img/Pasted%20image%2020250505160616.png)
 
-Q4: What file extension is allowed to be uploaded and will be executed as PHP?
+___
 
-A: phar
+### Q4: What file extension is allowed to be uploaded and will be executed as PHP?
+
+#### A: phar
 
 For this i use burp intruder.
 
@@ -157,4 +161,4 @@ With the credentials, use evil-winrm and find it.
 
 ![](../../Img/Pasted%20image%2020250505192439.png)
 
-Tags: [Nmap](../../Index/Nmap.md) 
+Tags: [Burp Suite](../../Index/Burp%20Suite.md) [ffuf](../../Index/ffuf.md) [HTML Inspection](../../Index/HTML%20Inspection.md) [Nmap](../../Index/Nmap.md) 
