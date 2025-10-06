@@ -96,9 +96,9 @@ Googling what that port is for, and then using evil-winrm i logged in and in /De
 
 ___
 
-Q8: Bloodhound data will show that the support user has what privilege on the DC.SUPPORT.HTB object?
+### Q8: Bloodhound data will show that the support user has what privilege on the DC.SUPPORT.HTB object?
 
-A: GenericAll
+#### A: GenericAll
 
 I had to install Blodhound, the db (neo4j), get the Sharphound.exe to upload to the machine with the evil-winrm connection.
 I ran the .exe and after that downloaded the .zip with the results.
@@ -114,36 +114,42 @@ Finally.
 
 ![](../../Img/Pasted%20image%2020250430155748.png)
 
-Q9: A common attack with generic all on a computer object is to add a fake computer to the domain. What attribute on the domain sets how many computer accounts a user is allowed to create in the domain?
+___
 
-A: ms-ds-machineaccountquota
+### Q9: A common attack with generic all on a computer object is to add a fake computer to the domain. What attribute on the domain sets how many computer accounts a user is allowed to create in the domain?
+
+#### A: ms-ds-machineaccountquota
 
 Google it.
 
 ![](../../Img/Pasted%20image%2020250430160121.png)
 
-Q10: Following the steps for the Computer Takeover attack, eventually I get a ticket for the administrator, which Rubeus says should give administrator access in that session, but it doesn't work. What is the name of the script from Impacket that can convert that ticket to ccache format?
+___
 
-A: ticketConverter.py
+### Q10: Following the steps for the Computer Takeover attack, eventually I get a ticket for the administrator, which Rubeus says should give administrator access in that session, but it doesn't work. What is the name of the script from Impacket that can convert that ticket to ccache format?
+
+#### A: ticketConverter.py
 
 Google again.
 
 ![](../../Img/Pasted%20image%2020250430162918.png)
 
+___
 
-Q11: What is the name of the environment variable on our local system that we'll set to that ccache file to allow use of files like psexec.py with the -k and -no-pass options?
+### Q11: What is the name of the environment variable on our local system that we'll set to that ccache file to allow use of files like psexec.py with the -k and -no-pass options?
 
-A: KRB5CCNAME
+#### A: KRB5CCNAME
 
 I tried in the documentation (https://ccache.dev/documentation.html), but nothing turned up.
 This page helped me (https://www.tarlogic.com/blog/how-to-attack-kerberos/).
 
 ![](../../Img/Pasted%20image%2020250430163654.png)
 
+___
 
-Q12: Submit the flag located on the administrator's desktop.
+### Q12: Submit the flag located on the administrator's desktop.
 
-A: f72a60bd6c0e42da0badd8912b664933
+#### A: f72a60bd6c0e42da0badd8912b664933
 
 So, i uploaded to the machine Powermad and rubeus.
 With Powermad i created the new machine New-MachineAccount -MachineAccount compu -Password $(ConvertTo-SecureString 'contra123' -AsPlainText -Force)
@@ -155,7 +161,7 @@ I use Rubeus to hash the password for the new machine (\Rubeus.exe hash /passwor
 
 ![](../../Img/Pasted%20image%2020250430162721.png)
 
-With thi rubeus command i got the ticket. (./rubeus.exe s4u /user:compu$ /rc4:E71B1ABD104A45393C428D263A82B1F2 /impersonateuser:Administrator /msdsspn:cifs/dc.support.htb /domain:support.htb /ptt)
+With the rubeus command i got the ticket. (./rubeus.exe s4u /user:compu$ /rc4:E71B1ABD104A45393C428D263A82B1F2 /impersonateuser:Administrator /msdsspn:cifs/dc.support.htb /domain:support.htb /ptt)
 
 ![](../../Img/Pasted%20image%2020250430170015.png)
 
@@ -166,4 +172,4 @@ And for the shell i use psexec.py. After a lot of trying because i have to use "
 
 ![](../../Img/Pasted%20image%2020250430171550.png)
 
-Tags: [Evil-Winrm](../../Index/Evil-Winrm.md) [LDAP](../../Index/LDAP.md) [Nmap](../../Index/Nmap.md) [Reverse Engineering](../../Index/Reverse%20Engineering.md) [SMB](../../Index/SMB.md)
+Tags: [BloodHound](../../Index/BloodHound.md) [Evil-Winrm](../../Index/Evil-Winrm.md) [LDAP](../../Index/LDAP.md) [Nmap](../../Index/Nmap.md) [Reverse Engineering](../../Index/Reverse%20Engineering.md) [SharpHound](../../Index/SharpHound.md) [SMB](../../Index/SMB.md)
