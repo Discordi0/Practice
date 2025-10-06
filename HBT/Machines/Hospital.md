@@ -65,9 +65,11 @@ But this didn't.
 
 ![](../../Img/Pasted%20image%2020250505164646.png)
 
-Q5: What user is the webserver running as?
+___
 
-A: 
+### Q5: What user is the webserver running as?
+
+A: www-data
 
 Since we know where the file goes, and what extension does the file have to be, let's get a shell.
 I used weevely, as per the hint. (i'm not very good yet with shells and i also wanted to try a new thing) (https://github.com/epinna/weevely3)
@@ -78,17 +80,21 @@ weevely http://10.10.11.241:8080/uploads/shellHospital.phar 'hospital123'
 
 ![](../../Img/Pasted%20image%2020250505170017.png)
 
-Q6: What is the kernel name (version) of the webserver?
+___
 
-A: 5.19.0-35-generic
+### Q6: What is the kernel name (version) of the webserver?
+
+#### A: 5.19.0-35-generic
 
 Use uname -a to check.
 
 ![](../../Img/Pasted%20image%2020250505171158.png)
 
-Q7: What user besides root has a password hash in the `shadow` file?
+___
 
-A: drwilliams
+### Q7: What user besides root has a password hash in the `shadow` file?
+
+#### A: drwilliams
 
 So, i tried to to this one. (https://github.com/synacktiv/CVE-2023-35001).
 
@@ -100,24 +106,31 @@ With hascat we got it.
 
 ![](../../Img/Pasted%20image%2020250505182729.png)
 
-Q8: Who has emailed Doctor Williams?
 
-A: drbrown@hospital.htb
+___
+
+### Q8: Who has emailed Doctor Williams?
+
+#### A: drbrown@hospital.htb
 
 With dr Williams credentials we log in and find this.
 
 ![](../../Img/Pasted%20image%2020250505182939.png)
 
-Q9: What is the 2023 CVE ID for a command injection vulnerability in Ghostscript when it opens `.eps` files?
+___
 
-A: CVE-2023-36664
+### Q9: What is the 2023 CVE ID for a command injection vulnerability in Ghostscript when it opens `.eps` files?
+
+#### A: CVE-2023-36664
 
 Googling around i found this.
 https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection
 
-Q10: Submit the flag located on the drbrown user's desktop.
+___
 
-A: 1a9e73567161eb68c6dad1bc4404581e
+### Q10: Submit the flag located on the drbrown user's desktop.
+
+#### A: 1a9e73567161eb68c6dad1bc4404581e
 
 I use the POC in the link of the above question.
 We send the created .eps file to the dear doc, and get a connection back.
@@ -161,4 +174,4 @@ With the credentials, use evil-winrm and find it.
 
 ![](../../Img/Pasted%20image%2020250505192439.png)
 
-Tags: [Burp Suite](../../Index/Burp%20Suite.md) [ffuf](../../Index/ffuf.md) [HTML Inspection](../../Index/HTML%20Inspection.md) [Nmap](../../Index/Nmap.md) 
+Tags: [Burp Suite](../../Index/Burp%20Suite.md) [ffuf](../../Index/ffuf.md) [File Uploads](../../Index/File%20Uploads.md) [Hashcat](../../Index/Hashcat.md) [HTML Inspection](../../Index/HTML%20Inspection.md) [Nmap](../../Index/Nmap.md) 
