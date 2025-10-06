@@ -20,15 +20,17 @@ Under RunMRU we find it.
 
 ___
 
-Q2: At what time in UTC did the malicious payload execute?
+### Q2: At what time in UTC did the malicious payload execute?
 
-A: 2024-09-23 05:07:45
+#### A: 2024-09-23 05:07:45
 
 In the Q1 screenshot.
 
-Q3: The payload which was executed initially downloaded a PowerShell script and executed it in memory. What is sha256 hash of the script?
+___
 
-A: 579284442094e1a44bea9cfb7d8d794c8977714f827c97bcb2822a97742914de
+### Q3: The payload which was executed initially downloaded a PowerShell script and executed it in memory. What is sha256 hash of the script?
+
+#### A: 579284442094e1a44bea9cfb7d8d794c8977714f827c97bcb2822a97742914de
 
 To get the hash i need the file, to get the file we use wireshark to open the pcapng file and search.
 One of the only 2 things that i have is the ip, so we use as filter.
@@ -44,9 +46,11 @@ Get the hash.
 
 ![](../../Img/Pasted%20image%2020250513154506.png)
 
-Q4: To which port did the reverse shell connect?
+___
 
-A: 6969
+### Q4: To which port did the reverse shell connect?
+
+#### A: 6969
 
 We see what the file has.
 
@@ -56,9 +60,11 @@ Decode it. (I use magic) (https://cyberchef.org/#recipe=From_Base64('A-Za-z0-9%2
 
 ![](../../Img/Pasted%20image%2020250513155219.png)
 
-Q5: For how many seconds was the reverse shell connection established between C2 and the victim's workstation?
+___
 
-A: 403
+### Q5: For how many seconds was the reverse shell connection established between C2 and the victim's workstation?
+
+#### A: 403
 
 With the port, we add it to the filter in wireshark and calculate.
 
@@ -66,9 +72,11 @@ With the port, we add it to the filter in wireshark and calculate.
 
 ![](../../Img/Pasted%20image%2020250513160049.png)
 
-Q6: Attacker hosted a malicious Captcha to lure in users. What is the name of the function which contains the malicious payload to be pasted in victim's clipboard?
+___
 
-A: stageClipboard
+### Q6: Attacker hosted a malicious Captcha to lure in users. What is the name of the function which contains the malicious payload to be pasted in victim's clipboard?
+
+#### A: stageClipboard
 
 I remember that in Q3 i saw clear http traffic, so i went to see it.
 
@@ -82,4 +90,4 @@ Reading through it i found it. (If the pcapng was massive, the http filter would
 
 ![](../../Img/Pasted%20image%2020250513160553.png)
 
-Tags: [NTUSER Analysis](../../Index/NTUSER%20Analysis.md) [[RE]]
+Tags: [Network Traffic Analysis](../../Index/Network%20Traffic%20Analysis.md) [NTUSER Analysis](../../Index/NTUSER%20Analysis.md) [Registry Explorer](../../Index/Registry%20Explorer.md) [Wireshark](../../Index/Wireshark.md) 

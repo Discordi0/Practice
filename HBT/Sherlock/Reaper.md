@@ -3,26 +3,31 @@
 
 Our SIEM alerted us to a suspicious logon event which needs to be looked at immediately. The alert details were that the IP Address and the Source Workstation name were a mismatch. You are provided a network capture and event logs from the surrounding time around the incident timeframe. Corelate the given evidence and report back to your SOC Manager.
 
+___
 
-Q1: What is the IP Address for Forela-Wkstn001?
+### Q1: What is the IP Address for Forela-Wkstn001?
 
-A: 172.17.79.129
+#### A: 172.17.79.129
 
 Just opening the pncap file we see that nbns has the name we are looking for.
 
 ![](../../Img/Pasted%20image%2020250427163717.png)
 
-Q2: What is the IP Address for Forela-Wkstn002?
+___
 
-A: 172.17.79.136
+### Q2: What is the IP Address for Forela-Wkstn002?
+
+#### A: 172.17.79.136
 
 We filter for the protocol nbns and look for the other workstation
 
 ![](../../Img/Pasted%20image%2020250427164013.png)
 
-Q3: What is the username of the account whose hash was stolen by attacker?
+___
 
-A: arthur.kyle
+### Q3: What is the username of the account whose hash was stolen by attacker?
+
+#### A: arthur.kyle
 
 Logon event id is 4624.
 
@@ -32,17 +37,21 @@ Filtering that event we have 11 entries. Search for the sus one.
 
 ![](../../Img/Pasted%20image%2020250427164427.png)
 
-Q4: What is the IP Address of Unknown Device used by the attacker to intercept credentials?
+___
 
-A: 172.17.79.135
+### Q4: What is the IP Address of Unknown Device used by the attacker to intercept credentials?
+
+#### A: 172.17.79.135
 
 Same entry.
 
 ![](../../Img/Pasted%20image%2020250427164522.png)
 
-Q5: What was the fileshare navigated by the victim user account?
+___
 
-A: \\DC01\Trip
+### Q5: What was the fileshare navigated by the victim user account?
+
+#### A: \\DC01\Trip
 
 This hints to 2 protocols to look for.
 
@@ -100,3 +109,4 @@ The only one.
 
 ![](../../Img/Pasted%20image%2020250427170337.png)
 
+Tags: [Network Traffic Analysis](../../Index/Network%20Traffic%20Analysis.md) [Windows Event Log](../../Index/Windows%20Event%20Log.md) [Wireshark](../../Index/Wireshark.md) 
