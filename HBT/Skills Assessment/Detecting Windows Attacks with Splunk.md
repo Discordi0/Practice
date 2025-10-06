@@ -5,9 +5,11 @@ This module's skills assessment involves identifying malicious activity using Sp
 
 In many instances, the solution can be discovered by simply viewing the events in each index, as the number of events is limited. However, please take the time to refine your Splunk searches to achieve a better understanding.
 
-Q1: Use the "empire" index and the "bro:http:json" sourcetype. Identify beaconing activity by modifying the Splunk search of the "Detecting Beaconing Malware" section and enter the value of the "TimeInterval" field as your answer.
+___
 
-A: 4.680851063829787
+### Q1: Use the "empire" index and the "bro:http:json" sourcetype. Identify beaconing activity by modifying the Splunk search of the "Detecting Beaconing Malware" section and enter the value of the "TimeInterval" field as your answer.
+
+#### A: 4.680851063829787
 
 The Splunk query given in the "Detecting Beaconing Malware" section of this course is this: 
 
@@ -43,6 +45,8 @@ index="empire" sourcetype="bro:http:json"
 
 ![](../../Img/Pasted%20image%2020250903143536.png)
 
+___
+
 Q2: Use the "printnightmare" index and the "bro:dce_rpc:json" sourcetype to create a Splunk search that will detect possible exploitation of the PrintNightmare vulnerability. Enter the IP included in the "id.orig_h" field as your answer.
 
 A: 192.168.1.149
@@ -68,3 +72,6 @@ Again with just the provided info.
 With just the filter to see the ip's.
 
 ![](../../Img/Pasted%20image%2020250903144216.png)
+
+
+Tags: 
