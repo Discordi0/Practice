@@ -45,25 +45,31 @@ Opening that file and looking at the dependencies (i had to google them because 
 
 ![](../../Img/Pasted%20image%2020250501160932.png)
 
-Q5: What version of the framework does the application use?
+___
 
-A: 6.3.0.1
+### Q5: What version of the framework does the application use?
+
+#### A: 6.3.0.1
 
 It was near the start of the file.
 
 ![](../../Img/Pasted%20image%2020250501161142.png)
 
-Q6: What is the 2024 CVE ID assigned to a vulnerability in the file upload logic vulnerability in Apache Struts?
+___
 
-A: CVE-2024-53677 
+### Q6: What is the 2024 CVE ID assigned to a vulnerability in the file upload logic vulnerability in Apache Struts?
+
+#### A: CVE-2024-53677 
 
 Google struts vulnerability, it the only one in 2024.
 
 ![](../../Img/Pasted%20image%2020250501161530.png)
 
-Q7: What system user is the web application running as on Strutted?
+___
 
-A: tomcat
+### Q7: What system user is the web application running as on Strutted?
+
+#### A: tomcat
 
 For this CVE i used this (https://securityvulnerability.io/vulnerability/CVE-2024-53677) and the poc in it.
 To get this to work i had an error that after a long time i resolved.
@@ -89,9 +95,11 @@ With that out of the way, procede with the attack.
 
 ![](../../Img/Pasted%20image%2020250501172414.png)
 
-Q8: What is the james user's password on Strutted?
+___
 
-A: IT14d6SSP81k
+### Q8: What is the james user's password on Strutted?
+
+#### A: IT14d6SSP81k
 
 The file that i'm looking for (https://tomcat.apache.org/tomcat-8.5-doc/realm-howto.html)
 Wasn't here.
@@ -102,29 +110,33 @@ There you are.
 
 ![](../../Img/Pasted%20image%2020250501173408.png)
 
+___
 
+### Q9: Submit the flag located in the james user's home directory.
 
-Q9: Submit the flag located in the james user's home directory.
-
-A: 03aa05b1f790414c19045e34f52084a9
+#### A: 03aa05b1f790414c19045e34f52084a9
 
 SSH with his user.
 
 ![](../../Img/Pasted%20image%2020250501173607.png)
 
-Q10: What commands can the james user run with elevated privileges using sudo?
+___
 
-A: tcpdump
+### Q10: What commands can the james user run with elevated privileges using sudo?
+
+#### A: tcpdump
 
 ![](../../Img/Pasted%20image%2020250501174430.png)
 
-Q11: Submit the flag located in the root user's home directory.
+___
 
-A: 360a253ae2af3b757f4728123e7c2644
+### Q11: Submit the flag located in the root user's home directory.
+
+#### A: 360a253ae2af3b757f4728123e7c2644
 
 I used this (https://gtfobins.github.io/gtfobins/tcpdump/)
 
 ![](../../Img/Pasted%20image%2020250501175314.png)
 
 
-Tags: [Nmap](../../Index/Nmap.md) 
+Tags: [File Uploads](../../Index/File%20Uploads.md) [Nmap](../../Index/Nmap.md) 
