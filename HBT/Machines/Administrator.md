@@ -17,6 +17,8 @@ I did nmap scan: nmap -sV -sC -Pn 10.10.11.42
 
 ![](../../Img/Pasted%20image%2020250502141356.png)
 
+___
+
 ### Q2: What permission does the Olivia user have over the Michael user (as shown by BloodHound)?
 
 #### A: GenericAll
@@ -27,6 +29,8 @@ We search for olivia (the only user we have), and check the attributes that the 
 
 ![](../../Img/Pasted%20image%2020250502150237.png)
 
+___
+
 ### Q3: What permission does the Michael user have on the Benjamin user?
 
 #### A: ForceChangePassword
@@ -35,6 +39,8 @@ We select michael node and check.
 
 ![](../../Img/Pasted%20image%2020250502151431.png)
 
+___
+
 ### Q4: What is the name of a non-default group that Benjamin is a part of?
 
 #### A: Share Moderators
@@ -42,6 +48,8 @@ We select michael node and check.
 Check Banjamin.
 
 ![](../../Img/Pasted%20image%2020250502151559.png)
+
+___
 
 ### Q5: What is the Master Password for `Backup.psafe3`?
 
@@ -67,6 +75,8 @@ We get it, and crack it with hashcat.
 
 ![](../../Img/Pasted%20image%2020250502155124.png)
 
+___
+
 ### Q6: What is the Emily user's password on Administrator?
 
 #### A: UXLCI5iETUsIBoFVTj8yQFKoHjXmb
@@ -77,6 +87,8 @@ The file was a Password safe file, so we install that.
 
 ![](../../Img/Pasted%20image%2020250502160036.png)
 
+___
+
 ### Q7: Submit the flag located in the Emily user's home directory.
 
 #### A: d16aa4e6d9b8334d51b1dd4c98b7f6cf
@@ -85,6 +97,8 @@ It's in the Desktop of the user.
 
 ![](../../Img/Pasted%20image%2020250502160400.png)
 
+___
+
 ### Q8: What permission does the Emily user have over the Ethan user?
 
 #### A: GenericWrite
@@ -92,6 +106,8 @@ It's in the Desktop of the user.
 Check in Bloodhound
 
 ![](../../Img/Pasted%20image%2020250502160504.png)
+
+___
 
 ### Q9: What is the Ethan user's password on Administrator?
 
@@ -105,6 +121,8 @@ And crack it with hashcat.
 
 ![](../../Img/Pasted%20image%2020250502165119.png)
 
+___
+
 ### Q10: What permission does the Ethan user have over the domain (according to Bloodhound) that will allow for a full domain takeover?
 
 #### A: DCSync
@@ -113,6 +131,8 @@ It's in OUTBOUND OBJECT CONTROL
 
 ![](../../Img/Pasted%20image%2020250502165524.png)
 
+___
+
 ### Q11: What is the Administrator user's NTLM hash?
 
 #### A: 3dc553ce4b9fd20bd016e098d2d2fd2e
@@ -120,6 +140,8 @@ It's in OUTBOUND OBJECT CONTROL
 Secrets from impaket.
 
 ![](../../Img/Pasted%20image%2020250502165856.png)
+
+___
 
 ### Q12: Submit the flag located on the Administrator user's Desktop.
 
