@@ -75,12 +75,13 @@ With that we can search for the path of the file in the $MFT.
 
 Q8: The exploit also drops a file to facilitate the persistence and execution of the backdoor. What is the path and name of this file?
 
-A: 
+A: C:\Users\susan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Display Settings.lnk
 
 This one would have to be the other file that we got on Q7 (.lnk)
-We just need to s
+We just need to search for the path.
 
 ![](../../Img/Pasted%20image%2020251005213212.png)
+
 Q9: What is the associated MITRE Technique ID discussed in the previous question?
 
 A: 
