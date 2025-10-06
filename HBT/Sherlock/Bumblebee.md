@@ -1,13 +1,12 @@
-
 ##### Sherlock Scenario
 
 An external contractor has accessed the internal forum here at Forela via the Guest Wi-Fi, and they appear to have stolen credentials for the administrative user! We have attached some logs from the forum and a full database dump in sqlite3 format to help you in your investigation.
 
+___
 
+### Q1: What was the username of the external contractor?
 
-Q1: What was the username of the external contractor?
-
-A: apoole1
+#### A: apoole1
 
 To open the sqlite3 file i had to download something to open it, i got this (https://sqlitebrowser.org/).
 Opening it we can see a lot of tables.
@@ -53,15 +52,19 @@ Looking a little bit closer i got it.
 
 ![](../../Img/Pasted%20image%2020250509164716.png)
 
-Q2: What IP address did the contractor use to create their account?
+___
 
-A: 10.10.0.78
+### Q2: What IP address did the contractor use to create their account?
+
+#### A: 10.10.0.78
 
 I just used the one that was 2 column before his name. 
 
 Opening the access.log file we can see that his IP it's the first one to access the site, so... that's that.
 
 ![](../../Img/Pasted%20image%2020250509170311.png)
+
+___
 
 Q3: What is the post_id of the malicious post that the contractor made?
 
@@ -142,3 +145,4 @@ In the same entry, we get the URI, then we have the protocol, the response code,
 
 ![](../../Img/Pasted%20image%2020250509173335.png)
 
+Tags: [DB Analysis](../../Index/DB%20Analysis.md) [Log Analysis](../../Index/Log%20Analysis.md) 

