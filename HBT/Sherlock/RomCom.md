@@ -87,7 +87,17 @@ Q9: What is the associated MITRE Technique ID discussed in the previous question
 A: 
 For the path of the .lnk file and the previous question we can see that it's some kind of persistence in the form of startup file.
 
+So in the mitre matrix (https://attack.mitre.org/) we search for persistence.
 
+![](../../Img/Pasted%20image%2020251005213957.png)
+
+We can search for the answer by reading the sub-techniques.
+
+![](../../Img/Pasted%20image%2020251005214044.png)
+
+Until we got the correct one.
+
+![](../../Img/Pasted%20image%2020251005214107.png)
 
 Q10: When was the decoy document opened by the end user, thinking it to be a legitimate document?
 
