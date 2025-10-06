@@ -53,16 +53,18 @@ We can see the reverse.exe file, as well the mimik directory.
 
 ![](../../Img/Pasted%20image%2020250826200632.png)
 
-Q5: Determine the Microsoft Word document that j0seph recently accessed and enter its name as your answer. Answer format: _.DOCX
+___
 
-A: insurance.docx
+### Q5: Determine the Microsoft Word document that j0seph recently accessed and enter its name as your answer. Answer format: _.DOCX
+
+#### A: insurance.docx
 
 For this one i used the Windows.Forensics.Prefetch as per the lessons in this module. (search for .doc)
 
 ![](../../Img/Pasted%20image%2020250826200908.png)
 
 
-Tags: [Velociraptor](../../Index/Velociraptor.md) 
+Tags: [Log Analysis](../../Index/Log%20Analysis.md) [Prefetch Analysis](../../Index/Prefetch%20Analysis.md) [Velociraptor](../../Index/Velociraptor.md) 
 
 
 
