@@ -98,33 +98,40 @@ I enumerate the contents of the table users. (dynamodb scan --table-name users)
 
 ![](../../Img/Pasted%20image%2020250508153544.png)
 
+___
 
-Q8: Submit the flag located in the roy user's home directory.
+### Q8: Submit the flag located in the roy user's home directory.
 
-A: 06f74a552d7695d40a591cbfb4abba0b
+#### A: 06f74a552d7695d40a591cbfb4abba0b
 
 Out of those 3 passwords, the 3rd worked.
 Ssh into it with roy and look for the flag.
 
 ![](../../Img/Pasted%20image%2020250508153727.png)
 
-Q9: What user is the web site on port 8000 running as?
+___
 
-A: root
+### Q9: What user is the web site on port 8000 running as?
+
+#### A: root
 
 I had to use the hint for this one.
 
 ![](../../Img/Pasted%20image%2020250508155502.png)
 
-Q10: What is the full path to the directory containing the source for the site listening on 8000?
+___
 
-A: /var/www/bucket-app
+### Q10: What is the full path to the directory containing the source for the site listening on 8000?
+
+#### A: /var/www/bucket-app
 
 It's in the above screenshot.
 
-Q11: What string must be in the title of an entry in the `alerts` table for it to get processed and saved?
+___
 
-A: Ransomware
+### Q11: What string must be in the title of an entry in the `alerts` table for it to get processed and saved?
+
+#### A: Ransomware
 
 Going to the folder i found above, i found a folder that i couldn't enter
 
@@ -135,17 +142,21 @@ I the index.html file i found this. (It looks similar to the one i found in Q5).
 
 ![](../../Img/Pasted%20image%2020250508155156.png)
 
-Q12: What is the name of the Java Jar file used to create PDFs by the site on port 8000?
+___
 
-A: pd4ml_demo.jar
+### Q12: What is the name of the Java Jar file used to create PDFs by the site on port 8000?
+
+#### A: pd4ml_demo.jar
 
 A liitle bit below the Q11 screenshot.
 
 ![](../../Img/Pasted%20image%2020250508160054.png)
 
-Q13: Submit the flag located in the root user's home directory.
+___
 
-A: cdbe9608f51bec8fabce97cea5176fab
+### Q13: Submit the flag located in the root user's home directory.
+
+#### A: cdbe9608f51bec8fabce97cea5176fab
 
 We all can see where this is going, but i have no idea how to create tables in Dynamodb, so i had to use this. (https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/getting-started-step-1.html) Under AWS Cli. (The --billing-mode seems like an attribute of the example, not included).
 
