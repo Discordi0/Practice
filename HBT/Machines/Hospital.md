@@ -139,39 +139,49 @@ We send the created .eps file to the dear doc, and get a connection back.
 
 ![](../../Img/Pasted%20image%2020250505184212.png)
 
-Q11: What user has an active session on Hospital?
+___
 
-A: drbrown
+### Q11: What user has an active session on Hospital?
+
+#### A: drbrown
 
 ![](../../Img/Pasted%20image%2020250505185512.png)
 
-Q12: [Path 1] What is the administrator's password?
+___
 
-A: Th3B3stH0sp1t4l9786!
+### Q12: [Path 1] What is the administrator's password?
+
+#### A: Th3B3stH0sp1t4l9786!
 
 It needed a few tries because the connection just dies (every 10 min or so.) but i got it with the keyscan of meterpreter.
 
-Q13: [Path 2] On Hospital, what is the full path of the web root directory for the RoundCube instance?
+___
 
-A: C:\xampp\htdocs
+### Q13: [Path 2] On Hospital, what is the full path of the web root directory for the RoundCube instance?
+
+#### A: C:\xampp\htdocs
 
 I'm already admin, so i just search for it.
 
 ![](../../Img/Pasted%20image%2020250505193032.png)
 
-Q14: What user is the XAMPP webserver running as?
+___
 
-A: ???
+### Q14: What user is the XAMPP webserver running as?
+
+#### A: ???
 
 I did get the shell and with whoami i got
 nt authority\system. But this doesn't work so.. idk
 
-Q15: Submit the flag located on the administrator user's desktop.
+___
 
-A: 8a8a3d62de1e4205c1c3b7e781bdf4bf
+### Q15: Submit the flag located on the administrator user's desktop.
+
+#### A: 8a8a3d62de1e4205c1c3b7e781bdf4bf
 
 With the credentials, use evil-winrm and find it.
 
 ![](../../Img/Pasted%20image%2020250505192439.png)
 
-Tags: [Burp Suite](../../Index/Burp%20Suite.md) [ffuf](../../Index/ffuf.md) [File Uploads](../../Index/File%20Uploads.md) [Hashcat](../../Index/Hashcat.md) [HTML Inspection](../../Index/HTML%20Inspection.md) [Nmap](../../Index/Nmap.md) 
+Tags: [Burp Suite](../../Index/Burp%20Suite.md) [Evil-Winrm](../../Index/Evil-Winrm.md) [ffuf](../../Index/ffuf.md) [File Uploads](../../Index/File%20Uploads.md) [Hashcat](../../Index/Hashcat.md) [HTML Inspection](../../Index/HTML%20Inspection.md) [Nmap](../../Index/Nmap.md) 
