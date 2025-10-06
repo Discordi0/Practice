@@ -64,29 +64,37 @@ Looking a little bit more i found this.
 I thought that this was the password, but i have to decrypt it.
 I had to google a lot, and look at the hint, but i finally got it.
 
-Q5: Which field in the LDAP data for the user named support stands out as potentially holding a password?
+___
 
-A: info
+### Q5: Which field in the LDAP data for the user named support stands out as potentially holding a password?
+
+#### A: info
 
 Having decoded the password, i connected to LDAP with Apache Directory. Navigating to the support related entries i found this.
 
 ![](../../Img/Pasted%20image%2020250430152540.png)
 
-Q6: What open port on Support allows a user in the Remote Management Users group to run PowerShell commands and get an interactive shell?
+___
 
-A: 5985
+### Q6: What open port on Support allows a user in the Remote Management Users group to run PowerShell commands and get an interactive shell?
+
+#### A: 5985
 
 I had to run the nmap scan again, to check all ports (-p-)
 
 ![](../../Img/Pasted%20image%2020250430154940.png)
 
-Q7: Submit the flag located on the support user's desktop.
+___
 
-A: 4064b30c7a2919feb2e06a32f0810c28
+### Q7: Submit the flag located on the support user's desktop.
+
+#### A: 4064b30c7a2919feb2e06a32f0810c28
 
 Googling what that port is for, and then using evil-winrm i logged in and in /Desktop i found the flag.
 
 ![](../../Img/Pasted%20image%2020250430153159.png)
+
+___
 
 Q8: Bloodhound data will show that the support user has what privilege on the DC.SUPPORT.HTB object?
 
@@ -158,4 +166,4 @@ And for the shell i use psexec.py. After a lot of trying because i have to use "
 
 ![](../../Img/Pasted%20image%2020250430171550.png)
 
-Tags: [Nmap](../../Index/Nmap.md) [SMB](../../Index/SMB.md)
+Tags: [Evil-Winrm](../../Index/Evil-Winrm.md) [LDAP](../../Index/LDAP.md) [Nmap](../../Index/Nmap.md) [Reverse Engineering](../../Index/Reverse%20Engineering.md) [SMB](../../Index/SMB.md)
