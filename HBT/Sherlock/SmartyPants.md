@@ -96,14 +96,16 @@ ___
 
 ### Q9: The Attacker also proceeded to destroy the data on the host so it is unrecoverable. What utility was used to achieve this?
 
-####A: File Shredder
+#### A: File Shredder
 
 In the same all knowing log.
 ![](../../Img/Pasted%20image%2020250426153900.png)
 
-Q10: The attacker cleared 2 important logs, thinking they covered all their tracks. When was the security log cleared?
+___
 
-A: 2025-01-24 10:28:41
+### Q10: The attacker cleared 2 important logs, thinking they covered all their tracks. When was the security log cleared?
+
+#### A: 2025-01-24 10:28:41
 
 Not so all knowing after all.
 Google AI thingy says that 1102 it's the one i'm looking for.
