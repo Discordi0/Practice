@@ -78,25 +78,25 @@ The file was a Password safe file, so we install that.
 
 ![](../../Img/Pasted%20image%2020250502160036.png)
 
-Q7: Submit the flag located in the Emily user's home directory.
+### Q7: Submit the flag located in the Emily user's home directory.
 
-A: d16aa4e6d9b8334d51b1dd4c98b7f6cf
+#### A: d16aa4e6d9b8334d51b1dd4c98b7f6cf
 
 It's in the Desktop of the user.
 
 ![](../../Img/Pasted%20image%2020250502160400.png)
 
-Q8: What permission does the Emily user have over the Ethan user?
+### Q8: What permission does the Emily user have over the Ethan user?
 
-A: GenericWrite
+#### A: GenericWrite
 
 Check in Bloodhound
 
 ![](../../Img/Pasted%20image%2020250502160504.png)
 
-Q9: What is the Ethan user's password on Administrator?
+### Q9: What is the Ethan user's password on Administrator?
 
-A: limpbizkit
+#### A: limpbizkit
 
 I use the targetedkerberoasting.py attack.
 
@@ -106,25 +106,25 @@ And crack it with hashcat.
 
 ![](../../Img/Pasted%20image%2020250502165119.png)
 
-Q10: What permission does the Ethan user have over the domain (according to Bloodhound) that will allow for a full domain takeover?
+### Q10: What permission does the Ethan user have over the domain (according to Bloodhound) that will allow for a full domain takeover?
 
-A: DCSync
+#### A: DCSync
 
 It's in OUTBOUND OBJECT CONTROL
 
 ![](../../Img/Pasted%20image%2020250502165524.png)
 
-Q11: What is the Administrator user's NTLM hash?
+### Q11: What is the Administrator user's NTLM hash?
 
-A: 3dc553ce4b9fd20bd016e098d2d2fd2e
+#### A: 3dc553ce4b9fd20bd016e098d2d2fd2e
 
 Secrets from impaket.
 
 ![](../../Img/Pasted%20image%2020250502165856.png)
 
-Q12: Submit the flag located on the Administrator user's Desktop.
+### Q12: Submit the flag located on the Administrator user's Desktop.
 
-A: 19b5e0deb5ba108939a1e9795a4bb961
+#### A: 19b5e0deb5ba108939a1e9795a4bb961
 
 We use evil-winrm to connect.
 Then just search it.
@@ -132,4 +132,4 @@ Then just search it.
 ![](../../Img/Pasted%20image%2020250502170510.png)
 
 
-Tags: [BloodHound](../../Index/BloodHound.md) [Nmap](../../Index/Nmap.md) 
+Tags: [BloodHound](../../Index/BloodHound.md) [Evil-Winrm](../../Index/Evil-Winrm.md) [FTP](../../Index/FTP.md) [Hashcat](../../Index/Hashcat.md) [Kerberoasting](../../Index/Kerberoasting.md) [Nmap](../../Index/Nmap.md) 
