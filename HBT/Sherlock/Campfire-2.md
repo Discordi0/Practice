@@ -44,15 +44,17 @@ ___
 
 ### Q4: It is crucial to identify the compromised user account and the workstation responsible for this attack. Please list the internal IP address of the compromised asset to assist our threat-hunting team.
 
-A: 172.17.79.129
+#### A: 172.17.79.129
 
 Same
 
 ![](../../Img/Pasted%20image%2020250428191017.png)
 
-Q5: We do not have any artifacts from the source machine yet. Using the same DC Security logs, can you confirm the user account used to perform the ASREP Roasting attack so we can contain the compromised account/s?
+___
 
-A: happy.grunwald
+### Q5: We do not have any artifacts from the source machine yet. Using the same DC Security logs, can you confirm the user account used to perform the ASREP Roasting attack so we can contain the compromised account/s?
+
+#### A: happy.grunwald
 
 Deleting the event id filter and looking at the time of the entries, we see that after the kerberos auth, there is a kerberos ticket.
 

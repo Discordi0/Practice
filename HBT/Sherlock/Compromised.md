@@ -3,10 +3,11 @@
 
 Our SOC team detected suspicious activity in Network Traffic, the machine has been compromised and company information that should not have been there has now been stolen – it’s up to you to figure out what has happened and what data has been taken.
 
+___
 
-Q1: What is the IP address used for initial access?
+### Q1: What is the IP address used for initial access?
 
-A: 162.252.172.54
+#### A: 162.252.172.54
 
 There is only a single .pcap file, so open that.
 With a quick glance i couldn't find anything interesting, so i went to the conversations menu.
@@ -24,11 +25,13 @@ Applying that ip as a filter, we can see that the first thing that our victim do
 
 ![](../../Img/Pasted%20image%2020250515160656.png)
 
-Q2: What is the SHA256 hash of the malware?
+___
 
-A: 9b8ffdc8ba2b2caa485cca56a82b2dcbd251f65fb30bc88f0ac3da6704e4d3c6
+### Q2: What is the SHA256 hash of the malware?
 
-Having the file name, we can see what it was downloading it.
+#### A: 9b8ffdc8ba2b2caa485cca56a82b2dcbd251f65fb30bc88f0ac3da6704e4d3c6
+
+Having the file name, we can see what it was by downloading it.
 
 ![](../../Img/Pasted%20image%2020250515160934.png)
 
@@ -36,25 +39,31 @@ We just need to get the hash now.
 
 ![](../../Img/Pasted%20image%2020250515161132.png)
 
-Q3: What is the Family label of the malware?
+___
 
-A: Pikabot
+### Q3: What is the Family label of the malware?
+
+#### A: Pikabot
 
 Enter the 256 hash in virustotal.
 
 ![](../../Img/Pasted%20image%2020250515164641.png)
 
-Q4: When was the malware first seen in the wild (UTC)?
+___
 
-A: 2023-05-19 14:01:21
+### Q4: When was the malware first seen in the wild (UTC)?
+
+#### A: 2023-05-19 14:01:21
 
 In VirusTotal, on Details under History.
 
 ![](../../Img/Pasted%20image%2020250515164749.png)
 
-Q5: The malware used HTTPS traffic with a self-signed certificate. What are the ports, from smallest to largest?
+___
 
-A: 2078, 2222, 32999
+### Q5: The malware used HTTPS traffic with a self-signed certificate. What are the ports, from smallest to largest?
+
+#### A: 2078, 2222, 32999
 
 According to this (https://superuser.com/questions/1756591/how-can-i-view-the-tls-1-2-and-1-3-certificates-in-wireshark) and this (https://community.fortinet.com/t5/FortiGate/Technical-Tip-Extracting-certificates-from-SSL-TLS-handshake/ta-p/221235)
 I need to filter for handshake type 11.
@@ -93,3 +102,4 @@ Changing the filter to dns, we see traffic for only 2 ips.
 
 ![](../../Img/Pasted%20image%2020250515172703.png)
 
+Tags: [Traffic Analysis](../../Index/Traffic%20Analysis.md) [Wireshark](../../Index/Wireshark.md) 
