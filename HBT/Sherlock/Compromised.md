@@ -78,28 +78,34 @@ Checking the traffic i can see that there is a lot of ports, but checking if the
 
 ![](../../Img/Pasted%20image%2020250515171446.png)
 
-Q6: What is the id-at-localityName of the self-signed certificate associated with the first malicious IP?
+___
 
-A: Pyopneumopericardium
+### Q6: What is the id-at-localityName of the self-signed certificate associated with the first malicious IP?
+
+#### A: Pyopneumopericardium
 
 Checking the details.
 
 ![](../../Img/Pasted%20image%2020250515172240.png)
 
-Q7: What is the notBefore time(UTC) for this self-signed certificate?
+___
 
-A: 2023-05-14 08:36:52
+### Q7: What is the notBefore time(UTC) for this self-signed certificate?
+
+#### A: 2023-05-14 08:36:52
 
 Just under Q6.
 
 ![](../../Img/Pasted%20image%2020250515172357.png)
 
-Q8: What was the domain used for tunneling?
+___
 
-A: steasteel.net
+### Q8: What was the domain used for tunneling?
+
+#### A: steasteel.net
 
 Changing the filter to dns, we see traffic for only 2 ips.
 
 ![](../../Img/Pasted%20image%2020250515172703.png)
 
-Tags: [Traffic Analysis](../../Index/Traffic%20Analysis.md) [Wireshark](../../Index/Wireshark.md) 
+Tags: [Network Traffic Analysis](../../Index/Network%20Traffic%20Analysis.md) [Threat Analysis](../../Index/Threat%20Analysis.md) [Wireshark](../../Index/Wireshark.md) 
