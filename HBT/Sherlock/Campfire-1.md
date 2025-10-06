@@ -80,4 +80,4 @@ Same entry, under Run Time.
 
 ![](../../Img/Pasted%20image%2020250428193308.png)
 
-Tags: [Prefetch Analysis](../../Index/Prefetch%20Analysis.md) [Timeline Explorer](../../Index/Timeline%20Explorer.md)  [Windows Event Log](../../Index/Windows%20Event%20Log.md) 
+Tags: [AD Attacks](../../Index/AD%20Attacks.md) [Prefetch Analysis](../../Index/Prefetch%20Analysis.md) [Timeline Explorer](../../Index/Timeline%20Explorer.md)  [Windows Event Log](../../Index/Windows%20Event%20Log.md) 

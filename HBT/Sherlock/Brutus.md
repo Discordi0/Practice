@@ -82,4 +82,4 @@ Just below the last question we see the answer.
 
 ![](../../Img/Pasted%20image%2020250425145615.png)
 
-Tags: [Log Analysis](../../Index/Log%20Analysis.md) [Mitre](../../Index/Mitre.md) 
+Tags: [Brute Force Attacks](../../Index/Brute%20Force%20Attacks.md) [Log Analysis](../../Index/Log%20Analysis.md) [Mitre](../../Index/Mitre.md) 
