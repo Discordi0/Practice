@@ -3,16 +3,19 @@
 
 In this Sherlock, you will familiarize yourself with Sysmon logs and various useful EventIDs for identifying and analyzing malicious activities on a Windows system. Palo Alto's Unit42 recently conducted research on an UltraVNC campaign, wherein attackers utilized a backdoored version of UltraVNC to maintain access to systems. This lab is inspired by that campaign and guides participants through the initial access stage of the campaign.
 
+___
 
-Q1: How many Event logs are there with Event ID 11?
+### Q1: How many Event logs are there with Event ID 11?
 
-A: 56
+#### A: 56
 
 Open the log file, filter by the event id.
 
 ![](../../Img/Pasted%20image%2020250428194032.png)
 
-Q2: Whenever a process is created in memory, an event with Event ID 1 is recorded with details such as command line, hashes, process path, parent process path, etc. This information is very useful for an analyst because it allows us to see all programs executed on a system, which means we can spot any malicious processes being executed. What is the malicious process that infected the victim's system?
+___
+
+### Q2: Whenever a process is created in memory, an event with Event ID 1 is recorded with details such as command line, hashes, process path, parent process path, etc. This information is very useful for an analyst because it allows us to see all programs executed on a system, which means we can spot any malicious processes being executed. What is the malicious process that infected the victim's system?
 
 A: 
 
@@ -81,3 +84,4 @@ Filter and again there is only 1.
 ![](../../Img/Pasted%20image%2020250428200115.png)
 
 
+Tags: [Windows Event Log](../../Index/Windows%20Event%20Log.md) 
