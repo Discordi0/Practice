@@ -66,41 +66,51 @@ Right after that, the attacker tried to access the share.
 
 ![](../../Img/Pasted%20image%2020250427165757.png)
 
-Q6: What is the source port used to logon to target workstation using the compromised account?
+___
 
-A: 40252
+### Q6: What is the source port used to logon to target workstation using the compromised account?
+
+#### A: 40252
 
 Same as Q4.
 
 ![](../../Img/Pasted%20image%2020250427165908.png)
 
-Q7: What is the Logon ID for the malicious session?
+___
 
-A: 0x64A799
+### Q7: What is the Logon ID for the malicious session?
+
+#### A: 0x64A799
 
 Same entry but in Details tab.
 
 ![](../../Img/Pasted%20image%2020250427170012.png)
 
-Q8: The detection was based on the mismatch of hostname and the assigned IP Address. What is the workstation name and the source IP Address from which the malicious logon occur?
+___
 
-A: FORELA-WKSTN002, 172.17.79.135
+### Q8: The detection was based on the mismatch of hostname and the assigned IP Address. What is the workstation name and the source IP Address from which the malicious logon occur?
+
+#### A: FORELA-WKSTN002, 172.17.79.135
 
 Again
 
 ![](../../Img/Pasted%20image%2020250427170109.png)
 
-Q9: At what UTC time did the the malicious logon happen?
+___
 
-A: 2024-07-31 04:55:16
+### Q9: At what UTC time did the the malicious logon happen?
+
+#### A: 2024-07-31 04:55:16
 
 Details tab.
 
 ![](../../Img/Pasted%20image%2020250427170132.png)
 
-Q10: What is the share Name accessed as part of the authentication process by the malicious tool used by the attacker?
+___
 
-A: "\\*\IPC$"
+### Q10: What is the share Name accessed as part of the authentication process by the malicious tool used by the attacker?
+
+#### A: "\\*\IPC$"
 
 ![](../../Img/Pasted%20image%2020250427170301.png)
 
