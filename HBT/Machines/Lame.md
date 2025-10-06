@@ -120,4 +120,4 @@ It actually did.
 
 ![](../../Img/Pasted%20image%2020250509000624.png)
 
-Tags: [Mestasploit](../../Index/Mestasploit.md) [Nmap](../../Index/Nmap.md)
+Tags: [Metasploit](../../Index/Metasploit.md) [Nmap](../../Index/Nmap.md)

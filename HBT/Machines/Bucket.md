@@ -182,4 +182,4 @@ Found it.
 ![](../../Img/Pasted%20image%2020250508163302.png)
 
 
-Tags: [AWS](../../Index/AWS.md) [HTML Inspection](../../Index/HTML%20Inspection.md) [Nmap](../../Index/Nmap.md) 
+Tags: [AWS](../../Index/AWS.md) [HTML Review](../../Index/HTML%20Review.md) [Nmap](../../Index/Nmap.md) 
