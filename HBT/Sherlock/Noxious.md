@@ -3,10 +3,11 @@
 
 The IDS device alerted us to a possible rogue device in the internal Active Directory network. The Intrusion Detection System also indicated signs of LLMNR traffic, which is unusual. It is suspected that an LLMNR poisoning attack occurred. The LLMNR traffic was directed towards Forela-WKstn002, which has the IP address 172.17.79.136. A limited packet capture from the surrounding time is provided to you, our Network Forensics expert. Since this occurred in the Active Directory VLAN, it is suggested that we perform network threat hunting with the Active Directory attack vector in mind, specifically focusing on LLMNR poisoning.
 
+___
 
-Q1: Its suspected by the security team that there was a rogue device in Forela's internal network running responder tool to perform an LLMNR Poisoning attack. Please find the malicious IP Address of the machine.
+### Q1: Its suspected by the security team that there was a rogue device in Forela's internal network running responder tool to perform an LLMNR Poisoning attack. Please find the malicious IP Address of the machine.
 
-A: 172.17.79.135
+#### A: 172.17.79.135
 
 ![](../../Img/Pasted%20image%2020250428140241.png)
 
@@ -14,21 +15,27 @@ I don't really get how this protocol works, but seeing that 135 it's telling 136
 
 ![](../../Img/Pasted%20image%2020250428140523.png)
 
-Q2: What is the hostname of the rogue machine?
+___
 
-A: kali
+### Q2: What is the hostname of the rogue machine?
+
+#### A: kali
 
 I use the ip as a filter and look at all the traffic, skimming it i notice that there is dhcp traffic.
 
 ![](../../Img/Pasted%20image%2020250428141036.png)
 
-Q3: Now we need to confirm whether the attacker captured the user's hash and it is crackable!! What is the username whose hash was captured?
+___
 
-A: john.deacon
+### Q3: Now we need to confirm whether the attacker captured the user's hash and it is crackable!! What is the username whose hash was captured?
+
+#### A: john.deacon
 
 With the same filter i just keep scrolling down until i notice rdp traffic.
 
 ![](../../Img/Pasted%20image%2020250428141135.png)
+
+___
 
 Q4: In NTLM traffic we can see that the victim credentials were relayed multiple times to the attacker's machine. When were the hashes captured the First time?
 
@@ -89,3 +96,6 @@ A: \\DC01\DC-Confidential
 I recall that in smb2 traffic there was something useful, use the filter and found it.
 
 ![](../../Img/Pasted%20image%2020250428143722.png)
+
+
+Tags: [LLMNR Poisoning](../../Index/LLMNR%20Poisoning.md) [Network Traffic Analysis](../../Index/Network%20Traffic%20Analysis.md) 
