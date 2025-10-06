@@ -62,7 +62,7 @@ Q7: What is the name and path of the actual backdoor executable dropped by the a
 
 A: 
 
-I couldn't
+I couldn't find this one in the $MFT file, so i had to check the $J 
 
 Q8: The exploit also drops a file to facilitate the persistence and execution of the backdoor. What is the path and name of this file?
 
