@@ -67,18 +67,21 @@ The \Users path seams like the one created by a user.
 
 ![](../../Img/Pasted%20image%2020250427152430.png)
 
-Q6: When was newly dumped ntds.dit created on disk?
+___
 
-A: 2024-05-14 03:44:22
+### Q6: When was newly dumped ntds.dit created on disk?
+
+#### A: 2024-05-14 03:44:22
 
 Same entry, but in the Created column.
 
 ![](../../Img/Pasted%20image%2020250427152542.png)
 
+___
 
-Q7: A registry hive was also dumped alongside the NTDS database. Which registry hive was dumped and what is its file size in bytes?
+### Q7: A registry hive was also dumped alongside the NTDS database. Which registry hive was dumped and what is its file size in bytes?
 
-A: SYSTEM, 17563648
+#### A: SYSTEM, 17563648
 
 We search for the path on the Parent Path column (bc it's the user created one), and find only 1 other file.
 
@@ -89,4 +92,4 @@ And it's size.
 ![](../../Img/Pasted%20image%2020250427152816.png)
 
 
-Tags: [Windows Event Log](../../Index/Windows%20Event%20Log.md) 
+Tags: [MFT Forensics](../../Index/MFT%20Forensics.md) [Timeline Explorer](../../Index/Timeline%20Explorer.md) [Windows Event Log](../../Index/Windows%20Event%20Log.md) 
