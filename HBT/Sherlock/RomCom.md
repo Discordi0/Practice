@@ -85,6 +85,9 @@ We just need to search for the path.
 Q9: What is the associated MITRE Technique ID discussed in the previous question?
 
 A: 
+For the path of the .lnk file and the previous question we can see that it's some kind of persistence in the form of startup file.
+
+
 
 Q10: When was the decoy document opened by the end user, thinking it to be a legitimate document?
 
