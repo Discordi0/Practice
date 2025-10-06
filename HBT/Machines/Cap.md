@@ -55,23 +55,29 @@ ___
 
 It's in the above screenshot.
 
-Q6: We've managed to collect nathan's FTP password. On what other service does this password work?
+___
 
-A: SSH
+### Q6: We've managed to collect nathan's FTP password. On what other service does this password work?
+
+#### A: SSH
 
 In Q1 we saw that there is only 1 other service running in the machine.
 
 ![](../../Img/Pasted%20image%2020250429165543.png)
 
-Q7: Submit the flag located in the nathan user's home directory.
+___
 
-A: a827ad48936eee2c46298636d0d4cb1e
+### Q7: Submit the flag located in the nathan user's home directory.
+
+#### A: a827ad48936eee2c46298636d0d4cb1e
 
 ![](../../Img/Pasted%20image%2020250429165624.png)
 
-Q8: What is the full path to the binary on this machine has special capabilities that can be abused to obtain root privileges?
+___
 
-A: /usr/bin/python3.8
+### Q8: What is the full path to the binary on this machine has special capabilities that can be abused to obtain root privileges?
+
+#### A: /usr/bin/python3.8
 
 Since linpeas is already here, use it.
 This is what it found.
@@ -82,12 +88,14 @@ And It worked.
 
 ![](../../Img/Pasted%20image%2020250429171210.png)
 
-Q9: Submit the flag located in root's home directory.
+___
 
-A: 6103aab3e4a5f43e8446c4b26fd8685d
+### Q9: Submit the flag located in root's home directory.
+
+#### A: 6103aab3e4a5f43e8446c4b26fd8685d
 
 Search for it.
 
 ![](../../Img/Pasted%20image%2020250429171327.png)
 
-Tags: [Nmap](../../Index/Nmap.md) 
+Tags: [IDOR](../../Index/IDOR.md) [Linpeas](../../Index/Linpeas.md) [Nmap](../../Index/Nmap.md) 
