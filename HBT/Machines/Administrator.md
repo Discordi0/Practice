@@ -8,9 +8,7 @@ Machine Information
 
 As is common in real life Windows pentests, you will start the Administrator box with credentials for the following account: Username: Olivia Password: ichliebedich
 
-
-
-
+___
 ### Q1: What is the lowest TCP port listening on Administrator?
 
 #### A: 21
