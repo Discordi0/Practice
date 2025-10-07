@@ -9,7 +9,9 @@ Talion suspects that the threat actor carried out anti-virtualization checks to 
 
 #### A:
 
-Provided with the scenario comes a .zip file with 2 .evtx inside, Powershell and Powershell
+Provided with the scenario comes a .zip file with 2 .evtx inside, Powershell and Powershell Operational.
+
+Reading through this article (https://vulnerx.com/malware-evasion-wmi/) i can see that it uses 
 
 ### Q2: Which WMI query did the attacker execute to retrieve the current temperature value of the machine?
 
