@@ -34,6 +34,11 @@ ___
 
 #### A: 
 
+Searching for something useful i found this blog post (https://www.linkedin.com/pulse/windows-powershells-event-id-iz-lee-tkrmc/).
+I should be looking for these 3 IDs
+
+![](../../Img/Pasted%20image%2020251007010636.png)
+
 
 
 ### Q4: Which registry key did the above script query to retrieve service details for virtualization detection?
