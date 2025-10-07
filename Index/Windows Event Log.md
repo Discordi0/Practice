@@ -2,6 +2,7 @@
 + [Campfire-2](../HBT/Sherlock/Campfire-2.md)
 + [CrownJewel-1](../HBT/Sherlock/CrownJewel-1.md)
 + [CrownJewel-2](../HBT/Sherlock/CrownJewel-2.md)
++ [Operation Blackout 2025. Phantom Check](../HBT/Sherlock/Operation%20Blackout%202025.%20Phantom%20Check.md) 
 + [Reaper](../HBT/Sherlock/Reaper.md)
 + [SmartyPants](../HBT/Sherlock/SmartyPants.md)
 + [Unit42](../HBT/Sherlock/Unit42.md) 
