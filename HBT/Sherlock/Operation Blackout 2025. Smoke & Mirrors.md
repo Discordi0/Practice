@@ -8,13 +8,19 @@ Byte Doctor Reyes is investigating a stealthy post-breach attack where several e
 
 ### Q1: The attacker disabled LSA protection on the compromised host by modifying a registry key. What is the full path of that registry key?
 
-#### A: 
+#### A: HKLM\SYSTEM\CurrentControlSet\Control\LSA
 
-Reading through this blog post (https://www.elevenforum.com/t/enable-or-disable-local-security-authority-lsa-protection-in-windows-11.11104/) we can see that in option three
+Reading through this blog post (https://www.elevenforum.com/t/enable-or-disable-local-security-authority-lsa-protection-in-windows-11.11104/) we can see that in option three there are strings in the commands that are always present, so we use one of those to check the logs.
+
+![](../../Img/Pasted%20image%2020251007163435.png)
+
+___
 
 ### Q2: Which PowerShell command did the attacker first execute to disable Windows Defender?
 
 #### A: 
+
+
 
 ### Q3: The attacker loaded an AMSI patch written in PowerShell. Which function in the DLL is being patched by the script to effectively disable AMSI?
 
