@@ -47,7 +47,11 @@ ___
 
 #### A: 
 
+I already knew that `bcdedit` it's used for this so i searched for it.
 
+![](../../Img/Pasted%20image%2020251007165110.png)
+
+Sadly it wasn't the correct answer
 
 ### Q5: Which PowerShell command did the attacker use to disable PowerShell command history logging?
 
