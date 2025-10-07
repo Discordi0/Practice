@@ -18,7 +18,7 @@ ___
 
 ### Q2: Which PowerShell command did the attacker first execute to disable Windows Defender?
 
-#### A: 
+#### A: Set-MpPreference -DisableIOAVProtection $true -DisableEmailScanning $true -DisableBlockAtFirstSeen $true
 
 Using good old trusty Google again i came across this. (https://powershellfaqs.com/disable-windows-defender-using-powershell/).
 As per Q1 i used the string present in most commands `Set-MpPreference `.
@@ -31,15 +31,23 @@ ___
 
 ### Q3: The attacker loaded an AMSI patch written in PowerShell. Which function in the DLL is being patched by the script to effectively disable AMSI?
 
-#### A: 
+#### A: AmsiScanBuffer
 
 At a quick glance there wasn't something specific to search for so i just did a search for .dll in the logs.
 
+The first result seem to me to be the correct one but i couldn't find the answer.
 
+![](../../Img/Pasted%20image%2020251007164728.png)
+
+After a little while i got it by removing the + sign.
+
+___
 
 ### Q4: Which command did the attacker use to restart the machine in Safe Mode?
 
 #### A: 
+
+
 
 ### Q5: Which PowerShell command did the attacker use to disable PowerShell command history logging?
 
