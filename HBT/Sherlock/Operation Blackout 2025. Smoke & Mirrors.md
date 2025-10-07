@@ -10,6 +10,8 @@ Byte Doctor Reyes is investigating a stealthy post-breach attack where several e
 
 #### A: 
 
+Reading through this blog post (https://www.elevenforum.com/t/enable-or-disable-local-security-authority-lsa-protection-in-windows-11.11104/) we can see that in option three
+
 ### Q2: Which PowerShell command did the attacker first execute to disable Windows Defender?
 
 #### A: 
