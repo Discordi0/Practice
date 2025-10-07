@@ -47,9 +47,16 @@ ___
 
 ### Q4: Which registry key did the above script query to retrieve service details for virtualization detection?
 
-#### A: 
+#### A: HKLM:\SYSTEM\ControlSet001\Services
 
+With the name of the script we can search for all it's entries.
+I found this one.
 
+![](../../Img/Pasted%20image%2020251007011220.png)
+
+Reading through it i found the registry key. (just for wh)
+
+![](../../Img/Pasted%20image%2020251007011338.png)
 
 ### Q5: The VM detection script can also identify VirtualBox. Which processes is it comparing to determine if the system is running VirtualBox?
 
