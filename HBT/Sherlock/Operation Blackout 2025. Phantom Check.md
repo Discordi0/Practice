@@ -49,7 +49,7 @@ ___
 
 #### A: HKLM:\SYSTEM\ControlSet001\Services
 
-With the name of the script we can search for all it's entries.
+With the name of the script we can search for all of it's entries.
 I found this one.
 
 ![](../../Img/Pasted%20image%2020251007011220.png)
