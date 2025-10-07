@@ -45,20 +45,22 @@ ___
 
 ### Q4: Which command did the attacker use to restart the machine in Safe Mode?
 
-#### A: 
+#### A: bcdedit.exe /set safeboot network
 
 I already knew that `bcdedit` it's used for this so i searched for it.
 
 ![](../../Img/Pasted%20image%2020251007165110.png)
 
 Sadly it wasn't the correct answer, i did try with `shutdown` and `safeboot` but none of those give something usefull.
-So i searched in the other logs until i found it.
+So i searched in the other logs until i found it (sysmon operational log).
 
 ![](../../Img/Pasted%20image%2020251007170026.png)
 
-It looks odly similar to my first find
+It looks oddly similar to my first find -.-
+
+___
 
 ### Q5: Which PowerShell command did the attacker use to disable PowerShell command history logging?
 
-#### A: 
+#### A: Set-PSReadlineOption -HistorySaveStyle SaveNothing
 
