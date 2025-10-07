@@ -32,18 +32,24 @@ ___
 
 ### Q3: The attacker loaded a PowerShell script to detect virtualization. What is the function name of the script?
 
-#### A: 
+#### A: Check-VM
 
 Searching for something useful i found this blog post (https://www.linkedin.com/pulse/windows-powershells-event-id-iz-lee-tkrmc/).
 I should be looking for these 3 IDs
 
 ![](../../Img/Pasted%20image%2020251007010636.png)
 
+In the 2nd event i found this.
 
+![](../../Img/Pasted%20image%2020251007010830.png)
+
+___
 
 ### Q4: Which registry key did the above script query to retrieve service details for virtualization detection?
 
 #### A: 
+
+
 
 ### Q5: The VM detection script can also identify VirtualBox. Which processes is it comparing to determine if the system is running VirtualBox?
 
