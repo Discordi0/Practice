@@ -11,7 +11,11 @@ Talion suspects that the threat actor carried out anti-virtualization checks to 
 
 Provided with the scenario comes a .zip file with 2 .evtx inside, Powershell and Powershell Operational.
 
-Reading through this article (https://vulnerx.com/malware-evasion-wmi/) i can see that it uses 
+Reading through this article (https://vulnerx.com/malware-evasion-wmi/) i can see that it uses `Get-WmiObject` in all of its querys, so let's search for that in the Powershell evt.
+
+![](../../Img/Pasted%20image%2020251007005501.png)
+
+
 
 ### Q2: Which WMI query did the attacker execute to retrieve the current temperature value of the machine?
 
