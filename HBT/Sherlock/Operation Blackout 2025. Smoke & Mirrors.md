@@ -20,7 +20,10 @@ ___
 
 #### A: 
 
+Using good old trusty Google again i came across this. (https://powershellfaqs.com/disable-windows-defender-using-powershell/).
+As per Q1 i used the string present in most commands `Set-MpPreference `.
 
+There was a lot of events in the log that could be
 
 ### Q3: The attacker loaded an AMSI patch written in PowerShell. Which function in the DLL is being patched by the script to effectively disable AMSI?
 
