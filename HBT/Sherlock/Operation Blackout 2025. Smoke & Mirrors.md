@@ -23,11 +23,19 @@ ___
 Using good old trusty Google again i came across this. (https://powershellfaqs.com/disable-windows-defender-using-powershell/).
 As per Q1 i used the string present in most commands `Set-MpPreference `.
 
-There was a lot of events in the log that could be
+There was a lot of events in the log that have that string in them, but we need to check the time of the Q1 event to get to the answer.
+
+![](../../Img/Pasted%20image%2020251007164300.png)
+
+___
 
 ### Q3: The attacker loaded an AMSI patch written in PowerShell. Which function in the DLL is being patched by the script to effectively disable AMSI?
 
 #### A: 
+
+At a quick glance there wasn't something specific to search for so i just did a search for .dll in the logs.
+
+
 
 ### Q4: Which command did the attacker use to restart the machine in Safe Mode?
 
