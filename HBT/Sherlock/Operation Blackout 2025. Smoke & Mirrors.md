@@ -64,3 +64,9 @@ ___
 
 #### A: Set-PSReadlineOption -HistorySaveStyle SaveNothing
 
+Going back to the powershell operational log i searched for `PSReadline` per (https://techcommunity.microsoft.com/discussions/windowspowershell/disable-psreadline-command-logging/3712414)
+
+![](../../Img/Pasted%20image%2020251007170451.png)
+
+
+Tags: [Windows Event Log](../../Index/Windows%20Event%20Log.md) 
