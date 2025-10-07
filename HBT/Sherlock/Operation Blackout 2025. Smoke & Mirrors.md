@@ -51,7 +51,12 @@ I already knew that `bcdedit` it's used for this so i searched for it.
 
 ![](../../Img/Pasted%20image%2020251007165110.png)
 
-Sadly it wasn't the correct answer, i did try with `shutdown` and `safeboot` but none gi
+Sadly it wasn't the correct answer, i did try with `shutdown` and `safeboot` but none of those give something usefull.
+So i searched in the other logs until i found it.
+
+![](../../Img/Pasted%20image%2020251007170026.png)
+
+It looks odly similar to my first find
 
 ### Q5: Which PowerShell command did the attacker use to disable PowerShell command history logging?
 
