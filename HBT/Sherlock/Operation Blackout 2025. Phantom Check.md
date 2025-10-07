@@ -72,4 +72,11 @@ ___
 
 ### Q6: The VM detection script prints any detection with the prefix 'This is a'. Which two virtualization platforms did the script detect?
 
-#### A: 
+#### A: Hyper-V, Vmware
+
+With what to look for we just need to search for it. (in the Powershell log, not in the Operational)
+
+![](../../Img/Pasted%20image%2020251007011919.png)
+
+
+Tags: [Windows Event Log](../../Index/Windows%20Event%20Log.md) 
