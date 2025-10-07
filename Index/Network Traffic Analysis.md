@@ -1,0 +1,7 @@
++ [Compromised](../HBT/Sherlock/Compromised.md)
++ [Intermediate Network Traffic Analysis](../HBT/Skills%20Assessment/Intermediate%20Network%20Traffic%20Analysis.md)
++ [Noxious](../HBT/Sherlock/Noxious.md)
++ [Origins](../HBT/Sherlock/Origins.md)
++ [Pikaptcha](../HBT/Sherlock/Pikaptcha.md)
++ [Reaper](../HBT/Sherlock/Reaper.md)
++ [Takedown](../HBT/Sherlock/Takedown.md) 
