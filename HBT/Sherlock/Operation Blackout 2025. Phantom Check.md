@@ -54,13 +54,21 @@ I found this one.
 
 ![](../../Img/Pasted%20image%2020251007011220.png)
 
-Reading through it i found the registry key. (just for wh)
+Reading through it i found the registry key. (just for what it says below)
 
 ![](../../Img/Pasted%20image%2020251007011338.png)
 
+___
+
 ### Q5: The VM detection script can also identify VirtualBox. Which processes is it comparing to determine if the system is running VirtualBox?
 
-#### A: 
+#### A: vboxservice.exe, vboxtray.exe
+
+If we keep reading we can see when the script starts looking for VirtualBox.
+
+![](../../Img/Pasted%20image%2020251007011630.png)
+
+___
 
 ### Q6: The VM detection script prints any detection with the prefix 'This is a'. Which two virtualization platforms did the script detect?
 
