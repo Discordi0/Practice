@@ -7,7 +7,7 @@ Talion suspects that the threat actor carried out anti-virtualization checks to 
 
 ### Q1: Which WMI class did the attacker use to retrieve model and manufacturer information for virtualization detection?
 
-#### A:
+#### A: Win32_ComputerSystem
 
 Provided with the scenario comes a .zip file with 2 .evtx inside, Powershell and Powershell Operational.
 
@@ -15,12 +15,16 @@ Reading through this article (https://vulnerx.com/malware-evasion-wmi/) i can se
 
 ![](../../Img/Pasted%20image%2020251007005501.png)
 
+In the 3rd try we can find the class that was mentioned in the article.
 
+___
 
 ### Q2: Which WMI query did the attacker execute to retrieve the current temperature value of the machine?
 
 #### A: 
 
+
+As per this article (https://stackoverflow.com/questions/45736193/how-can-we-get-a-cpu-temperature-through-wmi) we should be looking for 
 ### Q3: The attacker loaded a PowerShell script to detect virtualization. What is the function name of the script?
 
 #### A: 
