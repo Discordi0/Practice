@@ -1,0 +1,7 @@
++ [Campfire-1](../HBT/Sherlock/Campfire-1.md)
++ [Campfire-2](../HBT/Sherlock/Campfire-2.md)
++ [CrownJewel-1](../HBT/Sherlock/CrownJewel-1.md)
++ [CrownJewel-2](../HBT/Sherlock/CrownJewel-2.md)
++ [Reaper](../HBT/Sherlock/Reaper.md)
++ [SmartyPants](../HBT/Sherlock/SmartyPants.md)
++ [Unit42](../HBT/Sherlock/Unit42.md) 

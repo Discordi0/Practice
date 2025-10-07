@@ -1,0 +1,2 @@
++ [Detecting Windows Attacks with Splunk](../HBT/Skills%20Assessment/Detecting%20Windows%20Attacks%20with%20Splunk.md)
++ [Understanding Log Sources & Investigating with Splunk](../HBT/Skills%20Assessment/Understanding%20Log%20Sources%20&%20Investigating%20with%20Splunk.md) 
