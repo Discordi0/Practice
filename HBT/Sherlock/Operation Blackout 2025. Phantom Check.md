@@ -21,13 +21,20 @@ ___
 
 ### Q2: Which WMI query did the attacker execute to retrieve the current temperature value of the machine?
 
-#### A: 
+#### A: SELECT * FROM MSAcpi_ThermalZoneTemperature
 
 
-As per this article (https://stackoverflow.com/questions/45736193/how-can-we-get-a-cpu-temperature-through-wmi) we should be looking for 
+As per this article (https://stackoverflow.com/questions/45736193/how-can-we-get-a-cpu-temperature-through-wmi) we should be looking for MSAcpi_ThermalZoneTemperature` 
+
+![](../../Img/Pasted%20image%2020251007005950.png)
+
+___
+
 ### Q3: The attacker loaded a PowerShell script to detect virtualization. What is the function name of the script?
 
 #### A: 
+
+
 
 ### Q4: Which registry key did the above script query to retrieve service details for virtualization detection?
 
