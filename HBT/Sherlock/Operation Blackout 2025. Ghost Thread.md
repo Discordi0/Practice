@@ -34,7 +34,7 @@ ___
 
 ### Q3: Which process is the attacker's binary attempting to locate for payload injection?
 
-#### A: 
+#### A: notepad.exe
 
 I tried to look for it in IDA but a couldn't found the process name.
 All i could find is that something is looking(?) for an exe.
@@ -44,11 +44,15 @@ All i could find is that something is looking(?) for an exe.
 So i had to use API Monitor.
 When we select the .apmx64 and go to the module inject.exe we can see what it is looking for.
 
+![](../../Img/Pasted%20image%2020251009162137.png)
 
+___
 
 ### Q4: What is the process ID of the identified process?
 
 #### A: 
+
+Looking a
 
 ### Q5: What is the size of the shellcode?
 
