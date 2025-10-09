@@ -24,6 +24,14 @@ ___
 
 #### A: 
 
+I kept reading through the the sections present and found nothing. Next i looked at the imports tab and found this.
+
+![](../../Img/Pasted%20image%2020251009150412.png)
+
+![](../../Img/Pasted%20image%2020251009150437.png)
+
+___
+
 ### Q3: Which process is the attacker's binary attempting to locate for payload injection?
 
 #### A: 
