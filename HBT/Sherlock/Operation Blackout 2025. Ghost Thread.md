@@ -41,7 +41,10 @@ All i could find is that something is looking(?) for an exe.
 
 ![](../../Img/Pasted%20image%2020251009152306.png)
 
-So i 
+So i had to use API Monitor.
+When we select the .apmx64 and go to the module inject.exe we can see what it is looking for.
+
+
 
 ### Q4: What is the process ID of the identified process?
 
