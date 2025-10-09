@@ -50,9 +50,15 @@ ___
 
 ### Q4: What is the process ID of the identified process?
 
-#### A: 
+#### A: 16224
 
-Looking a
+Looking at the list of calls(?) i came across one that indicates that the process was found, so i started to look around more carefully until i found it.
+
+![](../../Img/Pasted%20image%2020251009162441.png)
+
+![](../../Img/Pasted%20image%2020251009162555.png)
+
+___
 
 ### Q5: What is the size of the shellcode?
 
