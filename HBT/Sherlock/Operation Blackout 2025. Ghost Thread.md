@@ -36,7 +36,10 @@ ___
 
 #### A: 
 
+I tried to look for it in IDA but a couldn't found the process name.
+All i could find is that String1
 
+![](../../Img/Pasted%20image%2020251009152306.png)
 
 ### Q4: What is the process ID of the identified process?
 
