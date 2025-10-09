@@ -68,7 +68,11 @@ Having a quick read at this (https://en.wikipedia.org/wiki/Shellcode) i kinda "u
 
 ![](../../Img/Pasted%20image%2020251009162953.png)
 
-Almost right under Q4 answer was, was this
+![](../../Img/Pasted%20image%2020251009163126.png)
+
+Almost right under Q4 answer was, was this and reading this (https://learn.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-virtualallocex) i knew that this was the answer.
+
+___
 
 ### Q6: Which Win32 API was used to execute the injected payload in the identified process?
 
