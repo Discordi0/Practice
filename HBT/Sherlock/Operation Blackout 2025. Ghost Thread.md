@@ -62,7 +62,7 @@ ___
 
 ### Q5: What is the size of the shellcode?
 
-#### A: 
+#### A: 511
 
 Having a quick read at this (https://en.wikipedia.org/wiki/Shellcode) i kinda "understood" what i was looking for, beign lucky i had just looked at something that could be it.
 
@@ -77,6 +77,11 @@ ___
 ### Q6: Which Win32 API was used to execute the injected payload in the identified process?
 
 #### A: 
+
+Following the trail, right under Q5 was the next answer.
+I looked at (https://learn.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-writeprocessmemory), and (https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createremotethread)
+
+
 
 ### Q7: The injection method used by the attacker executes before the main() function is called. Which Win32 API is responsible for terminating the program before main() runs?
 
