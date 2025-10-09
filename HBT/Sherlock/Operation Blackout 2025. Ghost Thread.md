@@ -10,6 +10,9 @@ Byte Doctor suspects the attacker used a process injection technique to run mali
 
 #### A: 
 
+First we need to open the .exe with IDA.
+
+
 ### Q2: Which Win32 API was used to take snapshots of all processes and threads on the system?
 
 #### A: 
