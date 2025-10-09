@@ -22,7 +22,7 @@ ___
 
 ### Q2: Which Win32 API was used to take snapshots of all processes and threads on the system?
 
-#### A: 
+#### A: CreateToolhelp32Snapshot
 
 I kept reading through the the sections present and found nothing. Next i looked at the imports tab and found this.
 
@@ -35,6 +35,8 @@ ___
 ### Q3: Which process is the attacker's binary attempting to locate for payload injection?
 
 #### A: 
+
+
 
 ### Q4: What is the process ID of the identified process?
 
