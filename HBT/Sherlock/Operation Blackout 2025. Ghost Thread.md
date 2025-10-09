@@ -76,12 +76,14 @@ ___
 
 ### Q6: Which Win32 API was used to execute the injected payload in the identified process?
 
-#### A: 
+#### A: CreateRemoteThread
 
 Following the trail, right under Q5 was the next answer.
 I looked at (https://learn.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-writeprocessmemory), and (https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createremotethread)
 
+![](../../Img/Pasted%20image%2020251009163630.png)
 
+___
 
 ### Q7: The injection method used by the attacker executes before the main() function is called. Which Win32 API is responsible for terminating the program before main() runs?
 
