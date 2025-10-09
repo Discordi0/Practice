@@ -8,7 +8,7 @@ Byte Doctor suspects the attacker used a process injection technique to run mali
 
 ### Q1: What process injection technique did the attacker use?
 
-#### A: 
+#### A: Thread Local Storage
 
 First we need to open the .exe with IDA.
 
@@ -94,4 +94,4 @@ Seeing that this is the las call(?), i went with it.
 ![](../../Img/Pasted%20image%2020251009164036.png)
 
 
-Tags: [Malware Analysis](../../Index/Malware%20Analysis.md)
+Tags: [Malware Analysis](../../Index/Malware%20Analysis.md) 
