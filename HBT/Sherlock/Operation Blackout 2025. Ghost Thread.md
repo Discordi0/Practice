@@ -64,6 +64,12 @@ ___
 
 #### A: 
 
+Having a quick read at this (https://en.wikipedia.org/wiki/Shellcode) i kinda "understood" what i was looking for, beign lucky i had just looked at something that could be it.
+
+![](../../Img/Pasted%20image%2020251009162953.png)
+
+Almost right under Q4 answer was, was this
+
 ### Q6: Which Win32 API was used to execute the injected payload in the identified process?
 
 #### A: 
