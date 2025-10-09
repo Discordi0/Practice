@@ -87,4 +87,11 @@ ___
 
 ### Q7: The injection method used by the attacker executes before the main() function is called. Which Win32 API is responsible for terminating the program before main() runs?
 
-#### A: 
+#### A: ExitProcess
+
+Seeing that this is the las call(?), i went with it.
+
+![](../../Img/Pasted%20image%2020251009164036.png)
+
+
+Tags: [Malware Analysis](../../Index/Malware%20Analysis.md)
