@@ -159,9 +159,17 @@ ___
 
 ##### A: ftp, anonymous
 
-In the vsftpd.log file just before the download of the files
+In the vsftpd.log file just before the download of the files, we can see the successful login in a service with an account.
+
+![](../Img/Pasted%20image%2020251010005001.png)
+
+___
 
 #### Q6: What service and username were used to gain shell access to the server? (service, username)
 
-##### A: 
+##### A: ssh, www-data
+
+This ca be found in the last file that we never used (auth.log), where near the end of the log we can see an accepted login.
+
+![](../Img/Pasted%20image%2020251010005237.png)
 
