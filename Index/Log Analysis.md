@@ -1,5 +1,6 @@
 + [Brutus](../HBT/Sherlock/Brutus.md)
 + [Bumblebee](../HBT/Sherlock/Bumblebee.md)
 + [Introduction to Digital Forensics](../HBT/Skills%20Assessment/Introduction%20to%20Digital%20Forensics.md)
++ [Juicy Details](../THM/Juicy%20Details.md) 
 + [NeuroSync-D](../HBT/Sherlock/NeuroSync-D.md)
 + [Ultimatum](../HBT/Sherlock/Ultimatum.md) 
