@@ -142,11 +142,20 @@ ___
 
 #### Q4: What files did they try to download from the vulnerable endpoint? (endpoint from the previous task, question #5)
 
-##### A: 
+##### A: coupons_2013.md.bak, www-data.bak
+
+This is at the end of the file, where the attacker was using feroxbuster on the /ftp endpoint.
+There are only 2 files named. (Answer is by alphabetical order, no accessed order).
+
+![](../Img/Pasted%20image%2020251010004610.png)
+
+___
 
 #### Q5: What service and account name were used to retrieve files from the previous question? (service, username)
 
 ##### A: 
+
+
 
 #### Q6: What service and username were used to gain shell access to the server? (service, username)
 
