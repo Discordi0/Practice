@@ -111,11 +111,19 @@ ___
 
 #### Q1: What section of the website did the attacker use to scrape user email addresses?
 
-##### A: 
+##### A: product reviews
+
+Looking more carefully the access.log file, the only section that could be use for that would be this.
+
+![](../Img/Pasted%20image%2020251010003650.png)
+
+___
 
 #### Q2: Was their brute-force attack successful? If so, what is the timestamp of the successful login? (Yay/Nay, 11/Apr/2021:09:xx:xx +0000)
 
 ##### A: 
+
+
 
 #### Q3: What user information was the attacker able to retrieve from the endpoint vulnerable to SQL injection?
 
