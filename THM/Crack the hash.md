@@ -39,7 +39,7 @@ ___
 
 #### A: 
 
-This one looks like bcrypt so we use `-m 3200`. Hashcat may complain bc of the $ sings, just put the hash inside a .txt file and use that instead.
+This one looks like bcrypt so we use `-m 3200`. Hashcat may complain bc of the $ sings, just put the hash inside a .txt file and use that instead. It was also taking a lot of time so i had to create a 4 character list of
 
 
 
