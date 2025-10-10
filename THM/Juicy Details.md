@@ -131,9 +131,14 @@ ___
 
 #### Q3: What user information was the attacker able to retrieve from the endpoint vulnerable to SQL injection?
 
-##### A: 
+##### A: email, password
 
+To check this we need to go over to the sqlmap section of the log.
+Near the end of that section where curl was used we can see what he managed to extract.
 
+![](../Img/Pasted%20image%2020251010004309.png)
+
+___
 
 #### Q4: What files did they try to download from the vulnerable endpoint? (endpoint from the previous task, question #5)
 
