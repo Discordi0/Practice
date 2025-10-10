@@ -149,13 +149,17 @@ There are only 2 files named. (Answer is by alphabetical order, no accessed orde
 
 ![](../Img/Pasted%20image%2020251010004610.png)
 
+This also it's in vsftpd.log.
+
+![](../Img/Pasted%20image%2020251010004818.png)
+
 ___
 
 #### Q5: What service and account name were used to retrieve files from the previous question? (service, username)
 
-##### A: 
+##### A: ftp, anonymous
 
-
+In the vsftpd.log file just before the download of the files
 
 #### Q6: What service and username were used to gain shell access to the server? (service, username)
 
