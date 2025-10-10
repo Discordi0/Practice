@@ -87,10 +87,10 @@ ___
 ### Q3: Hash: $6$aReallyHardSalt$6WKUTqzq.UQQmrm0p/T7MPpMbGNnzXPMAXi4bJMl9be.cfi3/qxIf.hsGpS41BqMhSrHVXgMpdjS6xeKZAs02.
 
 Salt: aReallyHardSalt
-#### A: 
+#### A: waka99
 
 It took me a little bit of time get the correct hash type for this one, in retrospective the $6 was more important that i realized.
-
+It's 
 
 
 ### Q4: Hash: e5d8870e5bdd26602cab8dbe07a942c8669e56d6
