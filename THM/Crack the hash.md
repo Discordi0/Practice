@@ -9,16 +9,20 @@ Can you complete the level 1 tasks by cracking the hashes?
 
 #### A: 
 
-### Q2: 
+
+### Q2: CBFDAC6008F9CAB4083784CBD1874F76618D2A97
 #### A: 
 
-### Q3: 
+### Q3: 1C8BFE8F801D79745C4631D09FFF36C82AA37FC4CCE4FC946683D7B336B63032
+
 #### A: 
 
-### Q4: 
+### Q4: $2y$12$Dwt1BZj6pcyc3Dy1FWZ5ieeUznr71EeNkJkUlypTsgbX1H68wsRom
+
 #### A: 
 
-### Q5: 
+### Q5: 279412f945939ba78ce0758d3fd83daa
+
 #### A: 
 
 
