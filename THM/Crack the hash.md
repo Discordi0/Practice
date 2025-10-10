@@ -19,7 +19,7 @@ ___
 ### Q2: CBFDAC6008F9CAB4083784CBD1874F76618D2A97
 #### A: password123 
 
-This one looks like SHA1
+This one looks like SHA1 so we use `-a 100`
 
 ![](../Img/Pasted%20image%2020251010191303.png)
 
@@ -27,11 +27,17 @@ ___
 
 ### Q3: 1C8BFE8F801D79745C4631D09FFF36C82AA37FC4CCE4FC946683D7B336B63032
 
-#### A: 
+#### A: letmein
+
+Looks like SHA256 so we use `-a 1400`
+
+![](../Img/Pasted%20image%2020251010191541.png)
 
 ### Q4: $2y$12$Dwt1BZj6pcyc3Dy1FWZ5ieeUznr71EeNkJkUlypTsgbX1H68wsRom
 
 #### A: 
+
+
 
 ### Q5: 279412f945939ba78ce0758d3fd83daa
 
