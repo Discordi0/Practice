@@ -27,7 +27,7 @@ Look carefully at:
 
 #### Q1: What tools did the attacker use? (Order by the occurrence in the log)
 
-##### A: nmap, hydra, 
+##### A: nmap, hydra, sqlmap, curl, feroxbuster
 
 We need to open access.log and check.
 
@@ -39,6 +39,19 @@ Next it's just normal traffic until we get this.
 
 ![](../Img/Pasted%20image%2020251010000624.png)
 
+After that it's normal traffic again until this.
+
+![](../Img/Pasted%20image%2020251010000708.png)
+
+Then we have all the sqlmap traffic follow by a couple of entries of normality and then this.
+
+![](../Img/Pasted%20image%2020251010000838.png)
+
+And lastly.
+
+![](../Img/Pasted%20image%2020251010000907.png)
+
+___
 
 #### Q2: What endpoint was vulnerable to a brute-force attack?
 
