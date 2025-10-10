@@ -37,11 +37,13 @@ ___
 
 ### Q4: $2y$12$Dwt1BZj6pcyc3Dy1FWZ5ieeUznr71EeNkJkUlypTsgbX1H68wsRom
 
-#### A: 
+#### A: bleh
 
-This one looks like bcrypt so we use `-m 3200`. Hashcat may complain bc of the $ sings, just put the hash inside a .txt file and use that instead. It was also taking a lot of time so i had to create a 4 character list of
+This one looks like bcrypt so we use `-m 3200`. Hashcat may complain bc of the $ sings, just put the hash inside a .txt file and use that instead. It was also taking a lot of time so i had to create a 4 character list of rockyou.
 
+![](../Img/Pasted%20image%2020251010194608.png)
 
+___
 
 ### Q5: 279412f945939ba78ce0758d3fd83daa
 
