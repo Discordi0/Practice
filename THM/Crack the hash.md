@@ -65,8 +65,13 @@ You might have to start using hashcat here and not online tools. It might also 
 
 ### Q1: Hash: F09EDCB1FCEFC6DFB23DC3505A882655FF77375ED8AA2D1C13F640FCCC2D0C85
 
-#### A: 
+#### A: paule
 
+This one looked like sha-256 `-m 1400`.
+
+![](../Img/Pasted%20image%2020251010201755.png)
+
+___
 
 ### Q2: Hash: 1DFECA0C002AE40B8619ECF94819CC1B
 
