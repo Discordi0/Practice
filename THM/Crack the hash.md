@@ -51,6 +51,8 @@ ___
 
 This one was more tricky, it looked like MD5 and i tried to crack it but it didn't work, i tried with the hash in a file, other wordlists, the compressed and uncompressed version on rockyou and nothing. i know it's md4 but hashcat doesn't work.
 
+I then tried with john and nothing again. So Crackstation it is (https://crackstation.net/)
+
 
 ## Level 2
 
