@@ -121,13 +121,19 @@ ___
 
 #### Q2: Was their brute-force attack successful? If so, what is the timestamp of the successful login? (Yay/Nay, 11/Apr/2021:09:xx:xx +0000)
 
-##### A: 
+##### A: Yay, 11/Apr/2021:09:16:31 +0000
 
+The brute-force that this question is refering it's where hydra was used, so if we look carefully we will see the successful response.
 
+![](../Img/Pasted%20image%2020251010003925.png)
+
+___
 
 #### Q3: What user information was the attacker able to retrieve from the endpoint vulnerable to SQL injection?
 
 ##### A: 
+
+
 
 #### Q4: What files did they try to download from the vulnerable endpoint? (endpoint from the previous task, question #5)
 
