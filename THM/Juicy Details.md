@@ -27,7 +27,18 @@ Look carefully at:
 
 #### Q1: What tools did the attacker use? (Order by the occurrence in the log)
 
-##### A: 
+##### A: nmap, hydra, 
+
+We need to open access.log and check.
+
+The first thing we can see.
+
+![](../Img/Pasted%20image%2020251010000522.png)
+
+Next it's just normal traffic until we get this.
+
+![](../Img/Pasted%20image%2020251010000624.png)
+
 
 #### Q2: What endpoint was vulnerable to a brute-force attack?
 
