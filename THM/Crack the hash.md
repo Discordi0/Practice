@@ -47,12 +47,15 @@ ___
 
 ### Q5: 279412f945939ba78ce0758d3fd83daa
 
-#### A: 
+#### A: Eternity22
 
 This one was more tricky, it looked like MD5 and i tried to crack it but it didn't work, i tried with the hash in a file, other wordlists, the compressed and uncompressed version on rockyou and nothing. i know it's md4 but hashcat doesn't work.
 
 I then tried with john and nothing again. So Crackstation it is (https://crackstation.net/)
 
+![](../Img/Pasted%20image%2020251010201254.png)
+
+___
 
 ## Level 2
 
@@ -60,16 +63,23 @@ This task increases the difficulty. All of the answers will be in the classic [r
 
 You might have to start using hashcat here and not online tools. It might also be handy to look at some example hashes on [hashcats page](https://hashcat.net/wiki/doku.php?id=example_hashes).
 
+### Q1: Hash: F09EDCB1FCEFC6DFB23DC3505A882655FF77375ED8AA2D1C13F640FCCC2D0C85
 
-### Q1: 
 #### A: 
 
 
-### Q2: 
+### Q2: Hash: 1DFECA0C002AE40B8619ECF94819CC1B
+
 #### A: 
 
-### Q3: 
+### Q3: Hash: $6$aReallyHardSalt$6WKUTqzq.UQQmrm0p/T7MPpMbGNnzXPMAXi4bJMl9be.cfi3/qxIf.hsGpS41BqMhSrHVXgMpdjS6xeKZAs02.
+
+Salt: aReallyHardSalt
+
 #### A: 
 
-### Q4: 
+### Q4: Hash: e5d8870e5bdd26602cab8dbe07a942c8669e56d6
+
+Salt: tryhackme
+
 #### A: 
