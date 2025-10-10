@@ -75,7 +75,14 @@ ___
 
 ### Q2: Hash: 1DFECA0C002AE40B8619ECF94819CC1B
 
-#### A: 
+#### A: n63umy8lkf4i
+
+This one looked like MD5, it wasn't. So i kept going down and trying until i found it.
+NTLM `-m 1000`.
+
+![](../Img/Pasted%20image%2020251010202135.png)
+
+___
 
 ### Q3: Hash: $6$aReallyHardSalt$6WKUTqzq.UQQmrm0p/T7MPpMbGNnzXPMAXi4bJMl9be.cfi3/qxIf.hsGpS41BqMhSrHVXgMpdjS6xeKZAs02.
 
