@@ -90,11 +90,15 @@ Salt: aReallyHardSalt
 #### A: waka99
 
 It took me a little bit of time get the correct hash type for this one, in retrospective the $6 was more important that i realized.
-It's 
+It's sha512crypt `-m 1800`. It took like ~20m. 
 
+![](../Img/Pasted%20image%2020251010205713.png)
+
+___
 
 ### Q4: Hash: e5d8870e5bdd26602cab8dbe07a942c8669e56d6
 
 Salt: tryhackme
 
 #### A: 
+
