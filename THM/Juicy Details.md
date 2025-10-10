@@ -69,12 +69,19 @@ ___
 
 This would be where the attacker used the SQLi tool.
 
+![](../Img/Pasted%20image%2020251010002210.png)
 
+___
 
 #### Q4: What parameter was used for the SQL injection?
 
-##### A: 
+##### A: q
+
+It can be see in the above's question screenshot.
+
+___
 
 #### Q5: What endpoint did the attacker try to use to retrieve files? (Include the /)
 
 ##### A: 
+
