@@ -17,9 +17,13 @@ This one looks like MD5 so we use `-a 0`.
 ___
 
 ### Q2: CBFDAC6008F9CAB4083784CBD1874F76618D2A97
-#### A: 
+#### A: password123 
 
+This one looks like SHA1
 
+![](../Img/Pasted%20image%2020251010191303.png)
+
+___
 
 ### Q3: 1C8BFE8F801D79745C4631D09FFF36C82AA37FC4CCE4FC946683D7B336B63032
 
