@@ -85,3 +85,15 @@ ___
 
 ##### A: 
 
+We can see where the attacker tried to retieve specific files.
+
+![](../Img/Pasted%20image%2020251010002619.png)
+
+This can be corroborated by looking at the vsftpd.log file where we can see a download happening.
+
+![](../Img/Pasted%20image%2020251010002747.png)
+
+___
+
+
+
