@@ -55,11 +55,21 @@ ___
 
 #### Q2: What endpoint was vulnerable to a brute-force attack?
 
-##### A: 
+##### A: /rest/user/login
+
+Not sure if it is vulnerable but the attacker sure tried.
+
+![](../Img/Pasted%20image%2020251010002039.png)
+
+___
 
 #### Q3: What endpoint was vulnerable to SQL injection?
 
-##### A: 
+##### A: /rest/products/search
+
+This would be where the attacker used the SQLi tool.
+
+
 
 #### Q4: What parameter was used for the SQL injection?
 
