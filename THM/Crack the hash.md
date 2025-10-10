@@ -10,7 +10,7 @@ Can you complete the level 1 tasks by cracking the hashes?
 #### A: easy
 
 I am going to be comparing each hash with one on the list of hashcat webpage (https://hashcat.net/wiki/doku.php?id=example_hashes). i'm also going to be using the rockyou wordlist with all.
-This one looks like MD5 so we use `-a 0`.
+This one looks like MD5 so we use `-m 0`.
 
 ![](../Img/Pasted%20image%2020251010190921.png)
 
@@ -19,7 +19,7 @@ ___
 ### Q2: CBFDAC6008F9CAB4083784CBD1874F76618D2A97
 #### A: password123 
 
-This one looks like SHA1 so we use `-a 100`
+This one looks like SHA1 so we use `-m 100`
 
 ![](../Img/Pasted%20image%2020251010191303.png)
 
@@ -29,13 +29,17 @@ ___
 
 #### A: letmein
 
-Looks like SHA256 so we use `-a 1400`
+Looks like SHA256 so we use `-m 1400`.
 
 ![](../Img/Pasted%20image%2020251010191541.png)
+
+___
 
 ### Q4: $2y$12$Dwt1BZj6pcyc3Dy1FWZ5ieeUznr71EeNkJkUlypTsgbX1H68wsRom
 
 #### A: 
+
+This one looks like bcrypt so we use `-m 3200`. Hashcat may complain bc of the $ sings, just put the hash inside a .txt file and use that instead.
 
 
 
