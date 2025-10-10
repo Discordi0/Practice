@@ -83,7 +83,7 @@ ___
 
 #### Q5: What endpoint did the attacker try to use to retrieve files? (Include the /)
 
-##### A: 
+##### A: /ftp
 
 We can see where the attacker tried to retieve specific files.
 
@@ -95,5 +95,41 @@ This can be corroborated by looking at the vsftpd.log file where we can see a do
 
 ___
 
+## Stolen data
 
+Analyze the provided log files.
+
+Look carefully at:  
+
+- The attacker's movement on the website
+- Response codes
+- Abnormal query strings
+
+___
+
+### Questions:
+
+#### Q1: What section of the website did the attacker use to scrape user email addresses?
+
+##### A: 
+
+#### Q2: Was their brute-force attack successful? If so, what is the timestamp of the successful login? (Yay/Nay, 11/Apr/2021:09:xx:xx +0000)
+
+##### A: 
+
+#### Q3: What user information was the attacker able to retrieve from the endpoint vulnerable to SQL injection?
+
+##### A: 
+
+#### Q4: What files did they try to download from the vulnerable endpoint? (endpoint from the previous task, question #5)
+
+##### A: 
+
+#### Q5: What service and account name were used to retrieve files from the previous question? (service, username)
+
+##### A: 
+
+#### Q6: What service and username were used to gain shell access to the server? (service, username)
+
+##### A: 
 
