@@ -7,9 +7,10 @@ Can you complete the level 1 tasks by cracking the hashes?
 
 ### Q1: 48bb6e862e54f2a795ffc4e541caed4d
 
-#### A: 
+#### A: easy
 
-
+I am going to be comparing each hash with one on the list of hashcat webpage (https://hashcat.net/wiki/doku.php?id=example_hashes).
+This one looks like MD5 so we use `-a 0` with the rockyou word li
 ### Q2: CBFDAC6008F9CAB4083784CBD1874F76618D2A97
 #### A: 
 
