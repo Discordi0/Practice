@@ -49,7 +49,7 @@ ___
 
 #### A: 
 
-
+This one was more tricky, it looked like MD5 and i tried 
 ## Level 2
 
 This task increases the difficulty. All of the answers will be in the classic [rock you](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt) password list.
