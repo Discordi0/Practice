@@ -49,7 +49,9 @@ ___
 
 #### A: 
 
-This one was more tricky, it looked like MD5 and i tried 
+This one was more tricky, it looked like MD5 and i tried to crack it but it didn't work, i tried with the hash in a file, other wordlists, the compressed and uncompressed version on rockyou and nothing. i know it's md4 but hashcat doesn't work.
+
+
 ## Level 2
 
 This task increases the difficulty. All of the answers will be in the classic [rock you](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt) password list.
