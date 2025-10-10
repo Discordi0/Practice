@@ -89,7 +89,9 @@ ___
 Salt: aReallyHardSalt
 #### A: 
 
-I took a little bit of time 
+It took me a little bit of time get the correct hash type for this one, in retrospective the $6 was more important that i realized.
+
+
 
 ### Q4: Hash: e5d8870e5bdd26602cab8dbe07a942c8669e56d6
 
