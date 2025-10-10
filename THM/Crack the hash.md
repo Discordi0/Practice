@@ -9,10 +9,17 @@ Can you complete the level 1 tasks by cracking the hashes?
 
 #### A: easy
 
-I am going to be comparing each hash with one on the list of hashcat webpage (https://hashcat.net/wiki/doku.php?id=example_hashes).
-This one looks like MD5 so we use `-a 0` with the rockyou word li
+I am going to be comparing each hash with one on the list of hashcat webpage (https://hashcat.net/wiki/doku.php?id=example_hashes). i'm also going to be using the rockyou wordlist with all.
+This one looks like MD5 so we use `-a 0`.
+
+![](../Img/Pasted%20image%2020251010190921.png)
+
+___
+
 ### Q2: CBFDAC6008F9CAB4083784CBD1874F76618D2A97
 #### A: 
+
+
 
 ### Q3: 1C8BFE8F801D79745C4631D09FFF36C82AA37FC4CCE4FC946683D7B336B63032
 
