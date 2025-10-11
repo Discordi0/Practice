@@ -100,5 +100,8 @@ ___
 
 Salt: tryhackme
 
-#### A: 
+#### A: 481616481616
+
+Having do the others, this one was more straight forward that i thought.
+We need to format the hash correctly for hashcat 
 
