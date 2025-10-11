@@ -184,4 +184,4 @@ With the credentials, use evil-winrm and find it.
 
 ![](../../Img/Pasted%20image%2020250505192439.png)
 
-Tags: [Burp Suite](../../Index/Burp%20Suite.md) [Evil-Winrm](../../Index/Evil-Winrm.md) [ffuf](../../Index/ffuf.md) [File Uploads](../../Index/File%20Uploads.md) [Hashcat](../../Index/Hashcat.md) [HTML Review](../../Index/HTML%20Review.md) [Nmap](../../Index/Nmap.md) 
+Tags: [Burp Suite](../../Index/Burp%20Suite.md) [Evil-Winrm](../../Index/Evil-Winrm.md) [ffuf](../../Index/ffuf.md) [File Uploads](../../Index/File%20Uploads.md) [Password Cracking](../../Index/Password%20Cracking.md) [HTML Review](../../Index/HTML%20Review.md) [Nmap](../../Index/Nmap.md) 

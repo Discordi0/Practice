@@ -153,4 +153,4 @@ Then just search it.
 ![](../../Img/Pasted%20image%2020250502170510.png)
 
 
-Tags: [BloodHound](../../Index/BloodHound.md) [Evil-Winrm](../../Index/Evil-Winrm.md) [FTP](../../Index/FTP.md) [Hashcat](../../Index/Hashcat.md) [Kerberoasting](../../Index/Kerberoasting.md) [Nmap](../../Index/Nmap.md) 
+Tags: [BloodHound](../../Index/BloodHound.md) [Evil-Winrm](../../Index/Evil-Winrm.md) [FTP](../../Index/FTP.md) [Password Cracking](../../Index/Password%20Cracking.md) [Kerberoasting](../../Index/Kerberoasting.md) [Nmap](../../Index/Nmap.md) 

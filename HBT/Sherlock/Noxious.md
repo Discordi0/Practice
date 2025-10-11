@@ -108,4 +108,4 @@ I recall that in smb2 traffic there was something useful, use the filter and fou
 ![](../../Img/Pasted%20image%2020250428143722.png)
 
 
-Tags: [Hashcat](../../Index/Hashcat.md) [LLMNR Poisoning](../../Index/LLMNR%20Poisoning.md) [Network Traffic Analysis](../../Index/Network%20Traffic%20Analysis.md) [Wireshark](../../Index/Wireshark.md)
+Tags: [Password Cracking](../../Index/Password%20Cracking.md) [LLMNR Poisoning](../../Index/LLMNR%20Poisoning.md) [Network Traffic Analysis](../../Index/Network%20Traffic%20Analysis.md) [Wireshark](../../Index/Wireshark.md)

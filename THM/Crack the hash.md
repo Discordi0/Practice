@@ -103,5 +103,11 @@ Salt: tryhackme
 #### A: 481616481616
 
 Having do the others, this one was more straight forward that i thought.
-We need to format the hash correctly for hashcat 
+We need to format the hash correctly for hashcat hash:salt (not the other way around like i did).
+It's a HMAC-SHA1 (key = $salt) `-m 160`.
+
+![](../Img/Pasted%20image%2020251010210607.png)
+
+
+Tags: [Password Cracking](../Index/Password%20Cracking.md) 
 
