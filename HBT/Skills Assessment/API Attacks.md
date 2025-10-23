@@ -51,6 +51,18 @@ We need to check how to get the password of at least one of the users.
 Seeing as we have this convenient endpoint we are going to use it.
 Fortunately a list of colors exists. (https://gist.github.com/mordka/c65affdefccb7264efff77b836b5e717)
 
+With that list i used ffuf to check if we got a hit.
+
+![](../../Img/Pasted%20image%2020251023182010.png)
+
+With the new credentials we login as a suplier.
+
+![](../../Img/Pasted%20image%2020251023182122.png)
+
+Now we try to upload a CV again and get this.
+
+![](../../Img/Pasted%20image%2020251023182231.png)
+
 
 
 
