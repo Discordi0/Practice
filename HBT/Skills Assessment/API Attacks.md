@@ -76,6 +76,6 @@ Decode it.
 ![](../../Img/Pasted%20image%2020251023182735.png)
 
 
-Tags: 
+Tags: [ffuf](../../Index/ffuf.md) [File Uploads](../../Index/File%20Uploads.md) [OWASP](../../Index/OWASP.md) 
 
 
