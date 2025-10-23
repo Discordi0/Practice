@@ -63,6 +63,10 @@ Now we try to upload a CV again and get this.
 
 ![](../../Img/Pasted%20image%2020251023182231.png)
 
+Now we need to update the CV to get the flag, that it's done in the supplier's PATCH endpoint.
+
+![](../../Img/Pasted%20image%2020251023182525.png)
+
 
 
 
