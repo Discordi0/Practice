@@ -35,3 +35,4 @@ If we continue to look through the list of supplier searchig for hints, we will 
 
 ![](../../Img/Pasted%20image%2020251023175033.png)
 
+I 
