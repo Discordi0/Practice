@@ -9,4 +9,21 @@ However, new junior developers have implemented additional functionalities in v2
 
 
 
-## Q
+## Questions
+
+### Q1: Submit the contents of the flag at '/flag.txt'.
+
+#### A: 
+
+First we need authenticate with the provided credentials.
+
+![](../../Img/Pasted%20image%2020251023174352.png)
+
+![](../../Img/Pasted%20image%2020251023174414.png)
+
+![](../../Img/Pasted%20image%2020251023174428.png)
+
+With that, we need to check the roles assigned to the acc.
+
+![](../../Img/Pasted%20image%2020251023174508.png)
+
