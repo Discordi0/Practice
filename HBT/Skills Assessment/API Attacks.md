@@ -35,4 +35,5 @@ If we continue to look through the list of supplier searchig for hints, we will 
 
 ![](../../Img/Pasted%20image%2020251023175033.png)
 
-I 
+There are 5 users with that security question, all of the others it's the "no provided yet", i saved the emails in a txt file just in case.
+
