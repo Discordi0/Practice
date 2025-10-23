@@ -27,3 +27,7 @@ With that, we need to check the roles assigned to the acc.
 
 ![](../../Img/Pasted%20image%2020251023174508.png)
 
+Getting a look at all suppliers we can see a posible attack path. ( the professionalCVPDFFileURI attribute)
+
+![](../../Img/Pasted%20image%2020251023174707.png)
+
