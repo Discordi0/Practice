@@ -44,4 +44,10 @@ Seeing the attack path i went to the cv upload tab to check.
 Tried to upluad a .pdf file (1mb BTW) and got an error.
 Seams like i need to get the password to one of the accounts with the security question set to try and upload a CV and then get the file.
 
+We need to check how to get the password of at least one of the users.
+
+![](../../Img/Pasted%20image%2020251023181206.png)
+
+Seeing as we have this convenient endpoint we are going to use it.
+
 
