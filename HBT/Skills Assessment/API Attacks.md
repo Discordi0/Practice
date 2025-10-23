@@ -13,7 +13,7 @@ However, new junior developers have implemented additional functionalities in v2
 
 ### Q1: Submit the contents of the flag at '/flag.txt'.
 
-#### A: 
+#### A: HTB{f190b80cd543a84b236e92a07a9d8d59}
 
 First we need authenticate with the provided credentials.
 
@@ -66,6 +66,15 @@ Now we try to upload a CV again and get this.
 Now we need to update the CV to get the flag, that it's done in the supplier's PATCH endpoint.
 
 ![](../../Img/Pasted%20image%2020251023182525.png)
+
+We check the Base64 CV. (in the appropriate endpoint)
+
+![](../../Img/Pasted%20image%2020251023182654.png)
+
+Decode it.
+
+![](../../Img/Pasted%20image%2020251023182735.png)
+
 
 
 
