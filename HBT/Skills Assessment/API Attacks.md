@@ -7,8 +7,6 @@ After reporting all vulnerabilities in versions v0 and v1 of `Inlanefreight E-Co
 
 However, new junior developers have implemented additional functionalities in v2, and the admin is concerned that they may have introduced new vulnerabilities. Assess the security of the new web API version and apply everything you have learned throughout the module to compromise it.
 
-
-
 ## Questions
 
 ### Q1: Submit the contents of the flag at '/flag.txt'.
