@@ -31,3 +31,7 @@ Getting a look at all suppliers we can see a posible attack path. ( the professi
 
 ![](../../Img/Pasted%20image%2020251023174707.png)
 
+If we continue to look through the list of supplier searchig for hints, we will encounter something like this.
+
+![](../../Img/Pasted%20image%2020251023175033.png)
+
