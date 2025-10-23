@@ -37,3 +37,8 @@ If we continue to look through the list of supplier searchig for hints, we will 
 
 There are 5 users with that security question, all of the others it's the "no provided yet", i saved the emails in a txt file just in case.
 
+Seeing the attack path i went to the cv upload tab to check.
+
+![](../../Img/Pasted%20image%2020251023180012.png)
+
+Tried to upluad a .pdf file (1mb BTW) and got an error
