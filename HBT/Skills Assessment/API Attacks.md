@@ -49,5 +49,8 @@ We need to check how to get the password of at least one of the users.
 ![](../../Img/Pasted%20image%2020251023181206.png)
 
 Seeing as we have this convenient endpoint we are going to use it.
+Fortunately a list of colors exists. (https://gist.github.com/mordka/c65affdefccb7264efff77b836b5e717)
+
+
 
 
