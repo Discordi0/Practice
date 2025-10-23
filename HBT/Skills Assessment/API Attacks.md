@@ -31,7 +31,7 @@ Getting a look at all suppliers we can see a posible attack path. ( the professi
 
 ![](../../Img/Pasted%20image%2020251023174707.png)
 
-If we continue to look through the list of supplier searchig for hints, we will encounter something like this.
+If we continue to look through the list of supplier searching for hints, we will encounter something like this.
 
 ![](../../Img/Pasted%20image%2020251023175033.png)
 
@@ -41,4 +41,7 @@ Seeing the attack path i went to the cv upload tab to check.
 
 ![](../../Img/Pasted%20image%2020251023180012.png)
 
-Tried to upluad a .pdf file (1mb BTW) and got an error
+Tried to upluad a .pdf file (1mb BTW) and got an error.
+Seams like i need to get the password to one of the accounts with the security question set to try and upload a CV and then get the file.
+
+
