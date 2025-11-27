@@ -99,4 +99,8 @@ I downloaded the script and check for the usage.
 
 ![](../../Img/Pasted%20image%2020251127155111.png)
 
+Seems like it works.
+
+![](../../Img/Pasted%20image%2020251127155315.png)
+
 
