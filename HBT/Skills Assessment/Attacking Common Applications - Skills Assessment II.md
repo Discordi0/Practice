@@ -72,13 +72,25 @@ It's in the above screenshot.
 ---
 
 ### Q5: What is the admin password to access this application?
-#### A: 
+#### A: oilaKglm7M09@CPL&^lC
 
 Now that we know the name of the app, i went to check the project with tha name in GitLab.
-INSTA
+INSTALL seems interesting, also what are those Last update dates...
 
 ![](../../Img/Pasted%20image%2020251127154203.png)
 
+Reading it for a bit we find this.
+
+![](../../Img/Pasted%20image%2020251127154316.png)
+
+It works.
+
+![](../../Img/Pasted%20image%2020251127154455.png)
+
+
+---
 
 ### Q6: Obtain reverse shell access on the target and submit the contents of the flag.txt file.
 #### A: 
+
+
