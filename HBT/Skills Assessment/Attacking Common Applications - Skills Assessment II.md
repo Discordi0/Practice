@@ -91,7 +91,7 @@ It works.
 ---
 
 ### Q6: Obtain reverse shell access on the target and submit the contents of the flag.txt file.
-#### A: 
+#### A: afe377683dce373ec2bf7eaf1e0107eb
 
 Searching the version of nagios on exploidb i found this. (https://www.exploit-db.com/exploits/49422)
 
@@ -103,4 +103,9 @@ Seems like it works.
 
 ![](../../Img/Pasted%20image%2020251127155315.png)
 
+Now we need to find the flag.
+
+![](../../Img/Pasted%20image%2020251127155526.png)
+
+![](../../Img/Pasted%20image%2020251127155623.png)
 
