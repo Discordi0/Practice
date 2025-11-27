@@ -74,7 +74,7 @@ It's in the above screenshot.
 ### Q5: What is the admin password to access this application?
 #### A: oilaKglm7M09@CPL&^lC
 
-Now that we know the name of the app, i went to check the project with tha name in GitLab.
+Now that we know the name of the app, i went to check the project with that name in GitLab.
 INSTALL seems interesting, also what are those Last update dates...
 
 ![](../../Img/Pasted%20image%2020251127154203.png)
