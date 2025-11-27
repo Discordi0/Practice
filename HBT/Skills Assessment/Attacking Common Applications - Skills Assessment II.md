@@ -6,7 +6,7 @@ Performing deeper and iterative enumeration reveals several serious flaws. Enume
 ## Questions.
 
 ### Q1: What is the URL of the WordPress instance?
-#### A: 
+#### A: http://blog.inlanefreight.local
 
 We start with a nmap scan 'nmap -p- -sCV --open 10.129.201.90'
 
@@ -14,7 +14,21 @@ We start with a nmap scan 'nmap -p- -sCV --open 10.129.201.90'
 
 ![](../../Img/Pasted%20image%2020251127151913.png)
 
+We can see multiple services, but no wordpress, so we check the web page.
 
+![](../../Img/Pasted%20image%2020251127152503.png)
+
+Seems like a normal page.
+Looking around a little bit we can see something about an employee blog.
+
+![](../../Img/Pasted%20image%2020251127152553.png)
+
+It get us here.
+
+![](../../Img/Pasted%20image%2020251127152620.png)
+
+
+![](../../Img/Pasted%20image%2020251127152646.png)
 
 ### Q2: What is the name of the public GitLab project?
 #### A: 
