@@ -27,11 +27,19 @@ It get us here.
 
 ![](../../Img/Pasted%20image%2020251127152620.png)
 
+With the name of the classes and the scripts we can see that this is WordPress
 
 ![](../../Img/Pasted%20image%2020251127152646.png)
 
 ### Q2: What is the name of the public GitLab project?
 #### A: 
+
+Finding this one should be more easy given that we get a link to the GitLab instance in the briefing.
+Browsing the link given to us get us here (http://gitlab.inlanefreight.local:8180/users/sign_in)
+
+![](../../Img/Pasted%20image%2020251127152844.png)
+
+After cre
 
 ### Q3: What is the FQDN of the third vhost?
 #### A: 
