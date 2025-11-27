@@ -93,4 +93,10 @@ It works.
 ### Q6: Obtain reverse shell access on the target and submit the contents of the flag.txt file.
 #### A: 
 
+Searching the version of nagios on exploidb i found this. (https://www.exploit-db.com/exploits/49422)
+
+I downloaded the script and check for the usage.
+
+![](../../Img/Pasted%20image%2020251127155111.png)
+
 
