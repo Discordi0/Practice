@@ -39,4 +39,6 @@ Here i found a cve that could work.
 ![](../../Img/Pasted%20image%2020251127142228.png)
 
 After reading this: https://github.com/setrus/CVE-2019-0232 and this: https://github.com/jaiguptanick/CVE-2019-0232
-I did 
+I fuzzed (?) the /cgi directory to see if it could be exploited.
+
+
