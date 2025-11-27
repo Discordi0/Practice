@@ -35,3 +35,7 @@ Same nmap scan
 
 Searching for a exploit for that version of Tomcat i found this page: https://tomcat.apache.org/security-9.html
 Here i found a cve that could work.
+
+![](../../Img/Pasted%20image%2020251127142228.png)
+
+
