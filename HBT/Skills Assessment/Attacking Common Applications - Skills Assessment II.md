@@ -8,6 +8,14 @@ Performing deeper and iterative enumeration reveals several serious flaws. Enume
 ### Q1: What is the URL of the WordPress instance?
 #### A: 
 
+We start with a nmap scan 'nmap -p- -sCV --open 10.129.201.90'
+
+![](../../Img/Pasted%20image%2020251127151854.png)
+
+![](../../Img/Pasted%20image%2020251127151913.png)
+
+
+
 ### Q2: What is the name of the public GitLab project?
 #### A: 
 
