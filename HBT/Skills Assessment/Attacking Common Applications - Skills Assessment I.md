@@ -39,6 +39,11 @@ Here i found a cve that could work.
 ![](../../Img/Pasted%20image%2020251127142228.png)
 
 After reading this: https://github.com/setrus/CVE-2019-0232 and this: https://github.com/jaiguptanick/CVE-2019-0232
-I fuzzed (?) the /cgi directory to see if it could be exploited.
+I fuzzed (?) the /cgi directory to see if it could be exploited. 'ffuf -w /home/discordio/Wordlists/discovery/common.txt -u http://10.129.201.89:8080/cgi/FUZZ.bat
+'
+
+![](../../Img/Pasted%20image%2020251127143316.png)
+
+Now i had two options. Use meta
 
 
