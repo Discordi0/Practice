@@ -48,9 +48,16 @@ After creating an account and loggin in we can search for projects (http://gitla
 ---
 
 ### Q3: What is the FQDN of the third vhost?
-#### A: 
+#### A: monitoring.inlanefreight.local
 
-Reading through the p
+Reading through the public project we find this. (http://gitlab.inlanefreight.local:8180/root/virtualhost)
+
+![](../../Img/Pasted%20image%2020251127153332.png)
+
+It seems we can't just browse the page.
+
+![](../../Img/Pasted%20image%2020251127153453.png)
+
 
 ### Q4: What application is running on this third vhost? (One word)
 #### A: 
