@@ -47,6 +47,18 @@ I fuzzed (?) the /cgi directory to see if it could be exploited. 'ffuf -w /home/
 Now i had two options. Use metasploit (https://github.com/setrus/CVE-2019-0232) or a pyhton script (https://github.com/jaiguptanick/CVE-2019-0232)
 I did the fastest one.
 
+![](../../Img/Pasted%20image%2020251127144444.png)
+
+I got an error so i had to set a new option.
+
+![](../../Img/Pasted%20image%2020251127144532.png)
+
+After that it worked.
+
+![](../../Img/Pasted%20image%2020251127144613.png)
+
+So just search for the flag.
+
 
 
 
