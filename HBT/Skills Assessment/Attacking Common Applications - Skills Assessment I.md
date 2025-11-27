@@ -59,6 +59,8 @@ After that it worked.
 
 So just search for the flag.
 
+![](../../Img/Pasted%20image%2020251127144658.png)
+
 
 
 
