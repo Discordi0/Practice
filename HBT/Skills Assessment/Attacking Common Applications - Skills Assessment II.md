@@ -31,18 +31,26 @@ With the name of the classes and the scripts we can see that this is WordPress
 
 ![](../../Img/Pasted%20image%2020251127152646.png)
 
+---
+
 ### Q2: What is the name of the public GitLab project?
-#### A: 
+#### A: Virtualhost
 
 Finding this one should be more easy given that we get a link to the GitLab instance in the briefing.
 Browsing the link given to us get us here (http://gitlab.inlanefreight.local:8180/users/sign_in)
 
 ![](../../Img/Pasted%20image%2020251127152844.png)
 
-After cre
+After creating an account and loggin in we can search for projects (http://gitlab.inlanefreight.local:8180/explore)
+
+![](../../Img/Pasted%20image%2020251127153029.png)
+
+---
 
 ### Q3: What is the FQDN of the third vhost?
 #### A: 
+
+Reading through the p
 
 ### Q4: What application is running on this third vhost? (One word)
 #### A: 
