@@ -58,12 +58,23 @@ It seems we can't just browse the page.
 
 ![](../../Img/Pasted%20image%2020251127153453.png)
 
+After adding it to the /etc/hosts file we can access it.
+
+![](../../Img/Pasted%20image%2020251127153821.png)
+
+---
 
 ### Q4: What application is running on this third vhost? (One word)
-#### A: 
+#### A: nagios
+
+It's in the above screenshot.
+
+---
 
 ### Q5: What is the admin password to access this application?
 #### A: 
+
+
 
 ### Q6: Obtain reverse shell access on the target and submit the contents of the flag.txt file.
 #### A: 
