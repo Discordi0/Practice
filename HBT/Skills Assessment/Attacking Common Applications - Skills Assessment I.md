@@ -31,7 +31,7 @@ Same nmap scan
 ---
 
 ### Q4: Exploit the application to obtain a shell and submit the contents of the flag.txt file on the Administrator desktop.
-#### A: 
+#### A: f55763d31a8f63ec935abd07aee5d3d0
 
 Searching for a exploit for that version of Tomcat i found this page: https://tomcat.apache.org/security-9.html
 Here i found a cve that could work.
