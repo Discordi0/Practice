@@ -44,6 +44,9 @@ I fuzzed (?) the /cgi directory to see if it could be exploited. 'ffuf -w /home/
 
 ![](../../Img/Pasted%20image%2020251127143316.png)
 
-Now i had two options. Use meta
+Now i had two options. Use metasploit (https://github.com/setrus/CVE-2019-0232) or a pyhton script (https://github.com/jaiguptanick/CVE-2019-0232)
+I did the fastest one.
+
+
 
 
