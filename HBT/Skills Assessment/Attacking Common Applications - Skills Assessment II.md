@@ -74,6 +74,10 @@ It's in the above screenshot.
 ### Q5: What is the admin password to access this application?
 #### A: 
 
+Now that we know the name of the app, i went to check the project with tha name in GitLab.
+INSTA
+
+![](../../Img/Pasted%20image%2020251127154203.png)
 
 
 ### Q6: Obtain reverse shell access on the target and submit the contents of the flag.txt file.
