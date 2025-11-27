@@ -14,11 +14,21 @@ First i did an nmap scan 'nmap -p- -sCV --open 10.129.201.89'
 
 We can see that there are multiple open ports, taking into consideration the lessons of the module, there should be a couple that caught our attention.
 
+---
+
 ### Q2: What port is this application running on?
 #### A: 8080
 
+It's in the nmap scan
+
+---
+
 ### Q3: What version of the application is in use?
-#### A: 
+#### A: 9.0.0.M1
+
+Same nmap scan
+
+---
 
 ### Q4: Exploit the application to obtain a shell and submit the contents of the flag.txt file on the Administrator desktop.
 #### A: 
