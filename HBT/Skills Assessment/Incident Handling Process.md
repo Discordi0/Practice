@@ -106,4 +106,7 @@ Copy the enconded command and decode it. (i used cyberchef)
 ### Q6: In the same file (i.e., logs-wazuh.zip), identify the user who executed the suspicious PowerShell command. The format is domain\user.
 #### A: CORP\svc-update
 
-It's the s
+It's the same alert as Q5, so just copy it. (Mind the format)
+
+![](../../Img/Pasted%20image%2020251128144500.png)
+
