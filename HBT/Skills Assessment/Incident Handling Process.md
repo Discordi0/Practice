@@ -33,19 +33,30 @@ A user opens an attachment, which executes a downloader that writes an .exe file
 ## Questions.
 
 ### Q1: Open the alert "[InsightNexus] Admin Login via ManageEngine Web Console." Find the foreign IP address starting with "203" in the comments. Check VirusTotal for the information related to this IP address, and add the details as a comment in this alert. In VirusTotal, what is the name of the file starting with "Mango" in the Files Referring section?
-#### A: 
+#### A: MangoJava.exe
 
 We need to login with the provided credentials.
 
 After that we look in the alerts for the one in the question.
+
 Once inside the alert we can see the comment with the ip.
 
 ![](../../Img/Pasted%20image%2020251128141748.png)
 
+We search for that ip address in VirusTotal (https://www.virustotal.com/gui/ip-address/203.0.113.18/detection)
 
+We need to go to the Relations tab to find the answer.
+
+![](../../Img/Pasted%20image%2020251128142229.png)
+
+---
 
 ### Q2: In VirusTotal, go to the details of the IP address starting with "198." What is the name of the city shown in the Whois Lookup?
 #### A: 
+
+We get this Ip in Q1.
+
+We search it in Vi
 
 ### Q3: If malware downloads files from a C2 (Command and Control) server into the victim network, under what MITRE technique ID does this tool transfer technique fall? Type it as your answer. The format is T1***.
 #### A: 
