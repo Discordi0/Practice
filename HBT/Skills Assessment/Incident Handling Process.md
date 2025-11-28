@@ -37,6 +37,10 @@ A user opens an attachment, which executes a downloader that writes an .exe file
 
 We need to login with the provided credentials.
 After that we look in the alerts for the one in the question.
+Once inside the alert we can see the comment with the ip.
+
+![](../../Img/Pasted%20image%2020251128141748.png)
+
 
 
 ### Q2: In VirusTotal, go to the details of the IP address starting with "198." What is the name of the city shown in the Whois Lookup?
