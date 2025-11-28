@@ -93,9 +93,16 @@ Inside this alert we can find the answer.
 
 Download the attached .zip file, unzip it and open it with your preferred text editor.
 
-Now inside search for the alert. (I searched for "powershell" because it got caught in a custom alert se there is not a standard ID to look for)
+Now inside search for the alert. (I searched for "powershell" because it got caught in a custom alert and sysmon ID 1 would get too many hits)
 
+![](../../Img/Pasted%20image%2020251128143848.png)
 
+Copy the enconded command and decode it. (i used cyberchef)
+
+![](../../Img/Pasted%20image%2020251128143939.png)
+
+---
 
 ### Q6: In the same file (i.e., logs-wazuh.zip), identify the user who executed the suspicious PowerShell command. The format is domain\user.
 #### A: 
+
