@@ -43,7 +43,7 @@ Once inside the alert we can see the comment with the ip.
 
 ![](../../Img/Pasted%20image%2020251128141748.png)
 
-We search for that ip address in VirusTotal (https://www.virustotal.com/gui/ip-address/203.0.113.18/detection)
+We search for that ip address in VirusTotal (https://www.virustotal.com/gui/ip-address/203.0.113.18)
 
 We need to go to the Relations tab to find the answer.
 
@@ -52,14 +52,24 @@ We need to go to the Relations tab to find the answer.
 ---
 
 ### Q2: In VirusTotal, go to the details of the IP address starting with "198." What is the name of the city shown in the Whois Lookup?
-#### A: 
+#### A: Los Angeles
 
 We get this Ip in Q1.
 
-We search it in Vi
+We search it in VirusTotal (https://www.virustotal.com/gui/ip-address/198.51.100.24)
+
+Go to the Details tab and search for it.
+
+![](../../Img/Pasted%20image%2020251128142454.png)
+
+---
 
 ### Q3: If malware downloads files from a C2 (Command and Control) server into the victim network, under what MITRE technique ID does this tool transfer technique fall? Type it as your answer. The format is T1***.
 #### A: 
+
+We need to go to the Mitre Matrix (https://attack.mitre.org/)
+
+
 
 ### Q4: Open TheHive and check the rule ID 92153 related to the VaultCli.dll module. What is the MITRE technique ID for this activity? The format is T1***.
 #### A: 
