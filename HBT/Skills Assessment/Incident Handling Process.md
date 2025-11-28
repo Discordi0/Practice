@@ -91,7 +91,9 @@ Inside this alert we can find the answer.
 ### Q5: Download the "logs-wazuh.zip" file from resources, and identify the suspicious PowerShell command in the logs. Type the suspicious IP address after decoding the command.
 #### A: 
 
-Download the attached .zip file, 
+Download the attached .zip file, unzip it and open it with your prefered text editor.
+
+
 
 ### Q6: In the same file (i.e., logs-wazuh.zip), identify the user who executed the suspicious PowerShell command. The format is domain\user.
 #### A: 
