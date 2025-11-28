@@ -76,12 +76,22 @@ Under the Command and Control category search for it.
 ---
 
 ### Q4: Open TheHive and check the rule ID 92153 related to the VaultCli.dll module. What is the MITRE technique ID for this activity? The format is T1***.
-#### A: 
+#### A: T1555
 
+Search for the ID in TheHive.
 
+![](../../Img/Pasted%20image%2020251128143057.png)
+
+Inside this alert we can find the answer.
+
+![](../../Img/Pasted%20image%2020251128143133.png)
+
+---
 
 ### Q5: Download the "logs-wazuh.zip" file from resources, and identify the suspicious PowerShell command in the logs. Type the suspicious IP address after decoding the command.
 #### A: 
+
+Download the attached .zip file, 
 
 ### Q6: In the same file (i.e., logs-wazuh.zip), identify the user who executed the suspicious PowerShell command. The format is domain\user.
 #### A: 
