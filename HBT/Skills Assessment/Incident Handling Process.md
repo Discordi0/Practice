@@ -89,9 +89,11 @@ Inside this alert we can find the answer.
 ---
 
 ### Q5: Download the "logs-wazuh.zip" file from resources, and identify the suspicious PowerShell command in the logs. Type the suspicious IP address after decoding the command.
-#### A: 
+#### A: 198.51.100.24
 
-Download the attached .zip file, unzip it and open it with your prefered text editor.
+Download the attached .zip file, unzip it and open it with your preferred text editor.
+
+Now inside search for the alert. (I searched for "powershell" because it got caught in a custom alert se there is not a standard ID to look for)
 
 
 
