@@ -65,14 +65,20 @@ Go to the Details tab and search for it.
 ---
 
 ### Q3: If malware downloads files from a C2 (Command and Control) server into the victim network, under what MITRE technique ID does this tool transfer technique fall? Type it as your answer. The format is T1***.
-#### A: 
+#### A: T1105
 
 We need to go to the Mitre Matrix (https://attack.mitre.org/)
 
+Under the Command and Control category search for it.
 
+![](../../Img/Pasted%20image%2020251128142823.png)
+
+---
 
 ### Q4: Open TheHive and check the rule ID 92153 related to the VaultCli.dll module. What is the MITRE technique ID for this activity? The format is T1***.
 #### A: 
+
+
 
 ### Q5: Download the "logs-wazuh.zip" file from resources, and identify the suspicious PowerShell command in the logs. Type the suspicious IP address after decoding the command.
 #### A: 
