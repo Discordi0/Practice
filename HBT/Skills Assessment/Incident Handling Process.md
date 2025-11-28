@@ -36,6 +36,7 @@ A user opens an attachment, which executes a downloader that writes an .exe file
 #### A: 
 
 We need to login with the provided credentials.
+
 After that we look in the alerts for the one in the question.
 Once inside the alert we can see the comment with the ip.
 
