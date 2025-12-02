@@ -34,12 +34,15 @@ If we go to the url in the question and check the network tab in the developer t
 ---
 
 ### Q3: What JavaScript function on the invite page returns the first hint about how to get an invite code? Don't include () in the answer.
-#### A:
+#### A: makeInviteCode
 
-We need to check the source code of the page in the Inspetctor tab and search for the script in question.
+We need to check the source code of the invite page in the Inspector tab and search for the script in question.
 
 ![](../../Img/Pasted%20image%2020251202170124.png)
 
+This doesn't seem to have the answer.
+
+Next we check the 
 
 
 ### Q4: 
