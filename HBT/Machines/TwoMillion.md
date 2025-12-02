@@ -17,15 +17,23 @@ First we need to do a scan, i use nmap. `nmap -p- -sVC --open 10.10.11.221`
 ---
 
 ### Q2: What is the name of the JavaScript file loaded by the `/invite` page that has to do with invite codes?
-#### A: 
+#### A: inviteapi.min.js
 
 To do this i just used Firefox, if we try to go to the IP address we get this error.
 
 ![](../../Img/Pasted%20image%2020251202164809.png)
 
-After adding the ip and the domain to 
+After adding the ip and the domain to /etc/hosts we can enter the page.
 
-### Q3: 
+![](../../Img/Pasted%20image%2020251202165124.png)
+
+If we go to the url in the question and check the network tab in the developer tools we can see the .js file.
+
+![](../../Img/Pasted%20image%2020251202165247.png)
+
+---
+
+### Q3: What JavaScript function on the invite page returns the first hint about how to get an invite code? Don't include () in the answer.
 #### A:
 
 ### Q4: 
