@@ -222,22 +222,16 @@ After searching for it and reading a little bit i found this one that seems like
 ---
 
 ### Q13: Submit the flag located in root's home directory.
-#### A:
+#### A: b08b021327eda278292a4033cdb0848e
 
 Searching for a PoC i found this. (https://github.com/xkaneiki/CVE-2023-0386)
 
-
+Uploading and using the exploit i got this.
 
 ![](../../Img/Pasted%20image%2020251202183254.png)
 
+Go to the root home directory and get it.
 
-### Q14: 
-#### A:
-
-### Q15: 
-#### A:
-
-### Q16: 
-#### A:
+![](../../Img/Pasted%20image%2020251202183729.png)
 
 
