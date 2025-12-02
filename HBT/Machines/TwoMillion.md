@@ -36,6 +36,14 @@ If we go to the url in the question and check the network tab in the developer t
 ### Q3: What JavaScript function on the invite page returns the first hint about how to get an invite code? Don't include () in the answer.
 #### A:
 
+If we check the Response tab of that .js file we can see the code.
+
+![](../../Img/Pasted%20image%2020251202165543.png)
+
+We need to beautify/unminify the code, for that i simply use this. (https://unminify.com/).
+
+
+
 ### Q4: 
 #### A:
 
