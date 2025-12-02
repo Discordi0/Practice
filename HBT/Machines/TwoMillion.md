@@ -86,6 +86,10 @@ The code get us this.
 
 ![](../../Img/Pasted%20image%2020251202172243.png)
 
+After some tries i get and account and login (for some reason test, test1, test2 were already used).
+
+![](../../Img/Pasted%20image%2020251202172516.png)
+
 
 
 ### Q6: 
