@@ -180,8 +180,17 @@ It just the name that it is used.
 
 ---
 
-### Q10: 
+### Q10: Submit the flag located in the admin user's home directory.
 #### A:
+
+i just cat .env and got this.
+
+![](../../Img/Pasted%20image%2020251202181040.png)
+
+To check i cat /etc/passwd.
+
+![](../../Img/Pasted%20image%2020251202181253.png)
+
 
 ### Q11: 
 #### A:
