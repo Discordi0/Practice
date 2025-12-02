@@ -19,6 +19,12 @@ First we need to do a scan, i use nmap. `nmap -p- -sVC --open 10.10.11.221`
 ### Q2: What is the name of the JavaScript file loaded by the `/invite` page that has to do with invite codes?
 #### A: 
 
+To do this i just used Firefox, if we try to go to the IP address we get this error.
+
+![](../../Img/Pasted%20image%2020251202164809.png)
+
+After adding the ip and the domain to 
+
 ### Q3: 
 #### A:
 
