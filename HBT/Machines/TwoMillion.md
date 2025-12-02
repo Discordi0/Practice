@@ -224,6 +224,12 @@ After searching for it and reading a little bit i found this one that seems like
 ### Q13: Submit the flag located in root's home directory.
 #### A:
 
+Searching for a PoC i found this. (https://github.com/xkaneiki/CVE-2023-0386)
+
+
+
+![](../../Img/Pasted%20image%2020251202183254.png)
+
 
 ### Q14: 
 #### A:
