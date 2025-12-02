@@ -102,7 +102,6 @@ When we click the button there is only 1 query that gets made, check the headers
 #### A: 
 
 
-
 ### Q7: 
 #### A:
 
