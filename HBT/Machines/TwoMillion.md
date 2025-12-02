@@ -80,6 +80,14 @@ Not knowing what this is, i use cyberchef Magic. (https://cyberchef.org/)
 ### Q5: What is the path to the endpoint the page uses when a user clicks on "Connection Pack"?
 #### A:
 
+Seems like i need to register to check this out, so we use the invite code that we just got.
+
+The code get us this.
+
+![](../../Img/Pasted%20image%2020251202172243.png)
+
+
+
 ### Q6: 
 #### A:
 
