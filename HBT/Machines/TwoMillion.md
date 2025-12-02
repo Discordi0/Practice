@@ -59,6 +59,8 @@ Reading through the code we can find the answer in the 2nd function name.
 ### Q4: The endpoint in `makeInviteCode` returns encrypted data. That message provides another endpoint to query. That endpoint returns a `code` value that is encoded with what very common binary to text encoding format. What is the name of that encoding?
 #### A: 
 
+
+
 ### Q5: 
 #### A:
 
