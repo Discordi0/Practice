@@ -139,6 +139,16 @@ We change to content type json.
 
 ![](../../Img/Pasted%20image%2020251202174523.png)
 
+We add the parameter email.
+
+![](../../Img/Pasted%20image%2020251202174656.png)
+
+Add the next parameter.
+
+![](../../Img/Pasted%20image%2020251202174809.png)
+
+It's not True, need to change it if you tried that.
+
 
 
 ### Q9: 
