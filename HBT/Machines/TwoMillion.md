@@ -129,7 +129,7 @@ With just the name of the endpoint we can get this answer.
 ---
 
 ### Q8: What API endpoint has a command injection vulnerability in it?
-#### A:
+#### A: /api/v1/admin/vpn/generate
 
 Checking the .../update endpoint (changing to PUT request) we get this.
 
@@ -163,8 +163,17 @@ We try with only the cookien and content-type and get this.
 
 Add the parameter.
 
+![](../../Img/Pasted%20image%2020251202180121.png)
 
-### Q9: 
+We get the vpn key.
+
+I don't see that this response points me in any other direction so i started to prove this endpoint and got this.
+
+![](../../Img/Pasted%20image%2020251202180322.png)
+
+---
+
+### Q9: What file is commonly used in PHP applications to store environment variable values?
 #### A:
 
 ### Q10: 
