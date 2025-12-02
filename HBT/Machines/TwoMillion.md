@@ -174,7 +174,11 @@ I don't see that this response points me in any other direction so i started to 
 ---
 
 ### Q9: What file is commonly used in PHP applications to store environment variable values?
-#### A:
+#### A: .env
+
+It just the name that it is used.
+
+---
 
 ### Q10: 
 #### A:
