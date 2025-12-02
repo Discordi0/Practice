@@ -153,7 +153,9 @@ It's not True, need to change it if you tried that.
 
 Seems like we are admin now, we can check with one of the other admin endpoints.
 
+![](../../Img/Pasted%20image%2020251202175405.png)
 
+There is only one other endpoint in the admin "category", se we check that
 ### Q9: 
 #### A:
 
