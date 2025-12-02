@@ -181,7 +181,7 @@ It just the name that it is used.
 ---
 
 ### Q10: Submit the flag located in the admin user's home directory.
-#### A:
+#### A: 9702e5a41ab8b8dd6c61336442ad0885
 
 i just cat .env and got this.
 
@@ -190,6 +190,13 @@ i just cat .env and got this.
 To check i cat /etc/passwd.
 
 ![](../../Img/Pasted%20image%2020251202181253.png)
+
+As the other port that was open was SSH i tried to login with the admin credentials.
+
+![](../../Img/Pasted%20image%2020251202181429.png)
+
+Search for the flag.
+
 
 
 ### Q11: 
