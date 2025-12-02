@@ -67,8 +67,17 @@ Me, not knowing what ROT13 is, i just google it, got this page. (https://cryptii
 
 ![](../../Img/Pasted%20image%2020251202171752.png)
 
-With the new endpoint we 
-### Q5: 
+With the new endpoint we make another POST request. `curl -X POST http://2million.htb/api/v1/invite/generate | jq`
+
+![](../../Img/Pasted%20image%2020251202171849.png)
+
+Not knowing what this is, i use cyberchef Magic. (https://cyberchef.org/)
+
+![](../../Img/Pasted%20image%2020251202171959.png)
+
+---
+
+### Q5: What is the path to the endpoint the page uses when a user clicks on "Connection Pack"?
 #### A:
 
 ### Q6: 
