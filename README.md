@@ -32,6 +32,7 @@ This is where i store the notes of the machines/challenges that i complete.
 
 ### Red Team
 
++ [API](Index/API.md)
 + [BloodHound](Index/BloodHound.md)
 + [Burp Suite](Index/Burp%20Suite.md)
 + [Evil-Winrm](Index/Evil-Winrm.md)
