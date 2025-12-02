@@ -8,12 +8,16 @@ TwoMillion is an Easy difficulty Linux box that was released to celebrate reachi
 ## Questions.
 
 ### Q1: How many TCP ports are open?
-#### A:
+#### A: 2
 
-First we need to do a scan, i use nmap. 
+First we need to do a scan, i use nmap. `nmap -p- -sVC --open 10.10.11.221`
 
-### Q2: 
-#### A:
+![](../../Img/Pasted%20image%2020251202164610.png)
+
+---
+
+### Q2: What is the name of the JavaScript file loaded by the `/invite` page that has to do with invite codes?
+#### A: 
 
 ### Q3: 
 #### A:
