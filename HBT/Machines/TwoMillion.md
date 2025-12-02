@@ -202,12 +202,22 @@ Search for the flag.
 ---
 
 ### Q11: What is the email address of the sender of the email sent to admin?
+#### A: ch4p@2million.htb
+
+Since i had no idea where to begin to check i used find. `find / -iname "mail"`
+
+![](../../Img/Pasted%20image%2020251202181958.png)
+
+Inside there is a file, check it.
+
+![](../../Img/Pasted%20image%2020251202182219.png)
+
+---
+
+### Q12: What is the 2023 CVE ID for a vulnerability in that allows an attacker to move files in the Overlay file system while maintaining metadata like the owner and SetUID bits?
 #### A:
 
-Since i had no idea where to begin to che
 
-### Q12: 
-#### A:
 
 ### Q13: 
 #### A:
