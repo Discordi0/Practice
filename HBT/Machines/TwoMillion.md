@@ -42,11 +42,22 @@ We need to check the source code of the invite page in the Inspector tab and sea
 
 This doesn't seem to have the answer.
 
-Next we check the 
+Next we check the .js of Q2.
 
+In the Response tab of the file we can chek it.
 
-### Q4: 
-#### A:
+![](../../Img/Pasted%20image%2020251202170653.png)
+
+We need to beautify/unminify it to see, i used this page. (https://lelinhtinh.github.io/de4js/)
+
+![](../../Img/Pasted%20image%2020251202170816.png)
+
+Reading through the code we can find the answer in the 2nd function name.
+
+---
+
+### Q4: The endpoint in `makeInviteCode` returns encrypted data. That message provides another endpoint to query. That endpoint returns a `code` value that is encoded with what very common binary to text encoding format. What is the name of that encoding?
+#### A: 
 
 ### Q5: 
 #### A:
