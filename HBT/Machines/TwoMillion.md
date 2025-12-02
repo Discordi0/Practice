@@ -101,6 +101,18 @@ When we click the button there is only 1 query that gets made, check the headers
 ### Q6: How many API endpoints are there under `/api/v1/admin`?
 #### A: 
 
+To check first i did a simple curl to the base(?) endpoint. 
+
+![](../../Img/Pasted%20image%2020251202173406.png)
+
+Got nothing, next we try with -v.
+
+![](../../Img/Pasted%20image%2020251202173523.png)
+
+We need to get the cookie from our session.
+
+
+
 
 ### Q7: 
 #### A:
