@@ -215,7 +215,7 @@ Inside there is a file, check it.
 ---
 
 ### Q12: What is the 2023 CVE ID for a vulnerability in that allows an attacker to move files in the Overlay file system while maintaining metadata like the owner and SetUID bits?
-#### A:
+#### A: CVE-2023-0386
 
 
 
