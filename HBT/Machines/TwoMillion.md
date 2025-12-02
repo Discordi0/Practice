@@ -155,7 +155,15 @@ Seems like we are admin now, we can check with one of the other admin endpoints.
 
 ![](../../Img/Pasted%20image%2020251202175405.png)
 
-There is only one other endpoint in the admin "category", se we check that
+There is only one other endpoint in the admin "category", se we check that.
+
+We try with only the cookien and content-type and get this.
+
+![](../../Img/Pasted%20image%2020251202175713.png)
+
+Add the parameter.
+
+
 ### Q9: 
 #### A:
 
