@@ -197,10 +197,14 @@ As the other port that was open was SSH i tried to login with the admin credenti
 
 Search for the flag.
 
+![](../../Img/Pasted%20image%2020251202181633.png)
 
+---
 
-### Q11: 
+### Q11: What is the email address of the sender of the email sent to admin?
 #### A:
+
+Since i had no idea where to begin to che
 
 ### Q12: 
 #### A:
