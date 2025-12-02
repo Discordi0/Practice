@@ -131,6 +131,16 @@ With just the name of the endpoint we can get this answer.
 ### Q8: What API endpoint has a command injection vulnerability in it?
 #### A:
 
+Checking the .../update endpoint (changing to PUT request) we get this.
+
+![](../../Img/Pasted%20image%2020251202174407.png)
+
+We change to content type json.
+
+![](../../Img/Pasted%20image%2020251202174523.png)
+
+
+
 ### Q9: 
 #### A:
 
