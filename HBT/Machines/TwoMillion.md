@@ -149,6 +149,9 @@ Add the next parameter.
 
 It's not True, need to change it if you tried that.
 
+![](../../Img/Pasted%20image%2020251202174907.png)
+
+Seems like we are admin now, we can check with one of the other admin endpoints.
 
 
 ### Q9: 
