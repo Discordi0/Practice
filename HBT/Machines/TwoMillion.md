@@ -78,7 +78,7 @@ Not knowing what this is, i use cyberchef Magic. (https://cyberchef.org/)
 ---
 
 ### Q5: What is the path to the endpoint the page uses when a user clicks on "Connection Pack"?
-#### A:
+#### A: /api/v1/user/vpn/generate
 
 Seems like i need to register to check this out, so we use the invite code that we just got.
 
@@ -90,10 +90,18 @@ After some tries i get and account and login (for some reason test, test1, test2
 
 ![](../../Img/Pasted%20image%2020251202172516.png)
 
+After looking around i found were the button is. (http://2million.htb/home/access)
+
+When we click the button there is only 1 query that gets made, check the headers.
+
+![](../../Img/Pasted%20image%2020251202172944.png)
+
+---
+
+### Q6: How many API endpoints are there under `/api/v1/admin`?
+#### A: 
 
 
-### Q6: 
-#### A:
 
 ### Q7: 
 #### A:
