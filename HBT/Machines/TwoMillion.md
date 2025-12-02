@@ -117,11 +117,18 @@ With the cookie set we get the status code 200 and got a new clue.
 
 ![](../../Img/Pasted%20image%2020251202173927.png)
 
-Just count the ones
-### Q7: 
-#### A:
+Just count the ones under admin.
 
-### Q8: 
+---
+
+### Q7: What API endpoint can change a user account to an admin account?
+#### A: /api/v1/admin/settings/update
+
+With just the name of the endpoint we can get this answer.
+
+---
+
+### Q8: What API endpoint has a command injection vulnerability in it?
 #### A:
 
 ### Q9: 
