@@ -57,10 +57,17 @@ Reading through the code we can find the answer in the 2nd function name.
 ---
 
 ### Q4: The endpoint in `makeInviteCode` returns encrypted data. That message provides another endpoint to query. That endpoint returns a `code` value that is encoded with what very common binary to text encoding format. What is the name of that encoding?
-#### A: 
+#### A: Base64
 
+First we need to check what does the endpoint in the js function get's us. `curl -X POST http://2million.htb/api/v1/invite/how/to/generate | jq`
 
+![](../../Img/Pasted%20image%2020251202171646.png)
 
+Me, not knowing what ROT13 is, i just google it, got this page. (https://cryptii.com/pipes/rot13-decoder)
+
+![](../../Img/Pasted%20image%2020251202171752.png)
+
+With the new endpoint we 
 ### Q5: 
 #### A:
 
