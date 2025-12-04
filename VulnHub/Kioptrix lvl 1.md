@@ -82,4 +82,13 @@ Basic Network Scan
 
 ### Mestasploit 
 
-Searching for vulnerabilities with smb
+Searching for vulnerabilities with smb got trans2open.
+
+Searching for that in metasploit
+
+![](../Img/Pasted%20image%2020251204164934.png)
+
+Use 1, set rhosts, change payload to shell_reverse_tcp
+
+![](../Img/Pasted%20image%2020251204165055.png)
+
