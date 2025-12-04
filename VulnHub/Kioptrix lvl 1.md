@@ -23,6 +23,13 @@ Link clicked. (http://10.0.2.15/manual/mod/core.html#documentroot)
 
 ![](../Img/Pasted%20image%2020251204135819.png)
 
+Not much to see in Inspector.
+
+The only comment.
+
+![](../Img/Pasted%20image%2020251204142958.png)
+
+
 ### Nikto
 
 `nikto -h http://10.0.2.15/`
