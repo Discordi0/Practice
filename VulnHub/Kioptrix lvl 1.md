@@ -23,3 +23,10 @@ Link clicked. (http://10.0.2.15/manual/mod/core.html#documentroot)
 
 ### Nikto
 
+`nikto -h http://10.0.2.15/`
+
+Possible vulnerabilities.
+
+![](../Img/Pasted%20image%2020251204140444.png)
+
+
