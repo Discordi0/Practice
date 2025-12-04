@@ -79,3 +79,7 @@ Basic Network Scan
 
 ![](../Img/Pasted%20image%2020251204162632.png)
 
+
+### Mestasploit 
+
+Searching for vulnerabilities with smb
