@@ -2,6 +2,8 @@
 Machine IP: 10.0.2.15
 redhat linux
 Apache: 1.3.20 (?)
+mod_ssl: 2.8.4
+OpenSSL: 0.9.6b
 
 ### Nmap scan.
 
@@ -29,4 +31,5 @@ Possible vulnerabilities.
 
 ![](../Img/Pasted%20image%2020251204140444.png)
 
-
+### dirbuster
+`dirbuster -u http://10.0.2.15/ -l [Wordlist path]/discovery/directory_list_2.3_small.txt -e php` 
