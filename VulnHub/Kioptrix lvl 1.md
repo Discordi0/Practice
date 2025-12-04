@@ -4,6 +4,7 @@ redhat linux
 Apache: 1.3.20 (?)
 mod_ssl: 2.8.4
 OpenSSL: 0.9.6b
+Samba: 2.2.1a
 
 ### Nmap scan.
 
@@ -43,4 +44,8 @@ Possible vulnerabilities.
 
 
 ### SMB
+
+metasploit scanner/smb/smb_version
+
+![](../Img/Pasted%20image%2020251204143720.png)
 
