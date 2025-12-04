@@ -32,4 +32,6 @@ Possible vulnerabilities.
 ![](../Img/Pasted%20image%2020251204140444.png)
 
 ### dirbuster
-`dirbuster -u http://10.0.2.15/ -l [Wordlist path]/discovery/directory_list_2.3_small.txt -e php` 
+`dirbuster -u http://10.0.2.15/ -l [Wordlist path]/discovery/directory_list_2.3_small.txt -e php`
+
+
