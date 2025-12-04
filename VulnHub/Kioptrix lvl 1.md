@@ -49,3 +49,7 @@ metasploit scanner/smb/smb_version
 
 ![](../Img/Pasted%20image%2020251204143720.png)
 
+`smbclient -L \\10.0.2.15`
+
+![](../Img/Pasted%20image%2020251204144102.png)
+
