@@ -1,5 +1,6 @@
 
 Machine IP: 10.0.2.15
+OpenSSH 2.9p2
 redhat linux
 Apache: 1.3.20 (?)
 mod_ssl: 2.8.4
@@ -58,4 +59,8 @@ metasploit scanner/smb/smb_version
 ![](../Img/Pasted%20image%2020251204144544.png)
 
 `smbclient \\\\10.0.2.15\\ADMIN$`
+
+![](../Img/Pasted%20image%2020251204144630.png)
+
+### SSH
 
