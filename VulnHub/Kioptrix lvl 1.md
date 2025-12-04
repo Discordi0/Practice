@@ -64,3 +64,12 @@ metasploit scanner/smb/smb_version
 
 ### SSH
 
+`ssh 10.0.2.15`
+
+![](../Img/Pasted%20image%2020251204145314.png)
+
+`ssh 10.0.2.15 -oKexAlgorithms=+diffie-hellman-group1-sha1`
+
+![](../Img/Pasted%20image%2020251204145353.png)
+
+
