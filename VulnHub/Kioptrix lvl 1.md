@@ -96,3 +96,9 @@ Use 1, set rhosts, change payload to shell_reverse_tcp
 
 Use OpenLuck (https://github.com/heltonWernik/OpenLuck)
 
+With 0x6a no connection.
+
+With 0x6b SSL error but got a connection.
+
+![](../Img/Pasted%20image%2020251204170532.png)
+
