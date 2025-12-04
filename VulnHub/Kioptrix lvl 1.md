@@ -73,3 +73,9 @@ metasploit scanner/smb/smb_version
 ![](../Img/Pasted%20image%2020251204145353.png)
 
 
+### Nessus
+
+Basic Network Scan
+
+![](../Img/Pasted%20image%2020251204162632.png)
+
