@@ -12,3 +12,9 @@ Not much to see, so just search for the W7 version.
 
 This is the first result that i get (https://www.rapid7.com/db/modules/exploit/windows/smb/ms17_010_eternalblue/)
 
+Set the options and run.
+
+![](../../Img/Pasted%20image%2020251205145705.png)
+
+![](../../Img/Pasted%20image%2020251205145726.png)
+
