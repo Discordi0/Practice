@@ -62,6 +62,30 @@ metasploit scanner/smb/smb_version
 
 ![](../Img/Pasted%20image%2020251204144630.png)
 
+
+#### Mestasploit 
+
+Searching for vulnerabilities with smb got trans2open.
+
+Searching for that in metasploit
+
+![](../Img/Pasted%20image%2020251204164934.png)
+
+Use 1, set rhosts, change payload to shell_reverse_tcp
+
+![](../Img/Pasted%20image%2020251204165055.png)
+
+#### SMB Exploit 
+
+Use OpenLuck (https://github.com/heltonWernik/OpenLuck)
+
+With 0x6a no connection.
+
+With 0x6b SSL error but got a connection.
+
+![](../Img/Pasted%20image%2020251204170532.png)
+
+
 ### SSH
 
 `ssh 10.0.2.15`
@@ -79,26 +103,4 @@ Basic Network Scan
 
 ![](../Img/Pasted%20image%2020251204162632.png)
 
-
-### Mestasploit 
-
-Searching for vulnerabilities with smb got trans2open.
-
-Searching for that in metasploit
-
-![](../Img/Pasted%20image%2020251204164934.png)
-
-Use 1, set rhosts, change payload to shell_reverse_tcp
-
-![](../Img/Pasted%20image%2020251204165055.png)
-
-### SMB Exploit 
-
-Use OpenLuck (https://github.com/heltonWernik/OpenLuck)
-
-With 0x6a no connection.
-
-With 0x6b SSL error but got a connection.
-
-![](../Img/Pasted%20image%2020251204170532.png)
 
