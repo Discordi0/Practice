@@ -67,3 +67,7 @@ search for an exploit on google, i got this easy one (https://www.rapid7.com/db/
 
 ##### Metasploit
 
+Follow the steps in the rapid7 page, set the parameters and run.
+
+![](../Img/Pasted%20image%2020251219161314.png)
+
