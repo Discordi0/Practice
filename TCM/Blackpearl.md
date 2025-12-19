@@ -71,4 +71,8 @@ Follow the steps in the rapid7 page, set the parameters and run.
 
 ![](../Img/Pasted%20image%2020251219161314.png)
 
-Up
+Upgrade the shell.
+`python3 -c 'import pty;pty.spawn("/bin/bash")'`
+
+![](../Img/Pasted%20image%2020251219161729.png)
+
