@@ -29,3 +29,13 @@ It's a file, download it.
 
 ![](../Img/Pasted%20image%2020251219155518.png)
 
+## 53
+
+### dnsrecon
+
+dnsrecon -r 127.0.0.0/24 -n 10.0.2.154 -d qwe
+
+![](../Img/Pasted%20image%2020251219155919.png)
+
+add to /etc/hosts
+
