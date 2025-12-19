@@ -76,3 +76,7 @@ Upgrade the shell.
 
 ![](../Img/Pasted%20image%2020251219161729.png)
 
+### linpeas
+
+Get linpeas into the machine, change it's permissions and run it.
+
