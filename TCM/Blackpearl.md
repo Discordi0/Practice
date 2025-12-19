@@ -80,3 +80,7 @@ Upgrade the shell.
 
 Get linpeas into the machine, change it's permissions and run it.
 
+![](../Img/Pasted%20image%2020251219163349.png)
+
+Check SUID section for quick privesc (use GTFObins)
+
