@@ -84,3 +84,5 @@ Get linpeas into the machine, change it's permissions and run it.
 
 Check SUID section for quick privesc (use GTFObins)
 
+https://gtfobins.github.io/gtfobins/php/#suid
+
