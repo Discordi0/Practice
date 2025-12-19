@@ -15,3 +15,10 @@ http://10.0.2.154/
 
 Not much to see
 
+### ffuf
+
+ffuf -w /home/discordio/Wordlists/discovery/directory_list_2.3_small.txt:FUZZ -u http://10.0.2.154/FUZZ
+
+
+![](../Img/Pasted%20image%2020251219155216.png)
+
