@@ -95,4 +95,4 @@ Find the flag(?)
 
 ![](../Img/Pasted%20image%2020251219164036.png)
 
-Tags: [[ffuf]] [Metasploit](../Index/Metasploit.md) [Nmap](../Index/Nmap.md) [privesc](../Index/privesc.md) 
+Tags: [ffuf](../Index/ffuf.md) [Metasploit](../Index/Metasploit.md) [Nmap](../Index/Nmap.md) [privesc](../Index/privesc.md) 
