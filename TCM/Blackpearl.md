@@ -60,3 +60,10 @@ ffuf -w /home/discordio/Wordlists/discovery/directory_list_2.3_small.txt:FUZZ -u
 ![](../Img/Pasted%20image%2020251219160438.png)
 
 ![](../Img/Pasted%20image%2020251219160647.png)
+
+#### Attacks
+
+search for an exploit on google, i got this easy one (https://www.rapid7.com/db/modules/exploit/multi/http/navigate_cms_rce/)
+
+##### Metasploit
+
