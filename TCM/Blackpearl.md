@@ -1,6 +1,7 @@
 
 Ip: 10.0.2.154
 php: 7.3.27-1
+navigate cms: 2.8
 
 ## Nmap
 
@@ -52,8 +53,10 @@ http://blackpearl.tcm
 
 ffuf -w /home/discordio/Wordlists/discovery/directory_list_2.3_small.txt:FUZZ -u http://blackpearl.tcm/FUZZ
 
+![](../Img/Pasted%20image%2020251219160538.png)
 
-
-##
+### /navigate
 
 ![](../Img/Pasted%20image%2020251219160438.png)
+
+![](../Img/Pasted%20image%2020251219160647.png)
