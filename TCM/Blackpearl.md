@@ -1,4 +1,7 @@
 
+Ip: 10.0.2.154
+php: 7.3.27-1
+
 ## Nmap
 
 nmap -A -T4 -p- 10.0.2.154
@@ -39,3 +42,18 @@ dnsrecon -r 127.0.0.0/24 -n 10.0.2.154 -d qwe
 
 add to /etc/hosts
 
+### Web page
+
+http://blackpearl.tcm
+
+![](../Img/Pasted%20image%2020251219160211.png)
+
+### Fuzzing
+
+ffuf -w /home/discordio/Wordlists/discovery/directory_list_2.3_small.txt:FUZZ -u http://blackpearl.tcm/FUZZ
+
+
+
+##
+
+![](../Img/Pasted%20image%2020251219160438.png)
