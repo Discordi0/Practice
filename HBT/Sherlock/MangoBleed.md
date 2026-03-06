@@ -22,7 +22,7 @@ Seeing as we already have the name of the vulnerability we just need to search i
 
 ### Q2: What is the version of MongoDB installed on the server that the CVE exploited?
 
-#### A: 
+#### A: 8.0.16
 
 Giving a quick look at the files and folder supplied, we can see that we are looking for it's in the root folder (given that the other folders don't contain anything related to a MongoDB version).
 
@@ -30,7 +30,14 @@ We do a simple search for "mongo" and we get this.
 
 ![](../../Img/Pasted%20image%2020260305220552.png)
 
-Inside the first folder we find a file named "mongod.log", 
+Inside the first folder we find a file named "mongod.log", open it and get to find the answer.
+
+Doing a search for "version" (or as i later found out a search for "buildinfo" ) will get us the answer.
+
+![](../../Img/Pasted%20image%2020260305220936.png)
+
+---
+
 ### Q3: Analyze the MongoDB logs to identify the attacker’s remote IP address used to exploit the CVE.
 
 #### A: 
