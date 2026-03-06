@@ -60,14 +60,19 @@ look for the "date" attribute of the first entry for connection inside the Mongo
 
 ### Q5: Using the MongoDB logs, calculate the total number of malicious connections initiated by the attacker.
 
-#### A: 
+#### A: 75260
 
 To get this one i just subtracted the line number where the connections end minus the line number where it starts.
 
+---
 
 ### Q6: The attacker gained remote access after a series of brute‑force attempts. The attack likely exposed sensitive information, which enabled them to gain remote access. Based on the logs, when did the attacker successfully gain interactive hands-on remote access?
 
-#### A: 
+#### A: 2025-12-29 05:40:03
+
+Since this is once the attacker gained access, we need to check the "auth" file to see the time when the attacker got a successful login.
+
+
 ### Q7: Identify the exact command line the attacker used to execute an in‑memory script as part of their privilege‑escalation attempt.
 
 #### A: 
