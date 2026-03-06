@@ -24,7 +24,13 @@ Seeing as we already have the name of the vulnerability we just need to search i
 
 #### A: 
 
-Since 
+Giving a quick look at the files and folder supplied, we can see that we are looking for it's in the root folder (given that the other folders don't contain anything related to a MongoDB version).
+
+We do a simple search for "mongo" and we get this. 
+
+![](../../Img/Pasted%20image%2020260305220552.png)
+
+Inside the first folder we find a file named "mongod.log", 
 ### Q3: Analyze the MongoDB logs to identify the attacker’s remote IP address used to exploit the CVE.
 
 #### A: 
