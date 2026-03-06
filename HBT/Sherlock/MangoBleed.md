@@ -62,6 +62,8 @@ look for the "date" attribute of the first entry for connection inside the Mongo
 
 #### A: 
 
+To get this one i just subtracted the line number where the connections end minus the line number where it starts.
+
 
 ### Q6: The attacker gained remote access after a series of brute‑force attempts. The attack likely exposed sensitive information, which enabled them to gain remote access. Based on the logs, when did the attacker successfully gain interactive hands-on remote access?
 
