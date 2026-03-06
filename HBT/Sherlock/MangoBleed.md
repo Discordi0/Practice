@@ -91,3 +91,6 @@ Now we need to do a search for "bash" and open the "bash_history" file and check
 #### A: /var/lib/mongodb
 
 Looking at the history we can clearly see that the attacker was after the mongodb directory.
+
+
+Tags: [Brute Force Attacks](../../Index/Brute%20Force%20Attacks.md) 
