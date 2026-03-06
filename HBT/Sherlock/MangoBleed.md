@@ -10,8 +10,15 @@ You have already collected a triage acquisition from the server using UAC. Perfo
 
 ### Q1: What is the CVE ID designated to the MongoDB vulnerability explained in the scenario?
 
-#### A: 
+#### A: CVE-2025-14847
 
+Seeing as we already have the name of the vulnerability we just need to search it.
+
+(https://socprime.com/es/active-threats/mongobleed-cve-2025-14847/)
+
+![](../../Img/Pasted%20image%2020260305215918.png)
+
+---
 
 ### Q2: What is the version of MongoDB installed on the server that the CVE exploited?
 
