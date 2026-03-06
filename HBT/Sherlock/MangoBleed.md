@@ -40,12 +40,19 @@ Doing a search for "version" (or as i later found out a search for "buildinfo" )
 
 ### Q3: Analyze the MongoDB logs to identify the attacker’s remote IP address used to exploit the CVE.
 
-#### A: 
+#### A: 65.0.76.43
 
+Given the nature of the attack, i just searched the log file until i found a lot of connections made to the DB.
+
+![](../../Img/Pasted%20image%2020260305221419.png)
+
+---
 
 ### Q4: Based on the MongoDB logs, determine the exact date and time the attacker’s exploitation activity began (the earliest confirmed malicious event)
 
-#### A: 
+#### A: 2025-12-29 05:25:52
+
+
 ### Q5: Using the MongoDB logs, calculate the total number of malicious connections initiated by the attacker.
 
 #### A: 
