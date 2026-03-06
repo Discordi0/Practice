@@ -88,6 +88,6 @@ Now we need to do a search for "bash" and open the "bash_history" file and check
 
 ### Q8: The attacker was interested in a specific directory and also opened a Python web server, likely for exfiltration purposes. Which directory was the target?
 
-#### A: 
+#### A: /var/lib/mongodb
 
-
+Looking at the history we can clearly see that the attacker was after the mongodb directory.
