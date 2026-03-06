@@ -23,6 +23,8 @@ Seeing as we already have the name of the vulnerability we just need to search i
 ### Q2: What is the version of MongoDB installed on the server that the CVE exploited?
 
 #### A: 
+
+Since 
 ### Q3: Analyze the MongoDB logs to identify the attacker’s remote IP address used to exploit the CVE.
 
 #### A: 
