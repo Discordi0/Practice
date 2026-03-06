@@ -52,10 +52,17 @@ Given the nature of the attack, i just searched the log file until i found a lot
 
 #### A: 2025-12-29 05:25:52
 
+look for the "date" attribute of the first entry for connection inside the MongoDB log.
+
+![](../../Img/Pasted%20image%2020260305221636.png)
+
+---
 
 ### Q5: Using the MongoDB logs, calculate the total number of malicious connections initiated by the attacker.
 
 #### A: 
+
+
 ### Q6: The attacker gained remote access after a series of brute‑force attempts. The attack likely exposed sensitive information, which enabled them to gain remote access. Based on the logs, when did the attacker successfully gain interactive hands-on remote access?
 
 #### A: 
