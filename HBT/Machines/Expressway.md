@@ -8,7 +8,7 @@
 # Questions
 
 ## Q1: User flag.
-### A: 
+### A: 78dda3fb349a50c9f8dee071d97ec080
 
 First as with any machine we need to do a nmap scan to check what services it's running . `nmap -A -p- {victim-ip}`
 
@@ -38,9 +38,10 @@ Since i know that we have ssh in the machine, i tried to connect to it with the 
 
 ![](../../Img/Pasted%20image%2020260307171334.png)
 
+Now search for the flag.
 
+![](../../Img/Pasted%20image%2020260307171427.png)
 
-
-
+---
 ## Q2: Root flag.
 ### A: 
