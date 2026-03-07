@@ -20,7 +20,11 @@ Finally i did UDP scan `sudo nmap -sU -T4 -vv {victim-ip}` and this is what i go
 
 ![](../../Img/Pasted%20image%2020260307165727.png)
 
-Searching for those open ports i find
+Searching for those open ports i find that isakmp and ike are related (https://en.wikipedia.org/wiki/Internet_Security_Association_and_Key_Management_Protocol).
+
+And searching a little bit more i see that Parrot Os comes with an ike scanner, so we use that.
+
+
 
 ## Q2: Root flag.
 ### A: 
