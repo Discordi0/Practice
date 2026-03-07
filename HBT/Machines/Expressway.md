@@ -12,7 +12,7 @@
 
 First as with any machine we need to do a nmap scan to check what services it's running . `nmap -A -p- {victim-ip}`
 
-
+Got only ssh, i tried with other types of scans and got the sa
 
 ## Q2: Root flag.
 ### A: 
