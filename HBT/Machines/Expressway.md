@@ -10,5 +10,7 @@
 ## Q1: User flag.
 ### A: 
 
+First as with any machine we need to do a nmap scan to check what services it's running . `nmap -A -p- {}`
+
 ## Q2: Root flag.
 ### A: 
