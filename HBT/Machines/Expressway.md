@@ -14,7 +14,10 @@ First as with any machine we need to do a nmap scan to check what services it's 
 
 Got only ssh, i tried with other types of scans and got the same result (-sT -sN -sS, etc -A was taking too long so i didn't complete it).
 
-Finally i did UDP scan 
+![](../../Img/Pasted%20image%2020260307163926.png)
+
+Finally i did UDP scan `sudo nmap -sU -T4 -vv {victim-ip}` 
+
 
 ## Q2: Root flag.
 ### A: 
