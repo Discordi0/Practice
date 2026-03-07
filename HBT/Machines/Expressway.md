@@ -22,7 +22,17 @@ Finally i did UDP scan `sudo nmap -sU -T4 -vv {victim-ip}` and this is what i go
 
 Searching for those open ports i find that isakmp and ike are related (https://en.wikipedia.org/wiki/Internet_Security_Association_and_Key_Management_Protocol).
 
-And searching a little bit more i see that Parrot Os comes with an ike scanner, so we use that.
+And searching a little bit more i see that Parrot Os comes with an ike scanner, so we use that. `sudo ike-scan {victim-ip}`
+
+![](../../Img/Pasted%20image%2020260307170611.png)
+
+Reading the man page of the scan i found that -P lets me crack the password, so we do that.
+
+![](../../Img/Pasted%20image%2020260307170733.png)
+
+With this i can use hashcat to try to crack it.
+
+
 
 
 
