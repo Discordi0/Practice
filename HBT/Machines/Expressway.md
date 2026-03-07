@@ -32,6 +32,12 @@ Reading the man page of the scan i found that -P lets me crack the password, so 
 
 With this i can use hashcat to try to crack it.
 
+![](../../Img/Pasted%20image%2020260307171121.png)
+
+Since i know that we have ssh in the machine, i tried to connect to it with the pswd and the user ike.
+
+![](../../Img/Pasted%20image%2020260307171334.png)
+
 
 
 
