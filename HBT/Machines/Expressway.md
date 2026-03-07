@@ -45,3 +45,7 @@ Now search for the flag.
 ---
 ## Q2: Root flag.
 ### A: 
+
+Now that we have accessed the machine we need to privesc, for that i got linpeas into the machine to check it out.
+
+
