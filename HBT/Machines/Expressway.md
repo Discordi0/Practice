@@ -58,4 +58,6 @@ Trying that exploit get us this.
 
 Seems like we are already root, so let's find the root flag.
 
+![](../../Img/Pasted%20image%2020260307172616.png)
 
+Tags: [Ike](../../Index/Ike.md) [Linpeas](../../Index/Linpeas.md) [Nmap](../../Index/Nmap.md) [Password Cracking](../../Index/Password%20Cracking.md) 
