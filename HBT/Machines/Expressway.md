@@ -50,4 +50,12 @@ Now that we have accessed the machine we need to privesc, for that i got linpeas
 
 ![](../../Img/Pasted%20image%2020260307172117.png)
 
-The first thing that the scan show is in red it's this. if we follow the link (https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/index.html#sudo-version) it takes us and exploit (https://github.com/pr0v3rbs/CVE-2025-32463_chwoot)
+The first thing that the scan show is in red it's this. if we follow the link (https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/index.html#sudo-version) it takes us to CVE-2025-32463 (https://github.com/pr0v3rbs/CVE-2025-32463_chwoot).
+
+Trying that exploit get us this.
+
+![](../../Img/Pasted%20image%2020260307172535.png)
+
+Seems like we are already root, so let's find the root flag.
+
+
