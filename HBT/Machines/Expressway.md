@@ -12,7 +12,9 @@
 
 First as with any machine we need to do a nmap scan to check what services it's running . `nmap -A -p- {victim-ip}`
 
-Got only ssh, i tried with other types of scans and got the sa
+Got only ssh, i tried with other types of scans and got the same result (-sT -sN -sS, etc -A was taking too long so i didn't complete it).
+
+Finally i did UDP scan 
 
 ## Q2: Root flag.
 ### A: 
