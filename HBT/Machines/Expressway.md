@@ -16,8 +16,11 @@ Got only ssh, i tried with other types of scans and got the same result (-sT -sN
 
 ![](../../Img/Pasted%20image%2020260307163926.png)
 
-Finally i did UDP scan `sudo nmap -sU -T4 -vv {victim-ip}` 
+Finally i did UDP scan `sudo nmap -sU -T4 -vv {victim-ip}` and this is what i got.
 
+![](../../Img/Pasted%20image%2020260307165727.png)
+
+Searching for those open ports i find
 
 ## Q2: Root flag.
 ### A: 
