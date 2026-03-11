@@ -51,7 +51,13 @@ Searching for "WmiPrvSE.exe" uses in hacking attacks i found that Impacket has a
 
 ## Q4: What was the attacker’s IP address?
 
-### A: 
+### A: 10.129.242.110
+
+Searching for event id 4624 (log on event id), then searching for some event with an ip in it.
+
+![](../../Img/Pasted%20image%2020260311190821.png)
+
+---
 
 ## Q5: The attacker established multiple persistence mechanisms. What is set as the name of the earliest one created?
 
