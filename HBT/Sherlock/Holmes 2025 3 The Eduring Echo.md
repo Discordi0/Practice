@@ -13,7 +13,7 @@ In this Sherlock players will investigate KAPE output to see the Windows managem
 
 ## Q1: What was the first (non cd) command executed by the attacker on the host?
 
-### A: 
+### A: systeminfo
 
 To see the PS command history (bc cmd doesn't store it) we need to check `C:\Users\<Nombre_Usuario>\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt`
 
@@ -35,7 +35,11 @@ Filtering for evt id 4688 and the only user that this machine has (the only one 
 
 ## Q2: Which parent process (full path) spawned the attacker’s commands?
 
-### A: 
+### A:  C:\Windows\System32\wbem\WmiPrvSE.exe
+
+We can find this in the same log.
+
+---
 
 ## Q3: Which remote-execution tool was most likely used for the attack?
 
