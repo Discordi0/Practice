@@ -43,7 +43,11 @@ We can find this in the same log.
 
 ## Q3: Which remote-execution tool was most likely used for the attack?
 
-### A: 
+### A: wmiexec.py
+
+Searching for "WmiPrvSE.exe" uses in hacking attacks i found that Impacket has a tool that utilices this service. (read more about it here: https://attack.mitre.org/software/S0357/)
+
+---
 
 ## Q4: What was the attacker’s IP address?
 
