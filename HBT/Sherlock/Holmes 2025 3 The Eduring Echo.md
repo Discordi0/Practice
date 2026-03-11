@@ -15,6 +15,12 @@ In this Sherlock players will investigate KAPE output to see the Windows managem
 
 ### A: 
 
+To see the PS command history (bc cmd doesn't store it) we need to check `C:\Users\<Nombre_Usuario>\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt`
+
+![](../../Img/Pasted%20image%2020260311181615.png)
+
+---
+
 ## Q2: Which parent process (full path) spawned the attacker’s commands?
 
 ### A: 
