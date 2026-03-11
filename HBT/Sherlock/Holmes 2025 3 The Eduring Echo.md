@@ -23,7 +23,11 @@ This did not give us the answer that we where looking for
 
 Next we would need to check the logs in search for some event id that could give us the answer
 
-Opening the Security logs in `C:\Windows\System32\winevet\logs\` and searching for cmd.exe (bc here cmd commands are stored)
+Opening the Security logs in `C:\Windows\System32\winevet\logs\` and searching for cmd.exe (bc here cmd commands are stored, not only PS like what i did first) we get this.
+
+![](../../Img/Pasted%20image%2020260311183047.png)
+
+Filtering for evt id 4688 and search
 
 ---
 
