@@ -11,43 +11,56 @@ In this Sherlock players will investigate KAPE output to see the Windows managem
 
 # Questions
 
-## Q1: 
+## Q1: What was the first (non cd) command executed by the attacker on the host?
+
 ### A: 
 
-## Q2: 
+## Q2: Which parent process (full path) spawned the attacker’s commands?
+
 ### A: 
 
-## Q3: 
+## Q3: Which remote-execution tool was most likely used for the attack?
+
 ### A: 
 
-## Q4: 
+## Q4: What was the attacker’s IP address?
+
 ### A: 
 
-## Q5: 
+## Q5: The attacker established multiple persistence mechanisms. What is set as the name of the earliest one created?
+
 ### A: 
 
-## Q6: 
+## Q6: Identify the script executed by the persistence mechanism.
+
 ### A: 
 
-## Q7: 
+## Q7: What local account did the attacker create?
+
 ### A: 
 
-## Q8: 
+## Q8: What domain name did the attacker use for credential exfiltration?
+
 ### A: 
 
-## Q9: 
+## Q9: What password did the attacker's script generate for the newly created user?
+
 ### A: 
 
-## Q10: 
+## Q10: What was the IP address of the internal system the attacker pivoted to?
+
 ### A: 
 
-## Q11: 
+## Q11: Which TCP port on the victim was forwarded to enable the pivot?
+
 ### A: 
 
-## Q12: 
+## Q12: What is the full registry path that stores persistent IPv4→IPv4 TCP listener-to-target mappings?
+
 ### A: 
 
-## Q13: 
+## Q13: What is the MITRE ATT&CK ID associated with the previous technique used by the attacker to pivot to the internal system?
+
 ### A: 
 
 ## Q14: Before the attack, the administrator configured Windows to capture command line details in the event logs. What command did they run to achieve this?
