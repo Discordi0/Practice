@@ -21,6 +21,8 @@ To see the PS command history (bc cmd doesn't store it) we need to check `C:\Use
 
 This did not give us the answer that we where looking for
 
+Next we would need to check the logs in search for some event id that could give us the answer
+
 
 
 ---
