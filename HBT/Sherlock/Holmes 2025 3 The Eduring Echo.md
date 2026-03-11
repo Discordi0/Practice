@@ -19,6 +19,10 @@ To see the PS command history (bc cmd doesn't store it) we need to check `C:\Use
 
 ![](../../Img/Pasted%20image%2020260311181615.png)
 
+This did not give us the answer that we where looking for
+
+
+
 ---
 
 ## Q2: Which parent process (full path) spawned the attacker’s commands?
