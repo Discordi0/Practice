@@ -23,7 +23,7 @@ This did not give us the answer that we where looking for
 
 Next we would need to check the logs in search for some event id that could give us the answer
 
-
+Opening the Security logs in `C:\Windows\System32\winevet\logs\` and searching for cmd.exe (bc here cmd commands are stored)
 
 ---
 
