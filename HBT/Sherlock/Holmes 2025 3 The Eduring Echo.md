@@ -27,7 +27,9 @@ Opening the Security logs in `C:\Windows\System32\winevet\logs\` and searching f
 
 ![](../../Img/Pasted%20image%2020260311183047.png)
 
-Filtering for evt id 4688 and search
+Filtering for evt id 4688 and the only user that this machine has (the only one that it's not default), then searching for cmd.exe we can find the answer.
+
+![](../../Img/Pasted%20image%2020260311184410.png)
 
 ---
 
