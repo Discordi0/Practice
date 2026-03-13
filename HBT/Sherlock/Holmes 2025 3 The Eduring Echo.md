@@ -121,7 +121,10 @@ We only have the first part of the password, for the second one we need to know 
 
 I tried to answer with that time and it didn't work, i assume it's because there is a time difference so for that i use regitry explorer (https://ericzimmerman.github.io/#!index.md)
 
+Go to where the timezone info it's located (ROOT/ControlSet001/Control/TimeZoneInformation/) and check for the entry "TimeZoneKeyName"
 
+
+![](../../Img/Pasted%20image%2020260313141106.png)
 
 ## Q10: What was the IP address of the internal system the attacker pivoted to?
 
