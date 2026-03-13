@@ -61,16 +61,25 @@ Searching for event id 4624 (log on event id), then searching for some event wit
 
 ## Q5: The attacker established multiple persistence mechanisms. What is set as the name of the earliest one created?
 
-### A: 
+### A: SysHelper Update
 
 A common persistence techniques for windows machines is creating a scheduled task, so we need to check if there is one (C:\Windows\System32\Tasks)
 
+![](../../Img/Pasted%20image%2020260313134324.png)
 
+At first glance we can see that there is one that is not like the others
+
+Opening it we can see that it tries some kind of bypass
+
+![](../../Img/Pasted%20image%2020260313134514.png)
+
+---
 
 ## Q6: Identify the script executed by the persistence mechanism.
 
-### A: 
+### A: C:\Users\Werni\Appdata\Local\JM.ps1
 
+We already saw it in the above questio
 ## Q7: What local account did the attacker create?
 
 ### A: 
