@@ -79,10 +79,15 @@ Opening it we can see that it tries some kind of bypass
 
 ### A: C:\Users\Werni\Appdata\Local\JM.ps1
 
-We already saw it in the above questio
+We already saw it in the above question.
+
+---
+
 ## Q7: What local account did the attacker create?
 
 ### A: 
+
+
 
 ## Q8: What domain name did the attacker use for credential exfiltration?
 
