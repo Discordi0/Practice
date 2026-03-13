@@ -133,15 +133,25 @@ Convert the time and u got ur answer
 
 ### A: 192.168.1.101 
 
-For this one we need to check for event id 4788
+For this one we need to check for event id 4688 (Same as Q1), checking the entries around the time of the attack and searching for cmd we can see a pattern, follow it
+
+![](../../Img/Pasted%20image%2020260313142734.png)
+
+---
 
 ## Q11: Which TCP port on the victim was forwarded to enable the pivot?
 
-### A: 
+### A: 9999
+
+In the above screenshot
+
+---
 
 ## Q12: What is the full registry path that stores persistent IPv4→IPv4 TCP listener-to-target mappings?
 
 ### A: 
+
+I had to Goo
 
 ## Q13: What is the MITRE ATT&CK ID associated with the previous technique used by the attacker to pivot to the internal system?
 
