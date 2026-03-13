@@ -85,9 +85,17 @@ We already saw it in the above question.
 
 ## Q7: What local account did the attacker create?
 
-### A: 
+### A: svc_netupd
 
+For account creation we can search for event id 4720
 
+![](../../Img/Pasted%20image%2020260313135109.png)
+
+To know which one is it we need to read them and check who (the username) created the account
+
+![](../../Img/Pasted%20image%2020260313135232.png)
+
+---
 
 ## Q8: What domain name did the attacker use for credential exfiltration?
 
