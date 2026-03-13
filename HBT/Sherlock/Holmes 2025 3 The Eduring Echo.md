@@ -111,7 +111,11 @@ This one we got (i did but did not put it here) in Q5 or Q6 if we went to the fi
 
 ### A: 
 
+How the password was created it's in the same script we looked at earlier
 
+![](../../Img/Pasted%20image%2020260313135825.png)
+
+We only have the first part of the password, for the second one we need 
 
 ## Q10: What was the IP address of the internal system the attacker pivoted to?
 
