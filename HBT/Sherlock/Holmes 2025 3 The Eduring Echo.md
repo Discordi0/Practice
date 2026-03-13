@@ -63,6 +63,8 @@ Searching for event id 4624 (log on event id), then searching for some event wit
 
 ### A: 
 
+A common persistence techniques for windows machines is creating a scheduled task, so we need to check if there is one (C:\Windows\System32\Tasks)
+
 
 
 ## Q6: Identify the script executed by the persistence mechanism.
