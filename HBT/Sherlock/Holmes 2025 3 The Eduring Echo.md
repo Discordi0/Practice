@@ -178,4 +178,4 @@ For this one i finally used what i foun in Q1 when searching for the console com
 ![](../../Img/Pasted%20image%2020260313143825.png)
 
 
-Tags: 
+Tags: [Log Analysis](../../Index/Log%20Analysis.md) [Mitre](../../Index/Mitre.md) [Windows Event Log](../../Index/Windows%20Event%20Log.md) 

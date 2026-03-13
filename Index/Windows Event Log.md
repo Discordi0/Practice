@@ -2,6 +2,7 @@
 + [Campfire-2](../HBT/Sherlock/Campfire-2.md)
 + [CrownJewel-1](../HBT/Sherlock/CrownJewel-1.md)
 + [CrownJewel-2](../HBT/Sherlock/CrownJewel-2.md)
++ [Holmes 2025 3 The Eduring Echo](../HBT/Sherlock/Holmes%202025%203%20The%20Eduring%20Echo.md) 
 + [Operation Blackout 2025. Phantom Check](../HBT/Sherlock/Operation%20Blackout%202025.%20Phantom%20Check.md) 
 + [Operation Blackout 2025. Smoke & Mirrors](../HBT/Sherlock/Operation%20Blackout%202025.%20Smoke%20&%20Mirrors.md) 
 + [Reaper](../HBT/Sherlock/Reaper.md)

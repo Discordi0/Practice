@@ -1,4 +1,5 @@
 + [Brutus](../HBT/Sherlock/Brutus.md)
 + [Dream Job-1](../HBT/Sherlock/Dream%20Job-1.md)
++ [Holmes 2025 3 The Eduring Echo](../HBT/Sherlock/Holmes%202025%203%20The%20Eduring%20Echo.md) 
 + [RomCom](../HBT/Sherlock/RomCom.md)
 + [UFO-1](../HBT/Sherlock/UFO-1.md) 
