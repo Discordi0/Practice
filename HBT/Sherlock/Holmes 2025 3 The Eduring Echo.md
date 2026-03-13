@@ -131,9 +131,9 @@ Convert the time and u got ur answer
 
 ## Q10: What was the IP address of the internal system the attacker pivoted to?
 
-### A: 
+### A: 192.168.1.101 
 
-
+For this one we need to check for event id 4788
 
 ## Q11: Which TCP port on the victim was forwarded to enable the pivot?
 
