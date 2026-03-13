@@ -109,7 +109,7 @@ This one we got (i did but did not put it here) in Q5 or Q6 if we went to the fi
 
 ## Q9: What password did the attacker's script generate for the newly created user?
 
-### A: 
+### A: Watson_20250824160509
 
 How the password was created it's in the same script we looked at earlier
 
@@ -126,10 +126,14 @@ Go to where the timezone info it's located (ROOT/ControlSet001/Control/TimeZoneI
 ![](../../Img/Pasted%20image%2020260313141106.png)
 
 Convert the time and u got ur answer
+
 ---
+
 ## Q10: What was the IP address of the internal system the attacker pivoted to?
 
 ### A: 
+
+
 
 ## Q11: Which TCP port on the victim was forwarded to enable the pivot?
 
