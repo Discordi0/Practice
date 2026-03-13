@@ -165,7 +165,7 @@ I found it, but the answer it's looking for the path on a live system not on thi
 
 We go to the matrix and check (https://attack.mitre.org/)
 
-
+![](../../Img/Pasted%20image%2020260313143507.png)
 
 ## Q14: Before the attack, the administrator configured Windows to capture command line details in the event logs. What command did they run to achieve this?
 
