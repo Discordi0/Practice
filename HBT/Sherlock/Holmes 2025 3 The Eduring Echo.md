@@ -119,7 +119,9 @@ We only have the first part of the password, for the second one we need to know 
 
 ![](../../Img/Pasted%20image%2020260313140029.png)
 
-I tried to answer wit
+I tried to answer with that time and it didn't work, i assume it's because there is a time difference so for that i use regitry explorer (https://ericzimmerman.github.io/#!index.md)
+
+
 
 ## Q10: What was the IP address of the internal system the attacker pivoted to?
 
