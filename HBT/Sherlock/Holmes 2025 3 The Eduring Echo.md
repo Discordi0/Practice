@@ -149,13 +149,23 @@ In the above screenshot
 
 ## Q12: What is the full registry path that stores persistent IPv4→IPv4 TCP listener-to-target mappings?
 
-### A: 
+### A: HKLM\SYSTEM\CurrentControlSet\Services\PortProxy\v4tov4\tcp
 
-I had to Goo
+I had to google this one, it says that are stored in "Services\PortProxy" so we go back to RegistryExplorer and search for it
+
+![](../../Img/Pasted%20image%2020260313143111.png)
+
+I found it, but the answer it's looking for the path on a live system not on this image so we answer that
+
+---
 
 ## Q13: What is the MITRE ATT&CK ID associated with the previous technique used by the attacker to pivot to the internal system?
 
 ### A: 
+
+We go to the matrix and check (https://attack.mitre.org/)
+
+
 
 ## Q14: Before the attack, the administrator configured Windows to capture command line details in the event logs. What command did they run to achieve this?
 
