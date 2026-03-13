@@ -99,11 +99,19 @@ To know which one is it we need to read them and check who (the username) create
 
 ## Q8: What domain name did the attacker use for credential exfiltration?
 
-### A: 
+### A: NapoleonsBlackPearl.htb
+
+This one we got (i did but did not put it here) in Q5 or Q6 if we went to the file and opened it.
+
+![](../../Img/Pasted%20image%2020260313135512.png)
+
+---
 
 ## Q9: What password did the attacker's script generate for the newly created user?
 
 ### A: 
+
+
 
 ## Q10: What was the IP address of the internal system the attacker pivoted to?
 
