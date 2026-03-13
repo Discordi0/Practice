@@ -119,7 +119,7 @@ We only have the first part of the password, for the second one we need to know 
 
 ![](../../Img/Pasted%20image%2020260313140029.png)
 
-
+I tried to answer wit
 
 ## Q10: What was the IP address of the internal system the attacker pivoted to?
 
