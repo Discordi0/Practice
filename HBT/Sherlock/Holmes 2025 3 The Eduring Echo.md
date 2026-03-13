@@ -63,6 +63,8 @@ Searching for event id 4624 (log on event id), then searching for some event wit
 
 ### A: 
 
+
+
 ## Q6: Identify the script executed by the persistence mechanism.
 
 ### A: 
