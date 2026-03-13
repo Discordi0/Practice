@@ -115,7 +115,11 @@ How the password was created it's in the same script we looked at earlier
 
 ![](../../Img/Pasted%20image%2020260313135825.png)
 
-We only have the first part of the password, for the second one we need 
+We only have the first part of the password, for the second one we need to know when the user was created, for that we need to check the time on the event in Q7
+
+![](../../Img/Pasted%20image%2020260313140029.png)
+
+
 
 ## Q10: What was the IP address of the internal system the attacker pivoted to?
 
