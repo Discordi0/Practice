@@ -206,5 +206,5 @@ Reading through them we can find the answer.
 ![](../../Img/Pasted%20image%2020250930181527.png)
 
 
-Tags: [[]]
+Tags: [HTML Review](../../Index/HTML%20Review.md) [Mitre](../../Index/Mitre.md) [Threat Analysis](../../Index/Threat%20Analysis.md) 
 
