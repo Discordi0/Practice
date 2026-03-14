@@ -8,15 +8,24 @@ A ctf for beginners, can you root me?
 
 With a simple nmap scan we can get the ports `nmap -A -vv 10.66.180.138`
 
+![](../Img/Pasted%20image%2020260314155234.png)
 
+---
 ## Q2: What version of Apache is running?
-### A: 
+### A: 2.4.41
 
+In the above screenshot we can see the version.
+
+---
 ## Q3: What service is running on port 22?
-### A: 
+### A: ssh
 
+It's in Q1 screenshot
+
+---
 ## Q4: Find directories on the web server using the GoBuster tool.
 ### A: 
+
 
 ## Q5: What is the hidden directory?
 ### A: 
