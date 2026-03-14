@@ -78,7 +78,9 @@ A: uname -mp
 
 On top of where the script creates the test files, we can find the creation of the variable(?) where it checks the architecture.
 
-![[Pasted image 20251001144305.png]]
+![](../../Img/Pasted%20image%2020251001144305.png)
+
+---
 
 Q8: What is the name of the file that is downloaded after the CPU architecture is compared with reference values?
 
@@ -86,7 +88,9 @@ A: x86_64
 
 Further down we can see "$ARCH" being used.
 
-![[Pasted image 20251001144453.png]]
+![](../../Img/Pasted%20image%2020251001144453.png)
+
+---
 
 Q9: What is the full command that the attacker used to disable any existing mining service?
 
@@ -94,6 +98,7 @@ A: systemctl disable c3pool_miner
 
 I used "ip.addr == 94.156.177.109" as a filter to see the traffic from the attacker's IP.
 
+![](Notes/Img/Pasted image 20251001145135.png)
 ![[Pasted image 20251001145135.png]]
 
 We can see that we have packet 140 from the previous questions, next we have packet 182 that did a GET request to another file.
