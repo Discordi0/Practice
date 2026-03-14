@@ -70,6 +70,8 @@ With that out of the way we nee to do this search: `find / -user root -perm /400
 
 ![](../Img/Pasted%20image%2020260314171656.png)
 
+I used this `find / -user root -perm /4000 2>/dev/null | sed 's/$/<br>/'` to format ir bc i'm not reading that
+
 
 ## Q8: 
 ### A: 
