@@ -38,7 +38,7 @@ The scan hasn't finished yet, but i was checking the directories as they appear
 
 ---
 ## Q6: Find a form to upload and get a reverse shell, and find the flag.  Search for user.txt
-### A: 
+### A: THM{y0u_g0t_a_sh3ll}
 
 First i tried to upload a simple .php file and couldn't
 
@@ -58,8 +58,12 @@ So i tried with a couple until one worked (.phar)
 
 With that we need to search for the file
 
+It took a little but i found the file, it's in "/var/www/user.txt"
 
-## Q7: 
+![](../Img/Pasted%20image%2020260314171323.png)
+
+---
+## Q7: Search for files with SUID permission, which file is weird?
 ### A: 
 
 ## Q8: 
