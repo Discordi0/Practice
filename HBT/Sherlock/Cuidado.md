@@ -14,6 +14,9 @@ A: 192.168.1.152
 The scenario comes with a .zip file, inside that there is a .pcap file, opening that with wireshark we can see the traffic.
 In the conversations tab we can see that most of the traffic comes from 1 IP.
 
+![](../../Img/Pasted%20image%2020251001142111.png)
+
+
 ![[Pasted image 20251001142111.png]]
 
 Q2: What is the IP address of the attacker from whom the files were downloaded?
