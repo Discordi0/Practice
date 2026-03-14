@@ -60,4 +60,10 @@ From his github we can get his WP page
 
 ---
 ## Q7: What is the person's password?
-## A: 
+## A: pennYDr0pper.!
+
+I went back a searched all of the info that we have gathered and found nothing, so next i just started to look into the source code of his WP and found it
+
+![](../Img/Pasted%20image%2020260314185858.png)
+
+Tags: [[]]
