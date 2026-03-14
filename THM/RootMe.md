@@ -44,7 +44,21 @@ First i tried to upload a simple .php file and couldn't
 
 ![](../Img/Pasted%20image%2020260314170455.png)
 
-So i tried to bypass whatever filter it had in place (i didn't see anything )
+So i tried to bypass whatever filter it had in place (i didn't see anything weir in the request or in the hmtl code) 
+
+For that i used burpsuite intruder
+
+![](../Img/Pasted%20image%2020260314170621.png)
+
+A couple of the first extentions didn't work but after php3 all worked (https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Upload%20Insecure%20Files/Extension%20PHP/extensions.lst)
+
+So i tried with a couple until one worked (.phar)
+
+![](../Img/Pasted%20image%2020260314170814.png)
+
+With that we need to search for the file
+
+
 ## Q7: 
 ### A: 
 
