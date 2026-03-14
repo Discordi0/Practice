@@ -64,7 +64,7 @@ It took a little but i found the file, it's in "/var/www/user.txt"
 
 ---
 ## Q7: Search for files with SUID permission, which file is weird?
-### A: 
+### A: /usr/bin/python
 
 With that out of the way we nee to do this search: `find / -user root -perm /4000`
 
@@ -72,9 +72,16 @@ With that out of the way we nee to do this search: `find / -user root -perm /400
 
 I used this `find / -user root -perm /4000 2>/dev/null | sed 's/$/<br>/'` to format ir bc i'm not reading that
 
+![](../Img/Pasted%20image%2020260314172718.png)
 
-## Q8: 
+Read through them and find the answer
+
+---
+## Q8: Find a form to escalate your privileges.
 ### A: 
+
+For this one i use gtfobins (https://gtfobins.org/#//^suid$)
+
 
 ## Q9: 
 ### A: 
