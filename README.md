@@ -37,7 +37,7 @@ This is where i store the notes of the machines/challenges that i complete.
 + [BloodHound](Index/BloodHound.md)
 + [Burp Suite](Index/Burp%20Suite.md)
 + [Evil-Winrm](Index/Evil-Winrm.md)
-+ [ffuf](Index/ffuf.md)
++ [Fuzzing](Index/Fuzzing.md)
 + [File Uploads](Index/File%20Uploads.md)
 + [FTP](Index/FTP.md)
 + [IDOR](Index/IDOR.md)

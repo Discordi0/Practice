@@ -99,4 +99,4 @@ Search for it
 ![](../Img/Pasted%20image%2020260314174347.png)
 
 
-Tags: 
+Tags: [Burp Suite](../Index/Burp%20Suite.md) [Fuzzing](../Index/Fuzzing.md) [File Uploads](../Index/File%20Uploads.md) [Nmap](../Index/Nmap.md) 
