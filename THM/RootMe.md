@@ -26,6 +26,8 @@ It's in Q1 screenshot
 ## Q4: Find directories on the web server using the GoBuster tool.
 ### A: 
 
+I just used gobuster to search `gobuster dir -u http://10.66.180.138/ -w /usr/share/seclists/Discovery/Web-Content/combined_directories.txt`
+
 
 ## Q5: What is the hidden directory?
 ### A: 
