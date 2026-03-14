@@ -1,5 +1,6 @@
 + [Brutus](../HBT/Sherlock/Brutus.md)
 + [Bumblebee](../HBT/Sherlock/Bumblebee.md)
++ [Cuidado](../HBT/Sherlock/Cuidado.md) 
 + [Holmes 2025 3 The Eduring Echo](../HBT/Sherlock/Holmes%202025%203%20The%20Eduring%20Echo.md) 
 + [Introduction to Digital Forensics](../HBT/Skills%20Assessment/Introduction%20to%20Digital%20Forensics.md)
 + [Juicy Details](../THM/Juicy%20Details.md) 

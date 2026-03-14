@@ -170,4 +170,4 @@ Since the main page referenced something like miner i started looking at the tec
 ![](../../Img/Pasted%20image%2020251001160003.png)
 
 
-Tags: [[]]
+Tags: [Log Analysis](../../Index/Log%20Analysis.md) [Network Traffic Analysis](../../Index/Network%20Traffic%20Analysis.md) [Threat Analysis](../../Index/Threat%20Analysis.md) 

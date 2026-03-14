@@ -1,4 +1,5 @@
 + [Compromised](../HBT/Sherlock/Compromised.md)
++ [Cuidado](../HBT/Sherlock/Cuidado.md) 
 + [Intermediate Network Traffic Analysis](../HBT/Skills%20Assessment/Intermediate%20Network%20Traffic%20Analysis.md)
 + [Noxious](../HBT/Sherlock/Noxious.md)
 + [Origins](../HBT/Sherlock/Origins.md)
