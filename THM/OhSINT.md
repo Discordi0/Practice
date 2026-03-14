@@ -8,6 +8,8 @@ Are you able to use open source intelligence to solve this challenge?
 ## Q1: What is this user's avatar of?
 ## A: 
 
+Downloading the attached file, we can see that it's just the windows xp backgroud (https://www.wallpaperalchemy.com/wallpaper/windows-xp-wallpaper-bliss-4k-wallpaper-92)
+
 
 
 ## Q2: What city is this person in?
