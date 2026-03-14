@@ -34,10 +34,11 @@ A: sh
 
 If we see that screenshot above, we can see that the first download it's in packet 126. If we check that we can see that it's no "file".
 
-![[Pasted image 20251001142816.png]]
+![](../../Img/Pasted%20image%2020251001142816.png)
 
 So we check where was the next download and go to packet 140.
 
+![](Notes/Img/Pasted image%2020251001142917.png)
 ![[Pasted image 20251001142917.png]]
 
 This one it's a file.
