@@ -22,11 +22,15 @@ A: 2019
 
 Answer in the above question.
 
+---
+
 Q3: What kind of infrastructure does Salt Typhoon target?
 
 A: Network
 
 In Q1.
+
+---
 
 Q4: Salt Typhoon has been associated with multiple custom built malware, what is the name of the malware associated with the ID S1206?
 
@@ -36,6 +40,8 @@ At the end of the page, we can find the Software section.
 
 ![](../../Img/Pasted%20image%2020250930165720.png)
 
+---
+
 Q5: What operating system does this malware target?
 
 A: Linux
@@ -44,17 +50,23 @@ In the malware page (https://attack.mitre.org/software/S1206/). Main section.
 
 ![](../../Img/Pasted%20image%2020250930165843.png)
 
+---
+
 Q6: What programming language is the malware written in?
 
 A: GO
 
 Answer in above quesion.
 
+---
+
 Q7: On which vendor's devices does the malware act as a network sniffer?
 
 A: Cisco
 
 Answer in Q5.
+
+---
 
 Q8: The malware can perform 'Indicator Removal' by erasing logs. What is the MITRE ATT&CK ID for this?
 
@@ -63,6 +75,8 @@ A: T1070.002
 In the middle of the technique section.
 
 ![](../../Img/Pasted%20image%2020250930170120.png)
+
+---
 
 Q9: On December 20th, 2024, Picus Security released a blog on Salt Typhoon detailing some of the CVEs associated with the threat actor. What was the CVE for the vulnerability related to the Sophos Firewall?
 
@@ -73,6 +87,8 @@ In the "Origins and Affiliations of the Chinese Threat Actor Salt Typhoon" secti
 
 ![](../../Img/Pasted%20image%2020250930170517.png)
 
+---
+
 Q10: The blog demonstrates how the group modifies the registry to obtain persistence with a backdoor known as Crowdoor. Which registry key do they target?
 
 A: HKCU\Software\Microsoft\Windows\CurrentVersion\Run
@@ -81,11 +97,15 @@ Arriving at the middle of the blog post, in the "Persistence: ATT&CK TA0003" sec
 
 ![](../../Img/Pasted%20image%2020250930170846.png)
 
+---
+
 Q11: What is the MITRE ATT&CK ID of the previous technique?
 
 A: T1112
 
 It's in the name of the sub-section in Q10.
+
+---
 
 Q12: On November 25th, 2024, TrendMicro published a blog post detailing the threat actor. What name does this blog primarily use to refer to the group?
 
@@ -96,6 +116,8 @@ The answer is right below the title of the article.
 
 ![](../../Img/Pasted%20image%2020250930171145.png)
 
+---
+
 Q13: The blog post identifies additional malware attributed to the threat actor. Which malware do they describe as a 'multi-modular backdoor...using a custom protocol protected by Transport Layer Security'
 
 A: GhostSpider
@@ -104,6 +126,8 @@ In the middle of the article, inside the "Campaign Beta" sub-section, it's the f
 
 ![](../../Img/Pasted%20image%2020250930171646.png)
 
+---
+
 Q14: Most of the domains the malware communicates with have a .com top-level domain. One uses a .dev TLD. What is the full domain name for the .dev TLD?
 
 A: telcom.grishamarkovgf8936.workers.dev
@@ -111,6 +135,8 @@ A: telcom.grishamarkovgf8936.workers.dev
 This is just above the technique of the above question, in the image below "Campaign Beta"
 
 ![](../../Img/EarthEstries-Fig08.png)
+
+---
 
 Q15: What is the filename for the first GET request to the C&C server used by the malware?
 
@@ -121,6 +147,8 @@ The answer is in the "Communication protocol" of the ghostspider technique.
 
 ![](../../Img/Pasted%20image%2020250930174538.png)
 
+---
+
 Q16: On September 30th, 2021, a blog post was released on Securelist by Kaspersky. What was the threat actor's name at that time?
 
 A: GhostEmperor
@@ -130,6 +158,8 @@ The name it's in the title.
 
 ![](../../Img/Pasted%20image%2020250930174733.png)
 
+---
+
 Q17: What is the name of the malware that this article focuses on?
 
 A: Demodex
@@ -138,11 +168,15 @@ Reading through the blog, we can start to get the answer, but until the middle o
 
 ![](../../Img/Pasted%20image%2020250930175407.png)
 
+---
+
 Q18: What type of malware is the above malware?
 
 A: Rootkit
 
 It's in the above screenshot.
+
+---
 
 Q19: The first stage consists of a malicious PowerShell dropper. What type of encryption is used to obfuscate the code?
 
@@ -160,6 +194,7 @@ Inside the kaspersky document we can find the explanation to the question.
 
 ![](../../Img/Pasted%20image%2020250930175930.png)
 
+---
 
 Q20: The malware uses Input/Output Control codes to perform various tasks related to hiding malicious artifacts. What is the IOCTL code used by the malware to hide its service from the list within the services.exe process address space?
 
@@ -171,5 +206,5 @@ Reading through them we can find the answer.
 ![](../../Img/Pasted%20image%2020250930181527.png)
 
 
-
+Tags: [[]]
 
