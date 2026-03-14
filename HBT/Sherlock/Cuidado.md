@@ -137,10 +137,11 @@ I tried to check the entropy with DiE.
 None of those values was correct. 
 I then tried with ent.
 
-![](Notes/Img/Pasted image%20'20251001154839.png)
-![[Pasted image 20251001154839.png]]
+![](../../Img/Pasted%20image%2020251001154839.png)
 
 That was the answer.
+
+---
 
 Q12: What is the file name with which the unpacked malware was submitted on VirusTotal?
 
@@ -148,13 +149,15 @@ A: redtail.cuidado
 
 I did a sha256sum of the unpacked malware and uploaded it to VirusTotal.
 
-![[Pasted image 20251001155152.png]]
+![](../../Img/Pasted%20image%2020251001155152.png)
 
-![[Pasted image 20251001155207.png]]
+![](../../Img/Pasted%20image%2020251001155207.png)
 
 In there i searched for a name. In the list of names i looked for something realted to the case.
 
-![[Pasted image 20251001155311.png]]
+![](../../Img/Pasted%20image%2020251001155311.png)
+
+---
 
 Q13: What MITRE ATT&CK technique ID is associated with the main purpose of the malware?
 
@@ -162,6 +165,9 @@ A: T1496
 
 Since the main page referenced something like miner i started looking at the techniques in the behavior tab.
 
-![[Pasted image 20251001160113.png]]
+![](../../Img/Pasted%20image%2020251001160113.png)
 
-![[Pasted image 20251001160003.png]]
+![](../../Img/Pasted%20image%2020251001160003.png)
+
+
+Tags: [[]]
