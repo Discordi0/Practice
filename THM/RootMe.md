@@ -66,6 +66,11 @@ It took a little but i found the file, it's in "/var/www/user.txt"
 ## Q7: Search for files with SUID permission, which file is weird?
 ### A: 
 
+With that out of the way we nee to do this search: `find / -user root -perm /4000`
+
+![](../Img/Pasted%20image%2020260314171656.png)
+
+
 ## Q8: 
 ### A: 
 
