@@ -4,7 +4,9 @@ A ctf for beginners, can you root me?
 # Questions
 
 ## Q1: Scan the machine, how many ports are open?
-### A: 
+### A: 2
+
+With a simple nmap scan we can get the ports `nmap -A -vv 10.66.180.138`
 
 
 ## Q2: What version of Apache is running?
