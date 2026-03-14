@@ -30,6 +30,14 @@ For this one we have to open other link that was in the google search (https://g
 ## Q3: What is the SSID of the WAP he connected to?
 ## A: 
 
+In one of his tweets we find this
+
+![](../Img/Pasted%20image%2020260314184524.png)
+
+From this we need to extract the answer
+
+
+
 ## Q4: What is his personal email address?
 ## A: 
 
