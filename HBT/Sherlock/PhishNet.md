@@ -3,7 +3,7 @@
 
 An accounting team receives an urgent payment request from a known vendor. The email appears legitimate but contains a suspicious link and a .zip attachment hiding malware. Your task is to analyze the email headers, and uncover the attacker's scheme.
 
-
+---
 ## Questions: 
 
 Q1: What is the originating IP address of the sender?
@@ -14,6 +14,8 @@ The scenario comes with a .eml file.
 We open that file and search for the ip.
 
 ![](../../Img/Pasted%20image%2020250930230613.png)
+
+---
 
 Q2: Which mail server relayed this email before reaching the victim?
 
