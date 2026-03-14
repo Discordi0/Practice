@@ -14,13 +14,19 @@ So i download it and use exiftool to see what does it have.
 
 ![](../Img/Pasted%20image%2020260314183938.png)
 
-Searchingo for the "OWoodflint" we get this
+Searchingo for the "OWoodflint" i found this social media page (https://x.com/OWoodflint)
 
+![](../Img/Pasted%20image%2020260314184137.png)
 
-
+---
 ## Q2: What city is this person in?
-## A: 
+## A: London
 
+For this one we have to open other link that was in the google search (https://github.com/OWoodfl1nt/people_finder)
+
+![](../Img/Pasted%20image%2020260314184256.png)
+
+---
 ## Q3: What is the SSID of the WAP he connected to?
 ## A: 
 
