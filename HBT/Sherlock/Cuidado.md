@@ -38,10 +38,11 @@ If we see that screenshot above, we can see that the first download it's in pack
 
 So we check where was the next download and go to packet 140.
 
-![](Notes/Img/Pasted image%2020251001142917.png)
-![[Pasted image 20251001142917.png]]
+![](../../Img/Pasted%20image%2020251001142917.png)
 
 This one it's a file.
+
+---
 
 Q4: What is the name of the function that the attacker used to download the payload?
 
