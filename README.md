@@ -20,6 +20,7 @@ This is where i store the notes of the machines/challenges that i complete.
 + [Mitre](Index/Mitre.md)
 + [Network Traffic Analysis](Index/Network%20Traffic%20Analysis.md)
 + [NTUSER Analysis](Index/NTUSER%20Analysis.md)
++ [Phishing](Index/Phishing.md) 
 + [Prefetch Analysis](Index/Prefetch%20Analysis.md)
 + [Reverse Engineering](Index/Reverse%20Engineering.md)
 + [Source Code Analysis](Index/Source%20Code%20Analysis.md)
