@@ -5,6 +5,7 @@
 + [Expressway](../HBT/Machines/Expressway.md) 
 + [Hospital](../HBT/Machines/Hospital.md)
 + [Lame](../HBT/Machines/Lame.md)
++ [RootMe](../THM/RootMe.md) 
 + [Strutted](../HBT/Machines/Strutted.md)
 + [Support](../HBT/Machines/Support.md)
 + [Unified](../HBT/Machines/Unified.md) 
