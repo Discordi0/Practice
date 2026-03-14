@@ -24,16 +24,22 @@ It's in Q1 screenshot
 
 ---
 ## Q4: Find directories on the web server using the GoBuster tool.
-### A: 
+### A: -
 
 I just used gobuster to search `gobuster dir -u http://10.66.180.138/ -w /usr/share/seclists/Discovery/Web-Content/combined_directories.txt`
 
+![](../Img/Pasted%20image%2020260314160850.png)
 
+---
 ## Q5: What is the hidden directory?
+### A: /panel/
+
+The scan hasn't finished yet, but i was checking the directories as they appear
+
+---
+## Q6: Find a form to upload and get a reverse shell, and find the flag.  Search for user.txt
 ### A: 
 
-## Q6: 
-### A: 
 
 ## Q7: 
 ### A: 
