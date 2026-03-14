@@ -98,14 +98,15 @@ A: systemctl disable c3pool_miner
 
 I used "ip.addr == 94.156.177.109" as a filter to see the traffic from the attacker's IP.
 
-![](Notes/Img/Pasted image 20251001145135.png)
-![[Pasted image 20251001145135.png]]
+![](../../Img/Pasted%20image%2020251001145135.png)
 
 We can see that we have packet 140 from the previous questions, next we have packet 182 that did a GET request to another file.
 
-![[Pasted image 20251001145253.png]]
+![](../../Img/Pasted%20image%2020251001145253.png)
 
 Following that TCP stream we get the answer.
+
+---
 
 Q10: Apparently, the attacker used a packer to compress the malware. Which version of this packer was used? (Format X.XX)
 
@@ -113,15 +114,17 @@ A: 4.23
 
 The next file downloaded was "x86_64" and following that file's TCP stream we get something like  this.
 
-![[Pasted image 20251001151655.png]]
+![](../../Img/Pasted%20image%2020251001151655.png)
 
 As far as i could see the whole stream it's that. So i went to the end to see if i could get something and found this.
 
-![[Pasted image 20251001151804.png]]
+![](../../Img/Pasted%20image%2020251001151804.png)
 
 UPX sounded familiar so i started to check further up and found this.
 
-![[Pasted image 20251001151900.png]]
+![](../../Img/Pasted%20image%2020251001151900.png)
+
+---
 
 Q11: What is the entropy value of unpacked malware?
 
@@ -129,11 +132,12 @@ A: 6.488449
 
 I tried to check the entropy with DiE.
 
-![[Pasted image 20251001154802.png]]
+![](../../Img/Pasted%20image%2020251001154802.png)
 
 None of those values was correct. 
 I then tried with ent.
 
+![](Notes/Img/Pasted image%20'20251001154839.png)
 ![[Pasted image 20251001154839.png]]
 
 That was the answer.
