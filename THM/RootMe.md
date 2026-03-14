@@ -40,7 +40,11 @@ The scan hasn't finished yet, but i was checking the directories as they appear
 ## Q6: Find a form to upload and get a reverse shell, and find the flag.  Search for user.txt
 ### A: 
 
+First i tried to upload a simple .php file and couldn't
 
+![](../Img/Pasted%20image%2020260314170455.png)
+
+So i tried to bypass whatever filter it had in place (i didn't see anything )
 ## Q7: 
 ### A: 
 
