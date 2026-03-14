@@ -3,7 +3,7 @@
 
 Recently, a user triggered multiple alerts after downloading several potentially unwanted applications (PUAs), prompting concern from the security team. To gain deeper insight into the user's activity, the team began monitoring network traffic from their workstation. Their objective is to assess whether the downloads are linked to more serious malware threats.
 
-
+---
 ## Questions:
 
 
@@ -16,8 +16,7 @@ In the conversations tab we can see that most of the traffic comes from 1 IP.
 
 ![](../../Img/Pasted%20image%2020251001142111.png)
 
-
-![[Pasted image 20251001142111.png]]
+---
 
 Q2: What is the IP address of the attacker from whom the files were downloaded?
 
@@ -25,7 +24,9 @@ A: 94.156.177.109
 
 Going into the export object tab, we can see that there is only 1 IP from where files were downloaded.
 
-![[Pasted image 20251001142520.png]]
+![](../../Img/Pasted%20image%2020251001142520.png)
+
+---
 
 Q3: Which malicious file appears to be the first one downloaded?
 
