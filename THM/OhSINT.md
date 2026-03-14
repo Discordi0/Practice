@@ -52,7 +52,12 @@ It's just the name of the site
 
 ---
 ## Q6: Where has he gone on holiday?
-## A: 
+## A: New York
 
+From his github we can get his WP page
+
+![](../Img/Pasted%20image%2020260314185419.png)
+
+---
 ## Q7: What is the person's password?
 ## A: 
