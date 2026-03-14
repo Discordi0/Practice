@@ -92,5 +92,11 @@ After that i used `python -c 'import os; os.execl("/bin/sh", "sh", "-p")'` for p
 
 ---
 ## Q9: root.txt 
-### A: 
+### A: THM{pr1v1l3g3_3sc4l4t10n}
 
+Search for it
+
+![](../Img/Pasted%20image%2020260314174347.png)
+
+
+Tags: 
