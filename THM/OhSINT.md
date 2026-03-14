@@ -36,14 +36,21 @@ In one of his tweets we find this
 
 From this we need to extract the answer
 
+I got to this page (https://wigle.net/) and here we need to enter the bssid
 
-
+--- 
 ## Q4: What is his personal email address?
-## A: 
+## A: [OWoodflint@gmail.com](mailto:OWoodflint@gmail.com)
 
+This one we get from his github page (Q2)
+
+---
 ## Q5: What site did you find his email address on?
-## A: 
+## A: Github
 
+It's just the name of the site
+
+---
 ## Q6: Where has he gone on holiday?
 ## A: 
 
