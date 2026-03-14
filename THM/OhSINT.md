@@ -6,9 +6,15 @@ Are you able to use open source intelligence to solve this challenge?
 # Questions
 
 ## Q1: What is this user's avatar of?
-## A: 
+## A: cat
 
 Downloading the attached file, we can see that it's just the windows xp backgroud (https://www.wallpaperalchemy.com/wallpaper/windows-xp-wallpaper-bliss-4k-wallpaper-92)
+
+So i download it and use exiftool to see what does it have.
+
+![](../Img/Pasted%20image%2020260314183938.png)
+
+Searchingo for the "OWoodflint" we get this
 
 
 
