@@ -118,4 +118,4 @@ Search for the phishing technique in mitre (https://attack.mitre.org/techniques/
 ![](../../Img/Pasted%20image%2020250930233329.png)
 
 
-Tags: [[]]
+Tags: [Mitre](../../Index/Mitre.md) [Phishing](../../Index/Phishing.md) 
