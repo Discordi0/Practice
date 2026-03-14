@@ -50,7 +50,9 @@ A: dlr
 
 From the packet we can follow the stream, there we can see the name of the function.
 
-![[Pasted image 20251001143219.png]]
+![](../../Img/Pasted%20image%2020251001143219.png)
+
+---
 
 Q5: Which port does the attacker's server use?
 
@@ -58,13 +60,17 @@ A: 80
 
 In the above screenshot we can see the IP followed by the port (after the /).
 
+---
+
 Q6: The script checks which directories it can write to by attempting to create test files. What is the size of the second test file? (Size in MB)
 
 A: 2
 
 Further down in the TCP stream we can see where it's creating the test files.
 
-![[Pasted image 20251001143434.png]]
+![](../../Img/Pasted%20image%2020251001143434.png)
+
+---
 
 Q7: What is the full command that the script uses to identify the CPU architecture?
 
