@@ -57,6 +57,12 @@ I tried a lot and with this i found something "..//..//..//..//..//etc/passwd"
 
 ![](../Img/Pasted%20image%2020260315145621.png)
 
+Now that i know that there is a user archangel i search for a bit and found this lol
+
+![](../Img/Pasted%20image%2020260315145940.png)
+
+I still need the flag for this question so with no more ideas to try i used the hint and got to work on it
+
 
 
 ## Q5: Get a shell and find the user flag
