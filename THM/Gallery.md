@@ -52,6 +52,10 @@ Uploading a reverse shell worked instantly
 
 ![](../Img/Pasted%20image%2020260315163602.png)
 
+Searching the folder of the web page i found this
+
+![](../Img/Pasted%20image%2020260315165630.png)
+
 
 ## Q4: What's the user flag?
 ### A: 
