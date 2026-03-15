@@ -37,9 +37,21 @@ Now that we have a domain we can use ffuf or gobuster to check for files. `ffuf 
 
 From this output we should know about "robots.txt" so we go there
 
+![](../Img/Pasted%20image%2020260315144815.png)
 
+Next we go to the next page
+
+![](../Img/Pasted%20image%2020260315144831.png)
+
+--- 
 ## Q4: Find flag 2
 ### A: 
+
+Clicking the button results us in a parameter in the url and a message in the body of the page
+
+![](../Img/Pasted%20image%2020260315144930.png)
+
+
 
 ## Q5: Get a shell and find the user flag
 ### A: 
