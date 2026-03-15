@@ -99,7 +99,11 @@ I the do a reverse shell from (https://swisskyrepo.github.io/InternalAllTheThing
 
 ![](../Img/Pasted%20image%2020260315155034.png)
 
-Change the crontab file and change user, then find the 
+## TLDR my machine turned off and i did all of this later in the day and i have no screenshot
+
+I got linpeas to the system, in it i found that there was a possible cronjob vuln, so we used it to get a new reverse shell and cat "user2.txt"
+
+---
 
 ## Q7: Root the machine and find the root flag
 ### A: thm{p4th_v4r1abl3_expl01tat1ion_f0r_v3rt1c4l_pr1v1l3g3_3sc4ll4t10n}
