@@ -85,6 +85,12 @@ I didn't get a shell but i got the flag in Q4
 ## Q6: Get User 2 flag
 ### A: 
 
+Searchin a bit on the internet i found that i can go from LFI to RCE with a poison attack, so i follow it
+
+First i go to the apache/access.log and send it to burpsuite
+
+![](../Img/Pasted%20image%2020260315152115.png)
+
 
 
 ## Q7: Root the machine and find the root flag
