@@ -15,6 +15,11 @@ So first i do a quick default ports scan `nmap -A -T4 -vv 10.64.171.27`
 
 We found port 80 so we need to check it out
 
+In the web page we find this
+
+![](../Img/Pasted%20image%2020260315143439.png)
+
+So we need to add this domain to "etc/hosts" to access it.
 
 
 ## Q2: Find flag 1
