@@ -63,7 +63,11 @@ Now that i know that there is a user archangel i search for a bit and found this
 
 I still need the flag for this question so with no more ideas to try i used the hint and got to work on it
 
+First i tried with the mrrobot page and got this
 
+![](../Img/Pasted%20image%2020260315150241.png)
+
+![](../Img/Pasted%20image%2020260315150231.png)
 
 ## Q5: Get a shell and find the user flag
 ### A: 
