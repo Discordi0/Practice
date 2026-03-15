@@ -110,4 +110,4 @@ I got linpeas to the system, in it i found that there was a possible cronjob vul
 
 For this one i used a backup file and the cp command (https://gtfobins.org/gtfobins/cp/), and got root priv. Then just search for "root.txt"
 
-Tags: [Fuzzing](../Index/Fuzzing.md) 
+Tags: [Fuzzing](../Index/Fuzzing.md) [IDOR](../Index/IDOR.md) [LFI](../Index/LFI.md) [Nmap](../Index/Nmap.md) 

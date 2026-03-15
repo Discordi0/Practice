@@ -42,6 +42,7 @@ This is where i store the notes of the machines/challenges that i complete.
 + [FTP](Index/FTP.md)
 + [IDOR](Index/IDOR.md)
 + [Kerberoasting](Index/Kerberoasting.md)
++ [LFI](Index/LFI.md)
 + [LLMNR Poisoning](Index/LLMNR%20Poisoning.md)
 + [Metasploit](Index/Metasploit.md)
 + [Nmap](Index/Nmap.md)
