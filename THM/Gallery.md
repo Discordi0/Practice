@@ -84,6 +84,6 @@ For this one once i was mike i used sudo -l and got a file
 For that file i searched in gtfobins and used the instructions and got root.
 
 
-Tags: [File Uploads](../Index/File%20Uploads.md) [Nmap](../Index/Nmap.md) 
+Tags: [File Uploads](../Index/File%20Uploads.md) [Nmap](../Index/Nmap.md) [SQLi](../Index/SQLi.md) 
 
 

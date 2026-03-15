@@ -4,6 +4,7 @@
 + [Bucket](../HBT/Machines/Bucket.md)
 + [Cap](../HBT/Machines/Cap.md)
 + [Expressway](../HBT/Machines/Expressway.md) 
++ [Gallery](../THM/Gallery.md) 
 + [Hospital](../HBT/Machines/Hospital.md)
 + [Lame](../HBT/Machines/Lame.md)
 + [RootMe](../THM/RootMe.md) 
