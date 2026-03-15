@@ -75,11 +75,17 @@ Then i tried with the test.php page and got this
 
 ![](../Img/Pasted%20image%2020260315150625.png)
 
+---
 ## Q5: Get a shell and find the user flag
 ### A: thm{lf1_t0_rc3_1s_tr1cky}
 
+I didn't get a shell but i got the flag in Q4
+
+---
 ## Q6: Get User 2 flag
 ### A: 
+
+
 
 ## Q7: Root the machine and find the root flag
 ### A: 
