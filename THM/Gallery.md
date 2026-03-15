@@ -10,9 +10,17 @@ Try to exploit our image gallery system
 
 I did a simple nmap scan `nmap -A -T4 -vv 10.64.139.85`
 
+![](../Img/Pasted%20image%2020260315160802.png)
 
+---
 ## Q2: What's the name of the CMS?
 ### A: 
+
+Just searching for the ip gets us a timed out
+
+![](../Img/Pasted%20image%2020260315161033.png)
+
+Doing IP:80 got m
 
 ## Q3: What's the hash password of the admin user?
 ### A: 
