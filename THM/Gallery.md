@@ -30,7 +30,7 @@ Doing IP:8080 got me something better
 
 ---
 ## Q3: What's the hash password of the admin user?
-### A: 
+### A: **a228b12a08b6527e7978cbe5d914531c**
 
 Reading the page code didn't give anything
 
@@ -62,7 +62,9 @@ I tried this exploit but it didn't work
 
 ![](../Img/Pasted%20image%2020260315174455.png)
 
+I did see some creedentials on the linpeas output so i used those and got the user mike
 
+And i did use mysql with the creedentials of the 
 ## Q4: What's the user flag?
 ### A: THM{af05cd30bfed67849befd546ef}
 
