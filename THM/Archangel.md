@@ -29,9 +29,13 @@ For this one we need to add that hostname to our "etc/hosts" file and access it
 
 ---
 ## Q3: Look for a page under development
-### A: 
+### A: test.php
 
-Now that we have a domain we can use ffuf or gobuster to check for files
+Now that we have a domain we can use ffuf or gobuster to check for files. `ffuf -w /usr/share/wordlists/seclists/Discovery/Web-Content/common.txt -u http://mafialive.thm/FUZZ`
+
+![](../Img/Pasted%20image%2020260315144653.png)
+
+From this output we should know about "robots.txt" so we go there
 
 
 ## Q4: Find flag 2
