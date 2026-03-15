@@ -53,6 +53,10 @@ Clicking the button results us in a parameter in the url and a message in the bo
 
 Since i don't know much i google for LFI bypasses and found this (https://hacktricks.wiki/en/pentesting-web/file-inclusion/index.html?highlight=lfi%20byp#basic-lfi-and-bypasses)
 
+I tried a lot and with this i found something "..//..//..//..//..//etc/passwd"
+
+![](../Img/Pasted%20image%2020260315145621.png)
+
 
 
 ## Q5: Get a shell and find the user flag
