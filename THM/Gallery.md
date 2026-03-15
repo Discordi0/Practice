@@ -64,9 +64,23 @@ I tried this exploit but it didn't work
 
 I did see some creedentials on the linpeas output so i used those and got the user mike
 
-And i did use mysql with the creedentials of the 
+And i did use mysql with the creedentials of the screenshot to get the hash.
+
+---
+
 ## Q4: What's the user flag?
 ### A: THM{af05cd30bfed67849befd546ef}
 
+Once i got mike just search for the file and use cat
+
+
+---
+
 ## Q5: What's the root flag?
-### A: 
+### A: THM{ba87e0dfe5903adfa6b8b450ad7567bafde87}
+
+For this one once i was mike i used sudo -l and got a file
+
+For that file i searched in gtfobins and used the ins
+
+
