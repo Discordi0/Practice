@@ -25,9 +25,14 @@ In the web page we find this
 
 For this one we need to add that hostname to our "etc/hosts" file and access it
 
+![](../Img/Pasted%20image%2020260315143952.png)
 
+---
 ## Q3: Look for a page under development
 ### A: 
+
+Now that we have a domain we can use ffuf or gobuster to check for files
+
 
 ## Q4: Find flag 2
 ### A: 
