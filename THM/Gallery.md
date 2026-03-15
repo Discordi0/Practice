@@ -6,7 +6,11 @@ Try to exploit our image gallery system
 # Questions
 
 ## Q1: How many ports are open?
-### A: 
+### A: 3
+
+I did a simple nmap scan `nmap -A -T4 -vv 10.64.139.85`
+
+
 ## Q2: What's the name of the CMS?
 ### A: 
 
