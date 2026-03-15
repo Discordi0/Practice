@@ -48,6 +48,10 @@ Checking the site i cam across a possible entry point
 
 ![](../Img/Pasted%20image%2020260315162752.png)
 
+Uploading a reverse shell worked instantly
+
+![](../Img/Pasted%20image%2020260315163602.png)
+
 
 ## Q4: What's the user flag?
 ### A: 
