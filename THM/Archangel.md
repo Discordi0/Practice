@@ -9,6 +9,12 @@ Boot2root, Web exploitation, Privilege escalation, LFI
 ## Q1: Find a different hostname
 ### A: 
 
+So first i do a quick default ports scan `nmap -A -T4 -vv 10.64.171.27`
+
+![](../Img/Pasted%20image%2020260315140000.png)
+
+We found port 80 so we need to check it out
+
 
 
 ## Q2: Find flag 1
