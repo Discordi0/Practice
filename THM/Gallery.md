@@ -56,9 +56,15 @@ Searching the folder of the web page i found this
 
 ![](../Img/Pasted%20image%2020260315165630.png)
 
+Now that i have a connection i dropped linpeas and left it to run.
+
+I tried this exploit but it didn't work
+
+![](../Img/Pasted%20image%2020260315174455.png)
+
 
 ## Q4: What's the user flag?
-### A: 
+### A: THM{af05cd30bfed67849befd546ef}
 
 ## Q5: What's the root flag?
 ### A: 
