@@ -36,6 +36,12 @@ Reading the page code didn't give anything
 
 So to search for an exploit it is. I found this (https://www.exploit-db.com/exploits/50214)
 
+Reading through the exploit i found this
+
+![](../Img/Pasted%20image%2020260315161940.png)
+
+So i tried this credentials (a couple of times bc the page got stuck) and i got in
+
 
 
 ## Q4: What's the user flag?
