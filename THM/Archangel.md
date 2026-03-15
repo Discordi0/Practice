@@ -51,6 +51,8 @@ Clicking the button results us in a parameter in the url and a message in the bo
 
 ![](../Img/Pasted%20image%2020260315144930.png)
 
+Since i don't know much i google for LFI bypasses and found this (https://hacktricks.wiki/en/pentesting-web/file-inclusion/index.html?highlight=lfi%20byp#basic-lfi-and-bypasses)
+
 
 
 ## Q5: Get a shell and find the user flag
