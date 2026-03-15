@@ -44,6 +44,11 @@ So i tried this credentials (a couple of times bc the page got stuck) and i got 
 
 ![](../Img/Pasted%20image%2020260315162024.png)
 
+Checking the site i cam across a possible entry point
+
+![](../Img/Pasted%20image%2020260315162752.png)
+
+
 ## Q4: What's the user flag?
 ### A: 
 
