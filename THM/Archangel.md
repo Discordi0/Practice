@@ -45,7 +45,7 @@ Next we go to the next page
 
 --- 
 ## Q4: Find flag 2
-### A: 
+### A: thm{explo1t1ng_lf1}
 
 Clicking the button results us in a parameter in the url and a message in the body of the page
 
@@ -69,8 +69,14 @@ First i tried with the mrrobot page and got this
 
 ![](../Img/Pasted%20image%2020260315150231.png)
 
+Then i tried with the test.php page and got this
+
+![](../Img/Pasted%20image%2020260315150539.png)
+
+![](../Img/Pasted%20image%2020260315150625.png)
+
 ## Q5: Get a shell and find the user flag
-### A: 
+### A: thm{lf1_t0_rc3_1s_tr1cky}
 
 ## Q6: Get User 2 flag
 ### A: 
