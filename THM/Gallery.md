@@ -42,7 +42,7 @@ Reading through the exploit i found this
 
 So i tried this credentials (a couple of times bc the page got stuck) and i got in
 
-
+![](../Img/Pasted%20image%2020260315162024.png)
 
 ## Q4: What's the user flag?
 ### A: 
