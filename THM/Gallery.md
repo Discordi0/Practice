@@ -34,6 +34,8 @@ Doing IP:8080 got me something better
 
 Reading the page code didn't give anything
 
+So to search for an exploit it is. I found this (https://www.exploit-db.com/exploits/50214)
+
 
 
 ## Q4: What's the user flag?
