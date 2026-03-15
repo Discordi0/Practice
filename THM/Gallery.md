@@ -14,16 +14,27 @@ I did a simple nmap scan `nmap -A -T4 -vv 10.64.139.85`
 
 ---
 ## Q2: What's the name of the CMS?
-### A: 
+### A: Simple Image Gallery
 
 Just searching for the ip gets us a timed out
 
 ![](../Img/Pasted%20image%2020260315161033.png)
 
-Doing IP:80 got m
+Doing IP:80 got me this
 
+![](../Img/Pasted%20image%2020260315161104.png)
+
+Doing IP:8080 got me something better
+
+![](../Img/Pasted%20image%2020260315161133.png)
+
+---
 ## Q3: What's the hash password of the admin user?
 ### A: 
+
+Reading the page code didn't give anything
+
+
 
 ## Q4: What's the user flag?
 ### A: 
