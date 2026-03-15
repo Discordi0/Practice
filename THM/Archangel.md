@@ -7,7 +7,7 @@ Boot2root, Web exploitation, Privilege escalation, LFI
 # Questions
 
 ## Q1: Find a different hostname
-### A: 
+### A: mafialive.thm
 
 So first i do a quick default ports scan `nmap -A -T4 -vv 10.64.171.27`
 
@@ -19,11 +19,12 @@ In the web page we find this
 
 ![](../Img/Pasted%20image%2020260315143439.png)
 
-So we need to add this domain to "etc/hosts" to access it.
-
-
+---
 ## Q2: Find flag 1
 ### A: 
+
+For this one we need to add that hostname to our "etc/hosts" file and access it
+
 
 ## Q3: Look for a page under development
 ### A: 
