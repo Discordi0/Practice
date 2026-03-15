@@ -84,6 +84,11 @@ For this one once i was mike i used sudo -l and got a file
 For that file i searched in gtfobins and used the instructions and got root.
 
 
+
+# PS
+
+There was no screenshot for the last part because the Try Hack Me platform and machine were crashing, at least it's free no?
+
 Tags: [File Uploads](../Index/File%20Uploads.md) [Nmap](../Index/Nmap.md) [SQLi](../Index/SQLi.md) 
 
 
