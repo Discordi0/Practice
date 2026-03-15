@@ -108,4 +108,6 @@ I got linpeas to the system, in it i found that there was a possible cronjob vul
 ## Q7: Root the machine and find the root flag
 ### A: thm{p4th_v4r1abl3_expl01tat1ion_f0r_v3rt1c4l_pr1v1l3g3_3sc4ll4t10n}
 
+For this one i used a backup file and the cp command (https://gtfobins.org/gtfobins/cp/), and got root priv. Then just search for "root.txt"
 
+Tags: [Fuzzing](../Index/Fuzzing.md) 
