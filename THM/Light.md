@@ -37,8 +37,17 @@ I tried other method and got this
 
 Now i went to get the a username and password
 
+![](../Img/Pasted%20image%2020260316175651.png)
 
+---
 ## Q2: What is the password to the username mentioned in question 1?
 ### A: 
+
+Got it in last screenshot Q1
+
+---
 ## Q3: What is the flag?
 ### A: 
+
+This must be on the other table (usertable)
+
