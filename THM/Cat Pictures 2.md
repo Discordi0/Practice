@@ -35,6 +35,10 @@ There is also a sign in
 
 ![](../Img/Pasted%20image%2020260316093250.png)
 
+Checking the information of all the pictures, we find this in the first one
+
+![](../Img/Pasted%20image%2020260316094231.png)
+
 
 ## Q2: What is Flag 2?
 ### A: 
