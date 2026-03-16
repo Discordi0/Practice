@@ -11,6 +11,14 @@ Now with more Cat Pictures!
 
 We start with an nmap scan `nmap -sV -A -T4 -vv 10.64.149.15`
 
+![](../Img/Pasted%20image%2020260316092819.png)
+
+![](../Img/Pasted%20image%2020260316092839.png)
+
+![](../Img/Pasted%20image%2020260316092854.png)
+
+We got several ports, let's first check the web pages
+
 
 ## Q2: What is Flag 2?
 ### A: 
