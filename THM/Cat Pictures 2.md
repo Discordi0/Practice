@@ -67,7 +67,7 @@ Now if we go to ansible in port 1337 we get this
 
 ![](../Img/Pasted%20image%2020260316095401.png)
 
-
+Running the playbook we can see that it runs the code that i found in 
 
 ## Q3: What is Flag 3?
 ### A: 
