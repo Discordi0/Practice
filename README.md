@@ -43,6 +43,7 @@ This is where are stored the notes of the machines/challenges that i complete.
 + [IDOR](Index/IDOR.md)
 + [Kerberoasting](Index/Kerberoasting.md)
 + [LFI](Index/LFI.md)
++ [Lin Privesc](Index/Lin%20Privesc.md)
 + [Linpeas](Index/Linpeas.md) 
 + [LLMNR Poisoning](Index/LLMNR%20Poisoning.md)
 + [Metasploit](Index/Metasploit.md)
@@ -52,4 +53,5 @@ This is where are stored the notes of the machines/challenges that i complete.
 + [Rubeus](Index/Rubeus.md)
 + [SharpHound](Index/SharpHound.md)
 + [SQLi](Index/SQLi.md) 
++ [Win Privesc](Index/Win%20Privesc.md) 
 + [Wireshark](Index/Wireshark.md)

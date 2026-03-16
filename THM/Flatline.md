@@ -46,6 +46,9 @@ Seems like i'm part of the admins group
 
 So searching how to give me ownership i found this (https://stackoverflow.com/questions/2928738/how-to-grant-permission-to-users-for-a-directory-using-command-line-in-windows)
 
-Se i tried it
+So i tried it
+
+![](../Img/Pasted%20image%2020260316115744.png)
 
 
+Tags: [Nmap](../Index/Nmap.md) [Win Privesc](../Index/Win%20Privesc.md) 
