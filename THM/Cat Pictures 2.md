@@ -100,3 +100,6 @@ Transfer it to the machine and run it
 Search for the last flag
 
 ![](../Img/Pasted%20image%2020260316103349.png)
+
+
+Tags: [[]]
