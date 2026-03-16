@@ -10,6 +10,8 @@ How low are your morals?
 
 First we need to do an nmap scan
 
+![](../Img/Pasted%20image%2020260316111157.png)
+
 
 ## Q2: What is the root.txt flag?
 ### A: 
