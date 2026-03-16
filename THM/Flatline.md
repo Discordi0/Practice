@@ -34,6 +34,10 @@ Next search for the first flag
 
 ![](../Img/Pasted%20image%2020260316113811.png)
 
-
+---
 ## Q2: What is the root.txt flag?
 ### A: 
+
+For this i got winpeas to the machine and run it
+
+
