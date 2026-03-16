@@ -29,6 +29,8 @@ We know that we are working on a DB so i went back to the nc connection and trie
 
 After i got the sql version i need to check the tables names
 
+![](../Img/Pasted%20image%2020260316175124.png)
+
 
 ## Q2: What is the password to the username mentioned in question 1?
 ### A: 
