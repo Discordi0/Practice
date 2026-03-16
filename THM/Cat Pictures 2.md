@@ -91,4 +91,12 @@ The first we get it the sudo version
 
 ![](../Img/Pasted%20image%2020260316101713.png)
 
+I used the cve that was listed below and got the exploit (https://github.com/blasty/CVE-2021-3156)
 
+Transfer it to the machine and run it
+
+![](../Img/Pasted%20image%2020260316103201.png)
+
+Search for the last flag
+
+![](../Img/Pasted%20image%2020260316103349.png)
