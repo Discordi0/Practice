@@ -31,6 +31,12 @@ After i got the sql version i need to check the tables names
 
 ![](../Img/Pasted%20image%2020260316175124.png)
 
+I tried other method and got this
+
+![](../Img/Pasted%20image%2020260316175459.png)
+
+Now i went to get the a username and password
+
 
 ## Q2: What is the password to the username mentioned in question 1?
 ### A: 
