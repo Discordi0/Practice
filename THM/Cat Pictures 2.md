@@ -39,6 +39,14 @@ Checking the information of all the pictures, we find this in the first one
 
 ![](../Img/Pasted%20image%2020260316094231.png)
 
+With exiftool we can find out what does this picture has
+
+![](../Img/Pasted%20image%2020260316094714.png)
+
+In that link we get this
+
+![](../Img/Pasted%20image%2020260316094752.png)
+
 
 ## Q2: What is Flag 2?
 ### A: 
