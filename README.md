@@ -1,6 +1,6 @@
 # Practice
 
-This is where i store the notes of the machines/challenges that i complete.
+This is where are stored the notes of the machines/challenges that i complete.
 
 ## Index
 
