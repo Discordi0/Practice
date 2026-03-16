@@ -77,9 +77,11 @@ So i tried to change the code from gitea to a reverse shell and see if it works
 
 ![](../Img/Pasted%20image%2020260316100259.png)
 
+And it works
 
+![](../Img/Pasted%20image%2020260316100345.png)
 
-
-
+---
 ## Q3: What is Flag 3?
 ### A: 
+
