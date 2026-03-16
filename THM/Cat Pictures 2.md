@@ -67,7 +67,15 @@ Now if we go to ansible in port 1337 we get this
 
 ![](../Img/Pasted%20image%2020260316095401.png)
 
-Running the playbook we can see that it runs the code that i found in 
+Running the playbook we can see that it runs the code that i found in gitea
+
+![](../Img/Pasted%20image%2020260316095720.png)
+
+![](../Img/Pasted%20image%2020260316095733.png)
+
+So i tried to change the code from gitea to a reverse shell and see if it works
+
+
 
 ## Q3: What is Flag 3?
 ### A: 
