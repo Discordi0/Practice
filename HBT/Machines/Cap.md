@@ -98,4 +98,4 @@ Search for it.
 
 ![](../../Img/Pasted%20image%2020250429171327.png)
 
-Tags: [IDOR](../../Index/IDOR.md) [Linpeas](../../Index/Linpeas.md) [Nmap](../../Index/Nmap.md) 
+Tags: [IDOR](../../Index/IDOR.md) [Lin Privesc](../../Index/Lin%20Privesc.md) [Nmap](../../Index/Nmap.md) 

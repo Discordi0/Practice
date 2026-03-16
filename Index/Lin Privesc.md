@@ -1,4 +1,5 @@
 + [Archangel](../THM/Archangel.md) 
++ [Cap](../HBT/Machines/Cap.md)
 + [Cat Pictures 2](../THM/Cat%20Pictures%202.md) 
 + [Gallery](../THM/Gallery.md) 
 + [RootMe](../THM/RootMe.md) 
