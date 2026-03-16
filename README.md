@@ -44,7 +44,6 @@ This is where are stored the notes of the machines/challenges that i complete.
 + [Kerberoasting](Index/Kerberoasting.md)
 + [LFI](Index/LFI.md)
 + [Lin Privesc](Index/Lin%20Privesc.md)
-+ [Linpeas](Index/Linpeas.md) 
 + [LLMNR Poisoning](Index/LLMNR%20Poisoning.md)
 + [Metasploit](Index/Metasploit.md)
 + [Nmap](Index/Nmap.md)
