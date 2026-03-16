@@ -9,6 +9,10 @@ Welcome to the Light database application!
 ### A: 
 
 
+As per the instructions we connect using nc
+
+![](../Img/Pasted%20image%2020260316171715.png)
+
 
 ## Q2: What is the password to the username mentioned in question 1?
 ### A: 
