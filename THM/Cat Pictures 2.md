@@ -85,3 +85,6 @@ And it works
 ## Q3: What is Flag 3?
 ### A: 
 
+Now that we have a connection, i get linpeas in the machine and run it
+
+
