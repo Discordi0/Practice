@@ -47,6 +47,20 @@ In that link we get this
 
 ![](../Img/Pasted%20image%2020260316094752.png)
 
+We get here
+
+![](../Img/Pasted%20image%2020260316094841.png)
+
+we try the credentials that we found and we get in
+
+![](../Img/Pasted%20image%2020260316094934.png)
+
+I read all the file from /ansible and inside flag1.txt we find the first answer
+
+![](../Img/Pasted%20image%2020260316095059.png)
+
+
+
 
 ## Q2: What is Flag 2?
 ### A: 
