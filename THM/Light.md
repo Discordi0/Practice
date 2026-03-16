@@ -51,3 +51,9 @@ Got it in last screenshot Q1
 
 This must be on the other table (usertable)
 
+![](../Img/Pasted%20image%2020260316175942.png)
+
+Usertable seems to have the same structure as admintable
+
+![](../Img/Pasted%20image%2020260316180125.png)
+
