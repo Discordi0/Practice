@@ -59,11 +59,15 @@ I read all the file from /ansible and inside flag1.txt we find the first answer
 
 ![](../Img/Pasted%20image%2020260316095059.png)
 
-
-
-
+---
 ## Q2: What is Flag 2?
 ### A: 
+
+Now if we go to ansible in port 1337 we get this
+
+![](../Img/Pasted%20image%2020260316095401.png)
+
+
 
 ## Q3: What is Flag 3?
 ### A: 
