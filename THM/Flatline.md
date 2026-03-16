@@ -40,4 +40,12 @@ Next search for the first flag
 
 For this i got winpeas to the machine and run it
 
+Seems like i'm part of the admins group
+
+![](../Img/Pasted%20image%2020260316114939.png)
+
+So searching how to give me ownership i found this (https://stackoverflow.com/questions/2928738/how-to-grant-permission-to-users-for-a-directory-using-command-line-in-windows)
+
+Se i tried it
+
 
