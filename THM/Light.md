@@ -63,4 +63,4 @@ So i went back and check for other passwords in user and admin tables since i on
 
 ![](../Img/Pasted%20image%2020260316180427.png)
 
-Tags: 
+Tags: [Nmap](../Index/Nmap.md) [SQLi](../Index/SQLi.md) 

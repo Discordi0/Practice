@@ -9,6 +9,7 @@
 + [Gallery](../THM/Gallery.md) 
 + [Hospital](../HBT/Machines/Hospital.md)
 + [Lame](../HBT/Machines/Lame.md)
++ [Light](../THM/Light.md) 
 + [RootMe](../THM/RootMe.md) 
 + [Strutted](../HBT/Machines/Strutted.md)
 + [Support](../HBT/Machines/Support.md)
