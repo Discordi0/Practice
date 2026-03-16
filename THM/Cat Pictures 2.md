@@ -102,4 +102,4 @@ Search for the last flag
 ![](../Img/Pasted%20image%2020260316103349.png)
 
 
-Tags: [[]]
+Tags: [Linpeas](../Index/Linpeas.md) [Nmap](../Index/Nmap.md) 
