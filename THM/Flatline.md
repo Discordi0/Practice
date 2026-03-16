@@ -26,8 +26,14 @@ Then we send it
 
 ![](../Img/Pasted%20image%2020260316113516.png)
 
-We executed
+Run it
 
 ![](../Img/Pasted%20image%2020260316113426.png)
+
+Next search for the first flag
+
+![](../Img/Pasted%20image%2020260316113811.png)
+
+
 ## Q2: What is the root.txt flag?
 ### A: 
