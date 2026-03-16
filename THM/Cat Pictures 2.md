@@ -87,4 +87,8 @@ And it works
 
 Now that we have a connection, i get linpeas in the machine and run it
 
+The first we get it the sudo version
+
+![](../Img/Pasted%20image%2020260316101713.png)
+
 
