@@ -6,7 +6,7 @@ Exploit a recent vulnerability and hack Webmin, a web-based system configuration
 # Questions
 
 ## Q1: user.txt
-### A: 
+### A: THM{SUPPLY_CHAIN_COMPROMISE}
 
 First we do an nmap scan `nmap -sV -sC -T5 -vv 10.66.150.205`
 
@@ -46,7 +46,18 @@ Select and check options
 
 ![](../Img/Pasted%20image%2020260317174253.png)
 
+Now find the user flag
+
+![](../Img/Pasted%20image%2020260317174736.png)
+
+--- 
 
 ## Q2: root.txt
 ### A: 
+
+Now we need to find the root flag
+
+![](../Img/Pasted%20image%2020260317174949.png)
+
+
 
