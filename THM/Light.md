@@ -6,7 +6,7 @@ Welcome to the Light database application!
 # Questions
 
 ## Q1: What is the admin username?
-### A: 
+### A: TryHackMeAdmin
 
 
 As per the instructions we connect using nc
@@ -41,13 +41,13 @@ Now i went to get the a username and password
 
 ---
 ## Q2: What is the password to the username mentioned in question 1?
-### A: 
+### A: mamZtAuMlrsEy5bp6q17
 
 Got it in last screenshot Q1
 
 ---
 ## Q3: What is the flag?
-### A: 
+### A: THM{SQLit3_InJ3cTion_is_SimplE_nO?}
 
 This must be on the other table (usertable)
 
