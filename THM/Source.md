@@ -20,6 +20,10 @@ We can see that on port 1000 we have a http server, so we check it
 
 Change to https 
 
+![](../Img/Pasted%20image%2020260317172221.png)
+
+Nothing on source code
+
 
 ## Q2: root.txt
 ### A: 
