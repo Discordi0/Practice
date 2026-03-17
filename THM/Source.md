@@ -24,6 +24,16 @@ Change to https
 
 Nothing on source code
 
+I tried standard payload
+
+![](../Img/Pasted%20image%2020260317172609.png)
+
+![](../Img/Pasted%20image%2020260317172619.png)
+
+With other payloads i get this 
+
+![](../Img/Pasted%20image%2020260317172742.png)
+
 
 ## Q2: root.txt
 ### A: 
