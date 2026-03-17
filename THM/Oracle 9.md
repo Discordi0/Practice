@@ -22,3 +22,5 @@ Talking with him doesn't do much
 This worked lol.
 
 ![](../Img/Pasted%20image%2020260317164738.png)
+
+Tags: [LLM](../Index/LLM.md) 
