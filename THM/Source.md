@@ -38,6 +38,10 @@ But when i try something like this `" or true--` i get the invalid character, so
 
 But after a lot of tries i just went to another route
 
+I opened metasploit and searched for something
+
+![](../Img/Pasted%20image%2020260317173516.png)
+
 
 ## Q2: root.txt
 ### A: 
