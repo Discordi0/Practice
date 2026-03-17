@@ -8,3 +8,8 @@ My designation is Oracle 9, I carry with me a sealed transmission.
 ## Q1: Can you reveal the sealed transmission?
 
 ### A: 
+
+If we just go to the url provided (`http://10.66.185.122`) we get this
+
+![](../Img/Pasted%20image%2020260317163753.png)
+
