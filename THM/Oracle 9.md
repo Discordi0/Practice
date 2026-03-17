@@ -15,3 +15,7 @@ If we just go to the url provided (`http://10.66.185.122`) we get this
 
 Nothing interesting in the page code
 
+Talking with him doesn't do much
+
+![](../Img/Pasted%20image%2020260317164414.png)
+
