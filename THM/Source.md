@@ -34,6 +34,8 @@ With other payloads i get this
 
 ![](../Img/Pasted%20image%2020260317172742.png)
 
+But when i try something like this `" or true--` i get the invalid character, so no --
+
 
 ## Q2: root.txt
 ### A: 
