@@ -24,7 +24,7 @@ Change to https
 
 Nothing on source code
 
-I tried standard payload
+I tried standard payload (https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/SQL%20Injection/Intruder/Auth_Bypass.txt)
 
 ![](../Img/Pasted%20image%2020260317172609.png)
 
@@ -53,11 +53,10 @@ Now find the user flag
 --- 
 
 ## Q2: root.txt
-### A: 
+### A: THM{UPDATE_YOUR_INSTALL}
 
 Now we need to find the root flag
 
 ![](../Img/Pasted%20image%2020260317174949.png)
 
-
-
+Tags: [[]]
