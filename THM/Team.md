@@ -20,6 +20,9 @@ I tried to connect to the ftp server as an anonymous user
 
 ![](../Img/Pasted%20image%2020260317190116.png)
 
+Going back to the web page, i checked it's source code and found this
+
+![](../Img/Pasted%20image%2020260317190918.png)
 
 
 ## Q2: root.txt
