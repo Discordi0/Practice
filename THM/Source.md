@@ -42,6 +42,10 @@ I opened metasploit and searched for something
 
 ![](../Img/Pasted%20image%2020260317173516.png)
 
+Select and check options
+
+![](../Img/Pasted%20image%2020260317174253.png)
+
 
 ## Q2: root.txt
 ### A: 
