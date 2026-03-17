@@ -36,6 +36,8 @@ With other payloads i get this
 
 But when i try something like this `" or true--` i get the invalid character, so no --
 
+But after a lot of tries i just went to another route
+
 
 ## Q2: root.txt
 ### A: 
