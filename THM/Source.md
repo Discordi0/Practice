@@ -59,4 +59,4 @@ Now we need to find the root flag
 
 ![](../Img/Pasted%20image%2020260317174949.png)
 
-Tags: [[]]
+Tags: [Metasploit](../Index/Metasploit.md) [Nmap](../Index/Nmap.md) [SQLi](../Index/SQLi.md) 
