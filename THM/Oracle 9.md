@@ -13,3 +13,5 @@ If we just go to the url provided (`http://10.66.185.122`) we get this
 
 ![](../Img/Pasted%20image%2020260317163753.png)
 
+Nothing interesting in the page code
+
