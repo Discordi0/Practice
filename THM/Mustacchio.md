@@ -131,4 +131,4 @@ I did a tail file, put the payload there, added the file to the PATH and root
 ![](../Img/Pasted%20image%2020260318154547.png)
 
 
-Tags: [Burp Suite](../Index/Burp%20Suite.md) 
+Tags: [Burp Suite](../Index/Burp%20Suite.md) [LFI](../Index/LFI.md) [Lin Privesc](../Index/Lin%20Privesc.md) [Nmap](../Index/Nmap.md) [Password Cracking](../Index/Password%20Cracking.md) 
