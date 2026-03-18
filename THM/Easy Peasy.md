@@ -146,6 +146,15 @@ I just google it and used this (https://www.rapidtables.com/convert/number/binar
 ## Q10: What is the user flag?
 ### A: 
 
+Connect to the machine with ssh on port 6498 and search for the flag
+
+lmao
+
+![](../Img/Pasted%20image%2020260318123622.png)
+
+
+![](../Img/Pasted%20image%2020260318123606.png)
+
 
 ## Q11: What is the root flag?
 ### A: 
