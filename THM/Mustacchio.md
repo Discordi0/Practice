@@ -46,6 +46,20 @@ This is what it has
 
 ![](../Img/Pasted%20image%2020260318144857.png)
 
+That seems like a hash of the password so we need to crack it
 
+![](../Img/Pasted%20image%2020260318145016.png)
+
+With this i went to try to connect to ssh since it's the only thing left
+
+![](../Img/Pasted%20image%2020260318145126.png)
+
+Not knowing what to do next i did a new nmap scan with -p- flag
+
+Found this new port
+
+![](../Img/Pasted%20image%2020260318145211.png)
+
+Searching the ip 
 ## Q2: What is the root flag?
 ### A: 
