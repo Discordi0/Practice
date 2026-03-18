@@ -10,7 +10,7 @@ _There may be anti-reversing measures in place!_
 # Questions
 
 ## Q1: What is the password?
-### A: 
+### A: thm{2@@25$gfsT&@L}
 
 First we download an check the file
 
@@ -40,4 +40,6 @@ Order them and check
 
 ![](../Img/Pasted%20image%2020260318142202.png)
 
-T
+This is also the flag (THM{the weir string here})
+
+Tags: [HEX Analysis](../Index/HEX%20Analysis.md) [Reverse Engineering](../Index/Reverse%20Engineering.md) 
