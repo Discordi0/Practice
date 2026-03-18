@@ -78,7 +78,13 @@ If we keep reading the code we will also find this
 
 ![](../Img/Pasted%20image%2020260318115611.png)
 
+Machine stopped working mid ctf so i had to restarted.
 
+Going to robots.txt got me this
+
+![](../Img/Pasted%20image%2020260318121639.png)
+
+Cyberchef
 
 ## Q6: Crack the hash with easypeasy.txt, What is the flag 3?
 ### A: flag{9fdafbd64c47471a8f54cd3fc64cd312}
