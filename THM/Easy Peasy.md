@@ -144,7 +144,7 @@ I just google it and used this (https://www.rapidtables.com/convert/number/binar
 
 ---
 ## Q10: What is the user flag?
-### A: 
+### A: flag{n0wits33msn0rm4l}
 
 Connect to the machine with ssh on port 6498 and search for the flag
 
@@ -155,6 +155,13 @@ lmao
 
 ![](../Img/Pasted%20image%2020260318123606.png)
 
+Google it again and found this (https://www.dcode.fr/rot-cipher?source=post_page-----d21b474258f2---------------------------------------)
 
+![](../Img/Pasted%20image%2020260318123848.png)
+
+---
 ## Q11: What is the root flag?
 ### A: 
+
+To privesc as per the machine description we need to go for a cronjob
+
