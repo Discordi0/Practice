@@ -94,7 +94,9 @@ We try to get the key for barry
 
 ![](../Img/Pasted%20image%2020260318150604.png)
 
-Joe didn't have none
+The format of the key wasn't right so i used Burpsuite and got it right
+
+Joe didn't have id_rsa key
 
 We need to copy the key, chmod it, use ssh2john and crack it
 
@@ -124,4 +126,9 @@ With strings i checked the file and this is my entrance
 
 ![](../Img/Pasted%20image%2020260318154240.png)
 
-I did a tail file, 
+I did a tail file, put the payload there, added the file to the PATH and root
+
+![](../Img/Pasted%20image%2020260318154547.png)
+
+
+Tags: [Burp Suite](../Index/Burp%20Suite.md) 
