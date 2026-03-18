@@ -114,3 +114,10 @@ Now search for the flag
 ## Q2: What is the root flag?
 ### A: 
 
+Since there is nothing more here i went to check user joe
+
+![](../Img/Pasted%20image%2020260318154023.png)
+
+That file looks promising
+
+
