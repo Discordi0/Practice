@@ -60,7 +60,7 @@ Decode it
 
 ---
 ## Q5: Further enumerate the machine, what is flag 2?
-### A: 
+### A: flag{1m_s3c0nd_fl4g}
 
 Since there is nothing more in port 80 we move to port 56624
 
@@ -84,8 +84,15 @@ Going to robots.txt got me this
 
 ![](../Img/Pasted%20image%2020260318121639.png)
 
-Cyberchef
+Cyberchef couldn't decode it, so it seems this is a hash
 
+Comparing it to other hashes (https://hashcat.net/wiki/doku.php?id=example_hashes) looks like md5 hash 
+
+![](../Img/Pasted%20image%2020260318122034.png)
+
+Finally got the second flag.
+
+---
 ## Q6: Crack the hash with easypeasy.txt, What is the flag 3?
 ### A: flag{9fdafbd64c47471a8f54cd3fc64cd312}
 
@@ -93,8 +100,11 @@ Found in Q5
 
 ---
 ## Q7: What is the hidden directory?
-### A: 
+### A: /n0th1ng3ls3m4tt3r
 
+Found also in Q5
+
+---
 ## Q8: Using the wordlist that provided to you in this task crack the hash  
 what is the password?
 ### A: 
