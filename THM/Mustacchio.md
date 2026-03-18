@@ -90,6 +90,12 @@ With a new payload i got this
 
 We can see that barry and joe are there at the end
 
+We try to get the key for barry
+
+![](../Img/Pasted%20image%2020260318150604.png)
+
+Joe didn't have none
+
 
 ## Q2: What is the root flag?
 ### A: 
