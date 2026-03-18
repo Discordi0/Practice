@@ -10,7 +10,7 @@ Deploy and compromise the machine!
 # Questions
 
 ## Q1: What is the user flag?
-### A: 
+### A: 62d77a4d5f97d47c5aa38b3b2651b831
 
 Do an nmap scan
 
@@ -98,6 +98,19 @@ Joe didn't have none
 
 We need to copy the key, chmod it, use ssh2john and crack it
 
+![](../Img/Pasted%20image%2020260318153600.png)
 
+With this we can now ssh 
+
+We got in
+
+![](../Img/Pasted%20image%2020260318153721.png)
+
+Now search for the flag
+
+![](../Img/Pasted%20image%2020260318153748.png)
+
+---
 ## Q2: What is the root flag?
 ### A: 
+
