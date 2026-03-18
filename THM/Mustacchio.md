@@ -20,6 +20,12 @@ If we look at the page we find a "normal" looking page
 
 ![](../Img/Pasted%20image%2020260318143330.png)
 
+Source code looks normal too
+
+About looks fine (http://10.67.153.20/about.html)
+
+Gallery too (http://10.67.153.20/gallery.html)
+
 
 ## Q2: What is the root flag?
 ### A: 
