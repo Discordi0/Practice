@@ -60,6 +60,18 @@ Found this new port
 
 ![](../Img/Pasted%20image%2020260318145211.png)
 
-Searching the ip 
+Searching the ip with the new port we get this
+
+![](../Img/Pasted%20image%2020260318145303.png)
+
+The credentials work here, we get this
+
+![](../Img/Pasted%20image%2020260318145339.png)
+
+Checking the source code i found this
+
+![](../Img/Pasted%20image%2020260318145526.png)
+
+
 ## Q2: What is the root flag?
 ### A: 
