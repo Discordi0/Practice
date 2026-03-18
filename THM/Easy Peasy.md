@@ -126,14 +126,26 @@ That was the answer lol
 
 ---
 ## Q9: What is the password to login to the machine via SSH?
-### A: 
+### A: iconvertedmypasswordtobinary
 
 Now i downloaded the image to my machine to analyze it
 
+Next i used steghide to get the embeded file
 
+![](../Img/Pasted%20image%2020260318123146.png)
 
+This is what i got 
+
+![](../Img/Pasted%20image%2020260318123205.png)
+
+I just google it and used this (https://www.rapidtables.com/convert/number/binary-to-ascii.html)
+
+![](../Img/Pasted%20image%2020260318123311.png)
+
+---
 ## Q10: What is the user flag?
 ### A: 
+
 
 ## Q11: What is the root flag?
 ### A: 
