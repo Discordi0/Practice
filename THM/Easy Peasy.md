@@ -70,11 +70,22 @@ Normal looking page but in the source code
 
 ![](../Img/Pasted%20image%2020260318114615.png)
 
-If we take the hint and try to decode it 
+If we take the hint and try to decode it from base we will find that it's in base62
+
+![](../Img/Pasted%20image%2020260318115430.png)
+
+If we keep reading the code we will also find this
+
+![](../Img/Pasted%20image%2020260318115611.png)
+
+
 
 ## Q6: Crack the hash with easypeasy.txt, What is the flag 3?
-### A: 
+### A: flag{9fdafbd64c47471a8f54cd3fc64cd312}
 
+Found in Q5
+
+---
 ## Q7: What is the hidden directory?
 ### A: 
 
