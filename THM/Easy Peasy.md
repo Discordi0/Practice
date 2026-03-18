@@ -42,9 +42,27 @@ It takes us here
 
 Nothing on the source code
 
-We continue to use gobuster on the discovered
+We continue to use gobuster on the discovered directory
+
+![](../Img/Pasted%20image%2020260318110834.png)
+
+It takes us to another image
+
+![](../Img/Pasted%20image%2020260318110858.png)
+
+But this one has something hidden
+
+![](../Img/Pasted%20image%2020260318110929.png)
+
+Decode it
+
+![](../Img/Pasted%20image%2020260318110940.png)
+
+---
 ## Q5: Further enumerate the machine, what is flag 2?
 ### A: 
+
+
 
 ## Q6: Crack the hash with easypeasy.txt, What is the flag 3?
 ### A: 
