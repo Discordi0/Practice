@@ -78,7 +78,7 @@ If we keep reading the code we will also find this
 
 ![](../Img/Pasted%20image%2020260318115611.png)
 
-Machine stopped working mid ctf so i had to restarted.
+Machine stopped working mid ctf so i had to restart it.
 
 Going to robots.txt got me this
 
