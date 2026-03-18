@@ -96,6 +96,8 @@ We try to get the key for barry
 
 Joe didn't have none
 
+We need to copy the key, chmod it, use ssh2john and crack it
+
 
 ## Q2: What is the root flag?
 ### A: 
