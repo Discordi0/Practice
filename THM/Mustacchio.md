@@ -26,6 +26,12 @@ About looks fine (http://10.67.153.20/about.html)
 
 Gallery too (http://10.67.153.20/gallery.html)
 
+Blog too (http://10.67.153.20/blog.html)
+
+In Contact there is a form 
+
+![](../Img/Pasted%20image%2020260318143956.png)
+
 
 ## Q2: What is the root flag?
 ### A: 
