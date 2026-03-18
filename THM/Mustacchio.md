@@ -78,6 +78,12 @@ If we press submit we get this
 
 ![](../Img/Pasted%20image%2020260318145621.png)
 
+Since i now know that i'm looking for i got a payload and tried it
+
+![](../Img/Pasted%20image%2020260318150036.png)
+
+Now that we know that it works we need the ssh key
+
 
 ## Q2: What is the root flag?
 ### A: 
