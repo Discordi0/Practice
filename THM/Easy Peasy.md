@@ -6,11 +6,17 @@ Practice using tools such as Nmap and GoBuster to locate a hidden directory to g
 # Questions
 
 ## Q1: How many ports are open?
-### A: 
+### A: 3
 
+We need to do an nmap scan `nmap -sV -sC -T4 -vv -p- 10.64.166.135`
 
+![](../Img/Pasted%20image%2020260318103719.png)
+
+---
 ## Q2: What is the version of nginx?
 ### A: 
+
+
 
 ## Q3: What is running on the highest port?
 ### A: 
