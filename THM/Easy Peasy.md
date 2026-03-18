@@ -30,7 +30,7 @@ In nmap scan
 
 ---
 ## Q4: Using GoBuster, find flag 1.
-### A: 
+### A: flag{f1rs7_fl4g}
 
 Using gobuster we find this
 
@@ -42,7 +42,7 @@ It takes us here
 
 Nothing on the source code
 
-
+We continue to use gobuster on the discovered
 ## Q5: Further enumerate the machine, what is flag 2?
 ### A: 
 
