@@ -9,7 +9,6 @@ Practice using tools such as Nmap and GoBuster to locate a hidden directory to g
 ### A: 
 
 
-
 ## Q2: What is the version of nginx?
 ### A: 
 
