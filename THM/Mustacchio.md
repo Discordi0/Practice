@@ -120,4 +120,8 @@ Since there is nothing more here i went to check user joe
 
 That file looks promising
 
+With strings i checked the file and this is my entrance
 
+![](../Img/Pasted%20image%2020260318154240.png)
+
+I did a tail file, 
