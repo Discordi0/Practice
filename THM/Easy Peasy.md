@@ -165,3 +165,13 @@ Google it again and found this (https://www.dcode.fr/rot-cipher?source=post_page
 
 To privesc as per the machine description we need to go for a cronjob
 
+![](../Img/Pasted%20image%2020260318124059.png)
+
+It seems like there a file that we can use
+
+![](../Img/Pasted%20image%2020260318124210.png)
+
+Seems pretty straight forward
+
+Use a reverse shell
+
