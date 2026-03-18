@@ -22,3 +22,4 @@ I used hexedit and changed 02 for 01
 
 ![](../Img/Pasted%20image%2020260318140103.png)
 
+I open it with ghidra and started 
