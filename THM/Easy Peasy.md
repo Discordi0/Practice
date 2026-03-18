@@ -62,6 +62,14 @@ Decode it
 ## Q5: Further enumerate the machine, what is flag 2?
 ### A: 
 
+Since there is nothing more in port 80 we move to port 56624
+
+![](../Img/Pasted%20image%2020260318114516.png)
+
+Normal looking page but in the source code
+
+![](../Img/Pasted%20image%2020260318114615.png)
+
 
 
 ## Q6: Crack the hash with easypeasy.txt, What is the flag 3?
