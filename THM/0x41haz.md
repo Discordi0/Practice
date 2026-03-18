@@ -16,7 +16,7 @@ First we download an check the file
 
 ![](../Img/Pasted%20image%2020260318135300.png)
 
-That doesn't seem normal, searching the internet i got that this i a common technique of obfuscation to avoid reverse engineering, what we need to do is change the 6th byte
+That doesn't seem normal, searching the internet i got that this is a common technique of obfuscation to avoid reverse engineering, what we need to do is change the 6th byte
 
 I used hexedit and changed 02 for 01
 
