@@ -22,4 +22,13 @@ I used hexedit and changed 02 for 01
 
 ![](../Img/Pasted%20image%2020260318140103.png)
 
-I open it with ghidra and started 
+I open it with ghidra and started searching
+
+![](../Img/Pasted%20image%2020260318141300.png)
+
+This seems hardcoded strings seem important
+
+Specially when latter it does a check in them
+
+![](../Img/Pasted%20image%2020260318141356.png)
+
