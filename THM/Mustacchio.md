@@ -32,6 +32,12 @@ In Contact there is a form
 
 ![](../Img/Pasted%20image%2020260318143956.png)
 
+With no more to go on i use gobuster to check for more directories
+
+![](../Img/Pasted%20image%2020260318144620.png)
+
+/custom seem interesting
+
 
 ## Q2: What is the root flag?
 ### A: 
