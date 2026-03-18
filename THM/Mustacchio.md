@@ -78,11 +78,17 @@ If we press submit we get this
 
 ![](../Img/Pasted%20image%2020260318145621.png)
 
-Since i now know that i'm looking for i got a payload and tried it
+Since i now know that i'm looking for i got a payload and tried it (https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection#detect-the-vulnerability)
 
 ![](../Img/Pasted%20image%2020260318150036.png)
 
 Now that we know that it works we need the ssh key
+
+With a new payload i got this
+
+![](../Img/Pasted%20image%2020260318150333.png)
+
+We can see that barry and joe are there at the end
 
 
 ## Q2: What is the root flag?
