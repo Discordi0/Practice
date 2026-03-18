@@ -72,6 +72,12 @@ Checking the source code i found this
 
 ![](../Img/Pasted%20image%2020260318145526.png)
 
+Nothing more note worthy
+
+If we press submit we get this
+
+![](../Img/Pasted%20image%2020260318145621.png)
+
 
 ## Q2: What is the root flag?
 ### A: 
