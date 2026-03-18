@@ -114,7 +114,7 @@ Now search for the flag
 
 ---
 ## Q2: What is the root flag?
-### A: 
+### A: 3223581420d906c4dd1a5f9b530393a5
 
 Since there is nothing more here i went to check user joe
 
