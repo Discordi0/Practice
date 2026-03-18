@@ -32,6 +32,10 @@ In nmap scan
 ## Q4: Using GoBuster, find flag 1.
 ### A: 
 
+Using gobuster we find this
+
+![](../Img/Pasted%20image%2020260318105228.png)
+
 
 
 ## Q5: Further enumerate the machine, what is flag 2?
