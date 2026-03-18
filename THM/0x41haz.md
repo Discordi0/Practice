@@ -32,3 +32,12 @@ Specially when latter it does a check in them
 
 ![](../Img/Pasted%20image%2020260318141356.png)
 
+Decode them
+
+![](../Img/Pasted%20image%2020260318142133.png)
+
+Order them and check
+
+![](../Img/Pasted%20image%2020260318142202.png)
+
+T
