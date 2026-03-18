@@ -70,7 +70,7 @@ Normal looking page but in the source code
 
 ![](../Img/Pasted%20image%2020260318114615.png)
 
-
+If we take the hint and try to decode it 
 
 ## Q6: Crack the hash with easypeasy.txt, What is the flag 3?
 ### A: 
