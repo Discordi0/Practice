@@ -38,6 +38,14 @@ With no more to go on i use gobuster to check for more directories
 
 /custom seem interesting
 
+![](../Img/Pasted%20image%2020260318144659.png)
+
+css didn't have anything, but on js there is a .bak file
+
+This is what it has
+
+![](../Img/Pasted%20image%2020260318144857.png)
+
 
 ## Q2: What is the root flag?
 ### A: 
