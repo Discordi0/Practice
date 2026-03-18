@@ -14,15 +14,25 @@ We need to do an nmap scan `nmap -sV -sC -T4 -vv -p- 10.64.166.135`
 
 ---
 ## Q2: What is the version of nginx?
-### A: 
+### A: 1.16.1
 
+In the nmap scan we got it
 
+![](../Img/Pasted%20image%2020260318103804.png)
 
+---
 ## Q3: What is running on the highest port?
-### A: 
+### A: Apache
 
+In nmap scan
+
+![](../Img/Pasted%20image%2020260318103852.png)
+
+---
 ## Q4: Using GoBuster, find flag 1.
 ### A: 
+
+
 
 ## Q5: Further enumerate the machine, what is flag 2?
 ### A: 
