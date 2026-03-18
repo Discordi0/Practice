@@ -106,7 +106,7 @@ Found also in Q5
 
 ---
 ## Q8: Using the wordlist that provided to you in this task crack the hash what is the password?
-### A: 
+### A: mypasswordforthatjob
 
 Not sure what hash i have to crack at the moment so i just kept looking
 
@@ -118,8 +118,19 @@ Looking at the source code there seems to be an embeded image and some code
 
 ![](../Img/Pasted%20image%2020260318122427.png)
 
+First i cracked the string
+
+![](../Img/Pasted%20image%2020260318122646.png)
+
+That was the answer lol
+
+---
 ## Q9: What is the password to login to the machine via SSH?
 ### A: 
+
+Now i downloaded the image to my machine to analyze it
+
+
 
 ## Q10: What is the user flag?
 ### A: 
