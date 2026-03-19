@@ -71,12 +71,23 @@ Description of module index 4
 
 ---
 ## Q7: Based on the results of #6, what is the rdbms version installed on the server?
-### A: 
+### A: 9.5.21
 
+Checking the module options we can see that it already comes with the version set
 
+![](../Img/Pasted%20image%2020260319110016.png)
 
+So we input the other necessary options and run it
+
+![](../Img/Pasted%20image%2020260319110049.png)
+
+---
 ## Q8: What is the full path of the module that allows for dumping user hashes (starting with auxiliary)?
 ### A: 
+
+We go to the search with filters again
+
+
 
 ## Q9: How many user hashes does the module dump?
 ### A: 
