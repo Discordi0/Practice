@@ -13,13 +13,23 @@ For this first question we run an nmap scan `nmap -sV -sC -p- -T5 -vv 10.64.131.
 
 ![](../Img/Pasted%20image%2020260319103804.png)
 
+![](../Img/Pasted%20image%2020260319103820.png)
 
+We can see that in port 5432 what DB we have
+
+--- 
 ## Q2: What port is the rdbms running on?
-### A: 
+### A: 5432
 
+We got it from the nmap scan in Q1
+
+---
 ## Q3: Metasploit contains a variety of modules that can be used to enumerate in multiple rdbms, making it easy to gather valuable information.
-### A: 
+### A: -
 
+Ok, ty
+
+---
 ## Q4: After starting Metasploit, search for an associated auxiliary module that allows us to enumerate user credentials. What is the full path of the modules (starting with auxiliary)?
 ### A: 
 
