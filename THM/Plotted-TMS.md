@@ -96,6 +96,15 @@ But first we need to be plot_admin, for that we use this
 
 ![](../Img/Pasted%20image%2020260319194241.png)
 
+So we need to remove the .sh file there, replace it with one that we make with a reverse shell and wait
 
+![](../Img/Pasted%20image%2020260319194911.png)
+
+Since we are here let's search the user.txt flag
+
+![](../Img/Pasted%20image%2020260319194943.png)
+
+---
 ## Q2: What is root.txt?
 ### A: 
+
