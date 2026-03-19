@@ -84,6 +84,10 @@ I went to "my account" and it seems like we can upload a file here
 
 ![](../Img/Pasted%20image%2020260319190946.png)
 
+I got a reverse shell, change the values, uploaded it and it worked (https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php)
+
+![](../Img/Pasted%20image%2020260319191301.png)
+
 
 ## Q2: What is root.txt?
 ### A: 
