@@ -53,6 +53,12 @@ We just get 1 successful pair of credentials
 ## Q6: What is the full path of the module that allows you to execute commands with the proper user credentials (starting with auxiliary)?
 ### A: 
 
+We use the filters again
+
+![](../Img/Pasted%20image%2020260319105134.png)
+
+
+
 ## Q7: Based on the results of #6, what is the rdbms version installed on the server?
 ### A: 
 
