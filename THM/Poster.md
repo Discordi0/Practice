@@ -87,6 +87,14 @@ So we input the other necessary options and run it
 
 We go to the search with filters again
 
+![](../Img/Pasted%20image%2020260319112817.png)
+
+Got the same, but where it's this module?
+
+![](../Img/Pasted%20image%2020260319112933.png)
+
+There are more here. This got me thinking, it turned out that i didn't have the msfdb connected, so we fix that and...
+
 
 
 ## Q9: How many user hashes does the module dump?
