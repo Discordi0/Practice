@@ -125,7 +125,7 @@ Search with filters
 
 ---
 ## Q12: Compromise the machine and locate user.txt
-### A: 
+### A: THM{postgresql_fa1l_conf1gurat1on}
 
 Use the above module, change the options, run it
 
@@ -163,7 +163,7 @@ Find the flag
 
 ---
 ## Q13: Escalate privileges and obtain root.txt
-### A: 
+### A: THM{c0ngrats_for_read_the_f1le_w1th_credent1als}
 
 Search for the permissions
 
@@ -173,3 +173,6 @@ Lmao
 
 Escalate and find the root flag
 
+![](../Img/Pasted%20image%2020260319120127.png)
+
+Tags: [Lin Privesc](../Index/Lin%20Privesc.md) [Metasploit](../Index/Metasploit.md) [Nmap](../Index/Nmap.md) [SQLi](../Index/SQLi.md) 
