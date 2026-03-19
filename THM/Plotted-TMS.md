@@ -108,3 +108,4 @@ Since we are here let's search the user.txt flag
 ## Q2: What is root.txt?
 ### A: 
 
+Now that we have that user we can use doas to get the final flag (https://gtfobins.org/gtfobins/openssl/#file-read) 
