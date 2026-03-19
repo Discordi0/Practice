@@ -60,7 +60,11 @@ The one from admin id_rsa
 
 Trying fuzzin the directories didn't got anything usefull
 
-So we move to port 445
+So we move to port 445, got the same default page
+
+![](../Img/Pasted%20image%2020260319190216.png)
+
+And nothing on the source code, so we move to fuzzing
 
 
 ## Q2: What is root.txt?
