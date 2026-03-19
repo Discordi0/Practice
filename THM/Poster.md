@@ -145,6 +145,16 @@ Look at this
 
 ![](../Img/Pasted%20image%2020260319115456.png)
 
+This is in credentials.txt
+
+![](../Img/Pasted%20image%2020260319115558.png)
+
+config.php
+
+![](../Img/Pasted%20image%2020260319115712.png)
+
+Now that we have alison credentials we can get the user.txt file
+
 
 ## Q13: Escalate privileges and obtain root.txt
 ### A: 
