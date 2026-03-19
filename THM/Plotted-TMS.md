@@ -10,7 +10,7 @@ Tip: Enumeration is key!
 # Questions
 
 ## Q1: What is user.txt?
-### A: 
+### A: 77927510d5edacea1f9e86602f1fbadb
 
 As the first step we need to do an nmap scan 
 
