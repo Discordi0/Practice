@@ -92,6 +92,10 @@ I got linpeas onto the system, and i got a couple of interesting things, but thi
 
 ![](../Img/Pasted%20image%2020260319194113.png)
 
+But first we need to be plot_admin, for that we use this
+
+![](../Img/Pasted%20image%2020260319194241.png)
+
 
 ## Q2: What is root.txt?
 ### A: 
