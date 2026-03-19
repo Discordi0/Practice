@@ -83,7 +83,7 @@ So we input the other necessary options and run it
 
 ---
 ## Q8: What is the full path of the module that allows for dumping user hashes (starting with auxiliary)?
-### A: 
+### A: auxiliary/scanner/postgres/postgres_hashdump
 
 We go to the search with filters again
 
@@ -95,11 +95,19 @@ Got the same, but where it's this module?
 
 There are more here. This got me thinking, it turned out that i didn't have the msfdb connected, so we fix that and...
 
+![](../Img/Pasted%20image%2020260319113103.png)
 
+With that fixed, we get the answer
 
+---
 ## Q9: How many user hashes does the module dump?
-### A: 
+### A: 6
 
+Select the module, put the options, run it
+
+![](../Img/Pasted%20image%2020260319113313.png)
+
+---
 ## Q10: What is the full path of the module (starting with auxiliary) that allows an authenticated user to view files of their choosing on the server?
 ### A: 
 
