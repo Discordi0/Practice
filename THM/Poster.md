@@ -131,6 +131,8 @@ Use the above module, change the options, run it
 
 ![](../Img/Pasted%20image%2020260319113930.png)
 
-I tried to 
+I tried to just read the user.txt file but i couldn't i guess it is bc i have no permision on the file, so i got linpeas to the machine
+
+
 ## Q13: Escalate privileges and obtain root.txt
 ### A: 
