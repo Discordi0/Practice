@@ -117,12 +117,20 @@ We use the filters and search
 
 ---
 ## Q11: What is the full path of the module that allows arbitrary command execution with the proper user credentials (starting with exploit)?
-### A: 
+### A: exploit/multi/postgres/postgres_copy_from_program_cmd_exec
 
+Search with filters
 
+![](../Img/Pasted%20image%2020260319113709.png)
 
+---
 ## Q12: Compromise the machine and locate user.txt
 ### A: 
+
+Use the above module, change the options, run it
+
+![](../Img/Pasted%20image%2020260319113930.png)
+
 
 ## Q13: Escalate privileges and obtain root.txt
 ### A: 
