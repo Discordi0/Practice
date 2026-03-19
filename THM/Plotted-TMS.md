@@ -106,6 +106,10 @@ Since we are here let's search the user.txt flag
 
 ---
 ## Q2: What is root.txt?
-### A: 
+### A: 53f85e2da3e874426fa059040a9bdcab
 
 Now that we have that user we can use doas to get the final flag (https://gtfobins.org/gtfobins/openssl/#file-read) 
+
+![](../Img/Pasted%20image%2020260319195800.png)
+
+Tags: [Fuzzing](../Index/Fuzzing.md) [File Uploads](../Index/File%20Uploads.md) [Lin Privesc](../Index/Lin%20Privesc.md) [Nmap](../Index/Nmap.md) [SQLi](../Index/SQLi.md) 
