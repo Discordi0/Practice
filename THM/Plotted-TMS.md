@@ -24,8 +24,18 @@ On port 70 we get the usual page
 
 ![](../Img/Pasted%20image%2020260319172628.png)
 
-On it's source co
+On it's source code
 
 ![](../Img/Pasted%20image%2020260319172606.png)
+
+That link get us here
+
+![](../Img/Pasted%20image%2020260319172828.png)
+
+With that i proceded to use gobuster
+
+In admin there is an id_rsa key
+
+![](../Img/Pasted%20image%2020260319172940.png)
 ## Q2: What is root.txt?
 ### A: 
