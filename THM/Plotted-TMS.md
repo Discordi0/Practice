@@ -20,7 +20,7 @@ As the first step we need to do an nmap scan
 
 Since there is port 80 and 445 we check them in our browser
 
-On port 70 we get the usual page
+On port 80 we get the usual page
 
 ![](../Img/Pasted%20image%2020260319172628.png)
 
@@ -58,7 +58,7 @@ The one from admin id_rsa
 
 ![](../Img/Pasted%20image%2020260319173255.png)
 
-Trying fuzzin the directories didn't got anything usefull
+Trying fuzzin the directories didn't got anything useful
 
 So we move to port 445, got the same default page
 
