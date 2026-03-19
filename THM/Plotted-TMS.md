@@ -54,6 +54,10 @@ lmao
 
 ![](../Img/Pasted%20image%2020260319173217.png)
 
-The one fr
+The one from admin id_rsa
+
+![](../Img/Pasted%20image%2020260319173255.png)
+
+
 ## Q2: What is root.txt?
 ### A: 
