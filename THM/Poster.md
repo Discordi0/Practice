@@ -31,10 +31,18 @@ Ok, ty
 
 ---
 ## Q4: After starting Metasploit, search for an associated auxiliary module that allows us to enumerate user credentials. What is the full path of the modules (starting with auxiliary)?
-### A: 
+### A: auxiliary/scanner/postgres/postgres_login
 
+Since we know what we are looking for we can use the filter in metasploit to get better results
+
+![](../Img/Pasted%20image%2020260319104544.png)
+
+The question asks about enumeration so we know which one do we need
+
+---
 ## Q5: What are the credentials you found?  example: user:password
 ### A: 
+
 
 ## Q6: What is the full path of the module that allows you to execute commands with the proper user credentials (starting with auxiliary)?
 ### A: 
