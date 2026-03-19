@@ -88,6 +88,10 @@ I got a reverse shell, change the values, uploaded it and it worked (https://git
 
 ![](../Img/Pasted%20image%2020260319191301.png)
 
+I got linpeas onto the system, and i got a couple of interesting things, but this is the best
+
+![](../Img/Pasted%20image%2020260319194113.png)
+
 
 ## Q2: What is root.txt?
 ### A: 
