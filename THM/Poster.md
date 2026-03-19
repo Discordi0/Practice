@@ -51,16 +51,29 @@ We just get 1 successful pair of credentials
 
 ---
 ## Q6: What is the full path of the module that allows you to execute commands with the proper user credentials (starting with auxiliary)?
-### A: 
+### A: auxiliary/admin/postgres/postgres_sql
 
 We use the filters again
 
 ![](../Img/Pasted%20image%2020260319105134.png)
 
-We see that there are 3 that are not scanners, of the 3 there are 2 that
+We see that there are 3 that are not scanners, of the 3 there are 2 that relevant to the question
 
+Using the info command we can read the description of a module
+
+Description of module index 3
+
+![](../Img/Pasted%20image%2020260319105728.png)
+
+Description of module index 4
+
+![](../Img/Pasted%20image%2020260319105752.png)
+
+---
 ## Q7: Based on the results of #6, what is the rdbms version installed on the server?
 ### A: 
+
+
 
 ## Q8: What is the full path of the module that allows for dumping user hashes (starting with auxiliary)?
 ### A: 
