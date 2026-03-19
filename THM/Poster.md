@@ -41,9 +41,15 @@ The question asks about enumeration so we know which one do we need
 
 ---
 ## Q5: What are the credentials you found?  example: user:password
-### A: 
+### A: postgres:password
 
+Since we know what module to use we just need to select it, change the options and run it
 
+![](../Img/Pasted%20image%2020260319104915.png)
+
+We just get 1 successful pair of credentials
+
+---
 ## Q6: What is the full path of the module that allows you to execute commands with the proper user credentials (starting with auxiliary)?
 ### A: 
 
