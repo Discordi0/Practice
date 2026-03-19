@@ -155,6 +155,21 @@ config.php
 
 Now that we have alison credentials we can get the user.txt file
 
+![](../Img/Pasted%20image%2020260319115900.png)
 
+Find the flag
+
+![](../Img/Pasted%20image%2020260319115925.png)
+
+---
 ## Q13: Escalate privileges and obtain root.txt
 ### A: 
+
+Search for the permissions
+
+![](../Img/Pasted%20image%2020260319120038.png)
+
+Lmao
+
+Escalate and find the root flag
+
