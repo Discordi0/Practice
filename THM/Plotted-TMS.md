@@ -37,5 +37,23 @@ With that i proceded to use gobuster
 In admin there is an id_rsa key
 
 ![](../Img/Pasted%20image%2020260319172940.png)
+
+![](../Img/Pasted%20image%2020260319172953.png)
+
+On shadow
+
+![](../Img/Pasted%20image%2020260319173131.png)
+
+On passwd
+
+![](../Img/Pasted%20image%2020260319173102.png)
+
+Same string on both
+
+lmao 
+
+![](../Img/Pasted%20image%2020260319173217.png)
+
+The one fr
 ## Q2: What is root.txt?
 ### A: 
