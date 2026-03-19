@@ -75,5 +75,15 @@ We have a login form
 ![](../Img/Pasted%20image%2020260319190654.png)
 
 We try different payloads until 1 hit (``admin' or '1'='1'#``)
+
+Seems like we are admins
+
+![](../Img/Pasted%20image%2020260319190807.png)
+
+I went to "my account" and it seems like we can upload a file here
+
+![](../Img/Pasted%20image%2020260319190946.png)
+
+
 ## Q2: What is root.txt?
 ### A: 
