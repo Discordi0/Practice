@@ -131,6 +131,6 @@ Use the above module, change the options, run it
 
 ![](../Img/Pasted%20image%2020260319113930.png)
 
-
+I tried to 
 ## Q13: Escalate privileges and obtain root.txt
 ### A: 
