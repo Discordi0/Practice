@@ -66,6 +66,14 @@ So we move to port 445, got the same default page
 
 And nothing on the source code, so we move to fuzzing
 
+On the management
 
+![](../Img/Pasted%20image%2020260319190625.png)
+
+We have a login form
+
+![](../Img/Pasted%20image%2020260319190654.png)
+
+We try different payloads until 1 hit (``admin' or '1'='1'#``)
 ## Q2: What is root.txt?
 ### A: 
