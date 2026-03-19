@@ -133,6 +133,18 @@ Use the above module, change the options, run it
 
 I tried to just read the user.txt file but i couldn't i guess it is bc i have no permision on the file, so i got linpeas to the machine
 
+Reading through the output i found this
+
+![](../Img/Pasted%20image%2020260319115256.png)
+
+![](../Img/Pasted%20image%2020260319115329.png)
+
+Look at this
+
+![](../Img/Pasted%20image%2020260319115442.png)
+
+![](../Img/Pasted%20image%2020260319115456.png)
+
 
 ## Q13: Escalate privileges and obtain root.txt
 ### A: 
