@@ -57,7 +57,7 @@ We use the filters again
 
 ![](../Img/Pasted%20image%2020260319105134.png)
 
-
+We see that there are 3 that are not scanners, of the 3 there are 2 that
 
 ## Q7: Based on the results of #6, what is the rdbms version installed on the server?
 ### A: 
