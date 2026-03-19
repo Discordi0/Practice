@@ -6,7 +6,7 @@ The sys admin set up a rdbms in a safe way.
 # Questions
 
 ## Q1: What is the rdbms installed on the server?
-### A: 
+### A: postgresql
 
 For this first question we run an nmap scan `nmap -sV -sC -p- -T5 -vv 10.64.131.140`
 
