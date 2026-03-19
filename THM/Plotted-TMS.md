@@ -58,6 +58,10 @@ The one from admin id_rsa
 
 ![](../Img/Pasted%20image%2020260319173255.png)
 
+Trying fuzzin the directories didn't got anything usefull
+
+So we move to port 445
+
 
 ## Q2: What is root.txt?
 ### A: 
