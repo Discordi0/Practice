@@ -109,10 +109,17 @@ Select the module, put the options, run it
 
 ---
 ## Q10: What is the full path of the module (starting with auxiliary) that allows an authenticated user to view files of their choosing on the server?
-### A: 
+### A: auxiliary/admin/postgres/postgres_readfile
 
+We use the filters and search
+
+![](../Img/Pasted%20image%2020260319113539.png)
+
+---
 ## Q11: What is the full path of the module that allows arbitrary command execution with the proper user credentials (starting with exploit)?
 ### A: 
+
+
 
 ## Q12: Compromise the machine and locate user.txt
 ### A: 
