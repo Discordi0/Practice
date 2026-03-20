@@ -36,7 +36,15 @@ Searching for what to do now i found this strange
 
 So i went to /notread
 
+![](../Img/Pasted%20image%2020260320161245.png)
+
+A quick google got me this
+
+![](../Img/Pasted%20image%2020260320161315.png)
+
+![](../Img/Pasted%20image%2020260320161406.png)
+
+So if i'm getting this right, i need to crack private for it to get the pgp file open
 
 
-![](../Img/Pasted%20image%2020260320161229.png)
 
