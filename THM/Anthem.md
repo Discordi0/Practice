@@ -16,15 +16,26 @@ Please give the box up to 5 minutes to boot and configure.
 # Questions
 
 ## Q1: What port is for the web server?
-### A:
+### A: 80
 
+We do an nmap scan on the machine
 
+Before the scan even finishes we can see the port
 
+![](../Img/Pasted%20image%2020260320134718.png)
+
+---
 ## Q2: What port is for remote desktop service?
-### A: 
+### A: 3389
 
+We got it in the nmap scan in Q1
+
+---
 ## Q3: What is a possible password in one of the pages web crawlers check for?
 ### A: 
+
+
+
 
 ## Q4: What CMS is the website using?
 ### A: 
