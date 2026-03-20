@@ -6,7 +6,7 @@ Hack this machine and get the flag. There are lots of hints along the way and is
 # Questions
 
 ## Q1: What was seina's password to the email service?
-### A: 
+### A: scoobydoo2
 
 So first we do an nmap scan
 
@@ -82,4 +82,7 @@ We set the options an run it
 ## Q2: Looking through her emails, what was a temporary password set for her?
 
 ### A: 
+
+Now that we have credentials we are going to try to connect
+
 
