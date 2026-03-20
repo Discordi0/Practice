@@ -30,5 +30,13 @@ Then i searched for the flag, downloaded to my machine and open it
 ## Q2: root.txt
 ### A: 
 
+Searching for what to do now i found this strange
 
+![](../Img/Pasted%20image%2020260320161127.png)
+
+So i went to /notread
+
+
+
+![](../Img/Pasted%20image%2020260320161229.png)
 
