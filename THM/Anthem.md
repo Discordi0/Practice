@@ -96,8 +96,11 @@ This was found while searching the source code, in the search bar(?)
 
 ---
 ## Q10: What is flag 3?
-### A: 
+### A: THM{L0L_WH0_D15}
 
+Inside the profile page of one of the authors of the blog
+
+---
 ## Q11: What is flag 4?
 ### A: 
 
