@@ -52,9 +52,23 @@ seina
 
 stone
 
-Couldn't crack it
+Couldn't crack it :c
 
 mursten
+
+![](../Img/Pasted%20image%2020260319235724.png)
+
+parede
+
+![](../Img/Pasted%20image%2020260319235752.png)
+
+sciana
+
+![](../Img/Pasted%20image%2020260319235828.png)
+
+Now that we have the values we can move to the next step which is metasploit
+
+
 ## Q2: Looking through her emails, what was a temporary password set for her?
 
 ### A: 
