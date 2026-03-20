@@ -12,6 +12,10 @@ So first we do an nmap scan
 
 ![](../Img/Pasted%20image%2020260319234145.png)
 
+On the web page on port 80 there is this message
+
+![](../Img/Pasted%20image%2020260319234422.png)
+
 
 
 ## Q2: Looking through her emails, what was a temporary password set for her?
