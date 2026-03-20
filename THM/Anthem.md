@@ -149,3 +149,5 @@ Now that we have the password i just opened cmd with admin priv
 Search for the flag
 
 ![](../Img/Pasted%20image%2020260320144022.png)
+
+Tags: [[]]
