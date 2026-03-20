@@ -142,6 +142,10 @@ And open it
 ## Q14: Escalate your privileges to root, what is the contents of root.txt?
 ### A: 
 
+Now that we have the password i just opened cmd with admin priv
+
 ![](../Img/Pasted%20image%2020260320143945.png)
+
+Search for the flag
 
 ![](../Img/Pasted%20image%2020260320144022.png)
