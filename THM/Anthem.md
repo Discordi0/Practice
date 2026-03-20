@@ -88,7 +88,11 @@ We can see how the email names are formed
 ## Q8: What is flag 1?
 ### A: 
 
+This one i didn't found in my initial search, so i started to llok again and found it in the metadata of one of the articles
 
+![](../Img/Pasted%20image%2020260320142948.png)
+
+---
 ## Q9: What is flag 2?
 ### A: THM{G!T_G00D}
 
@@ -104,6 +108,11 @@ Inside the profile page of one of the authors of the blog
 ## Q11: What is flag 4?
 ### A: 
 
+Since this one was the other that i didn't find, i did the same thing as in flag 1 but with the other article
+
+![](../Img/Pasted%20image%2020260320143119.png)
+
+---
 ## Q12: Gain initial access to the machine, what is the contents of user.txt?
 ### A: 
 
