@@ -95,4 +95,6 @@ As per the instructions we proceed to connect via ssh and check for group perm a
 
 ![](../Img/Pasted%20image%2020260320003735.png)
 
+In the cube fil
 
+![](../Img/Pasted%20image%2020260320005211.png)
