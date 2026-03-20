@@ -6,7 +6,7 @@ Hack this machine and get the flag. There are lots of hints along the way and is
 # Questions
 
 ## Q1: What was seina's password to the email service?
-### A:
+### A: 
 
 So first we do an nmap scan
 
@@ -74,7 +74,12 @@ Searching for pop3 we have this
 
 Since we need to login we are going to use 3
 
+We set the options an run it
 
+![](../Img/Pasted%20image%2020260320002408.png)
+
+---
 ## Q2: Looking through her emails, what was a temporary password set for her?
 
 ### A: 
+
