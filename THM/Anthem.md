@@ -34,6 +34,9 @@ We got it in the nmap scan in Q1
 ## Q3: What is a possible password in one of the pages web crawlers check for?
 ### A: 
 
+Visiting the page this is what we find
+
+![](../Img/Pasted%20image%2020260320135047.png)
 
 
 
