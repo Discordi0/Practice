@@ -32,7 +32,7 @@ We got it in the nmap scan in Q1
 
 ---
 ## Q3: What is a possible password in one of the pages web crawlers check for?
-### A: 
+### A: UmbracoIsTheBest!
 
 Visiting the page this is what we find
 
@@ -46,10 +46,15 @@ I kept searching and found this in the profile of one of the autors
 
 ![](../Img/Pasted%20image%2020260320140439.png)
 
+At a first glance this i what i found, now for the question we know that crawlers look for robots.txt so we go to that page
 
+![](../Img/Pasted%20image%2020260320141124.png)
 
+---
 ## Q4: What CMS is the website using?
 ### A: 
+
+
 
 ## Q5: What is the domain of the website?
 ### A: 
