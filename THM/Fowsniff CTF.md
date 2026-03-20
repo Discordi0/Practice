@@ -91,4 +91,8 @@ We read the first message
 
 ![](../Img/Pasted%20image%2020260320002938.png)
 
-As per the instructions we proced
+As per the instructions we proceed to connect via ssh and check for group perm and files
+
+![](../Img/Pasted%20image%2020260320003735.png)
+
+
