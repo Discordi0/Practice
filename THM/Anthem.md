@@ -140,7 +140,7 @@ And open it
 
 ---
 ## Q14: Escalate your privileges to root, what is the contents of root.txt?
-### A: 
+### A: THM{Y0U_4R3_1337}
 
 Now that we have the password i just opened cmd with admin priv
 
