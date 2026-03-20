@@ -81,8 +81,14 @@ We set the options an run it
 ---
 ## Q2: Looking through her emails, what was a temporary password set for her?
 
-### A: 
+### A: S1ck3nBluff+secureshell
 
 Now that we have credentials we are going to try to connect
+
+![](../Img/Pasted%20image%2020260320002853.png)
+
+We read the first message
+
+![](../Img/Pasted%20image%2020260320002938.png)
 
 
