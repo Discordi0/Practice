@@ -150,4 +150,4 @@ Search for the flag
 
 ![](../Img/Pasted%20image%2020260320144022.png)
 
-Tags: [[]]
+Tags: [IDOR](../Index/IDOR.md) [Nmap](../Index/Nmap.md) [Win Privesc](../Index/Win%20Privesc.md) 
