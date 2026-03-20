@@ -68,6 +68,12 @@ sciana
 
 Now that we have the values we can move to the next step which is metasploit
 
+Searching for pop3 we have this
+
+![](../Img/Pasted%20image%2020260320000038.png)
+
+Since we need to login we are going to use 3
+
 
 ## Q2: Looking through her emails, what was a temporary password set for her?
 
