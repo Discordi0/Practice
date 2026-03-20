@@ -38,6 +38,10 @@ Visiting the page this is what we find
 
 ![](../Img/Pasted%20image%2020260320135047.png)
 
+Checking the source code i found this
+
+![](../Img/Pasted%20image%2020260320135649.png)
+
 
 
 ## Q4: What CMS is the website using?
