@@ -95,6 +95,14 @@ As per the instructions we proceed to connect via ssh and check for group perm a
 
 ![](../Img/Pasted%20image%2020260320003735.png)
 
-In the cube fil
+In the cube file we add a reverse shell.
+
+As the content of the file it's the same as the banner that we get when we connect with ssh, i assume that it will execute when we connect again, so we exit and reconnect with ssh
+
+![](../Img/Pasted%20image%2020260320005340.png)
+
+Search for the flag
 
 ![](../Img/Pasted%20image%2020260320005211.png)
+
+Tags: [Lin Privesc](../Index/Lin%20Privesc.md) [Metasploit](../Index/Metasploit.md) [Nmap](../Index/Nmap.md) [Password Cracking](../Index/Password%20Cracking.md) 

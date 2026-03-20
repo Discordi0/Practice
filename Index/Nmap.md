@@ -7,6 +7,7 @@
 + [Easy Peasy](../THM/Easy%20Peasy.md) 
 + [Expressway](../HBT/Machines/Expressway.md) 
 + [Flatline](../THM/Flatline.md) 
++ [Fowsniff CTF](../THM/Fowsniff%20CTF.md) 
 + [Gallery](../THM/Gallery.md) 
 + [Hospital](../HBT/Machines/Hospital.md)
 + [Lame](../HBT/Machines/Lame.md)
