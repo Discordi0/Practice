@@ -32,3 +32,8 @@ This is what i got
 
 ![](../Img/Pasted%20image%2020260320165252.png)
 
+Searching for PHP 8.1.0-dev got mi this (https://www.exploit-db.com/exploits/49933)
+
+
+
+
