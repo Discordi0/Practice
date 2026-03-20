@@ -124,7 +124,7 @@ We can RDP into the machine with the credentials that we found (name of the admi
 
 ---
 ## Q13: Can we spot the admin password?
-### A: 
+### A: ChangeMeBaby1MoreTime
 
 I started to look in the machine and came across this
 
@@ -134,7 +134,14 @@ So i do what it says and add me in it's permissions
 
 ![](../Img/Pasted%20image%2020260320143736.png)
 
+And open it
 
+![](../Img/Pasted%20image%2020260320143746.png)
 
+---
 ## Q14: Escalate your privileges to root, what is the contents of root.txt?
 ### A: 
+
+![](../Img/Pasted%20image%2020260320143945.png)
+
+![](../Img/Pasted%20image%2020260320144022.png)
