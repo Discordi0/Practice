@@ -28,7 +28,7 @@ Then i searched for the flag, downloaded to my machine and open it
 
 ---
 ## Q2: root.txt
-### A: 
+### A: f706456440c7af4187810c31c6cebdce
 
 Searching for what to do now i found this strange
 
@@ -56,5 +56,15 @@ With this passphrase(?) we can open the pgp file
 
 ![](../Img/Pasted%20image%2020260320162032.png)
 
+We have to crack the root hash now with john again
+
+![](../Img/Pasted%20image%2020260320162318.png)
+
+Now we can ssh into the target and get the flag
+
+![](../Img/Pasted%20image%2020260320162411.png)
+
+![](../Img/Pasted%20image%2020260320162427.png)
 
 
+Tags: [[]]
