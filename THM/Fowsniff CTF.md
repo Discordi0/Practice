@@ -30,6 +30,16 @@ This is the content
 
 ![](../Img/Pasted%20image%2020260319234929.png)
 
+mauer
+
+![](../Img/Pasted%20image%2020260319235244.png)
+
+mustikka
+
+![](../Img/Pasted%20image%2020260319235333.png)
+
+tegel
+
 
 ## Q2: Looking through her emails, what was a temporary password set for her?
 
