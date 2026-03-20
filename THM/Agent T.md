@@ -12,7 +12,7 @@ After deploying the vulnerable machine attached to this task, please wait a coup
 # Questions
 
 ## Q1: What is the flag?
-### A: 
+### A: flag{4127d0530abf16d6d23973e3df8dbecb}
 
 First with the nmap scan
 
@@ -34,6 +34,15 @@ This is what i got
 
 Searching for PHP 8.1.0-dev got mi this (https://www.exploit-db.com/exploits/49933)
 
+So we download it and check
 
+![](../Img/Pasted%20image%2020260320170552.png)
+
+Seem like i'm already root, so we just need to search for the flag
+
+![](../Img/Pasted%20image%2020260320170525.png)
+
+
+Tags: [[]]
 
 
