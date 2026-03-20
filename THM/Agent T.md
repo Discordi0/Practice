@@ -14,3 +14,13 @@ After deploying the vulnerable machine attached to this task, please wait a coup
 ## Q1: What is the flag?
 ### A: 
 
+First with the nmap scan
+
+![](../Img/Pasted%20image%2020260320163218.png)
+
+We can already see that there is a web page (as per the description of the box)
+
+I just opened the page and seems like i'm already admin
+
+![](../Img/Pasted%20image%2020260320163352.png)
+
