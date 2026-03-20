@@ -43,6 +43,6 @@ Seem like i'm already root, so we just need to search for the flag
 ![](../Img/Pasted%20image%2020260320170525.png)
 
 
-Tags: [[]]
+Tags: [Lin Privesc](../Index/Lin%20Privesc.md) [Nmap](../Index/Nmap.md) 
 
 
