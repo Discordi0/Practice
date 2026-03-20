@@ -106,7 +106,7 @@ Inside the profile page of one of the authors of the blog
 
 ---
 ## Q11: What is flag 4?
-### A: 
+### A: THM{AN0TH3R_M3TA}
 
 Since this one was the other that i didn't find, i did the same thing as in flag 1 but with the other article
 
@@ -114,7 +114,7 @@ Since this one was the other that i didn't find, i did the same thing as in flag
 
 ---
 ## Q12: Gain initial access to the machine, what is the contents of user.txt?
-### A: 
+### A: THM{N00T_NO0T}
 
 We can RDP into the machine with the credentials that we found (name of the admin and pass from robots.txt)
 
@@ -125,6 +125,16 @@ We can RDP into the machine with the credentials that we found (name of the admi
 ---
 ## Q13: Can we spot the admin password?
 ### A: 
+
+I started to look in the machine and came across this
+
+![](../Img/Pasted%20image%2020260320143607.png)
+
+So i do what it says and add me in it's permissions
+
+![](../Img/Pasted%20image%2020260320143736.png)
+
+
 
 ## Q14: Escalate your privileges to root, what is the contents of root.txt?
 ### A: 
