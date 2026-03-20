@@ -24,4 +24,5 @@ I just opened the page and seems like i'm already admin
 
 ![](../Img/Pasted%20image%2020260320163352.png)
 
-Reading it's source code 
+Reading it's source code i found nothing
+
