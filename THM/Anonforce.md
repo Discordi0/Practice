@@ -67,4 +67,4 @@ Now we can ssh into the target and get the flag
 ![](../Img/Pasted%20image%2020260320162427.png)
 
 
-Tags: [[]]
+Tags: [FTP](../Index/FTP.md) [Nmap](../Index/Nmap.md) [Password Cracking](../Index/Password%20Cracking.md) 
