@@ -116,6 +116,13 @@ Since this one was the other that i didn't find, i did the same thing as in flag
 ## Q12: Gain initial access to the machine, what is the contents of user.txt?
 ### A: 
 
+We can RDP into the machine with the credentials that we found (name of the admin and pass from robots.txt)
+
+![](../Img/Pasted%20image%2020260320143401.png)
+
+![](../Img/Pasted%20image%2020260320143421.png)
+
+---
 ## Q13: Can we spot the admin password?
 ### A: 
 
