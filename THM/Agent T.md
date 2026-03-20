@@ -26,4 +26,9 @@ I just opened the page and seems like i'm already admin
 
 Reading it's source code i found nothing
 
-After 10+ min the scan didn't give an ou
+After 10+ min the scan didn't give an output, so i had to make a new one only on port 80
+
+This is what i got
+
+![](../Img/Pasted%20image%2020260320165252.png)
+
