@@ -52,15 +52,21 @@ At a first glance this i what i found, now for the question we know that crawler
 
 ---
 ## Q4: What CMS is the website using?
-### A: 
+### A: umbraco
 
+We get it from robots.txt
 
-
+---
 ## Q5: What is the domain of the website?
-### A: 
+### A: anthem.com
 
+It's everywhere
+
+---
 ## Q6: What's the name of the Administrator
 ### A: 
+
+
 
 ## Q7: Can we find find the email address of the administrator?
 ### A: 
