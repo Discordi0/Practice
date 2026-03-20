@@ -26,3 +26,4 @@ I just opened the page and seems like i'm already admin
 
 Reading it's source code i found nothing
 
+After 10+ min the scan didn't give an ou
