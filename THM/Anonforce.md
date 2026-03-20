@@ -54,3 +54,7 @@ We use pgp2john first, the crack it with john
 
 With this passphrase(?) we can open the pgp file
 
+![](../Img/Pasted%20image%2020260320162032.png)
+
+
+
