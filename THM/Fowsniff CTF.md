@@ -40,7 +40,21 @@ mustikka
 
 tegel
 
+![](../Img/Pasted%20image%2020260319235411.png)
 
+baksteen
+
+![](../Img/Pasted%20image%2020260319235449.png)
+
+seina
+
+![](../Img/Pasted%20image%2020260319235519.png)
+
+stone
+
+Couldn't crack it
+
+mursten
 ## Q2: Looking through her emails, what was a temporary password set for her?
 
 ### A: 
