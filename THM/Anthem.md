@@ -64,7 +64,13 @@ It's everywhere
 
 ---
 ## Q6: What's the name of the Administrator
-### A: 
+### A: Solomon Grundy
+
+This one was more tricky, while looking around the page i found a poem
+
+![](../Img/Pasted%20image%2020260320141856.png)
+
+Googling that got me to a wikipedia page (https://en.wikipedia.org/wiki/Solomon_Grundy_(nursery_rhyme))
 
 
 
