@@ -72,17 +72,29 @@ This one was more tricky, while looking around the page i found a poem
 
 Googling that got me to a wikipedia page (https://en.wikipedia.org/wiki/Solomon_Grundy_(nursery_rhyme))
 
+![](../Img/Pasted%20image%2020260320141921.png)
 
-
+---
 ## Q7: Can we find find the email address of the administrator?
-### A: 
+### A: SG@anthem.com
 
+This was in one of the articles
+
+![](../Img/Pasted%20image%2020260320141948.png)
+
+We can see how the email names are formed
+
+---
 ## Q8: What is flag 1?
 ### A: 
 
-## Q9: What is flag 2?
-### A: 
 
+## Q9: What is flag 2?
+### A: THM{G!T_G00D}
+
+This was found while searching the source code, in the search bar(?)
+
+---
 ## Q10: What is flag 3?
 ### A: 
 
