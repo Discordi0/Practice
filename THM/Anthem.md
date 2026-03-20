@@ -42,6 +42,10 @@ Checking the source code i found this
 
 ![](../Img/Pasted%20image%2020260320135649.png)
 
+I kept searching and found this in the profile of one of the autors
+
+![](../Img/Pasted%20image%2020260320140439.png)
+
 
 
 ## Q4: What CMS is the website using?
