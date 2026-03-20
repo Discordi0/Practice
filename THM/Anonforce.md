@@ -46,5 +46,11 @@ A quick google got me this
 
 So if i'm getting this right, i need to crack private for it to get the pgp file open
 
+We use pgp2john first, the crack it with john
 
+![](../Img/Pasted%20image%2020260320161759.png)
+
+![](../Img/Pasted%20image%2020260320161746.png)
+
+With this passphrase(?) we can open the pgp file
 
