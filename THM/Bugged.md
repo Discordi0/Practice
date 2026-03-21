@@ -56,8 +56,41 @@ Encoding the message
 
 ![](../Img/Pasted%20image%2020260321185133.png)
 
-Sen
+Sending it
+
 ![](../Img/Pasted%20image%2020260321185146.png)
 
+The response
+
 ![](../Img/Pasted%20image%2020260321185201.png)
+
+lmao ok
+
+![](../Img/Pasted%20image%2020260321185237.png)
+
+Changing it
+
+Encoding
+
+![](../Img/Pasted%20image%2020260321185307.png)
+
+Sending
+
+![](../Img/Pasted%20image%2020260321185323.png)
+
+Recieving
+
+![](../Img/Pasted%20image%2020260321185337.png)
+
+Ok this is better
+
+![](../Img/Pasted%20image%2020260321185354.png)
+
+Now that we now that works, we need to get the flag
+
+![](../Img/Pasted%20image%2020260321185446.png)
+
+Sending it
+
+![](../Img/Pasted%20image%2020260321185504.png)
 
