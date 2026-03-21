@@ -113,7 +113,11 @@ Seems like the last file has an error in it's format
 
 Checking it in a hexeditor we see the error (https://medium.com/@0xwan/png-structure-for-beginner-8363ce2a9f73)
 
+After changing it's format we get this
 
+![](../Img/Pasted%20image%2020260321170012.png)
+
+This is what that image was
 
 ## Q5: user.txt
 ### A: 
