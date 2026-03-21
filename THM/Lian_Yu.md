@@ -38,6 +38,8 @@ We check it
 
 ![](../Img/Pasted%20image%2020260321155452.png)
 
+Gobuster scan finished with no more hits, so i ran another one but with the medium list
+
 
 
 ## Q2: what is the file name you found?
