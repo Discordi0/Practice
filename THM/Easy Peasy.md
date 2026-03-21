@@ -182,4 +182,4 @@ Search for the flag
 ![](../Img/Pasted%20image%2020260318124840.png)
 
 
-Tags: [Fuzzing](../Index/Fuzzing.md) [Lin Privesc](../Index/Lin%20Privesc.md) [Nmap](../Index/Nmap.md) [Password Cracking](../Index/Password%20Cracking.md) 
+Tags: [Fuzzing](../Index/Fuzzing.md) [Lin Privesc](../Index/Lin%20Privesc.md) [Nmap](../Index/Nmap.md) [Password Cracking](../Index/Password%20Cracking.md) [Steg](../Index/Steg.md) 

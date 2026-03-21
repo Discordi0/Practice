@@ -14,6 +14,7 @@
 + [Gallery](../THM/Gallery.md) 
 + [Hospital](../HBT/Machines/Hospital.md)
 + [Lame](../HBT/Machines/Lame.md)
++ [Lian_Yu](../THM/Lian_Yu.md) 
 + [Light](../THM/Light.md) 
 + [Mustacchio](../THM/Mustacchio.md) 
 + [Plotted-TMS](../THM/Plotted-TMS.md) 
