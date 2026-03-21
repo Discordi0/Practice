@@ -119,6 +119,16 @@ After changing it's format we get this
 
 This is what that image was
 
+![](../Img/Pasted%20image%2020260321170145.png)
+
+Opening the other files didn't get us nowhere
+
+Checking the other file with steghide we get this
+
+![](../Img/Pasted%20image%2020260321170438.png)
+
+
+
 ## Q5: user.txt
 ### A: 
 
