@@ -18,3 +18,7 @@ After a lot of tries i got something other that port 22 or just no response
 
 ![](../Img/Pasted%20image%2020260321180914.png)
 
+Now, i don't know what this is so google it is (https://mosquitto.org/)
+
+![](../Img/Pasted%20image%2020260321181028.png)
+
