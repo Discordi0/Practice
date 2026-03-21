@@ -85,7 +85,7 @@ The string we got from the page it's encoded, so i went to cyber chef and tried 
 ## Q4: what is the file name with SSH password?
 ### A: 
 
-
+Since we have cre
 
 ## Q5: user.txt
 ### A: 
