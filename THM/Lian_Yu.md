@@ -28,6 +28,16 @@ My nmap scan finally finished
 
 Since the page in itself didn't have much to see, i used gobuster to search for directories
 
+The first that i found it's this
+
+![](../Img/Pasted%20image%2020260321155428.png)
+
+We check it
+
+![](../Img/Pasted%20image%2020260321155443.png)
+
+![](../Img/Pasted%20image%2020260321155452.png)
+
 
 
 ## Q2: what is the file name you found?
