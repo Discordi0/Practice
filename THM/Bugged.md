@@ -30,3 +30,8 @@ I tried with the python script from the "pentesting MQTT" section and got it wor
 
 So i installed mosquitto and mosquitto-clients
 
+This method did work
+
+![](../Img/Pasted%20image%2020260321183944.png)
+
+Wo
