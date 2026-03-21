@@ -14,3 +14,7 @@ Seems like this machine it's some type of iot device mitm(?)
 
 We just need to start with an nmap scan
 
+After a lot of tries i got something other that port 22 or just no response
+
+![](../Img/Pasted%20image%2020260321180914.png)
+
