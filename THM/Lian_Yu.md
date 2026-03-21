@@ -83,7 +83,7 @@ The string we got from the page it's encoded, so i went to cyber chef and tried 
 
 ---
 ## Q4: what is the file name with SSH password?
-### A: 
+### A: shado
 
 Since we have some credentials we can try to login in ftp
 
@@ -137,10 +137,26 @@ Checking the files
 
 I guess that the shado file it's a password so i tried to ssh with it
 
+It actually was
 
+![](../Img/Pasted%20image%2020260321170812.png)
 
+---
 ## Q5: user.txt
-### A: 
+### A: THM{P30P7E_K33P_53CRET5__C0MPUT3R5_D0N'T}
 
+Now that we have access just find the user flag
+
+![](../Img/Pasted%20image%2020260321170828.png)
+
+---
 ## Q6: root.txt
 ### A: 
+
+Now we need to privesc
+
+Checking for what we can use i got this
+
+![](../Img/Pasted%20image%2020260321171018.png)
+
+
