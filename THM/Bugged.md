@@ -42,3 +42,12 @@ Get it in cyberchef
 
 ![](../Img/Pasted%20image%2020260321184046.png)
 
+If i subscribe to pub_topic and send a message to sub_topic we can see the response
+
+![](../Img/Pasted%20image%2020260321184729.png)
+
+This is the message decoded
+
+![](../Img/Pasted%20image%2020260321184759.png)
+
+If i get this correctly i need to base64 encode a message in that parameter
