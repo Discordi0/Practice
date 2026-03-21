@@ -88,9 +88,13 @@ Ok this is better
 
 Now that we now that works, we need to get the flag
 
-![](../Img/Pasted%20image%2020260321185446.png)
+![](../Img/Pasted%20image%2020260321185626.png)
 
 Sending it
 
 ![](../Img/Pasted%20image%2020260321185504.png)
+
+Getting it
+
+![](../Img/Pasted%20image%2020260321185543.png)
 
