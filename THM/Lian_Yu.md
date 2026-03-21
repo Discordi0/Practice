@@ -159,4 +159,6 @@ Checking for what we can use i got this
 
 ![](../Img/Pasted%20image%2020260321171018.png)
 
+Searching for an exploit i came across this (https://www.exploit-db.com/exploits/17942)
 
+Download the file and exploit 
