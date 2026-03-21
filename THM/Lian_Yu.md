@@ -10,6 +10,18 @@ Welcome to Lian_YU, this Arrowverse themed beginner CTF box! Capture the flags a
 ## Q1: What is the Web Directory you found?
 ### A: 
 
+First we do an nmap scan
+
+![](../Img/Pasted%20image%2020260321154253.png)
+
+Before the scan finishes we can see some of the open ports
+
+I first checked out the web page
+
+![](../Img/Pasted%20image%2020260321154349.png)
+
+
+
 ## Q2: what is the file name you found?
 ### A: 
 
