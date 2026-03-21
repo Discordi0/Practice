@@ -22,4 +22,5 @@ Now, i don't know what this is so google it is (https://mosquitto.org/)
 
 ![](../Img/Pasted%20image%2020260321181028.png)
 
-I tried to find some exploit but couldn't 
+I tried to find some exploit but couldn't, but i got this (https://hacktricks.wiki/en/network-services-pentesting/1883-pentesting-mqtt-mosquitto.html?highlight=mosquitto#1883---pentesting-mqtt-mosquitto)
+
