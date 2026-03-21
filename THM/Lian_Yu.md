@@ -60,7 +60,7 @@ This was in the page source code
 
 ---
 ## Q2: what is the file name you found?
-### A: 
+### A: green_arrow.ticket
 
 Seems like i need to find a file, and with the hint we got i did a new gobuster scan but searching for a .ticket file
 
@@ -68,13 +68,24 @@ We can see that it got one file
 
 ![](../Img/Pasted%20image%2020260321163955.png)
 
+And the page
 
+![](../Img/Pasted%20image%2020260321164025.png)
 
+---
 ## Q3: what is the FTP Password?
-### A: 
+### A: !#th3h00d
 
+
+The string we got from the page it's encoded, so i went to cyber chef and tried until i found the answer
+
+![](../Img/Pasted%20image%2020260321164245.png)
+
+---
 ## Q4: what is the file name with SSH password?
 ### A: 
+
+
 
 ## Q5: user.txt
 ### A: 
