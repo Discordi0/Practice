@@ -8,7 +8,7 @@ Welcome to Lian_YU, this Arrowverse themed beginner CTF box! Capture the flags a
 # Questions
 
 ## Q1: What is the Web Directory you found?
-### A: 
+### A: 2100
 
 First we do an nmap scan
 
@@ -54,10 +54,17 @@ In the web page we find this
 
 ![](../Img/Pasted%20image%2020260321162459.png)
 
+This was in the page source code
 
+![](../Img/Pasted%20image%2020260321162538.png)
 
+---
 ## Q2: what is the file name you found?
 ### A: 
+
+Seems like i need to find a file, and with the hint we got i did a new gobuster scan but searching for a .ticket file
+
+
 
 ## Q3: what is the FTP Password?
 ### A: 
