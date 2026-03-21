@@ -40,6 +40,20 @@ We check it
 
 Gobuster scan finished with no more hits, so i ran another one but with the medium list
 
+I got this one also
+
+![](../Img/Pasted%20image%2020260321162345.png)
+
+Now we scan /island
+
+First result
+
+![](../Img/Pasted%20image%2020260321162412.png)
+
+In the web page we find this
+
+![](../Img/Pasted%20image%2020260321162459.png)
+
 
 
 ## Q2: what is the file name you found?
