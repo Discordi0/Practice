@@ -22,6 +22,12 @@ I first checked out the web page
 
 Not much to see on the source code
 
+My nmap scan finally finished
+
+![](../Img/Pasted%20image%2020260321155248.png)
+
+Since the page in itself didn't have much to see, i used gobuster to search for directories
+
 
 
 ## Q2: what is the file name you found?
