@@ -34,4 +34,11 @@ This method did work
 
 ![](../Img/Pasted%20image%2020260321183944.png)
 
-Wo
+Got something
+
+![](../Img/Pasted%20image%2020260321184006.png)
+
+Get it in cyberchef
+
+![](../Img/Pasted%20image%2020260321184046.png)
+
