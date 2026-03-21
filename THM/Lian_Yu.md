@@ -127,6 +127,16 @@ Checking the other file with steghide we get this
 
 ![](../Img/Pasted%20image%2020260321170438.png)
 
+This is what that .zip file had
+
+![](../Img/Pasted%20image%2020260321170623.png)
+
+Checking the files
+
+![](../Img/Pasted%20image%2020260321170649.png)
+
+I guess that the shado file it's a password so i tried to ssh with it
+
 
 
 ## Q5: user.txt
