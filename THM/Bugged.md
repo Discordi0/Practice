@@ -24,3 +24,9 @@ Now, i don't know what this is so google it is (https://mosquitto.org/)
 
 I tried to find some exploit but couldn't, but i got this (https://hacktricks.wiki/en/network-services-pentesting/1883-pentesting-mqtt-mosquitto.html?highlight=mosquitto#1883---pentesting-mqtt-mosquitto)
 
+I tried with the python script from the "pentesting MQTT" section and got it working but no message recieved
+
+![](../Img/Pasted%20image%2020260321183513.png)
+
+So i installed mosquitto and mosquitto-clients
+
