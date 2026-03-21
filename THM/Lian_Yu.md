@@ -89,7 +89,27 @@ Since we have some credentials we can try to login in ftp
 
 ![](../Img/Pasted%20image%2020260321164646.png)
 
+This is what i gathered from ftp
 
+![](../Img/Pasted%20image%2020260321165249.png)
+
+I downloaded the png and jpg files
+
+This is what exiftool got from the files
+
+aa.jpg
+
+![](../Img/Pasted%20image%2020260321165446.png)
+
+Queen's
+
+![](../Img/Pasted%20image%2020260321165513.png)
+
+Leave's
+
+![](../Img/Pasted%20image%2020260321165534.png)
+
+S
 
 ## Q5: user.txt
 ### A: 
