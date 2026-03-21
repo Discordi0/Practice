@@ -22,3 +22,4 @@ Now, i don't know what this is so google it is (https://mosquitto.org/)
 
 ![](../Img/Pasted%20image%2020260321181028.png)
 
+I tried to find some exploit but couldn't 
