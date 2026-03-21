@@ -5,6 +5,7 @@
 + [Archangel](../THM/Archangel.md) 
 + [Blackpearl](../TCM/Blackpearl.md) 
 + [Bucket](../HBT/Machines/Bucket.md)
++ [Bugged](../THM/Bugged.md) 
 + [Cap](../HBT/Machines/Cap.md)
 + [Cat Pictures 2](../THM/Cat%20Pictures%202.md) 
 + [Easy Peasy](../THM/Easy%20Peasy.md) 

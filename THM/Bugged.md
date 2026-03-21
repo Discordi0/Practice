@@ -8,7 +8,7 @@ John was working on his smart home appliances when he noticed weird traffic goin
 # Questions
 
 ## Q1: What is the flag?
-### A: 
+### A: flag{18d44fc0707ac8dc8be45bb83db54013}
 
 Seems like this machine it's some type of iot device mitm(?)
 
@@ -92,9 +92,14 @@ Now that we now that works, we need to get the flag
 
 Sending it
 
-![](../Img/Pasted%20image%2020260321185504.png)
+![](../Img/Pasted%20image%2020260321185836.png)
 
 Getting it
 
-![](../Img/Pasted%20image%2020260321185543.png)
+![](../Img/Pasted%20image%2020260321185853.png)
 
+Decode it
+
+![](../Img/Pasted%20image%2020260321185933.png)
+
+Tags: [MQTT](../Index/MQTT.md) [Nmap](../Index/Nmap.md) 
