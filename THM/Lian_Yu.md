@@ -151,7 +151,7 @@ Now that we have access just find the user flag
 
 ---
 ## Q6: root.txt
-### A: 
+### A: THM{MY_W0RD_I5_MY_B0ND_IF_I_ACC3PT_YOUR_CONTRACT_THEN_IT_WILL_BE_COMPL3TED_OR_I'LL_BE_D34D}
 
 Now we need to privesc
 
@@ -169,4 +169,4 @@ Seems like i was right
 
 ![](../Img/Pasted%20image%2020260321171951.png)
 
-
+Tags: [Fuzzing](../Index/Fuzzing.md) [FTP](../Index/FTP.md) [Lin Privesc](../Index/Lin%20Privesc.md) [Nmap](../Index/Nmap.md) [Steg](../Index/Steg.md) 
