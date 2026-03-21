@@ -85,7 +85,11 @@ The string we got from the page it's encoded, so i went to cyber chef and tried 
 ## Q4: what is the file name with SSH password?
 ### A: 
 
-Since we have cre
+Since we have some credentials we can try to login in ftp
+
+![](../Img/Pasted%20image%2020260321164646.png)
+
+
 
 ## Q5: user.txt
 ### A: 
