@@ -50,4 +50,14 @@ This is the message decoded
 
 ![](../Img/Pasted%20image%2020260321184759.png)
 
-If i get this correctly i need to base64 encode a message in that parameter
+If i get this correctly i need to base64 encode a message in that parameters and i get RCE(?)
+
+Encoding the message
+
+![](../Img/Pasted%20image%2020260321185133.png)
+
+Sen
+![](../Img/Pasted%20image%2020260321185146.png)
+
+![](../Img/Pasted%20image%2020260321185201.png)
+
