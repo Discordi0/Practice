@@ -64,6 +64,10 @@ This was in the page source code
 
 Seems like i need to find a file, and with the hint we got i did a new gobuster scan but searching for a .ticket file
 
+We can see that it got one file
+
+![](../Img/Pasted%20image%2020260321163955.png)
+
 
 
 ## Q3: what is the FTP Password?
