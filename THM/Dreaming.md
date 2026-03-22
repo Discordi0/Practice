@@ -48,6 +48,9 @@ lol password worked
 
 ![](../Img/Pasted%20image%2020260322141821.png)
 
+Searching for an exploit got me this
+
+![](../Img/Pasted%20image%2020260322142111.png)
 
 ## Q2: What is the Death Flag?
 ### A: 
