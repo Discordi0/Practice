@@ -64,6 +64,17 @@ We have some users
 
 ![](../Img/Pasted%20image%2020260322143036.png)
 
+Next i got a reverse shell to my machine
+
+Since Lucien it's the first flag, let's check for something interesting there
+
+![](../Img/Pasted%20image%2020260322144025.png)
+
+This is what we have in the first file
+
+![](../Img/Pasted%20image%2020260322144058.png)
+
+
 ## Q2: What is the Death Flag?
 ### A: 
 ## Q3: What is the Morpheus Flag?
