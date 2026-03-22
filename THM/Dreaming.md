@@ -108,6 +108,12 @@ We try the credentials
 
 ![](../Img/Pasted%20image%2020260322145318.png)
 
+Since i know that the /opt script will read the contents of the table, i insert a reverse shell
+
+![](../Img/Pasted%20image%2020260322145558.png)
+
+Get the flag
+
 
 ## Q3: What is the Morpheus Flag?
 ### A: 
