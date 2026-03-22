@@ -56,6 +56,13 @@ Reading through the exploit we get it's usage
 
 Download it and check if it works
 
+![](../Img/Pasted%20image%2020260322142949.png)
+
+![](../Img/Pasted%20image%2020260322143005.png)
+
+We have some users
+
+![](../Img/Pasted%20image%2020260322143036.png)
 
 ## Q2: What is the Death Flag?
 ### A: 
