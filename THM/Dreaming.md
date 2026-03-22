@@ -118,7 +118,7 @@ Get the flag
 
 ---
 ## Q3: What is the Morpheus Flag?
-### A: 
+### A: THM{DR34MS_5H4P3_TH3_W0RLD}
 
 Now we need to check how to get here
 
@@ -128,6 +128,18 @@ Seems like it's all files in it's directory
 
 ![](../Img/Pasted%20image%2020260322150145.png)
 
+Seems like this is my entry point(?)
 
+Let's see what that file is
+
+![](../Img/Pasted%20image%2020260322150742.png)
+
+Seem like it's mine, so i just replace it with a reverse shell and wait
 
 ![](../Img/Pasted%20image%2020260322150541.png)
+
+Got it
+
+![](../Img/Pasted%20image%2020260322150851.png)
+
+Tags: [Fuzzing](../Index/Fuzzing.md) [[]]
