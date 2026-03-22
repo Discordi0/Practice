@@ -84,7 +84,7 @@ And got the flag
 
 ---
 ## Q2: What is the Death Flag?
-### A: 
+### A: THM{1M_TH3R3_4_TH3M}
 
 Checking what i can do i got this
 
@@ -114,6 +114,13 @@ Since i know that the /opt script will read the contents of the table, i insert 
 
 Get the flag
 
+![](../Img/Pasted%20image%2020260322145800.png)
 
+---
 ## Q3: What is the Morpheus Flag?
 ### A: 
+
+Now we need to check how to get here
+
+![](../Img/Pasted%20image%2020260322145942.png)
+
