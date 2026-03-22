@@ -85,5 +85,15 @@ And got the flag
 ---
 ## Q2: What is the Death Flag?
 ### A: 
+
+Checking what i can do i got this
+
+![](../Img/Pasted%20image%2020260322144632.png)
+
+And checking for death 
+
+![](../Img/Pasted%20image%2020260322144728.png)
+
+
 ## Q3: What is the Morpheus Flag?
 ### A: 
