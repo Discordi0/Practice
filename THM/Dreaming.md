@@ -94,6 +94,16 @@ And checking for death
 
 ![](../Img/Pasted%20image%2020260322144728.png)
 
+Going to opt again this is what that file has
+
+![](../Img/Pasted%20image%2020260322144904.png)
+
+Sadly password is redacted
+
+Checking the lucien user history
+
+![](../Img/Pasted%20image%2020260322145014.png)
+
 
 ## Q3: What is the Morpheus Flag?
 ### A: 
