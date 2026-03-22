@@ -42,6 +42,8 @@ There is also a login page
 
 ![](../Img/Pasted%20image%2020260322141059.png)
 
+Nothing to see on the source code of both
+
 
 ## Q2: What is the Death Flag?
 ### A: 
