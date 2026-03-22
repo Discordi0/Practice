@@ -8,6 +8,7 @@
 + [Bugged](../THM/Bugged.md) 
 + [Cap](../HBT/Machines/Cap.md)
 + [Cat Pictures 2](../THM/Cat%20Pictures%202.md) 
++ [Dreaming](../THM/Dreaming.md) 
 + [Easy Peasy](../THM/Easy%20Peasy.md) 
 + [Expressway](../HBT/Machines/Expressway.md) 
 + [Flatline](../THM/Flatline.md) 

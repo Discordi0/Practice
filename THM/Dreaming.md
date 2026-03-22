@@ -142,4 +142,4 @@ Got it
 
 ![](../Img/Pasted%20image%2020260322150851.png)
 
-Tags: [Fuzzing](../Index/Fuzzing.md) [[]]
+Tags: [Fuzzing](../Index/Fuzzing.md) [Lin Privesc](../Index/Lin%20Privesc.md) [Nmap](../Index/Nmap.md) [SQLi](../Index/SQLi.md) 
