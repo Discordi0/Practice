@@ -52,6 +52,11 @@ Searching for an exploit got me this
 
 ![](../Img/Pasted%20image%2020260322142111.png)
 
+Reading through the exploit we get it's usage
+
+Download it and check if it works
+
+
 ## Q2: What is the Death Flag?
 ### A: 
 ## Q3: What is the Morpheus Flag?
