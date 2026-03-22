@@ -44,6 +44,10 @@ There is also a login page
 
 Nothing to see on the source code of both
 
+lol password worked
+
+![](../Img/Pasted%20image%2020260322141821.png)
+
 
 ## Q2: What is the Death Flag?
 ### A: 
