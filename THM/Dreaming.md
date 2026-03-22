@@ -24,6 +24,10 @@ This seems like the regular ubuntu/apache page
 
 ![](../Img/Pasted%20image%2020260322140029.png)
 
+Nothing on the source code
+
+We procced to use gobuster ans see if it has any other directory
+
 
 ## Q2: What is the Death Flag?
 ### A: 
