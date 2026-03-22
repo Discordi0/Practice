@@ -104,6 +104,10 @@ Checking the lucien user history
 
 ![](../Img/Pasted%20image%2020260322145014.png)
 
+We try the credentials
+
+![](../Img/Pasted%20image%2020260322145318.png)
+
 
 ## Q3: What is the Morpheus Flag?
 ### A: 
