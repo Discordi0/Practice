@@ -124,3 +124,7 @@ Now we need to check how to get here
 
 ![](../Img/Pasted%20image%2020260322145942.png)
 
+Seems like it's all files in it's directory
+
+![](../Img/Pasted%20image%2020260322150145.png)
+
