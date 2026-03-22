@@ -10,7 +10,7 @@ Can you help Sandman restore his kingdom?
 # Questions
 
 ## Q1: What is the Lucien Flag?
-### A: 
+### A: THM{TH3_L1BR4R14N}
 
 First we start with an nmap scan
 
@@ -74,7 +74,15 @@ This is what we have in the first file
 
 ![](../Img/Pasted%20image%2020260322144058.png)
 
+With the password i loged in with ssh
 
+![](../Img/Pasted%20image%2020260322144417.png)
+
+And got the flag
+
+![](../Img/Pasted%20image%2020260322144444.png)
+
+---
 ## Q2: What is the Death Flag?
 ### A: 
 ## Q3: What is the Morpheus Flag?
