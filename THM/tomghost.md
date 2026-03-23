@@ -18,6 +18,20 @@ I started with an nmap scan
 
 We can see that we have some interesting ports open, i started with port 8009 bc it's the one that i have never seen
 
+I searched for an exploit and found that there was one in metasploit
+
+Open msfconsole and find it
+
+![](../Img/Pasted%20image%2020260323192401.png)
+
+Select it and set the options
+
+This is what i got
+
+![](../Img/Pasted%20image%2020260323192348.png)
+
+I have no idea what those are for, but since we have ssh (port 22) open, lets try them there
+
 
 ## Q2: Escalate privileges and obtain root.txt
 
