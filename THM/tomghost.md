@@ -47,4 +47,11 @@ Find the flag
 
 Now we need to privesc in the user directory we found a .pgp file, so i assume that this is the route
 
-Copy the files to our machine, use pgp2john
+Copy the files to our machine then use pgp2john
+
+![](../Img/Pasted%20image%2020260323193522.png)
+
+Now use john to crack it
+
+![](../Img/Pasted%20image%2020260323193549.png)
+
