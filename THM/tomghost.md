@@ -47,3 +47,4 @@ Find the flag
 
 Now we need to privesc in the user directory we found a .pgp file, so i assume that this is the route
 
+Copy the files to our machine, use pgp2john
