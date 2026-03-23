@@ -10,7 +10,7 @@ Identify recent vulnerabilities to try exploit the system or read files that you
 # Questions
 
 ## Q1: Compromise this machine and obtain user.txt
-### A: 
+### A: THM{GhostCat_1s_so_cr4sy}
 
 I started with an nmap scan 
 
@@ -32,7 +32,17 @@ This is what i got
 
 I have no idea what those are for, but since we have ssh (port 22) open, lets try them there
 
+It worked
 
+![](../Img/Pasted%20image%2020260323192649.png)
+
+Find the flag
+
+![](../Img/Pasted%20image%2020260323192740.png)
+
+---
 ## Q2: Escalate privileges and obtain root.txt
 
 ### A: 
+
+Now we need to privesc in the user directory we found a .pgp file, so i assume that 
