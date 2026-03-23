@@ -43,7 +43,7 @@ Find the flag
 ---
 ## Q2: Escalate privileges and obtain root.txt
 
-### A: 
+### A: THM{Z1P_1S_FAKE}
 
 Now we need to privesc in the user directory we found a .pgp file, so i assume that this is the route
 
@@ -65,3 +65,14 @@ Got it
 
 ![](../Img/Pasted%20image%2020260323194010.png)
 
+I use gtfo to check if i can privesc (https://gtfobins.org/gtfobins/zip/)
+
+I worked
+
+![](../Img/Pasted%20image%2020260323195102.png)
+
+Find the flag
+
+![](../Img/Pasted%20image%2020260323195135.png)
+
+Tags: [[]]
