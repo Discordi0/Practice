@@ -45,4 +45,5 @@ Find the flag
 
 ### A: 
 
-Now we need to privesc in the user directory we found a .pgp file, so i assume that 
+Now we need to privesc in the user directory we found a .pgp file, so i assume that this is the route
+
