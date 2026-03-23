@@ -55,3 +55,13 @@ Now use john to crack it
 
 ![](../Img/Pasted%20image%2020260323193549.png)
 
+Decrypt the file
+
+![](../Img/Pasted%20image%2020260323193845.png)
+
+I assume that this ones are other ssh credentials, so use them
+
+Got it
+
+![](../Img/Pasted%20image%2020260323194010.png)
+
