@@ -7,3 +7,4 @@
 + [Hospital](../HBT/Machines/Hospital.md)
 + [Mustacchio](../THM/Mustacchio.md) 
 + [Noxious](../HBT/Sherlock/Noxious.md) 
++ [tomghost](../THM/tomghost.md) 
