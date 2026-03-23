@@ -16,6 +16,8 @@ I started with an nmap scan
 
 ![](../Img/Pasted%20image%2020260323191227.png)
 
+We can see that we have some interesting ports open, i started with port 8009 bc it's the one that i have never seen
+
 
 ## Q2: Escalate privileges and obtain root.txt
 
