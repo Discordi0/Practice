@@ -75,4 +75,4 @@ Find the flag
 
 ![](../Img/Pasted%20image%2020260323195135.png)
 
-Tags: [[]]
+Tags: [Lin Privesc](../Index/Lin%20Privesc.md) [Metasploit](../Index/Metasploit.md) [Nmap](../Index/Nmap.md) [Password Cracking](../Index/Password%20Cracking.md) 
