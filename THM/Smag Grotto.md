@@ -30,9 +30,21 @@ We find this
 
 This is that page
 
+![](../Img/Pasted%20image%2020260323214908.png)
+
 This is in it's source code
 
 ![](../Img/Pasted%20image%2020260323214519.png)
+
+There is a pcap file in the page, download it and open it
+
+There is just 10 packets (?)
+
+![](../Img/Pasted%20image%2020260323214948.png)
+
+In packet 4 there is credentials in clear txt
+
+![](../Img/Pasted%20image%2020260323215025.png)
 
 
 ## Q2: What is the root flag?
