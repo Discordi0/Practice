@@ -83,6 +83,13 @@ So we need to fuzz this now
 
 ![](../Img/Pasted%20image%2020260324151410.png)
 
+We can see that cmd works so i searched for an reverse shell (https://medium.com/@sebnemK/node-js-rce-and-a-simple-reverse-shell-ctf-1b2de51c1a44)
+
+We tried it and it works
+
+![](../Img/Pasted%20image%2020260324152302.png)
+
+
 
 ## Q3: What is the content of root.txt?
 
