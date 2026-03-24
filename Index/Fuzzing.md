@@ -16,8 +16,11 @@ In this machine gobuster was used to discover multiple hidden directories and fi
 
 + [GLITCH](../THM/GLITCH.md) 
 
-Gobuster was used in this machine to discover multiple directories, files and an API endpoint for which wfuzz was used to check for valid payloads
+Gobuster was used in this machine to discover multiple directories, files and an API endpoint for which wfuzz was used to check for valid payloads.
+
 + [Hospital](../HBT/Machines/Hospital.md) 
+
+Here ffuf was used to check for hidden directories
 + [Lian_Yu](../THM/Lian_Yu.md) 
 + [Plotted-TMS](../THM/Plotted-TMS.md) 
 + [RootMe](../THM/RootMe.md) 
