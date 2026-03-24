@@ -4,7 +4,7 @@ In this machine after discovering a possible entry point a reverse shell was upl
 
 + [Hospital](../HBT/Machines/Hospital.md)
 
-After finding a valid format, a reverse shell was uploaded to get the initial foothold on the machine
+After finding a valid format, a reverse shell was uploaded to get the initial foothold on the machine.
 
 + [Plotted-TMS](../THM/Plotted-TMS.md) 
 
