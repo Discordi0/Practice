@@ -86,6 +86,8 @@ This cronjob seems interesting
 
 Seems like this is copying jake's backup key and putting it in the autorized folder
 
+So i our machine we need to generate a key pair
+
 
 ## Q2: What is the root flag?
 ### A: 
