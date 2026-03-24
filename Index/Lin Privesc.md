@@ -12,8 +12,11 @@ Linpeas was used and it discovered that the file python3.8 had the CAP_SETUID ca
 
 + [Cat Pictures 2](../THM/Cat%20Pictures%202.md) 
 
-In this machine linpeas discovered that sudo version 1.8.21p2 was beign use
+In this machine linpeas discovered that sudo version 1.8.21p2 was being used, with a cve exploit it was exploited and got root priv.
+
 + [Dreaming](../THM/Dreaming.md) 
+
+Here after enumerating it was discovered that there was
 + [Easy Peasy](../THM/Easy%20Peasy.md) 
 + [Expressway](../HBT/Machines/Expressway.md) 
 + [Fowsniff CTF](../THM/Fowsniff%20CTF.md) 
