@@ -32,9 +32,15 @@ The file that had the banner for when a user connected through ssh was editable 
 
 + [Gallery](../THM/Gallery.md) 
 
+Credentials found by linpeas where used for first scalation, then it was discovered that the user had access to a file with root priv, so gtfo bins was used to privesc to root.
 
 + [GLITCH](../THM/GLITCH.md) 
+
+Thank to linpeas a doas privesc was found.
+
 + [Lian_Yu](../THM/Lian_Yu.md) 
+
+
 + [Mustacchio](../THM/Mustacchio.md) 
 + [Plotted-TMS](../THM/Plotted-TMS.md) 
 + [Poster](../THM/Poster.md) 
