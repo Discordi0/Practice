@@ -48,6 +48,13 @@ This are the first results
 
 Now that we have "mapped" the base site, we can use the token that we got to see what changes in these pages
 
+Now on the main page we get this, the title alse changed to "sad."
+
+![](../Img/Pasted%20image%2020260324145726.png)
+
+On the bottom of the site we can  find this
+
+![](../Img/Pasted%20image%2020260324145924.png)
 
 
 ## Q2: What is the content of user.txt?
