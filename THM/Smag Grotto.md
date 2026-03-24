@@ -88,6 +88,11 @@ Seems like this is copying jake's backup key and putting it in the autorized fol
 
 So i our machine we need to generate a key pair
 
+![](../Img/Pasted%20image%2020260323221655.png)
+
+We then send our public key to the victim machine and replace jake's and wait
+
+
 
 ## Q2: What is the root flag?
 ### A: 
