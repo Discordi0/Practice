@@ -73,7 +73,7 @@ I just realized that we already have the answer to this question so lets move on
 ---
 ## Q2: What is the content of user.txt?
 
-### A: 
+### A: THM{i_don't_know_why}
 
 Checking the methods as per the hint get us this
 
@@ -89,8 +89,22 @@ We tried it and it works
 
 ![](../Img/Pasted%20image%2020260324152302.png)
 
+This are the users
 
+![](../Img/Pasted%20image%2020260324152427.png)
 
+Find the flag
+
+![](../Img/Pasted%20image%2020260324152459.png)
+
+---
 ## Q3: What is the content of root.txt?
 
 ### A: 
+
+In the user directory this is what we find 
+
+![](../Img/Pasted%20image%2020260324152700.png)
+
+
+
