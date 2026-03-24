@@ -32,5 +32,9 @@ After initial compromise a id_rsa key was cracked using john.
 
 + [Noxious](../HBT/Sherlock/Noxious.md) 
 
+Here a ntlm has was cracked using hashcat.
 
 + [tomghost](../THM/tomghost.md) 
+
+A pgp file was cracked to decrypt ssh credentials.
+
