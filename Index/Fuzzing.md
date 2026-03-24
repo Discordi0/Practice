@@ -4,10 +4,19 @@ In this machine after initial enumeration ffuf was used to discover possible exp
 
 + [Blackpearl](../TCM/Blackpearl.md) 
 
-Here ffuf was used a couple of times in 
+Here ffuf was used a couple of times in directory discovery.
+
 + [Dreaming](../THM/Dreaming.md) 
+
+Here gobuster was used to check for hidden directories.
+
 + [Easy Peasy](../THM/Easy%20Peasy.md) 
+
+In this machine gobuster was used to discover multiple hidden directories and files.
+
 + [GLITCH](../THM/GLITCH.md) 
+
+
 + [Hospital](../HBT/Machines/Hospital.md) 
 + [Lian_Yu](../THM/Lian_Yu.md) 
 + [Plotted-TMS](../THM/Plotted-TMS.md) 
