@@ -100,10 +100,20 @@ Now we can search the flag
 
 ---
 ## Q2: What is the root flag?
-### A: 
+### A: uJr6zRgetaniyHVRqqL58uRasybBKz2T
 
 We check what we can do
 
 ![](../Img/Pasted%20image%2020260323222243.png)
 
-I use this to 
+I use this to try to privesc (https://gtfobins.org/gtfobins/apt-get/)
+
+It worked
+
+![](../Img/Pasted%20image%2020260323222400.png)
+
+Now find the flag
+
+![](../Img/Pasted%20image%2020260323222418.png)
+
+Tags: [Fuzzing](../Index/Fuzzing.md) 
