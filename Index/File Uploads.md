@@ -17,4 +17,7 @@ Php reverse shell upload.
 + [Strutted](../HBT/Machines/Strutted.md) 
 
 After filter bypass rever shell uploaded.
+
 + [TwoMillion](../HBT/Machines/TwoMillion.md) 
+
+After gaining an initial foothold, a cve exploit was uploaded and used.
