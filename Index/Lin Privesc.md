@@ -24,9 +24,15 @@ It was dicovered that a cronjob was running a file with root privileges, so an r
 
 + [Expressway](../HBT/Machines/Expressway.md) 
 
+With linpeas a vuln version of sudo was discovered, exploiting a cve got the root perm.
 
 + [Fowsniff CTF](../THM/Fowsniff%20CTF.md) 
+
+The file that had the banner for when a user connected through ssh was editable by a user and ran with root priv, so a reverse shell was added to it.
+
 + [Gallery](../THM/Gallery.md) 
+
+
 + [GLITCH](../THM/GLITCH.md) 
 + [Lian_Yu](../THM/Lian_Yu.md) 
 + [Mustacchio](../THM/Mustacchio.md) 
