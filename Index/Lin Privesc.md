@@ -44,9 +44,15 @@ After enumeration it was dicovered that the user could run pkexec as root, so it
 
 + [Mustacchio](../THM/Mustacchio.md) 
 
+Here a tail file was replaced and added to PATH to privesc.
 
 + [Plotted-TMS](../THM/Plotted-TMS.md) 
+
+A openssl with doas privesc pathway was discovered, it was used to create a tmp file to read the CTF root flag.
+
 + [Poster](../THM/Poster.md) 
+
+
 + [RootMe](../THM/RootMe.md) 
 + [Smag Grotto](../THM/Smag%20Grotto.md) 
 + [tomghost](../THM/tomghost.md) 
