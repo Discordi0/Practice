@@ -8,10 +8,19 @@ After getting a pgp and asc file john was used to get the passphrase of the pgp 
 
 + [Crack the hash](../THM/Crack%20the%20hash.md) 
 
-This challenge was just cracking diferent  with hashcat 
+This challenge was just cracking different hashes types with hashcat.
+
 + [Easy Peasy](../THM/Easy%20Peasy.md) 
+
+In this CTF md5hash.net was used to crack a couple of password hashes.
+
 + [Expressway](../HBT/Machines/Expressway.md) 
+
+Here ike-scan -P is used.
+
 + [Fowsniff CTF](../THM/Fowsniff%20CTF.md) 
+
+
 + [Hospital](../HBT/Machines/Hospital.md)
 + [Mustacchio](../THM/Mustacchio.md) 
 + [Noxious](../HBT/Sherlock/Noxious.md) 
