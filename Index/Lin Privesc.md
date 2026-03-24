@@ -4,8 +4,11 @@ In this machine a vulnerable version was found PHP 8.1.0, which after exploited 
 
 + [Archangel](../THM/Archangel.md) 
 
-Here linpeas was used, it discovered a vulnerable cronjob that lets us 
+Here linpeas was used, it discovered a vulnerable cronjob that lets us privesc to another user, from which it was discovered that the cp command had root permissions.
+
 + [Cap](../HBT/Machines/Cap.md)
+
+
 + [Cat Pictures 2](../THM/Cat%20Pictures%202.md) 
 + [Dreaming](../THM/Dreaming.md) 
 + [Easy Peasy](../THM/Easy%20Peasy.md) 
