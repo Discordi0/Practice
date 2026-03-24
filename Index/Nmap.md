@@ -14,6 +14,7 @@
 + [Flatline](../THM/Flatline.md) 
 + [Fowsniff CTF](../THM/Fowsniff%20CTF.md) 
 + [Gallery](../THM/Gallery.md) 
++ [GLITCH](../THM/GLITCH.md) 
 + [Hospital](../HBT/Machines/Hospital.md)
 + [Lame](../HBT/Machines/Lame.md)
 + [Lian_Yu](../THM/Lian_Yu.md) 

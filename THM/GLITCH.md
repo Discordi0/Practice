@@ -132,4 +132,4 @@ Now we need to find the flag
 
 ![](../Img/Pasted%20image%2020260324155145.png)
 
-Tags: [[]]
+Tags: [API](../Index/API.md) [Burp Suite](../Index/Burp%20Suite.md) [Fuzzing](../Index/Fuzzing.md) [Lin Privesc](../Index/Lin%20Privesc.md) [Nmap](../Index/Nmap.md) 
