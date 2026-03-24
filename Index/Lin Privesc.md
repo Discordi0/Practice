@@ -52,7 +52,10 @@ A openssl with doas privesc pathway was discovered, it was used to create a tmp 
 
 + [Poster](../THM/Poster.md) 
 
+This machine had broken perms, it had a user that could just run things as root.
 
 + [RootMe](../THM/RootMe.md) 
+
+
 + [Smag Grotto](../THM/Smag%20Grotto.md) 
 + [tomghost](../THM/tomghost.md) 
