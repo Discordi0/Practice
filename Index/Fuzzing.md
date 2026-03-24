@@ -28,6 +28,9 @@ In this CTF gobuster was used to check for directories and files.
 
 + [Plotted-TMS](../THM/Plotted-TMS.md) 
 
+Here gobuster was used to check for hidden directories and possible exposed files.
 
 + [RootMe](../THM/RootMe.md) 
+
+
 + [Smag Grotto](../THM/Smag%20Grotto.md) 
