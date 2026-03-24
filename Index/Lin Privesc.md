@@ -1,7 +1,10 @@
 + [Agent T](../THM/Agent%20T.md) 
 
-In this machine a php 8.1.0
+In this machine a vulnerable version was found PHP 8.1.0, which after exploited took us straight to root.
+
 + [Archangel](../THM/Archangel.md) 
+
+Here linpeas was used, it discovered a vulnerable cronjob that lets us 
 + [Cap](../HBT/Machines/Cap.md)
 + [Cat Pictures 2](../THM/Cat%20Pictures%202.md) 
 + [Dreaming](../THM/Dreaming.md) 
