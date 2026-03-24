@@ -12,7 +12,8 @@ After an successful XXE test payload, the tool was used to check the request and
 
 + [RootMe](../THM/RootMe.md) 
 
-Intruder was used to fuzz a file upload functionality for not backlisted php extensions
+Intruder was used to fuzz a file upload functionality for not backlisted php extensions.
 
 + [Strutted](../HBT/Machines/Strutted.md) 
 
+Here Repeater was used in conjunction with a CVE to upload a shell in a vulnerable endpoint.
