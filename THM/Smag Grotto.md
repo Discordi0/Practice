@@ -72,6 +72,12 @@ I tried different commands and nothing, so i try with a reverse shell
 
 ![](../Img/Pasted%20image%2020260323220050.png)
 
+![](../Img/Pasted%20image%2020260323220105.png)
+
+I tried to get the flag but nothing
+
+![](../Img/Pasted%20image%2020260323220223.png)
+
 
 ## Q2: What is the root flag?
 ### A: 
