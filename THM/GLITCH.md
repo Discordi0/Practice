@@ -10,6 +10,18 @@ This is a simple challenge in which you need to exploit a vulnerable web applica
 ## Q1: What is your access token?
 ### A: 
 
+We first do an nmap scan 
+
+![](../Img/Pasted%20image%2020260324144219.png)
+
+Since we have port 80 open we can check the web page
+
+We just get a pixelated image with title "not allowed"
+
+![](../Img/Pasted%20image%2020260324144318.png)
+
+
+
 ## Q2: What is the content of user.txt?
 
 ### A: 
