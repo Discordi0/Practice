@@ -20,8 +20,14 @@ Gobuster was used in this machine to discover multiple directories, files and an
 
 + [Hospital](../HBT/Machines/Hospital.md) 
 
-Here ffuf was used to check for hidden directories
+Here ffuf was used to check for hidden directories.
+
 + [Lian_Yu](../THM/Lian_Yu.md) 
+
+In this CTF gobuster was used to check for directories and files.
+
 + [Plotted-TMS](../THM/Plotted-TMS.md) 
+
+
 + [RootMe](../THM/RootMe.md) 
 + [Smag Grotto](../THM/Smag%20Grotto.md) 
