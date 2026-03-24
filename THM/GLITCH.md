@@ -75,6 +75,12 @@ I just realized that we already have the answer to this question so lets move on
 
 ### A: 
 
+Checking the methods as per the hint get us this
+
+![](../Img/Pasted%20image%2020260324150837.png)
+
+So we need to fuzz this now
+
 
 ## Q3: What is the content of root.txt?
 
