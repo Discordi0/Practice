@@ -92,7 +92,18 @@ So i our machine we need to generate a key pair
 
 We then send our public key to the victim machine and replace jake's and wait
 
+![](../Img/Pasted%20image%2020260323222117.png)
 
+Now we can search the flag
 
+![](../Img/Pasted%20image%2020260323222141.png)
+
+---
 ## Q2: What is the root flag?
 ### A: 
+
+We check what we can do
+
+![](../Img/Pasted%20image%2020260323222243.png)
+
+I use this to 
