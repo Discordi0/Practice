@@ -46,7 +46,7 @@ This are the first results
 
 ![](../Img/Pasted%20image%2020260324145110.png)
 
-Now that we have "mapped" the site, we can use the token that we got to see what changes in these pages
+Now that we have "mapped" the base site, we can use the token that we got to see what changes in these pages
 
 
 
