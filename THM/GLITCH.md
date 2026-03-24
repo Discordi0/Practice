@@ -40,6 +40,14 @@ This are the first results
 
 /secret just gets us to another page with the same image and source code
 
+![](../Img/Pasted%20image%2020260324145018.png)
+
+/Secret it's the same thing
+
+![](../Img/Pasted%20image%2020260324145110.png)
+
+Now that we have "mapped" the site, we can use the token that we got to see what changes in these pages
+
 
 
 ## Q2: What is the content of user.txt?
