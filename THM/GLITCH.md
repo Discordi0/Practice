@@ -106,5 +106,9 @@ In the user directory this is what we find
 
 ![](../Img/Pasted%20image%2020260324152700.png)
 
-Checking a little bit i 
+Checking a little bit i found these
+
+![](../Img/Pasted%20image%2020260324153403.png)
+
+
 
