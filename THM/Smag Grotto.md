@@ -50,6 +50,20 @@ And this is where that page is
 
 ![](../Img/Pasted%20image%2020260323215159.png)
 
-So we and the do
+So we and the domain and subdomain to our /etc/hosts file
+
+Then we search for the page
+
+![](../Img/Pasted%20image%2020260323215506.png)
+
+Materialize seems like some kind css library
+
+![](../Img/Pasted%20image%2020260323215614.png)
+
+admin and login take us to the same url
+
+![](../Img/Pasted%20image%2020260323215641.png)
+
+
 ## Q2: What is the root flag?
 ### A: 
