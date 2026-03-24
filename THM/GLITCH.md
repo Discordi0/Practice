@@ -100,7 +100,7 @@ Find the flag
 ---
 ## Q3: What is the content of root.txt?
 
-### A: 
+### A: THM{diamonds_break_our_aching_minds}
 
 In the user directory this is what we find 
 
@@ -120,4 +120,16 @@ Wit this credentials we can become the user v0id
 
 I searched the user directory and found nothing, sudo -l didn't work, nothing on cromjobs so i got linpeas into the machine
 
+This is what it found
 
+![](../Img/Pasted%20image%2020260324154941.png)
+
+Checked gtfo and tried it (https://gtfobins.org/gtfobins/doas/)
+
+![](../Img/Pasted%20image%2020260324155117.png)
+
+Now we need to find the flag
+
+![](../Img/Pasted%20image%2020260324155145.png)
+
+Tags: [[]]
