@@ -56,6 +56,12 @@ This machine had broken perms, it had a user that could just run things as root.
 
 + [RootMe](../THM/RootMe.md) 
 
+Here a python root permission was used to privesc.
 
 + [Smag Grotto](../THM/Smag%20Grotto.md) 
+
+It was discovered that apt-get could be run from the user with root.
+
 + [tomghost](../THM/tomghost.md) 
+
+Here zip was used with a pyload from gtfobins to privesc to root.
