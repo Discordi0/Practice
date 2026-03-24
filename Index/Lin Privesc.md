@@ -16,9 +16,15 @@ In this machine linpeas discovered that sudo version 1.8.21p2 was being used, wi
 
 + [Dreaming](../THM/Dreaming.md) 
 
-Here after enumerating it was discovered that there was
+Here after enumerating it was discovered that there was file that when executed would run another file with root privileges, so it was replaced with a reverse shell to get root.
+
 + [Easy Peasy](../THM/Easy%20Peasy.md) 
+
+It was dicovered that a cronjob was running a file with root privileges, so an reverse shell was added to get those permissions.
+
 + [Expressway](../HBT/Machines/Expressway.md) 
+
+
 + [Fowsniff CTF](../THM/Fowsniff%20CTF.md) 
 + [Gallery](../THM/Gallery.md) 
 + [GLITCH](../THM/GLITCH.md) 
