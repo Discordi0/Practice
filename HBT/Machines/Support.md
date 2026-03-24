@@ -23,7 +23,7 @@ ___
 
 #### A: support-tools
 
-The support share doesn't seem like standar with smb.
+The support share doesn't seem like standard with smb.
 
 ![](../../Img/Pasted%20image%2020250430142412.png)
 
