@@ -1,5 +1,10 @@
 + [GLITCH](../THM/GLITCH.md) 
+
+In this machine Repeater was used to check for a vulnerable endpoint, after that a POST request was crafted and sended to get a reverse shell.
+
 + [Hospital](../HBT/Machines/Hospital.md)
+
+
 + [Mustacchio](../THM/Mustacchio.md) 
 + [RootMe](../THM/RootMe.md) 
 + [Strutted](../HBT/Machines/Strutted.md) 

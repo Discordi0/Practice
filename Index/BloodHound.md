@@ -4,4 +4,4 @@ In this machine the tool was used to understand how the users and permission whe
 
 + [Support](../HBT/Machines/Support.md) 
 
-After gaining an initial foothold into the machine, the tool was used to check a vulnerable acc, dicovering GenericAll permission.
+After gaining an initial foothold into the machine, the tool was used to check a vulnerable acc, discovering GenericAll permission.
