@@ -8,7 +8,7 @@ This is a simple challenge in which you need to exploit a vulnerable web applica
 # Questions
 
 ## Q1: What is your access token?
-### A: 
+### A: this_is_not_real
 
 We first do an nmap scan 
 
@@ -68,10 +68,14 @@ That url take us here
 
 ![](../Img/Pasted%20image%2020260324150043.png)
 
+I just realized that we already have the answer to this question so lets move on
 
+---
 ## Q2: What is the content of user.txt?
 
 ### A: 
+
+
 ## Q3: What is the content of root.txt?
 
 ### A: 
