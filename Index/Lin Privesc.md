@@ -40,8 +40,11 @@ Thank to linpeas a doas privesc was found.
 
 + [Lian_Yu](../THM/Lian_Yu.md) 
 
+After enumeration it was dicovered that the user could run pkexec as root, so it was used to read the CTF root flag.
 
 + [Mustacchio](../THM/Mustacchio.md) 
+
+
 + [Plotted-TMS](../THM/Plotted-TMS.md) 
 + [Poster](../THM/Poster.md) 
 + [RootMe](../THM/RootMe.md) 
