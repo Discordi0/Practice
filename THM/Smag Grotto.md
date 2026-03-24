@@ -46,6 +46,10 @@ In packet 4 there is credentials in clear txt
 
 ![](../Img/Pasted%20image%2020260323215025.png)
 
+And this is where that page is
 
+![](../Img/Pasted%20image%2020260323215159.png)
+
+So we and the do
 ## Q2: What is the root flag?
 ### A: 
