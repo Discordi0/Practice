@@ -56,6 +56,18 @@ On the bottom of the site we can  find this
 
 ![](../Img/Pasted%20image%2020260324145924.png)
 
+That url take us here
+
+![](../Img/Pasted%20image%2020260324150002.png)
+
+/api/items is this
+
+![](../Img/Pasted%20image%2020260324150117.png)
+
+/secrets and /Secrets changed to this
+
+![](../Img/Pasted%20image%2020260324150043.png)
+
 
 ## Q2: What is the content of user.txt?
 
