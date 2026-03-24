@@ -81,6 +81,8 @@ Checking the methods as per the hint get us this
 
 So we need to fuzz this now
 
+![](../Img/Pasted%20image%2020260324151410.png)
+
 
 ## Q3: What is the content of root.txt?
 
