@@ -78,6 +78,6 @@ I tried to get the flag but nothing
 
 ![](../Img/Pasted%20image%2020260323220223.png)
 
-
+With no more ide
 ## Q2: What is the root flag?
 ### A: 
