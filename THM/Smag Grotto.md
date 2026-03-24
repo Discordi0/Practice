@@ -84,6 +84,8 @@ This cronjob seems interesting
 
 ![](../Img/Pasted%20image%2020260323220938.png)
 
-Seems like this is copying 
+Seems like this is copying jake's backup key and putting it in the autorized folder
+
+
 ## Q2: What is the root flag?
 ### A: 
