@@ -8,3 +8,4 @@ After having credentials it was used to connect to the system to further enumera
 
 + [Support](../HBT/Machines/Support.md) 
 
+The tool was used to establish a connection to the vulnerable machine, after that it was used to get bloodhound and Rubeus into the machine as well.
