@@ -20,6 +20,18 @@ We just get a pixelated image with title "not allowed"
 
 ![](../Img/Pasted%20image%2020260324144318.png)
 
+In the source code we find this directories
+
+![](../Img/Pasted%20image%2020260324144445.png)
+
+If we go to /api/access we get this json formated string(?)
+
+![](../Img/Pasted%20image%2020260324144545.png)
+
+That seems base64 enconded so we go to decode it (https://cyberchef.org/)
+
+![](../Img/Pasted%20image%2020260324144625.png)
+
 
 
 ## Q2: What is the content of user.txt?
