@@ -4,4 +4,4 @@ In this machine a LFI vulnerability was found in the endpoint of a web page, whe
 
 + [Mustacchio](../THM/Mustacchio.md) 
 
-
+Here we use the vulnerability with XXE to exilftrate an id_rsa key from a user.
