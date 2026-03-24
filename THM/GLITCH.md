@@ -118,4 +118,6 @@ Wit this credentials we can become the user v0id
 
 ![](../Img/Pasted%20image%2020260324154206.png)
 
-I searched the user
+I searched the user directory and found nothing, sudo -l didn't work, nothing on cromjobs so i got linpeas into the machine
+
+
