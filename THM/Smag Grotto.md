@@ -64,6 +64,14 @@ admin and login take us to the same url
 
 ![](../Img/Pasted%20image%2020260323215641.png)
 
+We enter the credentials and get this
+
+![](../Img/Pasted%20image%2020260323215753.png)
+
+I tried different commands and nothing, so i try with a reverse shell
+
+![](../Img/Pasted%20image%2020260323220050.png)
+
 
 ## Q2: What is the root flag?
 ### A: 
