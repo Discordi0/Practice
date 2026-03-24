@@ -32,6 +32,14 @@ That seems base64 enconded so we go to decode it (https://cyberchef.org/)
 
 ![](../Img/Pasted%20image%2020260324144625.png)
 
+With no much to go on i started a gobuster dir fuzzing(?)
+
+This are the first results
+
+![](../Img/Pasted%20image%2020260324144912.png)
+
+/secret just gets us to another page with the same image and source code
+
 
 
 ## Q2: What is the content of user.txt?
