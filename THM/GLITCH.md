@@ -110,5 +110,7 @@ Checking a little bit i found these
 
 ![](../Img/Pasted%20image%2020260324153403.png)
 
+So i get this files to my machine, then with this tools (https://github.com/unode/firefox_decrypt) i decrypt them
+
 
 
