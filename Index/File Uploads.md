@@ -8,7 +8,13 @@ After finding a valid format, a reverse shell was uploaded to get the initial fo
 
 + [Plotted-TMS](../THM/Plotted-TMS.md) 
 
+Here a php reverse shell was uploaded after finding a vulnerable endpoint.
 
 + [RootMe](../THM/RootMe.md) 
+
+Php reverse shell upload.
+
 + [Strutted](../HBT/Machines/Strutted.md) 
+
+After filter bypass rever shell uploaded.
 + [TwoMillion](../HBT/Machines/TwoMillion.md) 
