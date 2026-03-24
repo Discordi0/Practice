@@ -12,6 +12,12 @@ Vsftpd exploit used.
 
 + [Poster](../THM/Poster.md) 
 
-Here filters are used to search for specific modules, a couple of posgresql mu
+Here filters are used to search for specific modules, a couple of posgresql modules are used too.
+
 + [Source](../THM/Source.md) 
+
+Webmin exploit module was used to get straight to root.
+
 + [tomghost](../THM/tomghost.md) 
+
+Ajp module was used to read a file where credentials where wrongly left behind.
