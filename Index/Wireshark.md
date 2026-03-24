@@ -4,4 +4,5 @@
 + [Origins](../HBT/Sherlock/Origins.md)
 + [Pikaptcha](../HBT/Sherlock/Pikaptcha.md)
 + [Reaper](../HBT/Sherlock/Reaper.md)
++ [Smag Grotto](../THM/Smag%20Grotto.md) 
 + [Takedown](../HBT/Sherlock/Takedown.md) 
