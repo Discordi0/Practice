@@ -112,5 +112,10 @@ Checking a little bit i found these
 
 So i get this files to my machine, then with this tools (https://github.com/unode/firefox_decrypt) i decrypt them
 
+![](../Img/Pasted%20image%2020260324154005.png)
+
+Wit this credentials we can become the user v0id
+
+![](../Img/Pasted%20image%2020260324154206.png)
 
 
