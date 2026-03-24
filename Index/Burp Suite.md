@@ -8,6 +8,9 @@ Here Repeater and Intruder where used to first check the request / response beha
 
 + [Mustacchio](../THM/Mustacchio.md) 
 
-After 
+After an successful XXE test payload, the tool was used to check the request and then get the correct format of the file being exfiltrated.
+
 + [RootMe](../THM/RootMe.md) 
+
+Intruder was used to fuzz
 + [Strutted](../HBT/Machines/Strutted.md) 
