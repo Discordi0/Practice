@@ -86,7 +86,7 @@ This cronjob seems interesting
 
 Seems like this is copying jake's backup key and putting it in the autorized folder
 
-So i our machine we need to generate a key pair
+So in our machine we need to generate a key pair
 
 ![](../Img/Pasted%20image%2020260323221655.png)
 
