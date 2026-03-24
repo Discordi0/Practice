@@ -25,5 +25,7 @@ Nothing on it's source code
 Since there is nothing to do i use gobuster to check for more directories
 
 
+
+![](../Img/Pasted%20image%2020260323214519.png)
 ## Q2: What is the root flag?
 ### A: 
