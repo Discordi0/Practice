@@ -32,5 +32,8 @@ Here gobuster was used to check for hidden directories and possible exposed file
 
 + [RootMe](../THM/RootMe.md) 
 
+Gobuster was used to check for hidden directories.
 
 + [Smag Grotto](../THM/Smag%20Grotto.md) 
+
+In this machine gobuster was used to check for directories.
