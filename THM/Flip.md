@@ -43,3 +43,6 @@ And in the decryption side its looking for those credentials.
 
 After a lot of reading i kinda got the idea.
 
+If i give the script something similiar as what it is specting (fdmin instead of admin, as per the source code) and everything else as it should be. It would give me a encrypted cypher text
+
+![](../Img/Pasted%20image%2020260325010358.png)
