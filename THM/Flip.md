@@ -71,4 +71,6 @@ We could infer that this is the structure of the cypher text
 
 `25da7b78323bae0589556de929777e23`
 
-Now in this wa
+Now in this ways it's easier to understand
+
+What matter to us here it's that CBC will use the previous block to 
