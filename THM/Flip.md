@@ -75,4 +75,12 @@ Now in this ways it's easier to understand
 
 What matter to us here it's that CBC will use the previous block to decrypt the current one through XOR
 
-Now if the script is expecting "admin" instead of "fdmin" we would need to use the first 
+Now if the script is expecting "admin" instead of "fdmin" we would need to use the first letter
+
+We know that 30 it's been used to get 47, so we can say that
+
+30 xor 47 = d
+
+30 being the first letter of block1, 47 being the first letter of block2, and d being the letter that we know it's there bc we sended it in "ddmin"
+
+
