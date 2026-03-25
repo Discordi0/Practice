@@ -83,25 +83,25 @@ _30 xor (47) = f_
 
 30 being the first letter of block1, 47 being the first letter of block2, and f being the letter that we know it's there bc we sended it in "fdmin" (f it's converted to 66 bc "f" it's 66 in hex and in hex this thing works)
 
-30 xor (47) = 66
+_30 xor (47) = 66_
 
 So if we move 66 to xor
 
-30 xor 66 = 56
+_30 xor 66 = 56_
 
-30 xor 56 = 66
+_30 xor 56 = 66_
 
 This check out
 
 Now we need to convert "f" to "a" (61 its a's hex)
 
-x? xor 56 = 61
+_x? xor 56 = 61_
 
-56 xor 61 = 37
+_56 xor 61 = 37_
 
 So to get "a" out of our "f" we need to change "30" to "37" bc
 
-56 xor 37 = 61
+_56 xor 37 = 61_
 
 56 being the first result we got when trying to figure out the "secret" that the script uses to encrypt our "f" aka "66"
 
