@@ -93,6 +93,12 @@ So if we move 66 to xor
 
 This check out
 
-Now we need to convert f t
+Now we need to convert "f" to "a" (61 it's hex)
+
+x? xor 56 = 61
+
+56 xor 61 = 37
+
+So to get "a" out of our "f" we need to change "30" to "37"
 
 
