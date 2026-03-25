@@ -49,6 +49,20 @@ If i give the script something similiar as what it is specting (fdmin instead of
 
 Now i can take this code and separate it in blocks (as per AES encryption)
 
+Here we can see how the code is structured
+
+![](../Img/Pasted%20image%2020260325010715.png)
+
+So we could assume that our cypher text is like this
+
+`access_username=fdmin&password=sUp3rPaSs1`
+
+As per AES encryption we separate in blocks of 16 (A)
+
+`access_username=`
+`fdmin&password=s`
+`Up3rPaSs1#######`
+
 
 
 304a8537b8b38dc8e87ca80126ac0bbf47997cb18726f313c232b21b4b71773625da7b78323bae0589556de929777e23
