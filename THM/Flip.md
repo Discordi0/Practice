@@ -35,4 +35,7 @@ So here it should be the key to this challenge
 
 ![](../Img/Pasted%20image%2020260325000509.png)
 
-My knowledge in encryption is literally 0, but as i understand this
+My knowledge in encryption is literally 0, but as i understand this there is a encryption and decryption of a message in CBC.
+
+And in the decryption side its looking for those credentials.
+
