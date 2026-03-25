@@ -57,12 +57,18 @@ So we could assume that our cypher text is like this
 
 `access_username=fdmin&password=sUp3rPaSs1`
 
-As per AES encryption we separate in blocks of 16 (A)
+As per AES encryption we separate in blocks of 16 (as last block isn't 16 in lenght random is added)
 
 `access_username=`
 `fdmin&password=s`
 `Up3rPaSs1#######`
 
+We could infer that this is the structure of the cypher text
 
+`304a8537b8b38dc8e87ca80126ac0bbf`
 
-304a8537b8b38dc8e87ca80126ac0bbf47997cb18726f313c232b21b4b71773625da7b78323bae0589556de929777e23
+`47997cb18726f313c232b21b4b717736`
+
+`25da7b78323bae0589556de929777e23`
+
+Now in this wa
