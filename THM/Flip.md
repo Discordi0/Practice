@@ -46,3 +46,9 @@ After a lot of reading i kinda got the idea.
 If i give the script something similiar as what it is specting (fdmin instead of admin, as per the source code) and everything else as it should be. It would give me a encrypted cypher text
 
 ![](../Img/Pasted%20image%2020260325010358.png)
+
+Now i can take this code and separate it in blocks (as per AES encryption)
+
+
+
+304a8537b8b38dc8e87ca80126ac0bbf47997cb18726f313c232b21b4b71773625da7b78323bae0589556de929777e23
