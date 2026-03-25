@@ -20,4 +20,4 @@ SQLi adjacent, an Metasploit module was used to enter payloads and extract info.
 
 + [Source](../THM/Source.md) 
 
-Login form suceptible to payload bypass, but no
+Login form suceptible to payload bypass, but no valid payload was utilized. (went different route)
