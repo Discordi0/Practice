@@ -37,6 +37,7 @@ This is where are stored the notes of the machines/challenges that i complete.
 + [API](Index/API.md)
 + [BloodHound](Index/BloodHound.md)
 + [Burp Suite](Index/Burp%20Suite.md)
++ [Decryption](Index/Decryption.md) 
 + [Evil-Winrm](Index/Evil-Winrm.md)
 + [Fuzzing](Index/Fuzzing.md)
 + [File Uploads](Index/File%20Uploads.md)

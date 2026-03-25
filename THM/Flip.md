@@ -109,10 +109,12 @@ So to get "a" out of our "f" we need to change "30" to "37" bc
 
 And we can see that the result from both it' 61 which it's "a"
 
+So we try our result and magically it works
+
 ![](../Img/Pasted%20image%2020260325014725.png)
 
-It worked
 
+Tags: [Decryption](../Index/Decryption.md) 
 
 
 
