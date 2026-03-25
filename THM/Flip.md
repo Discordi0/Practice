@@ -43,4 +43,4 @@ And in the decryption side its looking for those credentials.
 
 After a lot of reading i kinda got the idea
 
-The attack (bit flipping) 
+The attack (bit flipping) works by changing 
