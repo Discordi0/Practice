@@ -73,4 +73,6 @@ We could infer that this is the structure of the cypher text
 
 Now in this ways it's easier to understand
 
-What matter to us here it's that CBC will use the previous block to 
+What matter to us here it's that CBC will use the previous block to decrypt the current one through XOR
+
+Now if the script is expecting "admin" instead of "fdmin" we would need to use the first 
