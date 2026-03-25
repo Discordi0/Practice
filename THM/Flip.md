@@ -101,7 +101,7 @@ _56 xor 61 = 37_
 
 So to get "a" out of our "f" we need to change "30" to "37" bc
 
-_56 xor 37 = 61_
+**_56 xor 37 = 61_**
 
 56 being the first result we got when trying to figure out the "secret" that the script uses to encrypt our "f" aka "66"
 
