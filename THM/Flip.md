@@ -103,7 +103,11 @@ So to get "a" out of our "f" we need to change "30" to "37" bc
 
 56 xor 37 = 61
 
-56 being the first result we got when trying to figure out the "secret" that the script 
+56 being the first result we got when trying to figure out the "secret" that the script uses to encrypt our "f" aka "66"
+
+37 being te result of the secret "56" and our "a" aka "61" which it's the letter that we want as a result
+
+And we can see that the result from both it' 61 which it's "a"
 
 ![](../Img/Pasted%20image%2020260325014725.png)
 
