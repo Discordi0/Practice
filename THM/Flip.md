@@ -99,7 +99,11 @@ x? xor 56 = 61
 
 56 xor 61 = 37
 
-So to get "a" out of our "f" we need to change "30" to "37"
+So to get "a" out of our "f" we need to change "30" to "37" bc
+
+56 xor 37 = 61
+
+56 being the first result we got when trying to figure out the "secret" that the script 
 
 ![](../Img/Pasted%20image%2020260325014725.png)
 
