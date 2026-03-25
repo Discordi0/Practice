@@ -79,25 +79,25 @@ Now if the script is expecting "admin" instead of "fdmin" we would need to use t
 
 We know that 30 it's been used to get 47, so we can say that
 
-_30 xor (47) = f_
+**_30 xor (47) = f_**
 
 30 being the first letter of block1, 47 being the first letter of block2, and f being the letter that we know it's there bc we sended it in "fdmin" (f it's converted to 66 bc "f" it's 66 in hex and in hex this thing works)
 
-_30 xor (47) = 66_
+**_30 xor (47) = 66_**
 
 So if we move 66 to xor
 
-_30 xor 66 = 56_
+**_30 xor 66 = 56_**
 
-_30 xor 56 = 66_
+**_30 xor 56 = 66_**
 
 This check out
 
 Now we need to convert "f" to "a" (61 its a's hex)
 
-_x? xor 56 = 61_
+**_x? xor 56 = 61_**
 
-_56 xor 61 = 37_
+**_56 xor 61 = 37_**
 
 So to get "a" out of our "f" we need to change "30" to "37" bc
 
