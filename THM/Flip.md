@@ -11,7 +11,7 @@ The server is listening on port 1337 via TCP . You can connect to it using Netca
 # Questions
 
 ## Q1: What is the flag?
-### A: 
+### A: THM{FliP_DaT_B1t_oR_G3t_Fl1pP3d}
 
 The attached file it's a python file
 
@@ -93,12 +93,18 @@ So if we move 66 to xor
 
 This check out
 
-Now we need to convert "f" to "a" (61 it's hex)
+Now we need to convert "f" to "a" (61 its a's hex)
 
 x? xor 56 = 61
 
 56 xor 61 = 37
 
 So to get "a" out of our "f" we need to change "30" to "37"
+
+![](../Img/Pasted%20image%2020260325014725.png)
+
+It worked
+
+
 
 
