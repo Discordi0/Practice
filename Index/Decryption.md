@@ -1,3 +1,3 @@
 + [Flip](../THM/Flip.md)
 
-This CTF consis
+In this CTF there is an AES CBC encryption / decryption script, it was vulnerable to a bit flipping attack.
