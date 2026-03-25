@@ -39,3 +39,8 @@ My knowledge in encryption is literally 0, but as i understand this there is a e
 
 And in the decryption side its looking for those credentials.
 
+# Explanation
+
+After a lot of reading i kinda got the idea
+
+The attack (bit flipping) 
