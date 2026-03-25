@@ -4,3 +4,4 @@ A file was found that contained a password, this file was accesible to the compr
 
 + [Flatline](../THM/Flatline.md) 
 
+Winpeas was used, after discovering that the compromised user was part of the admins group, a command was used to take ownership of the flag files.
