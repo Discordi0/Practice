@@ -19,4 +19,11 @@ But we can see that the page with the credentials redirects after getting the co
 
 ![](../Img/Pasted%20image%2020260326183723.png)
 
-If we modify the cookie we got, we can see that we get an error (the )
+If we modify the cookie we got, we can see that we get an error (the length changes)
+
+![](../Img/Pasted%20image%2020260326183842.png)
+
+But if we try a sqli payload in the cookie we can see that it works
+
+![](../Img/Pasted%20image%2020260326183955.png)
+
