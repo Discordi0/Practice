@@ -10,6 +10,16 @@ You were boasting on and on about your elite hacker skills in the bar and a few 
 ## Q1: Who wrote the task list?
 ### A: 
 
+We do an nmap scan
+
+On the main web page we can find this
+
+![](../Img/Pasted%20image%2020260325233705.png)
+
+We have 1 directory
+
+![](../Img/Pasted%20image%2020260325233740.png)
+
 
 
 ## Q2: What service can you bruteforce with the text file found?
