@@ -20,6 +20,18 @@ We have 1 directory
 
 ![](../Img/Pasted%20image%2020260325233740.png)
 
+With no more much to do i opened a gobuster dir scan
+
+![](../Img/Pasted%20image%2020260325234023.png)
+
+In /images we just have the image of the main page
+
+![](../Img/Pasted%20image%2020260325233932.png)
+
+In /javascript we don't have permissions
+
+![](../Img/Pasted%20image%2020260325233954.png)
+
 
 
 ## Q2: What service can you bruteforce with the text file found?
