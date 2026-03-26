@@ -8,9 +8,11 @@ You were boasting on and on about your elite hacker skills in the bar and a few 
 # Questions
 
 ## Q1: Who wrote the task list?
-### A: 
+### A: lin
 
 We do an nmap scan
+
+![](../Img/Pasted%20image%2020260325234444.png)
 
 On the main web page we can find this
 
@@ -44,13 +46,20 @@ task.txt
 
 ![](../Img/Pasted%20image%2020260325234348.png)
 
-
-
+---
 ## Q2: What service can you bruteforce with the text file found?
-### A: 
+### A: ssh
 
+
+Well, sisnce the only other service that nmap got on the machine ssh, that one would have to be
+
+---
 ## Q3: What is the users password?
 ### A:
+
+We will have to bruteforce ssh
+
+
 
 ## Q4: user.txt
 ### A: 
