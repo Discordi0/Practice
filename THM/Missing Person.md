@@ -32,16 +32,37 @@ For circuit in the question i assume that it's talking about the motorcycle one,
 
 ---
 ## Q2: When did the event take place?
-### A: 
+### A: 03-05/10/2025
 
 Exiftool says that the picture it's from 2025 so i searched for something in that year
 
+Reading the wiki page i found this (https://en.wikipedia.org/wiki/Mandalika_International_Street_Circuit#Events)
 
+![](../Img/Pasted%20image%2020260326002115.png)
+
+That link took me here (https://en.wikipedia.org/wiki/2025_Indonesian_motorcycle_Grand_Prix)
+
+![](../Img/Pasted%20image%2020260326002142.png)
+
+There it says 04-05 but that it's not the answer
+
+So i kept reading and the went to the source
+
+![](../Img/Pasted%20image%2020260326002235.png)
+
+Found it (https://www.motogp.com/en/calendar/2025/event/indonesia/c4def1f2-c288-4eab-9461-7acda49e765a?tab=overview)
 
 ![](../Img/Pasted%20image%2020260326002046.png)
 
+---
 ## Q3: He told me he ate delicious Mexican food. What is the name of the restaurant?
-### A: 
+### A: **Cantina Mexicana
+
+We just google search the image
+
+![](../Img/Pasted%20image%2020260326002346.png)
+
+
 ## Q4: At what time was this photo taken?
 ### A: 
 ## Q5: What is the full address of the bar’s location?
