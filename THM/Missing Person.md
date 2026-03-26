@@ -76,10 +76,28 @@ He sent me a message, this is the last I heard from him: ”Went to this cool Mo
 
 According to the context provided we should look for a party after the moto gp
 
+![](../Img/Pasted%20image%2020260326003041.png)
 
+That took me to it's Instagram page
+
+![](../Img/Pasted%20image%2020260326003100.png)
+
+Then we check the maps link
+
+![](../Img/Pasted%20image%2020260326003124.png)
+
+--- 
 ## Q6: What is the DJ's stage name?
-### A: 
+### A: bong leleh
+
+In the same Instagram post it's this
+
+![](../Img/Pasted%20image%2020260326003247.png)
+
+---
 ## Q7: After digging into the DJ's other online accounts, what cave does he take tourists to?
 ### A: 
+
+
 ## Q8: What number did the DJ list for his tour business?
 ### A: 
