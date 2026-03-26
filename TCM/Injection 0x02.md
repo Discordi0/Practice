@@ -27,3 +27,4 @@ But if we try a sqli payload in the cookie we can see that it works
 
 ![](../Img/Pasted%20image%2020260326183955.png)
 
+Now that we now 
