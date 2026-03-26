@@ -27,4 +27,15 @@ But if we try a sqli payload in the cookie we can see that it works
 
 ![](../Img/Pasted%20image%2020260326183955.png)
 
-Now that we now 
+Now that we know that this works, we can begin to extract info from the DB
+
+![](../Img/Pasted%20image%2020260326184528.png)
+
+What this payload its doing it using substring() to compare the first character from the info we selected (select version()), to what we think it might be ('7')
+
+As we saw it didn't work, so we try with other number
+
+![](../Img/Pasted%20image%2020260326184731.png)
+
+Now we know that the first number of the mysql version is 8
+
