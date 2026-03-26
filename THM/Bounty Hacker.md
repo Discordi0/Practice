@@ -55,11 +55,13 @@ Well, sisnce the only other service that nmap got on the machine ssh, that one w
 
 ---
 ## Q3: What is the users password?
-### A:
+### A: RedDr4gonSynd1cat3
 
 We will have to bruteforce ssh
 
+I use hydra for this task
 
+![](../Img/Pasted%20image%2020260325235251.png)
 
 ## Q4: user.txt
 ### A: 
