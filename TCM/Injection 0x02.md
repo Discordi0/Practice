@@ -39,3 +39,7 @@ As we saw it didn't work, so we try with other number
 
 Now we know that the first number of the mysql version is 8
 
+We can keep searching for the complete version
+
+![](../Img/Pasted%20image%2020260326185029.png)
+
