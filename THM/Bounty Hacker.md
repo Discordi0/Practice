@@ -63,8 +63,24 @@ I use hydra for this task
 
 ![](../Img/Pasted%20image%2020260325235251.png)
 
+---
 ## Q4: user.txt
-### A: 
+### A: THM{CR1M3_SyNd1C4T3}
 
+Now we can connect with ssh
+
+![](../Img/Pasted%20image%2020260325235416.png)
+
+Find the flag
+
+![](../Img/Pasted%20image%2020260325235439.png)
+
+---
 ## Q5: root.txt
 ### A: 
+
+Checking how to privesc i found this
+
+![](../Img/Pasted%20image%2020260325235543.png)
+
+
