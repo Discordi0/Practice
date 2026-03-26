@@ -56,17 +56,23 @@ Found it (https://www.motogp.com/en/calendar/2025/event/indonesia/c4def1f2-c288-
 
 ---
 ## Q3: He told me he ate delicious Mexican food. What is the name of the restaurant?
-### A: **Cantina Mexicana
+### A: Cantina Mexicana
 
 We just google search the image
 
 ![](../Img/Pasted%20image%2020260326002346.png)
 
-
+---
 ## Q4: At what time was this photo taken?
-### A: 
+### A: 19:55:30 
+
+Just look at exiftool output
+
+---
 ## Q5: What is the full address of the bar’s location?
 ### A: 
+
+
 ## Q6: What is the DJ's stage name?
 ### A: 
 ## Q7: After digging into the DJ's other online accounts, what cave does he take tourists to?
