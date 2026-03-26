@@ -91,4 +91,4 @@ Now find the flag
 
 ![](../Img/Pasted%20image%2020260325235739.png)
 
-Tags: [[]]
+Tags: [Brute Force](../Index/Brute%20Force.md) [Fuzzing](../Index/Fuzzing.md) [Lin Privesc](../Index/Lin%20Privesc.md) [Nmap](../Index/Nmap.md) 
