@@ -77,10 +77,18 @@ Find the flag
 
 ---
 ## Q5: root.txt
-### A: 
+### A: THM{80UN7Y_h4cK3r}
 
 Checking how to privesc i found this
 
 ![](../Img/Pasted%20image%2020260325235543.png)
 
+I used (b) payload from gtfobins (https://gtfobins.org/gtfobins/tar/)
 
+![](../Img/Pasted%20image%2020260325235709.png)
+
+Now find the flag
+
+![](../Img/Pasted%20image%2020260325235739.png)
+
+Tags: [[]]
