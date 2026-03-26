@@ -15,3 +15,10 @@ Our website is located at [https://futurevera.](https://futurevera.thm)
 
 ## Q1: What's the value of the flag?
 ### A: 
+
+First we add the domain to our /etc/hosts file
+
+If we visit the page this is what we find
+
+![](../Img/Pasted%20image%2020260326205355.png)
+
