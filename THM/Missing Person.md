@@ -126,4 +126,4 @@ After looking around for a bit i found other facebook page (https://www.facebook
 
 ![](../Img/Pasted%20image%2020260326005023.png)
 
-Tags: [[Osint]]
+Tags: [[../Index/OSINT]] 
