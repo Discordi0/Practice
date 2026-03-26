@@ -7,3 +7,7 @@ When we don't
 
 ![](../Img/Pasted%20image%2020260326175822.png)
 
+Using a common payload `admin' or 1=1#`
+
+![](../Img/Pasted%20image%2020260326175925.png)
+
