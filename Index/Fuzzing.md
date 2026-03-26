@@ -6,6 +6,10 @@ In this machine after initial enumeration ffuf was used to discover possible exp
 
 Here ffuf was used a couple of times in directory discovery.
 
++ [Bounty Hacker](../THM/Bounty%20Hacker.md) 
+
+Gobuster was used to dir fuzz a website.
+
 + [Dreaming](../THM/Dreaming.md) 
 
 Here gobuster was used to check for hidden directories.

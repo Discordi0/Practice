@@ -6,6 +6,10 @@ In this machine a vulnerable version was found PHP 8.1.0, which after exploited 
 
 Here linpeas was used, it discovered a vulnerable cronjob that lets us privesc to another user, from which it was discovered that the cp command had root permissions.
 
++ [Bounty Hacker](../THM/Bounty%20Hacker.md) 
+
+After initial user acc compromise, tar was discovered with root permission so a payload was used to privesc to root.
+
 + [Cap](../HBT/Machines/Cap.md)
 
 Linpeas was used and it discovered that the file python3.8 had the CAP_SETUID capability, which was used to privesc to root.
