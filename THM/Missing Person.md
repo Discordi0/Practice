@@ -108,7 +108,7 @@ Searching for caves there i got this
 
 ---
 ## Q8: What number did the DJ list for his tour business?
-### A: 
+### A: 085333137345
 
 I found the instagram page (https://www.instagram.com/gua.sumur.lombok/reels/)
 
@@ -122,3 +122,8 @@ And the facebook page (https://www.facebook.com/GuaSumurLombok/?utm_source=ig&ut
 
 But none had a valid number
 
+After looking around for a bit i found other facebook page (https://www.facebook.com/bongleleh/)
+
+![](../Img/Pasted%20image%2020260326005023.png)
+
+Tags: [[Osint]]
