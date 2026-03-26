@@ -8,7 +8,7 @@ Use your OSINT skills to help the police track down a missing person.
 # Questions
 
 ## Q1: What is the commercial name of this circuit?
-### A: 
+### A: Pertamina Mandalika International Street Circuit
 
 Inside the attached .zip file there were 2 .jpg images
 
@@ -24,9 +24,17 @@ MotoGp.jpg
 
 ![](../Img/Pasted%20image%2020260326001109.png)
 
+For circuit in the question i assume that it's talking about the motorcycle one, so i just reverse goolge image it
 
+![](../Img/Pasted%20image%2020260326001402.png)
+
+![](../Img/Pasted%20image%2020260326001421.png)
+
+---
 ## Q2: When did the event take place?
 ### A: 
+
+
 ## Q3: He told me he ate delicious Mexican food. What is the name of the restaurant?
 ### A: 
 ## Q4: At what time was this photo taken?
