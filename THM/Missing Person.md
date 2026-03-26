@@ -34,6 +34,11 @@ For circuit in the question i assume that it's talking about the motorcycle one,
 ## Q2: When did the event take place?
 ### A: 
 
+Exiftool says that the picture it's from 2025 so i searched for something in that year
+
+
+
+![](../Img/Pasted%20image%2020260326002046.png)
 
 ## Q3: He told me he ate delicious Mexican food. What is the name of the restaurant?
 ### A: 
