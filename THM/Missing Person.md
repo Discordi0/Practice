@@ -78,11 +78,11 @@ According to the context provided we should look for a party after the moto gp
 
 ![](../Img/Pasted%20image%2020260326003041.png)
 
-That took me to it's Instagram page
+That took me to it's Instagram page (https://www.instagram.com/surfersbar.lombok/reels/)
 
 ![](../Img/Pasted%20image%2020260326003100.png)
 
-Then we check the maps link
+Then we check the maps link (https://www.google.com/maps/place/Surfers'+Bar/@-8.8925014,116.2792002,17z/data=!3m1!4b1!4m6!3m5!1s0x2dcda9d4e81ee7ad:0x34829dd26d676607!8m2!3d-8.8925014!4d116.2792002!16s%2Fg%2F11c480pcjn?entry=ttu&g_ep=EgoyMDI2MDMyMy4xIKXMDSoASAFQAw%3D%3D)
 
 ![](../Img/Pasted%20image%2020260326003124.png)
 
@@ -90,14 +90,24 @@ Then we check the maps link
 ## Q6: What is the DJ's stage name?
 ### A: bong leleh
 
-In the same Instagram post it's this
+In the same Instagram post it's this (https://www.instagram.com/reel/DOcVqWAEznb/)
 
 ![](../Img/Pasted%20image%2020260326003247.png)
 
 ---
 ## Q7: After digging into the DJ's other online accounts, what cave does he take tourists to?
-### A: 
+### A: Gua Sumur
 
+In his profile we can see from where he is (https://www.instagram.com/bongleleh/)
 
+![](../Img/Pasted%20image%2020260326003722.png)
+
+Searching for caves there i got this
+
+![](../Img/Pasted%20image%2020260326003826.png)
+
+---
 ## Q8: What number did the DJ list for his tour business?
 ### A: 
+
+
