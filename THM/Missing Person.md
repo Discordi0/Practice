@@ -7,4 +7,25 @@ Use your OSINT skills to help the police track down a missing person.
 
 # Questions
 
-## Q1: 
+## Q1: What is the commercial name of this circuit?
+### A: 
+
+Inside the attached .zip file there were 2 .jpg images
+
+food.jpg
+
+
+## Q2: When did the event take place?
+### A: 
+## Q3: He told me he ate delicious Mexican food. What is the name of the restaurant?
+### A: 
+## Q4: At what time was this photo taken?
+### A: 
+## Q5: What is the full address of the bar’s location?
+### A: 
+## Q6: What is the DJ's stage name?
+### A: 
+## Q7: After digging into the DJ's other online accounts, what cave does he take tourists to?
+### A: 
+## Q8: What number did the DJ list for his tour business?
+### A: 
