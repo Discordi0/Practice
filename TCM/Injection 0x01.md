@@ -31,3 +31,9 @@ This works because we know what db it's running
 
 ![](../Img/Pasted%20image%2020260326181259.png)
 
+Now that we know the name of the table from this challenge we can try a new payload
+
+`jeremy' union select null,null,password from injection0x01#`
+
+![](../Img/Pasted%20image%2020260326181550.png)
+
