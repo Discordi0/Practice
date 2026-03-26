@@ -114,4 +114,11 @@ I found the instagram page (https://www.instagram.com/gua.sumur.lombok/reels/)
 
 ![](../Img/Pasted%20image%2020260326004517.png)
 
+And the facebook page (https://www.facebook.com/GuaSumurLombok/?utm_source=ig&utm_medium=social&utm_content=link_in_bio)
+
+![](../Img/Pasted%20image%2020260326004610.png)
+
+![](../Img/Pasted%20image%2020260326004631.png)
+
+But none had a valid number
 
