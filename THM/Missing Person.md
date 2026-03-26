@@ -69,8 +69,12 @@ We just google search the image
 Just look at exiftool output
 
 ---
+
+He sent me a message, this is the last I heard from him: ”Went to this cool MotoGP after party, and became friends with one of the local DJs who played that night. We’re going to visit a cave tomorrow.”
 ## Q5: What is the full address of the bar’s location?
-### A: 
+### A: Jl. Raya Kuta, Kuta, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Bar
+
+According to the context provided we should look for a party after the moto gp
 
 
 ## Q6: What is the DJ's stage name?
