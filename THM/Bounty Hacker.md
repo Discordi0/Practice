@@ -32,6 +32,18 @@ In /javascript we don't have permissions
 
 ![](../Img/Pasted%20image%2020260325233954.png)
 
+In the nmap scan we also saw that port 21 was open so we try to see if ftp allows anonynmous login
+
+![](../Img/Pasted%20image%2020260325234242.png)
+
+locks.txt
+
+![](../Img/Pasted%20image%2020260325234334.png)
+
+task.txt
+
+![](../Img/Pasted%20image%2020260325234348.png)
+
 
 
 ## Q2: What service can you bruteforce with the text file found?
