@@ -50,8 +50,22 @@ Stegcracker finally cracked the password
 
 ![](../Img/Pasted%20image%2020260326220715.png)
 
+Since we are in ssh let's just find the flag
+
 ![](../Img/Pasted%20image%2020260326221117.png)
 
-![](../Img/Pasted%20image%2020260326221145.png)
+---
 ## Q2: Root flag
-### A: 
+### A: 63a9f0ea7bb98
+
+
+Now we check how to privesc
+
+
+![](../Img/Pasted%20image%2020260326221145.png)
+
+Just check gtfobins (https://gtfobins.org/gtfobins/less/)
+
+![](../Img/Pasted%20image%2020260326221612.png)
+
+Tags: 
