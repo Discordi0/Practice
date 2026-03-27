@@ -5,6 +5,7 @@
 + [Archangel](../THM/Archangel.md) 
 + [Blackpearl](../TCM/Blackpearl.md) 
 + [Bounty Hacker](../THM/Bounty%20Hacker.md) 
++ [Brooklyn Nine Nine](../THM/Brooklyn%20Nine%20Nine.md) 
 + [Bucket](../HBT/Machines/Bucket.md)
 + [Bugged](../THM/Bugged.md) 
 + [Cap](../HBT/Machines/Cap.md)

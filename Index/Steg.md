@@ -1,3 +1,7 @@
++ [Brooklyn Nine Nine](../THM/Brooklyn%20Nine%20Nine.md) 
+
+Here steghide and stegcracker were used to get some ssh credentials.
+
 + [Easy Peasy](../THM/Easy%20Peasy.md) 
 
 Files where found that contained a password, steghide was used to extract the data.

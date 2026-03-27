@@ -12,7 +12,7 @@ After initial user acc compromise, tar was discovered with root permission so a 
 
 + [Brooklyn Nine Nine](../THM/Brooklyn%20Nine%20Nine.md) 
 
-
+Gtfobins was used after initial user compromise, when vulnerable /less was found.
 
 + [Cap](../HBT/Machines/Cap.md)
 
