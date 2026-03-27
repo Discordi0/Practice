@@ -14,7 +14,7 @@ Our website is located at [https://futurevera.](https://futurevera.thm)
 # Questions
 
 ## Q1: What's the value of the flag?
-### A: 
+### A: flag{beea0d6edfcee06a59b83fb50ae81b2f}
 
 First we add the domain to our /etc/hosts file
 
