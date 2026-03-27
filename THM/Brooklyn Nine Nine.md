@@ -10,6 +10,8 @@ This room is aimed for beginner level hackers but anyone can try to hack this bo
 
 We first do an nmap scan
 
+![](../Img/Pasted%20image%2020260326214408.png)
+
 Seeing that port 80 it's present, we check the web page
 
 ![](../Img/Pasted%20image%2020260326213635.png)
@@ -30,6 +32,6 @@ We check with steghide
 
 There seems to me something, but i don't have the passphrase
 
-
+Now that it 
 ## Q2: Root flag
 ### A: 
