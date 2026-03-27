@@ -25,3 +25,8 @@ If we visit the page this is what we find
 In sub-domain enumeration with ffuf i found this
 
 ![](../Img/Pasted%20image%2020260326212220.png)
+
+After adding the sub-domains to the hosts file i tried to access them and got the invalid certificate, only that this time there was something interesting in the certificate
+
+![](../Img/Pasted%20image%2020260326212540.png)
+
