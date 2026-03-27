@@ -46,6 +46,10 @@ The password worked on ssh
 
 ![](../Img/Pasted%20image%2020260326220442.png)
 
+Stegcracker finally cracked the password
+
+![](../Img/Pasted%20image%2020260326220715.png)
+
 
 ## Q2: Root flag
 ### A: 
