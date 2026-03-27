@@ -30,3 +30,7 @@ After adding the sub-domains to the hosts file i tried to access them and got th
 
 ![](../Img/Pasted%20image%2020260326212540.png)
 
+If we try to go to that page we get nothing, but the url is this
+
+![](../Img/Pasted%20image%2020260326212642.png)
+
