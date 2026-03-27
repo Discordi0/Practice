@@ -22,3 +22,6 @@ If we visit the page this is what we find
 
 ![](../Img/Pasted%20image%2020260326205355.png)
 
+In sub-domain enumeration with ffuf i found this
+
+![](../Img/Pasted%20image%2020260326212220.png)
