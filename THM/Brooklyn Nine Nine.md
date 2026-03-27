@@ -20,6 +20,16 @@ Not much to see on the page itself, check the source code
 
 So we need to download that image
 
+Not much to see on exiftool
+
+![](../Img/Pasted%20image%2020260326213834.png)
+
+We check with steghide
+
+![](../Img/Pasted%20image%2020260326214024.png)
+
+There seems to me something, but i don't have the passphrase
+
 
 ## Q2: Root flag
 ### A: 
