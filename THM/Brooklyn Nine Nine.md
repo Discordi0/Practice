@@ -38,6 +38,10 @@ There was a note
 
 ![](../Img/Pasted%20image%2020260326214825.png)
 
+Since i got nothing more i just used hydra on ssh
+
+![](../Img/Pasted%20image%2020260326215958.png)
+
 
 ## Q2: Root flag
 ### A: 
