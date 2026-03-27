@@ -10,6 +10,10 @@ Here linpeas was used, it discovered a vulnerable cronjob that lets us privesc t
 
 After initial user acc compromise, tar was discovered with root permission so a payload was used to privesc to root.
 
++ [Brooklyn Nine Nine](../THM/Brooklyn%20Nine%20Nine.md) 
+
+
+
 + [Cap](../HBT/Machines/Cap.md)
 
 Linpeas was used and it discovered that the file python3.8 had the CAP_SETUID capability, which was used to privesc to root.

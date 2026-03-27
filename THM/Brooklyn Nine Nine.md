@@ -56,11 +56,9 @@ Since we are in ssh let's just find the flag
 
 ---
 ## Q2: Root flag
-### A: 63a9f0ea7bb98
-
+### A: 63a9f0ea7bb98050796b649e85481845
 
 Now we check how to privesc
-
 
 ![](../Img/Pasted%20image%2020260326221145.png)
 
@@ -68,4 +66,4 @@ Just check gtfobins (https://gtfobins.org/gtfobins/less/)
 
 ![](../Img/Pasted%20image%2020260326221612.png)
 
-Tags: 
+Tags: [Brute Force](../Index/Brute%20Force.md) [FTP](../Index/FTP.md) [Lin Privesc](../Index/Lin%20Privesc.md) [Nmap](../Index/Nmap.md) [Steg](../Index/Steg.md) 
