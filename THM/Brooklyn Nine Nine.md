@@ -50,6 +50,8 @@ Stegcracker finally cracked the password
 
 ![](../Img/Pasted%20image%2020260326220715.png)
 
+![](../Img/Pasted%20image%2020260326221117.png)
 
+![](../Img/Pasted%20image%2020260326221145.png)
 ## Q2: Root flag
 ### A: 
