@@ -32,6 +32,8 @@ We check with steghide
 
 There seems to me something, but i don't have the passphrase
 
-Now that it 
+Now that it finally finished the nmap scan we can see that ftp is also present so let's check it out
+
+
 ## Q2: Root flag
 ### A: 
