@@ -41,3 +41,7 @@ Gobuster was used to check for hidden directories.
 + [Smag Grotto](../THM/Smag%20Grotto.md) 
 
 In this machine gobuster was used to check for directories.
+
++ [TakeOver](../THM/TakeOver.md)
+
+This CTF was only about sub-domain enumeration, for that ffuf was used.

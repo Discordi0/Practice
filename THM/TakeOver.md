@@ -34,3 +34,4 @@ If we try to go to that page we get nothing, but the url is this
 
 ![](../Img/Pasted%20image%2020260326212642.png)
 
+Tags: [Fuzzing](../Index/Fuzzing.md) 
