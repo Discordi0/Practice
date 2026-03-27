@@ -8,6 +8,18 @@ This room is aimed for beginner level hackers but anyone can try to hack this bo
 ## Q1: User flag
 ### A: 
 
+We first do an nmap scan
+
+Seeing that port 80 it's present, we check the web page
+
+![](../Img/Pasted%20image%2020260326213635.png)
+
+Not much to see on the page itself, check the source code
+
+![](../Img/Pasted%20image%2020260326213729.png)
+
+So we need to download that image
+
 
 ## Q2: Root flag
 ### A: 
