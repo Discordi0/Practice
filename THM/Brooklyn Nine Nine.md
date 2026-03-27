@@ -42,6 +42,10 @@ Since i got nothing more i just used hydra on ssh
 
 ![](../Img/Pasted%20image%2020260326215958.png)
 
+The password worked on ssh
+
+![](../Img/Pasted%20image%2020260326220442.png)
+
 
 ## Q2: Root flag
 ### A: 
