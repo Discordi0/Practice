@@ -25,3 +25,11 @@ It works on our session
 
 ![](../Img/Pasted%20image%2020260328163749.png)
 
+If we refresh the page on the other session we can see that it works to
+
+![](../Img/Pasted%20image%2020260328163817.png)
+
+Btw this is what my session looks like
+
+![](../Img/Pasted%20image%2020260328163846.png)
+
