@@ -11,3 +11,7 @@ We can see that this is DOM xss bc when we add items to the list, no new request
 
 ![](../Img/Pasted%20image%2020260328162126.png)
 
+Now if we try this payload `<img src=x onerror="prompt(1)">`. We can see that it works
+
+![](../Img/Pasted%20image%2020260328162342.png)
+
